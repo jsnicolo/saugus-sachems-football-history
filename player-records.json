@@ -1,0 +1,2242 @@
+{
+  "honors": [
+    {
+      "name": "Koby Jette",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 2025,
+      "publisher": "Lynn Item",
+      "row": 3
+    },
+    {
+      "name": "Art Spinney",
+      "position": "OL",
+      "schoolClass": "Globe's All Time Team",
+      "year": 2023,
+      "publisher": "Boston Globe",
+      "row": 3
+    },
+    {
+      "name": "Doug Mackie",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "All-American",
+      "row": 3,
+      "publication": "Parade All-American\nBlue Chip Magazine"
+    },
+    {
+      "name": "Cody Munafo",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2024,
+      "publisher": "Lynn Item",
+      "row": 4
+    },
+    {
+      "name": "LJ McKanas",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1996,
+      "publisher": "Boston Globe",
+      "row": 4
+    },
+    {
+      "name": "Brandon Faiella**",
+      "position": "LB/DPOY",
+      "schoolClass": "Sr",
+      "year": 2023,
+      "publisher": "Lynn Item",
+      "row": 5
+    },
+    {
+      "name": "Dan Schena",
+      "position": "",
+      "schoolClass": "Sr",
+      "year": 1990,
+      "publisher": "Boston Globe",
+      "row": 5
+    },
+    {
+      "name": "Tommy DeSimmone",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2023,
+      "publisher": "Lynn Item",
+      "row": 6
+    },
+    {
+      "name": "Marc Fauci",
+      "position": "",
+      "schoolClass": "Sr",
+      "year": 1989,
+      "publisher": "Boston Globe",
+      "row": 6
+    },
+    {
+      "name": "Brandon Faiella*",
+      "position": "LB",
+      "schoolClass": "Jr",
+      "year": 2022,
+      "publisher": "Lynn Item",
+      "row": 7
+    },
+    {
+      "name": "Paul Sernio",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Boston Globe",
+      "row": 7
+    },
+    {
+      "name": "Mike MacEacheran",
+      "position": "SS/LB",
+      "schoolClass": "Sr",
+      "year": 2021,
+      "publisher": "Lynn Item",
+      "row": 8
+    },
+    {
+      "name": "Doug Mackie**",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Boston Globe",
+      "row": 8
+    },
+    {
+      "name": "Marvens Jean",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 2019,
+      "publisher": "Lynn Item",
+      "row": 9
+    },
+    {
+      "name": "Doug Mackie*",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1974,
+      "publisher": "Boston Globe",
+      "row": 9
+    },
+    {
+      "name": "Dante McGrane",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 2018,
+      "publisher": "Lynn Item",
+      "row": 10
+    },
+    {
+      "name": "William Banks",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1958,
+      "publisher": "Boston Globe",
+      "row": 10
+    },
+    {
+      "name": "Ricky Martinez",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 2017,
+      "publisher": "Lynn Item",
+      "row": 11
+    },
+    {
+      "name": "Bob Belyea",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1953,
+      "publisher": "Boston Globe",
+      "row": 11
+    },
+    {
+      "name": "Cam Williamson",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 2016,
+      "publisher": "Lynn Item",
+      "row": 12
+    },
+    {
+      "name": "Charlie Murphy",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1951,
+      "publisher": "Boston Globe",
+      "row": 12
+    },
+    {
+      "name": "Brendan Grocki",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 2015,
+      "publisher": "Lynn Item",
+      "row": 13
+    },
+    {
+      "name": "Dan Murphy",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1949,
+      "publisher": "Boston Globe",
+      "row": 13
+    },
+    {
+      "name": "Justin Winn**",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 2014,
+      "publisher": "Lynn Item",
+      "row": 14
+    },
+    {
+      "name": "Salvatore 'Sardi' Nicolo",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1949,
+      "publisher": "Boston Globe",
+      "row": 14
+    },
+    {
+      "name": "Dan Cicciola",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2014,
+      "publisher": "Lynn Item",
+      "row": 15
+    },
+    {
+      "name": "Eugene Decereau",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1947,
+      "publisher": "Boston Globe",
+      "row": 15
+    },
+    {
+      "name": "Justin Winn*",
+      "position": "QB",
+      "schoolClass": "Jr",
+      "year": 2013,
+      "publisher": "Lynn Item",
+      "row": 16
+    },
+    {
+      "name": "George Laskey",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1947,
+      "publisher": "Boston Globe",
+      "row": 16
+    },
+    {
+      "name": "Tom Trainor",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 2012,
+      "publisher": "Lynn Item",
+      "row": 17
+    },
+    {
+      "name": "Jim Blundell",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1945,
+      "publisher": "Boston Globe",
+      "row": 17
+    },
+    {
+      "name": "AJ Guthro",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 2011,
+      "publisher": "Lynn Item",
+      "row": 18
+    },
+    {
+      "name": "Art Spinney",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1944,
+      "publisher": "Boston Globe",
+      "row": 18
+    },
+    {
+      "name": "Shamir Guillaume",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2010,
+      "publisher": "Lynn Item",
+      "row": 19
+    },
+    {
+      "name": "Frank Pyzsko",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1944,
+      "publisher": "Boston Globe",
+      "row": 19
+    },
+    {
+      "name": "Brett Reid**",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 2008,
+      "publisher": "Lynn Item",
+      "row": 20
+    },
+    {
+      "name": "Mike Harrington",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1941,
+      "publisher": "Boston Globe",
+      "row": 20
+    },
+    {
+      "name": "Mike Dean",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2008,
+      "publisher": "Lynn Item",
+      "row": 21
+    },
+    {
+      "name": "Joseph Bucchiere",
+      "position": "",
+      "schoolClass": "Sr",
+      "year": 1939,
+      "publisher": "Boston Globe",
+      "row": 21
+    },
+    {
+      "name": "Brett Reid*",
+      "position": "QB",
+      "schoolClass": "Jr",
+      "year": 2007,
+      "publisher": "Lynn Item",
+      "row": 22
+    },
+    {
+      "name": "Tyler Trainer",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 2007,
+      "publisher": "Lynn Item",
+      "row": 23
+    },
+    {
+      "name": "Rodney Lavoie",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 2006,
+      "publisher": "Lynn Item",
+      "row": 24
+    },
+    {
+      "name": "Brian Bianchi",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 2004,
+      "publisher": "Lynn Item",
+      "row": 25
+    },
+    {
+      "name": "Anthony Barbanti**",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 2003,
+      "publisher": "Lynn Item",
+      "row": 26
+    },
+    {
+      "name": "Mike Nicolo",
+      "position": "RB",
+      "schoolClass": "Jr",
+      "year": 2003,
+      "publisher": "Lynn Item",
+      "row": 27
+    },
+    {
+      "name": "Anthony Barbanti*",
+      "position": "DL",
+      "schoolClass": "Jr",
+      "year": 2002,
+      "publisher": "Lynn Item",
+      "row": 28
+    },
+    {
+      "name": "Patrick Eaton",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 2001,
+      "publisher": "Lynn Item",
+      "row": 29
+    },
+    {
+      "name": "Ryan Gould",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 2000,
+      "publisher": "Lynn Item",
+      "row": 30
+    },
+    {
+      "name": "George Lowe",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1999,
+      "publisher": "Lynn Item",
+      "row": 31
+    },
+    {
+      "name": "Ralphael Zammit",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1998,
+      "publisher": "Lynn Item",
+      "row": 32
+    },
+    {
+      "name": "Mike Panzini",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 1998,
+      "publisher": "Lynn Item",
+      "row": 33
+    },
+    {
+      "name": "Ryan Leahy",
+      "position": "QB",
+      "schoolClass": "Jr",
+      "year": 1997,
+      "publisher": "Lynn Item",
+      "row": 34
+    },
+    {
+      "name": "Chris McColgan",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1997,
+      "publisher": "Lynn Item",
+      "row": 35
+    },
+    {
+      "name": "LJ Mckanas",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1996,
+      "publisher": "Lynn Item",
+      "row": 36
+    },
+    {
+      "name": "Mike Mabee",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1995,
+      "publisher": "Lynn Item",
+      "row": 37
+    },
+    {
+      "name": "Carlos Abate**",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 1995,
+      "publisher": "Lynn Item",
+      "row": 38
+    },
+    {
+      "name": "Carlos Abate*",
+      "position": "LB",
+      "schoolClass": "Jr",
+      "year": 1994,
+      "publisher": "Lynn Item",
+      "row": 39
+    },
+    {
+      "name": "Joseph Attubato",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1993,
+      "publisher": "Lynn Item",
+      "row": 40
+    },
+    {
+      "name": "Sean Publicover",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1991,
+      "publisher": "Lynn Item",
+      "row": 41
+    },
+    {
+      "name": "Ryan Magnasco",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1990,
+      "publisher": "Lynn Item",
+      "row": 42
+    },
+    {
+      "name": "Dan Schena",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1990,
+      "publisher": "Lynn Item",
+      "row": 43
+    },
+    {
+      "name": "Marc Fauci**",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1989,
+      "publisher": "Lynn Item",
+      "row": 44
+    },
+    {
+      "name": "Marc Fauci*",
+      "position": "DB",
+      "schoolClass": "Jr",
+      "year": 1988,
+      "publisher": "Lynn Item",
+      "row": 45
+    },
+    {
+      "name": "Steve Worthly",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1988,
+      "publisher": "Lynn Item",
+      "row": 46
+    },
+    {
+      "name": "Joe Barressi",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Lynn Item",
+      "row": 47
+    },
+    {
+      "name": "Larry Furey",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Lynn Item",
+      "row": 48
+    },
+    {
+      "name": "Darren McCullough**",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 1986,
+      "publisher": "Lynn Item",
+      "row": 49
+    },
+    {
+      "name": "Darren McCullough*",
+      "position": "LB",
+      "schoolClass": "Jr",
+      "year": 1985,
+      "publisher": "Lynn Item",
+      "row": 50
+    },
+    {
+      "name": "Tim January",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 1984,
+      "publisher": "Lynn Item",
+      "row": 51
+    },
+    {
+      "name": "Kevin Pelley",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1983,
+      "publisher": "Lynn Item",
+      "row": 52
+    },
+    {
+      "name": "Mark Strangie",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1982,
+      "publisher": "Lynn Item",
+      "row": 53
+    },
+    {
+      "name": "Bob Lessard",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1981,
+      "publisher": "Lynn Item",
+      "row": 54
+    },
+    {
+      "name": "Steve Peach***",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1980,
+      "publisher": "Lynn Item",
+      "row": 55
+    },
+    {
+      "name": "Art Polimeno",
+      "position": "LB",
+      "schoolClass": "Sr",
+      "year": 1980,
+      "publisher": "Lynn Item",
+      "row": 56
+    },
+    {
+      "name": "Bob Cordeau",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1980,
+      "publisher": "Lynn Item",
+      "row": 57
+    },
+    {
+      "name": "Steve Peach**",
+      "position": "QB",
+      "schoolClass": "Jr",
+      "year": 1979,
+      "publisher": "Lynn Item",
+      "row": 58
+    },
+    {
+      "name": "Gary Quinlan",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1979,
+      "publisher": "Lynn Item",
+      "row": 59
+    },
+    {
+      "name": "Eric Taylor",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1979,
+      "publisher": "Lynn Item",
+      "row": 60
+    },
+    {
+      "name": "Bill Peach",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1978,
+      "publisher": "Lynn Item",
+      "row": 61
+    },
+    {
+      "name": "Paul Nigro",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1978,
+      "publisher": "Lynn Item",
+      "row": 62
+    },
+    {
+      "name": "Steve Peach*",
+      "position": "QB",
+      "schoolClass": "So",
+      "year": 1978,
+      "publisher": "Lynn Item",
+      "row": 63
+    },
+    {
+      "name": "Frank Doyle",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Lynn Item",
+      "row": 64
+    },
+    {
+      "name": "Frank Serino",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Lynn Item",
+      "row": 65
+    },
+    {
+      "name": "George Nicolo",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Lynn Item",
+      "row": 66
+    },
+    {
+      "name": "Tim Fawcett",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Lynn Item",
+      "row": 67
+    },
+    {
+      "name": "John Coffey",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Lynn Item",
+      "row": 68
+    },
+    {
+      "name": "Pat Sullivan",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Lynn Item",
+      "row": 69
+    },
+    {
+      "name": "Stephen Gannon",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Lynn Item",
+      "row": 70
+    },
+    {
+      "name": "John Nicolo**",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Lynn Item",
+      "row": 71
+    },
+    {
+      "name": "Doug Mackie**",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Lynn Item",
+      "row": 72
+    },
+    {
+      "name": "John Nicolo*",
+      "position": "RB",
+      "schoolClass": "Jr",
+      "year": 1974,
+      "publisher": "Lynn Item",
+      "row": 73
+    },
+    {
+      "name": "Doug Mackie*",
+      "position": "OL",
+      "schoolClass": "Jr",
+      "year": 1974,
+      "publisher": "Lynn Item",
+      "row": 74
+    },
+    {
+      "name": "Steve Spinney",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1974,
+      "publisher": "Lynn Item",
+      "row": 75
+    },
+    {
+      "name": "Frank Mancuso",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1973,
+      "publisher": "Lynn Item",
+      "row": 76
+    },
+    {
+      "name": "Richie Serino",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1973,
+      "publisher": "Lynn Item",
+      "row": 77
+    },
+    {
+      "name": "Bill MacDonald",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1972,
+      "publisher": "Lynn Item",
+      "row": 78
+    },
+    {
+      "name": "Mike Spofford",
+      "position": "DL",
+      "schoolClass": "Sr",
+      "year": 1971,
+      "publisher": "Lynn Item",
+      "row": 79
+    },
+    {
+      "name": "Joe Ventrice",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1971,
+      "publisher": "Lynn Item",
+      "row": 80
+    },
+    {
+      "name": "Steven Nelson",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1970,
+      "publisher": "Lynn Item",
+      "row": 81
+    },
+    {
+      "name": "Dan Heaney",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1970,
+      "publisher": "Lynn Item",
+      "row": 82
+    },
+    {
+      "name": "Richie DeSisto",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1969,
+      "publisher": "Lynn Item",
+      "row": 83
+    },
+    {
+      "name": "Bob Osgood",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1969,
+      "publisher": "Lynn Item",
+      "row": 84
+    },
+    {
+      "name": "Jim Canole",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1968,
+      "publisher": "Lynn Item",
+      "row": 85
+    },
+    {
+      "name": "Lou O'Neil",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1968,
+      "publisher": "Lynn Item",
+      "row": 86
+    },
+    {
+      "name": "Steve Pizzotti",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1967,
+      "publisher": "Lynn Item",
+      "row": 87
+    },
+    {
+      "name": "Eddie McGuire",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 88
+    },
+    {
+      "name": "John Dancewicz",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 89
+    },
+    {
+      "name": "Jim Mancuso",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 90
+    },
+    {
+      "name": "Don Murray",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 91
+    },
+    {
+      "name": "Christie Serino",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 92
+    },
+    {
+      "name": "Richie Lombardo",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1966,
+      "publisher": "Lynn Item",
+      "row": 93
+    },
+    {
+      "name": "Rich Serino",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1965,
+      "publisher": "Lynn Item",
+      "row": 94
+    },
+    {
+      "name": "John Sands",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1965,
+      "publisher": "Lynn Item",
+      "row": 95
+    },
+    {
+      "name": "Ron Barressi",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1964,
+      "publisher": "Lynn Item",
+      "row": 96
+    },
+    {
+      "name": "Tom Carr",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1961,
+      "publisher": "Lynn Item",
+      "row": 97
+    },
+    {
+      "name": "John Matrona",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1960,
+      "publisher": "Lynn Item",
+      "row": 98
+    },
+    {
+      "name": "Vito Russo",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1960,
+      "publisher": "Lynn Item",
+      "row": 99
+    },
+    {
+      "name": "Richie Burt",
+      "position": "RB",
+      "schoolClass": "Sr",
+      "year": 1959,
+      "publisher": "Lynn Item",
+      "row": 100
+    },
+    {
+      "name": "Dave Matthews",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1959,
+      "publisher": "Lynn Item",
+      "row": 101
+    },
+    {
+      "name": "John Naples",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1958,
+      "publisher": "Lynn Item",
+      "row": 102
+    },
+    {
+      "name": "Matt Light",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1958,
+      "publisher": "Lynn Item",
+      "row": 103
+    },
+    {
+      "name": "Dick Rohrbacker",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1957,
+      "publisher": "Lynn Item",
+      "row": 104
+    },
+    {
+      "name": "Bob Piwowarski",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1954,
+      "publisher": "Lynn Item",
+      "row": 105
+    },
+    {
+      "name": "Ed Healey",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1952,
+      "publisher": "Lynn Item",
+      "row": 106
+    },
+    {
+      "name": "Charles Murphy",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1951,
+      "publisher": "Lynn Item",
+      "row": 107
+    },
+    {
+      "name": "Tony Serino",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1951,
+      "publisher": "Lynn Item",
+      "row": 108
+    },
+    {
+      "name": "Jim Driscoll",
+      "position": "HB",
+      "schoolClass": "Sr",
+      "year": 1950,
+      "publisher": "Lynn Item",
+      "row": 109
+    },
+    {
+      "name": "Richie Nicolo",
+      "position": "QB",
+      "schoolClass": "Sr",
+      "year": 1950,
+      "publisher": "Lynn Item",
+      "row": 110
+    },
+    {
+      "name": "Dan Murphy",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1949,
+      "publisher": "Lynn Item",
+      "row": 111
+    },
+    {
+      "name": "Salvatore 'Sard' Nicolo",
+      "position": "HB",
+      "schoolClass": "Sr",
+      "year": 1949,
+      "publisher": "Lynn Item",
+      "row": 112
+    },
+    {
+      "name": "Fred Quinlan",
+      "position": "Utility",
+      "schoolClass": "Sr",
+      "year": 1949,
+      "publisher": "Lynn Item",
+      "row": 113
+    },
+    {
+      "name": "Eugene Decereau",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1947,
+      "publisher": "Lynn Item",
+      "row": 114
+    },
+    {
+      "name": "George Laskey",
+      "position": "FB",
+      "schoolClass": "Sr",
+      "year": 1947,
+      "publisher": "Lynn Item",
+      "row": 115
+    },
+    {
+      "name": "Andy Forti",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1946,
+      "publisher": "Lynn Item",
+      "row": 116
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Stan Green",
+      "position": "End",
+      "schoolClass": "1940",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Football Captain. Boston Herald and Boston Post All Scholastic team his senior season. Went on to play college football at Columbia.",
+      "row": 3
+    },
+    {
+      "name": "John \"Iron Mike\" Harrington",
+      "position": "RB",
+      "schoolClass": "1944",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Two-time football captain. Boston Herald, Boston Globe, WESX, and North Shore All Scholastic team his senior season. Also an excellent baseball player. Athletic career ended after his senior season due to an accident. One of the greatest athletes to come out of Saugus.",
+      "row": 4
+    },
+    {
+      "name": "Art Statuto",
+      "position": "OL",
+      "schoolClass": "1944",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 1989). Helped lead the Sachems to the 1941 Class C state championship. Went on to play college football at Notre Dame, where he was a member of their 1946 and 1947 National Champion football teams. He was selected to the 1948 college football All-Star Team. After graduating, he played professional football for three seasons with the Buffalo Bills (AAFC) and Los Angeles Rams (NFL) at the center position.",
+      "row": 5
+    },
+    {
+      "name": "Doug Waybright",
+      "position": "RB",
+      "schoolClass": "1944",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 1988). Won State Championship in 1941 during his sophomore season. Was Captain his senior season. A 1943 Essex County All-Star. Went on to play college football at Notre Dame (1945, 1947-1949). Member of the 1947 and 1949 National Championship teams at Notre Dame. After college he served in the military before he returned to Saugus, where he was very active in youth sports. He was so beloved by the town that when he died at the young age of 38, officials named a new elementary school in his honor.",
+      "row": 6
+    },
+    {
+      "name": "Art Spinney",
+      "position": "OL/End",
+      "schoolClass": "1945",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Went on to play college football at Boston College where he was Captain his senior season (1949). A 1972 Inductee into the Boston College Athletic Hall of Fame.\nPlayed in the NFL for the Baltimore Colts (1950, 1953-1960) where he won several accolades:\n3x All Pro (1958 - 1960)\n2x Pro Bowl (1959 - 1960)\n2x NFL Champion (1958 - 1959)\nWas the Offensive Line Coach for the Boston Patriots from 1962 - 1968.",
+      "row": 7
+    },
+    {
+      "name": "George Laskey",
+      "position": "RB",
+      "schoolClass": "1948",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). 2x Sgt. Arthur Defranzo Player of the Year Award winner (1946-1947), Thomas Atkins Memorial Award 1946, named Boston Globe, Boston Post, Lynn Item, and North Shore All Scholastic teams in 1947.",
+      "row": 8
+    },
+    {
+      "name": "Dan Murphy",
+      "position": "OL",
+      "schoolClass": "1950",
+      "bio": "Saugus High School Hall of Fame inductee (Class of 1994). Named a Boston Globe and Lynn Item All-Scholastic in 1949.",
+      "row": 9
+    },
+    {
+      "name": "Salvatore 'Sardi' Nicolo",
+      "position": "RB",
+      "schoolClass": "1950",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). A three-year starter at running back, Sal “Sardi” Nicolo became one of Massachusetts’ most celebrated high school football players. In a memorable senior season, he led his division in touchdowns and points, earned numerous All-Scholastic selections and received honorable mention High School All-American recognition.\n\nHis signature Sachems moment came in the 1949 Exchange Bowl, when he caught a 50-yard, over-the-shoulder touchdown pass from his brother Richie to tie Weymouth as time expired. Jimmy Kane’s extra point secured Saugus’ 7–6 victory and the Exchange Bowl championship. Nicolo also excelled in baseball.\n\nHe went on to play football at Louisiana State University from 1952 through 1954. His 94-yard touchdown run against Rice on October 4, 1952, remains a memorable achievement in LSU football history.",
+      "row": 10,
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    },
+    {
+      "name": "Richard “Richie” Nicolo",
+      "position": "QB",
+      "schoolClass": "1951",
+      "bio": "Saugus High School Hall of Fame Inductee (1988). A Lynn Item All-Scholastic in 1950, Richard “Richie” Nicolo was a dual-threat quarterback who could beat opponents with both his arm and his legs. He led the Sachems to consecutive Exchange Bowl championships in 1949 and 1950.\n\nIn the 1949 Exchange Bowl, his 50-yard touchdown pass to his brother Sardi as time expired tied Weymouth. Jimmy Kane’s extra point completed the dramatic 7–6 victory. The following year, Richie threw two touchdown passes and rushed for two more scores in a 30–12 win over Brockton, earning the game’s Most Valuable Player honors.\n\nNicolo continued his college football career at Boston College and Louisiana State University (LSU).",
+      "row": 11,
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    },
+    {
+      "name": "Christie Serino",
+      "position": "QB",
+      "schoolClass": "1967",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Set the career passing yards record at Saugus.\nWent on to have a successful hockey coaching career. Coached in the Hockey East 1991 - 2005 (Assistant Coach at UNH 1991-1998; Head Coach at Merrimack 1999 - 2005).\nSpent his final years as head coach, building Malden Catholic hockey program into a powerhouse (2005 - 2011). He led Malden Catholic to the Super 8 Championship in his final season in 2011.",
+      "row": 12
+    },
+    {
+      "name": "Doug Mackie",
+      "position": "OL",
+      "schoolClass": "1976",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). 2x Boston Globe, Boston Herald, and Lynn Item All Scholastic (1974-1975). Named to Parade Magazine and Blue Chip Magazine High School All American Team in 1975. Went on to play college football at Ohio State for the legendary Woody Hayes. Injuries cost him some playing time during his college days. Went on to play professionally in the NFL for the New York Giants (1982), New Orleans Saints (1986), and Atlanta Falcons (1987) although he was mostly a practice player in the NFL. His greatest success as a professional was in the USFL where he played for the Tampa Bay Bandits (1983) and the New Jersey Generals (1984-1985). While playing for the New Jersey Generals he was selected as a 1984 College & Pro Football Newsweekly 2nd Team All-Pro along with running back Herschel Walker as he was part of the starting offensive line who helped Walker set the still standing, single-season, pro football rushing record of 2,411 yards.",
+      "row": 13
+    },
+    {
+      "name": "Steve Gannon",
+      "position": "End",
+      "schoolClass": "1976",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 1988). Went on to play college football at Holy Cross. He was a standout member of the defense for the Holy Cross football team during the late 1970s. Earned first team All-ECAC honors during his senior year, in addition to receiving the Davitt Award as the team’s top defensive lineman. As a senior led the team with 143 tackles, the most in recorded school history at the time. During his junior year in 1978, he helped lead the Crusaders to an overall record of 7-4, including victories over Air Force, Army and Boston College. A 2020 Inductee into the Holy Cross Athletic Hall of Fame. After college he had two NFL tryouts, one with the New York Giants and one with the Cincinnati Bengals both in 1980. After his playing days ended he got involved in coaching youth and high school football, being an assistant coach on John Nicolo's Sachems teams (2001-2004).",
+      "row": 14
+    },
+    {
+      "name": "John Nicolo",
+      "position": "RB",
+      "schoolClass": "1976",
+      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987)\nA two-time Lynn Item All-Scholastic (1974, 1975) and 1975 Thom McCann North Shore Player of the Year and Boston Herald All-Scholastic, he captained Saugus to the Northeastern Conference Championship.\nAt Ithaca College, he starred in football and baseball: All-American running back on the 1979 Stagg Bowl (Division III National) champions; College World Series MVP on the 1980 Division III National Championship baseball team.\nThree-time Ithaca College Athletic Hall of Fame inductee (1986 individual; 2014 football team; 2019 baseball team).\nLater contributions: Rebuilt Saugus Pop Warner program; Saugus Sachems head football coach (2001–2004); interim Saugus High School Athletic Director (2003–2004).",
+      "row": 15
+    },
+    {
+      "name": "Steve Peach",
+      "position": "QB",
+      "schoolClass": "1981",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 1991). A 3x Lynn Item All Scholastic (first player to ever make the team 3x). Greatest QB to ever come out of Saugus High. Was also an excellent baseball and basketball player. He was heavily recruited by Syracuse and Boston College, and he decided on going to Syracuse, where he started as a freshman. After that, he transferred to Boston College as a junior and was the backup to Doug Flutie and was also the punter.",
+      "row": 16
+    },
+    {
+      "name": "Darren McCullough",
+      "position": "LB",
+      "schoolClass": "1987",
+      "bio": "Saugus High School Hall of Fame Inductee (Class of 1997).\n\nDarren McCullough ranks among the best all-around players in Sachems history and is one of the few Saugus players to earn Lynn Item All-Scholastic honors twice.\n\nAs a junior in 1985, he recorded 123 tackles and four interceptions while playing linebacker and defensive back. On offense, he rushed for 442 yards and added 232 receiving yards, finishing with six total touchdowns.\n\nAs a senior in 1986, McCullough again led the team in tackles and rushed for 1,081 yards and 11 touchdowns. His standout performance came against Danvers, when he rushed for 225 yards and four touchdowns while also making 16 tackles. That effort earned him the Item/Coca-Cola Gold Helmet Award.",
+      "row": 17
+    },
+    {
+      "name": "Marc Fauci",
+      "position": "QB/LB",
+      "schoolClass": "1990",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 2000). A 2x Lynn Item All Scholastic. Boston Globe All Scholastic his senior season. Won the NEC Most Valuable Player Award in football during his senior year. A 2x co-captain as a junior and senior. Went on to play college football for Boston University. Led the Terriers football team during arguably its best season ever in 1993 when BU went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. A second-team All-America selection by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press, Fauci played linebacker and ranks in the top five for career primary, assisted and total tackles. Was a 2010 Inductee into the Boston University Athletic Hall of Fame.",
+      "row": 18
+    },
+    {
+      "name": "Dan Schena",
+      "position": "Line",
+      "schoolClass": "1991",
+      "bio": "Saugus High School Hall of Fame Inductee (Class of 2001). A Lynn Item All-Scholastic in 1990, Dan Schena was a tri-captain and the heart and soul of the Sachems’ 8–2 team, whose season remains a highlight in the program’s history.\n\nRegarded as one of the finest linemen to wear a Sachems jersey, Schena recorded more than 100 tackles during his senior season. He continued his football career at Northeastern University.",
+      "row": "User contribution",
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    },
+    {
+      "name": "Mike Mabee",
+      "position": "QB",
+      "schoolClass": "1996",
+      "bio": "Saugus High School Hall of Fame inductee (Class of 2006) and Lynn Item All-Scholastic. A multi-sport star at Saugus High School. As co-captain and standout quarterback of the 1995 Sachems, Mabee helped end a school-record 34-game losing streak and led Saugus to a 6–5 finish—the program’s first winning season since 1990.",
+      "row": 19
+    },
+    {
+      "name": "LJ McKanas",
+      "position": "RB",
+      "schoolClass": "1997",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 2007). Captain his senior season. Played a big role in turning Saugus into a competitive program in the mid-90s. During his senior season he set records for most rushing yards and most touchdowns. He was selected Boston Globe, Boston Herald, and Lynn Item All-Scholastic. He then went on to play college football at Northeastern University. After he redshirted his freshman season, he went on to become a four-year starter. During his redshirt freshman season he broke the NU rookie rushing record with 832 yards, averaging 92.4 yards per game. His Sophomore and Junior seasons were derailed due to injuries. During his senior season he set school records for most carries, 342, rushing yards, 1756, and rushing touchdowns, 14. For his senior season, he was named team MVP, All-New England, All-Conference and first-team Hanson All-America. He was also the winner of the Harry Agganis Award as the Outstanding Senior Football Player in New England. After college he appeared on the TV Show \"Survivor\" in 2014 where he finished in 9th place.",
+      "row": 20
+    },
+    {
+      "name": "Anthony “Beave” Barbanti",
+      "position": "DL / OL",
+      "schoolClass": "2004",
+      "bio": "A two-time Lynn Item All-Scholastic, Anthony “Beave” Barbanti was a three-year starter on both the offensive and defensive lines and a cornerstone of the Sachems during his junior and senior seasons.\n\nHis senior season in 2003 was his finest: he recorded 75 tackles, including 11 tackles for loss, and three sacks. He was equally dominant on the offensive line, helping clear the way for Mike Nicolo’s record-setting rushing performances. Barbanti’s strength, consistency and two-way play made him a key part of Saugus’ success.",
+      "row": "User contribution",
+      "source": "Profile supplied by Sal Nicolo; senior statistics corroborated by the 2003 Item All-Star clipping."
+    },
+    {
+      "name": "Mike Nicolo",
+      "position": "RB",
+      "schoolClass": "2005",
+      "bio": "Saugus High School Hall of Fame Inductee (Class, 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, his athletic success extended beyond football—he was an All-Scholastic selection in Winter Track as a sophomore and in Baseball as a junior.\nHe continued his football career at Curry College, where he was part of four consecutive New England Football Conference championship teams. He also contributed to Curry’s first-ever NCAA Division III playoff victory—fittingly, against his father John’s alma mater, Ithaca College.",
+      "row": 21
+    },
+    {
+      "name": "Brett Reid",
+      "position": "QB",
+      "schoolClass": "2009",
+      "bio": "A three-year starting quarterback and two-time Lynn Item All-Scholastic, Brett Reid helped lead a resurgence in Sachems football. As a junior in 2007, he teamed with Tyler Trainer, Paul Sullivan and Mike Dean to guide Saugus to a 7–3 record—its first winning season since 1997 and its most wins since 1996.\n\nOperating in a run-heavy offense, Reid rushed for 797 yards and 13 touchdowns that season. He and Dean helped Saugus repeat its 7–3 finish in 2008, with Reid contributing 800 rushing yards and 12 touchdowns.",
+      "row": 22,
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    },
+    {
+      "name": "Justin Winn",
+      "position": "QB",
+      "schoolClass": "2015",
+      "bio": "Justin Winn earned Lynn Item All-Scholastic honors in both his junior and senior seasons. In 2013, he rushed for 1,108 yards and 19 touchdowns, providing a standout individual performance during a difficult 3–9–1 season for the Sachems.\n\nIn 2014, Winn and running back Dan Cicciola helped lead Saugus to a 6–5 record. Winn rushed for 1,255 yards and set a school record with 22 rushing touchdowns.",
+      "row": 23,
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    },
+    {
+      "name": "Brandon Faiella",
+      "position": "LB",
+      "schoolClass": "2024",
+      "bio": "A two-time captain and two-time Lynn Item All-Scholastic, Faiella was named the Lynn Item Defensive Player of the Year as a senior. He continued his football career as a linebacker for the Saint Anselm College Hawks. As of fall 2026, he is in his junior season.",
+      "row": 24,
+      "source": "Profile details supplied by Sal Nicolo, October 2026."
+    }
+  ],
+  "stats": [
+    {
+      "category": "Rushing",
+      "year": 1949,
+      "name": "Sardi Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": null,
+        "Rushing Touchdowns": 16
+      },
+      "row": 3
+    },
+    {
+      "category": "Rushing",
+      "year": 1974,
+      "name": "John Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 1110,
+        "Rushing Touchdowns": 9
+      },
+      "row": 4
+    },
+    {
+      "category": "Rushing",
+      "year": 1975,
+      "name": "Steve Gannon",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 512,
+        "Rushing Touchdowns": null
+      },
+      "row": 5
+    },
+    {
+      "category": "Rushing",
+      "year": 1975,
+      "name": "John Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1205,
+        "Rushing Touchdowns": 20
+      },
+      "row": 6
+    },
+    {
+      "category": "Rushing",
+      "year": 1978,
+      "name": "Paul Nigro",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1395,
+        "Rushing Touchdowns": 16
+      },
+      "row": 7
+    },
+    {
+      "category": "Rushing",
+      "year": 1983,
+      "name": "Kevin Pelley",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 922,
+        "Rushing Touchdowns": 10
+      },
+      "row": 8
+    },
+    {
+      "category": "Rushing",
+      "year": 1985,
+      "name": "Darren McCullough",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 442,
+        "Rushing Touchdowns": null
+      },
+      "row": 9,
+      "sourceNote": "1985 Item All-Star profile: 442 rushing yards, 232 receiving yards and six total touchdowns; rushing-only touchdown total not specified."
+    },
+    {
+      "category": "Rushing",
+      "year": 1986,
+      "name": "Darren McCullough",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1081,
+        "Rushing Touchdowns": 11
+      },
+      "row": 10
+    },
+    {
+      "category": "Rushing",
+      "year": 1990,
+      "name": "Ryan Magnasco",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 583,
+        "Rushing Touchdowns": 8
+      },
+      "row": 11
+    },
+    {
+      "category": "Rushing",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1365,
+        "Rushing Touchdowns": 20
+      },
+      "row": 12
+    },
+    {
+      "category": "Rushing",
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1481,
+        "Rushing Touchdowns": 21
+      },
+      "row": 13
+    },
+    {
+      "category": "Rushing",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 604,
+        "Rushing Touchdowns": 9
+      },
+      "row": 14
+    },
+    {
+      "category": "Rushing",
+      "year": 2003,
+      "name": "Mike Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 1462,
+        "Rushing Touchdowns": 11
+      },
+      "row": 15
+    },
+    {
+      "category": "Rushing",
+      "year": 2007,
+      "name": "Brett Reid",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 797,
+        "Rushing Touchdowns": 13
+      },
+      "row": 16
+    },
+    {
+      "category": "Rushing",
+      "year": 2008,
+      "name": "Mike Dean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1242,
+        "Rushing Touchdowns": 17
+      },
+      "row": 17
+    },
+    {
+      "category": "Rushing",
+      "year": 2008,
+      "name": "Brett Reid",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 800,
+        "Rushing Touchdowns": 12
+      },
+      "row": 18
+    },
+    {
+      "category": "Rushing",
+      "year": 2010,
+      "name": "Shamir Guillaume",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1678,
+        "Rushing Touchdowns": 19
+      },
+      "row": 19
+    },
+    {
+      "category": "Rushing",
+      "year": 2013,
+      "name": "Justin Winn",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 1103,
+        "Rushing Touchdowns": 19
+      },
+      "row": 20
+    },
+    {
+      "category": "Rushing",
+      "year": 2014,
+      "name": "Dan Cacciola",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1467,
+        "Rushing Touchdowns": 18
+      },
+      "row": 21
+    },
+    {
+      "category": "Rushing",
+      "year": 2014,
+      "name": "Justin Winn",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1255,
+        "Rushing Touchdowns": 22
+      },
+      "row": 22
+    },
+    {
+      "category": "Rushing",
+      "year": 2019,
+      "name": "Marvin Jean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 1074,
+        "Rushing Touchdowns": 12
+      },
+      "row": 23
+    },
+    {
+      "category": "Rushing",
+      "year": 2024,
+      "name": "Cody Munafo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 700,
+        "Rushing Touchdowns": 9
+      },
+      "row": 24
+    },
+    {
+      "category": "Passing",
+      "year": 1977,
+      "name": "George Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 1052,
+        "Passing Touchdowns": 15
+      },
+      "row": 28
+    },
+    {
+      "category": "Passing",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Passing Yards": 1050,
+        "Passing Touchdowns": 11
+      },
+      "row": 29
+    },
+    {
+      "category": "Passing",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Passing Yards": 1489,
+        "Passing Touchdowns": 14
+      },
+      "row": 30
+    },
+    {
+      "category": "Passing",
+      "year": 1980,
+      "name": "Steve Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 1200,
+        "Passing Touchdowns": 8
+      },
+      "row": 31
+    },
+    {
+      "category": "Passing",
+      "year": 1988,
+      "name": "Marc Fauci",
+      "schoolClass": "Jr.",
+      "values": {
+        "Passing Yards": 870,
+        "Passing Touchdowns": 5
+      },
+      "row": 32
+    },
+    {
+      "category": "Passing",
+      "year": 1989,
+      "name": "Marc Fauci",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 743,
+        "Passing Touchdowns": null
+      },
+      "row": 33
+    },
+    {
+      "category": "Passing",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 720,
+        "Passing Touchdowns": 6
+      },
+      "row": 34
+    },
+    {
+      "category": "Passing",
+      "year": 1997,
+      "name": "Ryan Lahey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 1109,
+        "Passing Touchdowns": 14
+      },
+      "row": 35
+    },
+    {
+      "category": "Receiving",
+      "year": 1977,
+      "name": "Frank Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": null,
+        "Receiving Yards": null,
+        "Receiving Touchdowns": 9
+      },
+      "row": 39
+    },
+    {
+      "category": "Receiving",
+      "year": 1977,
+      "name": "John Coffee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 20,
+        "Receiving Yards": 363,
+        "Receiving Touchdowns": 6
+      },
+      "row": 40
+    },
+    {
+      "category": "Receiving",
+      "year": 1978,
+      "name": "Bill Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 22,
+        "Receiving Yards": 400,
+        "Receiving Touchdowns": 7
+      },
+      "row": 41
+    },
+    {
+      "category": "Receiving",
+      "year": 1979,
+      "name": "Gary Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 26,
+        "Receiving Yards": 455,
+        "Receiving Touchdowns": 5
+      },
+      "row": 42
+    },
+    {
+      "category": "Receiving",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": null,
+        "Receiving Yards": null,
+        "Receiving Touchdowns": 9
+      },
+      "row": 43
+    },
+    {
+      "category": "Receiving",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": null,
+        "Receiving Yards": 440,
+        "Receiving Touchdowns": null
+      },
+      "row": 44
+    },
+    {
+      "category": "Receiving",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 27,
+        "Receiving Yards": 148,
+        "Receiving Touchdowns": 2
+      },
+      "row": 45
+    },
+    {
+      "category": "Receiving",
+      "year": 2017,
+      "name": "Ricky Martinez",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 44,
+        "Receiving Yards": 444,
+        "Receiving Touchdowns": 4
+      },
+      "row": 46
+    },
+    {
+      "category": "Defensive",
+      "year": 1974,
+      "name": "Frank Mancuso",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": 14
+      },
+      "row": 50
+    },
+    {
+      "category": "Defensive",
+      "year": 1974,
+      "name": "Richie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 51
+    },
+    {
+      "category": "Defensive",
+      "year": 1974,
+      "name": "John Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 3,
+        "Sacks": null
+      },
+      "row": 52
+    },
+    {
+      "category": "Defensive",
+      "year": 1977,
+      "name": "Frank Doyle",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 48,
+        "Fumble Recoveries": 2,
+        "Interceptions": null,
+        "Sacks": 9
+      },
+      "row": 53
+    },
+    {
+      "category": "Defensive",
+      "year": 1977,
+      "name": "Tim Fawcett",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 55,
+        "Fumble Recoveries": 6,
+        "Interceptions": null,
+        "Sacks": 12
+      },
+      "row": 54
+    },
+    {
+      "category": "Defensive",
+      "year": 1977,
+      "name": "John Coffee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 8,
+        "Sacks": null
+      },
+      "row": 55
+    },
+    {
+      "category": "Defensive",
+      "year": 1978,
+      "name": "Bill Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 4,
+        "Interceptions": 6,
+        "Sacks": null
+      },
+      "row": 56
+    },
+    {
+      "category": "Defensive",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 57
+    },
+    {
+      "category": "Defensive",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 3,
+        "Interceptions": 6,
+        "Sacks": null
+      },
+      "row": 58
+    },
+    {
+      "category": "Defensive",
+      "year": 1979,
+      "name": "Gary Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 2,
+        "Interceptions": 5,
+        "Sacks": null
+      },
+      "row": 59
+    },
+    {
+      "category": "Defensive",
+      "year": 1979,
+      "name": "Eric Taylor",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 4,
+        "Interceptions": null,
+        "Sacks": 7
+      },
+      "row": 60
+    },
+    {
+      "category": "Defensive",
+      "year": 1980,
+      "name": "Bob Cordeau",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 3,
+        "Interceptions": null,
+        "Sacks": 7
+      },
+      "row": 61
+    },
+    {
+      "category": "Defensive",
+      "year": 1983,
+      "name": "Kevin Pelley",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 3,
+        "Interceptions": null,
+        "Sacks": 10
+      },
+      "row": 62
+    },
+    {
+      "category": "Defensive",
+      "year": 1985,
+      "name": "Darren McCullough",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 123,
+        "Fumble Recoveries": null,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 63
+    },
+    {
+      "category": "Defensive",
+      "year": 1986,
+      "name": "Marc Fauci",
+      "schoolClass": "Fr.",
+      "values": {
+        "Tackles": 65,
+        "Fumble Recoveries": null,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 64
+    },
+    {
+      "category": "Defensive",
+      "year": 1987,
+      "name": "Marc Fauci",
+      "schoolClass": "So.",
+      "values": {
+        "Tackles": 105,
+        "Fumble Recoveries": null,
+        "Interceptions": 5,
+        "Sacks": null
+      },
+      "row": 65
+    },
+    {
+      "category": "Defensive",
+      "year": 1988,
+      "name": "Marc Fauci",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 130,
+        "Fumble Recoveries": null,
+        "Interceptions": 5,
+        "Sacks": null
+      },
+      "row": 66
+    },
+    {
+      "category": "Defensive",
+      "year": 1989,
+      "name": "Marc Fauci",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 140,
+        "Fumble Recoveries": 4,
+        "Interceptions": 5,
+        "Sacks": null
+      },
+      "row": 67
+    },
+    {
+      "category": "Defensive",
+      "year": 1990,
+      "name": "Ryan Magnasco",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 100,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 68
+    },
+    {
+      "category": "Defensive",
+      "year": 1990,
+      "name": "Dan Schena",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 100,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 69
+    },
+    {
+      "category": "Defensive",
+      "year": 1993,
+      "name": "Joe Attubato",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 111,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 70
+    },
+    {
+      "category": "Defensive",
+      "year": 1994,
+      "name": "Carlos Abate",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 120,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 71
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Carlos Abate",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 115,
+        "Fumble Recoveries": 4,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 72
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 2,
+        "Interceptions": 6,
+        "Sacks": null
+      },
+      "row": 73
+    },
+    {
+      "category": "Defensive",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 110,
+        "Fumble Recoveries": 1,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 74
+    },
+    {
+      "category": "Defensive",
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 52,
+        "Fumble Recoveries": null,
+        "Interceptions": 3,
+        "Sacks": 8
+      },
+      "row": 75
+    },
+    {
+      "category": "Defensive",
+      "year": 1998,
+      "name": "Mike Panzini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 123,
+        "Fumble Recoveries": 6,
+        "Interceptions": null,
+        "Sacks": 2
+      },
+      "row": 76
+    },
+    {
+      "category": "Defensive",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 72,
+        "Fumble Recoveries": 2,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 77
+    },
+    {
+      "category": "Defensive",
+      "year": 2001,
+      "name": "Sal Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 50,
+        "Fumble Recoveries": 1,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 78
+    },
+    {
+      "category": "Defensive",
+      "year": 2002,
+      "name": "Sal Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 65,
+        "Fumble Recoveries": 1,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 79
+    },
+    {
+      "category": "Defensive",
+      "year": 2004,
+      "name": "Brian Bianchi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 108,
+        "Fumble Recoveries": 3,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 80
+    },
+    {
+      "category": "Defensive",
+      "year": 2007,
+      "name": "Tyler Trainer",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 108,
+        "Fumble Recoveries": 3,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 81
+    },
+    {
+      "category": "Defensive",
+      "year": 2008,
+      "name": "Mike Dean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 2,
+        "Sacks": null
+      },
+      "row": 82
+    },
+    {
+      "category": "Defensive",
+      "year": 2012,
+      "name": "Tom Trainer",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 110,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 83
+    },
+    {
+      "category": "Defensive",
+      "year": 2015,
+      "name": "Brendan Grocki",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 96,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": 3
+      },
+      "row": 84
+    },
+    {
+      "category": "Defensive",
+      "year": 2017,
+      "name": "Rickey Martinez",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 117,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 85
+    },
+    {
+      "category": "Defensive",
+      "year": 2018,
+      "name": "Dante McGrane",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 102,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 86
+    },
+    {
+      "category": "Defensive",
+      "year": 2019,
+      "name": "Marvin Jean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 87,
+        "Fumble Recoveries": 2,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 87
+    },
+    {
+      "category": "Defensive",
+      "year": 2021,
+      "name": "Braden Fiaella",
+      "schoolClass": "Fr.",
+      "values": {
+        "Tackles": 60,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 88
+    },
+    {
+      "category": "Defensive",
+      "year": 2022,
+      "name": "Braden Fiaella",
+      "schoolClass": "So.",
+      "values": {
+        "Tackles": 100,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 89
+    },
+    {
+      "category": "Defensive",
+      "year": 2023,
+      "name": "Braden Fiaella",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 184,
+        "Fumble Recoveries": null,
+        "Interceptions": null,
+        "Sacks": null
+      },
+      "row": 90
+    },
+    {
+      "category": "Defensive",
+      "year": 2024,
+      "name": "Braden Fiaella",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 140,
+        "Fumble Recoveries": 4,
+        "Interceptions": 1,
+        "Sacks": null
+      },
+      "row": 91
+    },
+    {
+      "category": "Defensive",
+      "year": 2024,
+      "name": "Cody Munafo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 100,
+        "Fumble Recoveries": 2,
+        "Interceptions": 1,
+        "Sacks": 4
+      },
+      "row": 92
+    }
+  ]
+}

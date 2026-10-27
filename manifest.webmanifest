@@ -1,0 +1,45 @@
+{
+  "id": "./",
+  "name": "Sachems Football Archive",
+  "short_name": "Sachems",
+  "description": "Saugus football history, championship seasons, player honors, records, and archival photographs.",
+  "lang": "en-US",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#b70c28",
+  "icons": [
+    {
+      "src": "icons/sachems-headdress-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/sachems-headdress-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Photo gallery",
+      "url": "./#gallery"
+    },
+    {
+      "name": "Season records",
+      "url": "./#seasons"
+    },
+    {
+      "name": "Player honors",
+      "url": "./#honors"
+    }
+  ]
+}
