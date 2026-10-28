@@ -1377,7 +1377,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1481,
-        "Rushing Touchdowns": 21
+        "Rushing Touchdowns": 18
       },
       "row": 13
     },
@@ -1661,6 +1661,17 @@
         "Receiving Touchdowns": null
       },
       "row": 44
+    },
+    {
+      "category": "Receiving",
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": null,
+        "Receiving Yards": 400,
+        "Receiving Touchdowns": 2
+      }
     },
     {
       "category": "Receiving",
@@ -2017,10 +2028,10 @@
       "name": "Raphael Zammit",
       "schoolClass": "Sr.",
       "values": {
-        "Tackles": 52,
+        "Tackles": 43,
         "Fumble Recoveries": null,
-        "Interceptions": 3,
-        "Sacks": 8
+        "Interceptions": 2,
+        "Sacks": 7
       },
       "row": 75
     },
