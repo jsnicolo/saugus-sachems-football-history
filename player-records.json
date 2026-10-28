@@ -1383,6 +1383,16 @@
     },
     {
       "category": "Rushing",
+      "year": 1998,
+      "name": "Ryan Lahey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": null,
+        "Rushing Touchdowns": 5
+      }
+    },
+    {
+      "category": "Rushing",
       "year": 1999,
       "name": "George Lowe",
       "schoolClass": "Sr.",
@@ -1591,6 +1601,16 @@
       "row": 35
     },
     {
+      "category": "Passing",
+      "year": 1998,
+      "name": "Ryan Lahey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 825,
+        "Passing Touchdowns": 7
+      }
+    },
+    {
       "category": "Receiving",
       "year": 1977,
       "name": "Frank Serino",
@@ -1670,6 +1690,17 @@
       "values": {
         "Receptions": null,
         "Receiving Yards": 400,
+        "Receiving Touchdowns": 2
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1998,
+      "name": "Matt Wass",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 36,
+        "Receiving Yards": null,
         "Receiving Touchdowns": 2
       }
     },
@@ -2042,11 +2073,23 @@
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 123,
-        "Fumble Recoveries": 6,
-        "Interceptions": null,
+        "Fumble Recoveries": 4,
+        "Interceptions": 4,
         "Sacks": 2
       },
       "row": 76
+    },
+    {
+      "category": "Defensive",
+      "year": 1998,
+      "name": "Matt Wass",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": null,
+        "Interceptions": 5,
+        "Sacks": null
+      }
     },
     {
       "category": "Defensive",
