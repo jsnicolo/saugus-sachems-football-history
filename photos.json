@@ -1268,23 +1268,36 @@
     "file": "photos/honors-IMG_3345.webp",
     "thumb": "photos/thumb-honors-IMG_3345.webp",
     "title": "The 1954 Item Football All-Stars",
-    "caption": "The Item’s 1954 regional football All-Star selections, preserved from the contributed newspaper collection. Saugus selections include Bob Piwowarski.",
+    "caption": "The Item’s 1954 regional football All-Star selections, preserved in two clippings from the contributed newspaper collection. Saugus selections include Bob Piwowarski.",
     "year": 1954,
     "original": "IMG_3345.jpg",
     "category": "All-Star & All-Scholastic",
     "golden": false,
-    "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
-  },
-  {
-    "file": "photos/honors-IMG_3346.webp",
-    "thumb": "photos/thumb-honors-IMG_3346.webp",
-    "title": "The 1955 Item Football All-Stars",
-    "caption": "The Item’s 1955 regional football All-Star selections, preserved from the contributed newspaper collection.",
-    "year": 1955,
-    "original": "IMG_3346.jpg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+    "dateSource": "Year printed in the clipping or matched to the supplied player workbook.",
+    "images": [
+      {
+        "file": "photos/honors-IMG_3345.webp",
+        "thumb": "photos/thumb-honors-IMG_3345.webp",
+        "title": "The 1954 Item Football All-Stars",
+        "caption": "The Item’s 1954 regional football All-Star selections, preserved from the contributed newspaper collection. Saugus selections include Bob Piwowarski.",
+        "year": 1954,
+        "original": "IMG_3345.jpg",
+        "category": "All-Star & All-Scholastic",
+        "golden": false,
+        "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+      },
+      {
+        "file": "photos/honors-IMG_3346.webp",
+        "thumb": "photos/thumb-honors-IMG_3346.webp",
+        "title": "The 1954 Item Football All-Stars · companion clipping",
+        "caption": "A companion clipping of the Item’s 1954 regional football All-Star selections, preserved from the contributed newspaper collection.",
+        "year": 1954,
+        "original": "IMG_3346.jpg",
+        "category": "All-Star & All-Scholastic",
+        "golden": false,
+        "dateSource": "Year corrected to 1954 by Sal Nicolo, October 2026."
+      }
+    ]
   },
   {
     "file": "photos/honors-IMG_3349.webp",
