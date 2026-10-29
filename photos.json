@@ -259,6 +259,61 @@
     "dateSource": "Season and context supplied by Sal Nicolo."
   },
   {
+    "file": "photos/contributed-IMG_2472.webp",
+    "thumb": "photos/thumb-contributed-IMG_2472.webp",
+    "title": "Mike Harrington — A catch in 1941",
+    "caption": "Mike Harrington catches the ball in a white jersey and striped helmet during Saugus’ 1941 season.",
+    "year": 1941,
+    "original": "IMG_2472.jpeg",
+    "category": "Players",
+    "golden": true,
+    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
+  },
+  {
+    "file": "photos/contributed-IMG_2480.webp",
+    "thumb": "photos/thumb-contributed-IMG_2480.webp",
+    "title": "The undefeated 1941 Sachems prepare for Wakefield",
+    "caption": "A 1941 newspaper preview of Saugus against Wakefield at Stackpole Field features coach Hank Toczylowski, team lineups, season results, and scoring leaders. The headline highlights the undefeated Sachems, with Shipulski leading the point scorers.",
+    "year": 1941,
+    "original": "IMG_2480.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
+  },
+  {
+    "file": "photos/contributed-2679.webp",
+    "thumb": "photos/thumb-contributed-2679.webp",
+    "year": 1941,
+    "title": "Mike Harrington · 1941 North Shore All-Scholastic eleven",
+    "caption": "The Boston Daily Globe’s December 10, 1941 team photograph includes Saugus back Mike Harrington in the North Shore All-Scholastic eleven, a tribute to his standout season with the Sachems.",
+    "original": "IMG_2679.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
+  },
+  {
+    "file": "photos/contributed-2682.webp",
+    "thumb": "photos/thumb-contributed-2682.webp",
+    "year": 1941,
+    "title": "The Globe’s 1941 All-Scholastic football selections",
+    "caption": "A full newspaper page presents the Boston Globe’s 1941 All-Scholastic selections through player portraits, team lists and honorable mentions, preserving the wider setting for that season’s football honors.",
+    "original": "IMG_2682.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
+  },
+  {
+    "file": "photos/contributed-2690.webp",
+    "thumb": "photos/thumb-contributed-2690.webp",
+    "title": "Saugus players · 1941 Globe All-Scholastic selections",
+    "caption": "Mike Harrington represents Saugus as a second-team back in the Boston Globe’s 1941 All-Scholastic selections. Saugus honorable mentions include ends Collette and Goclowski; tackles MacDonald and Pendlebury; guards Daniels and Flaherty; center Statuto; and backs Shipulski and Goss.",
+    "year": 1941,
+    "original": "IMG_2690.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": true,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
+  },
+  {
     "file": "photos/zip-IMG_1245.webp",
     "thumb": "photos/thumb-zip-IMG_1245.webp",
     "title": "The legends in Saugus football",
@@ -289,28 +344,6 @@
     "category": "Players",
     "golden": true,
     "original": "IMG_4122.jpg",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
-  },
-  {
-    "file": "photos/contributed-IMG_2472.webp",
-    "thumb": "photos/thumb-contributed-IMG_2472.webp",
-    "title": "Mike Harrington — A catch in 1941",
-    "caption": "Mike Harrington catches the ball in a white jersey and striped helmet during Saugus’ 1941 season.",
-    "year": 1941,
-    "original": "IMG_2472.jpeg",
-    "category": "Players",
-    "golden": true,
-    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
-  },
-  {
-    "file": "photos/contributed-IMG_2480.webp",
-    "thumb": "photos/thumb-contributed-IMG_2480.webp",
-    "title": "The undefeated 1941 Sachems prepare for Wakefield",
-    "caption": "A 1941 newspaper preview of Saugus against Wakefield at Stackpole Field features coach Hank Toczylowski, team lineups, season results, and scoring leaders. The headline highlights the undefeated Sachems, with Shipulski leading the point scorers.",
-    "year": 1941,
-    "original": "IMG_2480.jpeg",
-    "category": "Clippings",
-    "golden": true,
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
   },
   {
@@ -358,39 +391,6 @@
     "dateSource": "Season identified by Sal Nicolo; school-year and schedule headings retained in the caption."
   },
   {
-    "file": "photos/contributed-2679.webp",
-    "thumb": "photos/thumb-contributed-2679.webp",
-    "year": 1941,
-    "title": "Mike Harrington · 1941 North Shore All-Scholastic eleven",
-    "caption": "The Boston Daily Globe’s December 10, 1941 team photograph includes Saugus back Mike Harrington in the North Shore All-Scholastic eleven, a tribute to his standout season with the Sachems.",
-    "original": "IMG_2679.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
-  },
-  {
-    "file": "photos/contributed-2682.webp",
-    "thumb": "photos/thumb-contributed-2682.webp",
-    "year": 1941,
-    "title": "The Globe’s 1941 All-Scholastic football selections",
-    "caption": "A full newspaper page presents the Boston Globe’s 1941 All-Scholastic selections through player portraits, team lists and honorable mentions, preserving the wider setting for that season’s football honors.",
-    "original": "IMG_2682.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
-  },
-  {
-    "file": "photos/contributed-2690.webp",
-    "thumb": "photos/thumb-contributed-2690.webp",
-    "title": "Saugus players · 1941 Globe All-Scholastic selections",
-    "caption": "Mike Harrington represents Saugus as a second-team back in the Boston Globe’s 1941 All-Scholastic selections. Saugus honorable mentions include ends Collette and Goclowski; tackles MacDonald and Pendlebury; guards Daniels and Flaherty; center Statuto; and backs Shipulski and Goss.",
-    "year": 1941,
-    "original": "IMG_2690.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": true,
-    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
-  },
-  {
     "file": "photos/contributed-2589.webp",
     "thumb": "photos/thumb-contributed-2589.webp",
     "title": "The 1942 Sachems · team & schedule",
@@ -410,17 +410,6 @@
     "original": "IMG_1247.heic.jpg",
     "category": "Players",
     "golden": true
-  },
-  {
-    "file": "photos/contributed-2590.webp",
-    "thumb": "photos/thumb-contributed-2590.webp",
-    "title": "The 1943 Sachems · results & 1944 schedule",
-    "caption": "A team portrait and named roster accompany Saugus’ 1943 season results. The same yearbook page looks ahead to the 1944 schedule, preserving the transition to the Sachems’ Class B championship season.",
-    "year": 1943,
-    "original": "IMG_2590.jpeg",
-    "category": "Yearbooks",
-    "golden": true,
-    "dateSource": "Season identified by Sal Nicolo; school-year and schedule headings retained in the caption."
   },
   {
     "file": "photos/contributed-1244.webp",
@@ -445,6 +434,17 @@
     "golden": false,
     "dateSource": "Identification and context supplied by Sal Nicolo.",
     "dateLabel": "1943–1946"
+  },
+  {
+    "file": "photos/contributed-2590.webp",
+    "thumb": "photos/thumb-contributed-2590.webp",
+    "title": "The 1943 Sachems · results & 1944 schedule",
+    "caption": "A team portrait and named roster accompany Saugus’ 1943 season results. The same yearbook page looks ahead to the 1944 schedule, preserving the transition to the Sachems’ Class B championship season.",
+    "year": 1943,
+    "original": "IMG_2590.jpeg",
+    "category": "Yearbooks",
+    "golden": true,
+    "dateSource": "Season identified by Sal Nicolo; school-year and schedule headings retained in the caption."
   },
   {
     "file": "photos/IMG_3718.webp",
@@ -638,27 +638,6 @@
     "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
   },
   {
-    "file": "photos/contributed-IMG_2471.webp",
-    "thumb": "photos/thumb-contributed-IMG_2471.webp",
-    "title": "Sardi Nicolo — The Exchange Bowl catch",
-    "caption": "Sardi Nicolo makes an over-the-shoulder catch on a 50-yard touchdown pass from his brother Richie in the 1949 Exchange Bowl. The play helped Saugus defeat Weymouth, 7–6.",
-    "year": 1949,
-    "original": "IMG_2471.jpeg",
-    "category": "Championships",
-    "golden": true,
-    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
-  },
-  {
-    "file": "photos/IMG_4310.webp",
-    "thumb": "photos/thumb-IMG_4310.webp",
-    "title": "The last-minute Exchange Bowl finish",
-    "caption": "Richie Nicolo threw a 50-yard touchdown pass to his brother Sardi to tie the game. Jimmy Kane’s extra point won it, giving Saugus a 7–6 victory over Weymouth and the 1949 Exchange Bowl championship.",
-    "year": 1949,
-    "original": "IMG_4310.jpeg",
-    "category": "Clippings",
-    "golden": true
-  },
-  {
     "file": "photos/IMG_4263.webp",
     "thumb": "photos/thumb-IMG_4263.webp",
     "title": "Art Spinney named Boston College captain",
@@ -680,16 +659,6 @@
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
   },
   {
-    "file": "photos/era-IMG_3047.webp",
-    "thumb": "photos/thumb-era-IMG_3047.webp",
-    "title": "The Sachems prepare for Weymouth",
-    "caption": "A pregame portrait from the 1949 Exchange Bowl matchup. The caption names the Nicolo brothers, Dan Murphy, Fred Quinlan, Leo Kane, and their teammates.",
-    "year": 1949,
-    "category": "Teams",
-    "golden": true,
-    "original": "IMG_3047.jpg"
-  },
-  {
     "file": "photos/era-IMG_3027.webp",
     "thumb": "photos/thumb-era-IMG_3027.webp",
     "title": "The Nicolo brothers against Swampscott",
@@ -699,26 +668,6 @@
     "golden": true,
     "original": "IMG_3027.jpg",
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
-  },
-  {
-    "file": "photos/era-IMG_4296.webp",
-    "thumb": "photos/thumb-era-IMG_4296.webp",
-    "title": "Richie Nicolo against Weymouth",
-    "caption": "An Exchange Bowl action photograph identifies Richie Nicolo carrying the ball and credits the Nicolo brothers in Saugus’ victory. Photo credit remains in the scan.",
-    "year": 1949,
-    "category": "Action",
-    "golden": true,
-    "original": "IMG_4296.jpg"
-  },
-  {
-    "file": "photos/era-IMG_4311.webp",
-    "thumb": "photos/thumb-era-IMG_4311.webp",
-    "title": "The Exchange Bowl defense in action",
-    "caption": "Boston Sunday Post, December 4, 1949: the labeled photograph shows Saugus defenders stopping Weymouth’s Bill Ahlstedt.",
-    "year": 1949,
-    "category": "Action",
-    "golden": true,
-    "original": "IMG_4311.jpg"
   },
   {
     "file": "photos/era-IMG_3024.webp",
@@ -752,17 +701,6 @@
     "original": "IMG_4304.jpg"
   },
   {
-    "file": "photos/contributed-IMG_2470.webp",
-    "thumb": "photos/thumb-contributed-IMG_2470.webp",
-    "title": "The Nicolo brothers — 1949 Exchange Bowl",
-    "caption": "Sardi Nicolo (No. 33) leads the blocking for his brother Richie (No. 32). This retrospective clipping recounts Saugus’ 7–6 victory over Weymouth in the 1949 Exchange Bowl and the brothers’ decisive passing play.",
-    "year": 1949,
-    "original": "IMG_2470.jpeg",
-    "category": "Clippings",
-    "golden": true,
-    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
-  },
-  {
     "file": "photos/globe-1949-sardi-nicolo.webp",
     "thumb": "photos/thumb-globe-1949-sardi-nicolo.webp",
     "title": "The 1949 Boston Globe All-Scholastic team",
@@ -772,6 +710,123 @@
     "original": "IMG_2494.jpeg",
     "category": "All-Star & All-Scholastic",
     "golden": true
+  },
+  {
+    "file": "photos/nicolo-IMG_2525.webp",
+    "thumb": "photos/thumb-nicolo-IMG_2525.webp",
+    "title": "Sardi Nicolo · 1949 Item All-Scholastic profile",
+    "caption": "Salvatore “Sardi” Nicolo’s 1949 Item All-Scholastic profile identifies him as Saugus’ leading ground gainer and scorer with 99 points. Coach John Janusas praises his speed, power and elusive running, while the clipping notes that brother Richie handled most of the passing.",
+    "year": 1949,
+    "original": "IMG_2525.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": true,
+    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/nicolo-IMG_2526.webp",
+    "thumb": "photos/thumb-nicolo-IMG_2526.webp",
+    "title": "Sachems on the 1949 NEC baseball All-Star team",
+    "caption": "The 1949 Northeastern Conference baseball All-Star roster includes Saugus catcher Fred Quinlan, senior infielder Sardi Nicolo and junior outfielder Richie Nicolo. The clipping highlights the baseball accomplishments of these Sachems football standouts.",
+    "year": 1949,
+    "original": "IMG_2526.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": true,
+    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/contributed-2562.webp",
+    "thumb": "photos/thumb-contributed-2562.webp",
+    "title": "Six sets of brothers · 1949 Sachems",
+    "caption": "The Item’s “A family affair” clipping features six sets of brothers on coach John Janusas’ 1949 squad: Richie and Sardi Nicolo, Charlie and Dan Murphy, Dick and Ronnie Heiniger, Bill and John Conway, Ernie and Vic DeRosa, and Bob and Fred Flaherty. Together, the brothers made up nearly half of the 25-player team.",
+    "year": 1949,
+    "original": "IMG_2562.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/contributed-2669-hall.webp",
+    "thumb": "photos/thumb-contributed-2669-hall.webp",
+    "title": "Sardi Nicolo and Danny Murphy · 1949 awards",
+    "caption": "Saugus teammates Salvatore “Sardi” Nicolo and Danny Murphy are recognized with football awards after the 1949 season.",
+    "year": 1949,
+    "original": "IMG_2669(1).jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Identification and context supplied by Sal Nicolo."
+  },
+  {
+    "file": "photos/contributed-2675.webp",
+    "thumb": "photos/thumb-contributed-2675.webp",
+    "year": 1949,
+    "title": "Sardi Nicolo · honorable mention All-America",
+    "caption": "This 1949 clipping names Saugus standout Salvatore “Sardi” Nicolo among the New England players receiving honorable mention on the All-America selections compiled by the Wigwam Wisemen of America.",
+    "original": "IMG_2675.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
+  },
+  {
+    "file": "photos/contributed-IMG_2471.webp",
+    "thumb": "photos/thumb-contributed-IMG_2471.webp",
+    "title": "Sardi Nicolo — The Exchange Bowl catch",
+    "caption": "Sardi Nicolo makes an over-the-shoulder catch on a 50-yard touchdown pass from his brother Richie in the 1949 Exchange Bowl. The play helped Saugus defeat Weymouth, 7–6.",
+    "year": 1949,
+    "original": "IMG_2471.jpeg",
+    "category": "Championships",
+    "golden": true,
+    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
+  },
+  {
+    "file": "photos/IMG_4310.webp",
+    "thumb": "photos/thumb-IMG_4310.webp",
+    "title": "The last-minute Exchange Bowl finish",
+    "caption": "Richie Nicolo threw a 50-yard touchdown pass to his brother Sardi to tie the game. Jimmy Kane’s extra point won it, giving Saugus a 7–6 victory over Weymouth and the 1949 Exchange Bowl championship.",
+    "year": 1949,
+    "original": "IMG_4310.jpeg",
+    "category": "Clippings",
+    "golden": true
+  },
+  {
+    "file": "photos/era-IMG_3047.webp",
+    "thumb": "photos/thumb-era-IMG_3047.webp",
+    "title": "The Sachems prepare for Weymouth",
+    "caption": "A pregame portrait from the 1949 Exchange Bowl matchup. The caption names the Nicolo brothers, Dan Murphy, Fred Quinlan, Leo Kane, and their teammates.",
+    "year": 1949,
+    "category": "Teams",
+    "golden": true,
+    "original": "IMG_3047.jpg"
+  },
+  {
+    "file": "photos/era-IMG_4296.webp",
+    "thumb": "photos/thumb-era-IMG_4296.webp",
+    "title": "Richie Nicolo against Weymouth",
+    "caption": "An Exchange Bowl action photograph identifies Richie Nicolo carrying the ball and credits the Nicolo brothers in Saugus’ victory. Photo credit remains in the scan.",
+    "year": 1949,
+    "category": "Action",
+    "golden": true,
+    "original": "IMG_4296.jpg"
+  },
+  {
+    "file": "photos/era-IMG_4311.webp",
+    "thumb": "photos/thumb-era-IMG_4311.webp",
+    "title": "The Exchange Bowl defense in action",
+    "caption": "Boston Sunday Post, December 4, 1949: the labeled photograph shows Saugus defenders stopping Weymouth’s Bill Ahlstedt.",
+    "year": 1949,
+    "category": "Action",
+    "golden": true,
+    "original": "IMG_4311.jpg"
+  },
+  {
+    "file": "photos/contributed-IMG_2470.webp",
+    "thumb": "photos/thumb-contributed-IMG_2470.webp",
+    "title": "The Nicolo brothers — 1949 Exchange Bowl",
+    "caption": "Sardi Nicolo (No. 33) leads the blocking for his brother Richie (No. 32). This retrospective clipping recounts Saugus’ 7–6 victory over Weymouth in the 1949 Exchange Bowl and the brothers’ decisive passing play.",
+    "year": 1949,
+    "original": "IMG_2470.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
   },
   {
     "file": "photos/folio-IMG_1165.webp",
@@ -797,28 +852,6 @@
     "dateLabel": "1949–1950"
   },
   {
-    "file": "photos/nicolo-IMG_2525.webp",
-    "thumb": "photos/thumb-nicolo-IMG_2525.webp",
-    "title": "Sardi Nicolo · 1949 Item All-Scholastic profile",
-    "caption": "Salvatore “Sardi” Nicolo’s 1949 Item All-Scholastic profile identifies him as Saugus’ leading ground gainer and scorer with 99 points. Coach John Janusas praises his speed, power and elusive running, while the clipping notes that brother Richie handled most of the passing.",
-    "year": 1949,
-    "original": "IMG_2525.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": true,
-    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
-  },
-  {
-    "file": "photos/nicolo-IMG_2526.webp",
-    "thumb": "photos/thumb-nicolo-IMG_2526.webp",
-    "title": "Sachems on the 1949 NEC baseball All-Star team",
-    "caption": "The 1949 Northeastern Conference baseball All-Star roster includes Saugus catcher Fred Quinlan, senior infielder Sardi Nicolo and junior outfielder Richie Nicolo. The clipping highlights the baseball accomplishments of these Sachems football standouts.",
-    "year": 1949,
-    "original": "IMG_2526.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": true,
-    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
-  },
-  {
     "file": "photos/contributed-2561.webp",
     "thumb": "photos/thumb-contributed-2561.webp",
     "title": "Exchange Bowl champions leave for New York · 1949",
@@ -837,17 +870,6 @@
     "year": 1949,
     "original": "IMG_2564.jpeg",
     "category": "Teams",
-    "golden": true,
-    "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
-  },
-  {
-    "file": "photos/contributed-2562.webp",
-    "thumb": "photos/thumb-contributed-2562.webp",
-    "title": "Six sets of brothers · 1949 Sachems",
-    "caption": "The Item’s “A family affair” clipping features six sets of brothers on coach John Janusas’ 1949 squad: Richie and Sardi Nicolo, Charlie and Dan Murphy, Dick and Ronnie Heiniger, Bill and John Conway, Ernie and Vic DeRosa, and Bob and Fred Flaherty. Together, the brothers made up nearly half of the 25-player team.",
-    "year": 1949,
-    "original": "IMG_2562.jpeg",
-    "category": "Clippings",
     "golden": true,
     "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
   },
@@ -964,26 +986,25 @@
     ]
   },
   {
-    "file": "photos/contributed-2669-hall.webp",
-    "thumb": "photos/thumb-contributed-2669-hall.webp",
-    "title": "Sardi Nicolo and Danny Murphy · 1949 awards",
-    "caption": "Saugus teammates Salvatore “Sardi” Nicolo and Danny Murphy are recognized with football awards after the 1949 season.",
-    "year": 1949,
-    "original": "IMG_2669(1).jpeg",
+    "file": "photos/era-IMG_3335.webp",
+    "thumb": "photos/thumb-era-IMG_3335.webp",
+    "title": "Richie Nicolo and Jim Driscoll · 1950",
+    "caption": "The Item’s 1950 All-Scholastic Eleven lists Richie Nicolo at quarterback and Jim Driscoll at halfback.",
+    "year": 1950,
     "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Identification and context supplied by Sal Nicolo."
+    "golden": true,
+    "original": "IMG_3335.jpg"
   },
   {
-    "file": "photos/contributed-2675.webp",
-    "thumb": "photos/thumb-contributed-2675.webp",
-    "year": 1949,
-    "title": "Sardi Nicolo · honorable mention All-America",
-    "caption": "This 1949 clipping names Saugus standout Salvatore “Sardi” Nicolo among the New England players receiving honorable mention on the All-America selections compiled by the Wigwam Wisemen of America.",
-    "original": "IMG_2675.jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
+    "file": "photos/contributed-2544.webp",
+    "thumb": "photos/thumb-contributed-2544.webp",
+    "title": "Art Statuto · Los Angeles Rams, 1950",
+    "caption": "Former Sachem Art Statuto is featured as a center for the NFL’s Los Angeles Rams in this 1950 promotional football card. The card also identifies his college as Notre Dame.",
+    "year": 1950,
+    "original": "IMG_2544.jpeg",
+    "category": "College & pro",
+    "golden": true,
+    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
   },
   {
     "file": "photos/era-IMG_3678.webp",
@@ -994,16 +1015,6 @@
     "category": "Clippings",
     "golden": true,
     "original": "IMG_3678.jpg"
-  },
-  {
-    "file": "photos/era-IMG_3335.webp",
-    "thumb": "photos/thumb-era-IMG_3335.webp",
-    "title": "Richie Nicolo and Jim Driscoll · 1950",
-    "caption": "The Item’s 1950 All-Scholastic Eleven lists Richie Nicolo at quarterback and Jim Driscoll at halfback.",
-    "year": 1950,
-    "category": "All-Star & All-Scholastic",
-    "golden": true,
-    "original": "IMG_3335.jpg"
   },
   {
     "file": "photos/nicolo-IMG_2529.webp",
@@ -1026,17 +1037,6 @@
     "category": "All-Star & All-Scholastic",
     "golden": true,
     "dateSource": "Season and subject supplied by Sal Nicolo, October 2026."
-  },
-  {
-    "file": "photos/contributed-2544.webp",
-    "thumb": "photos/thumb-contributed-2544.webp",
-    "title": "Art Statuto · Los Angeles Rams, 1950",
-    "caption": "Former Sachem Art Statuto is featured as a center for the NFL’s Los Angeles Rams in this 1950 promotional football card. The card also identifies his college as Notre Dame.",
-    "year": 1950,
-    "original": "IMG_2544.jpeg",
-    "category": "College & pro",
-    "golden": true,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
   },
   {
     "file": "photos/contributed-2612.webp",
@@ -1243,17 +1243,6 @@
     "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
   },
   {
-    "file": "photos/contributed-2602.webp",
-    "thumb": "photos/thumb-contributed-2602.webp",
-    "title": "The 1953 champions · team & named roster",
-    "caption": "The 1953 Sachems pose with their coaches in a yearbook portrait labeled “North Shore Champions.” Captains John Leahy and Doug MacNeill led John Janusas’s 6–2–1 championship squad. The named roster beneath the photograph preserves the players, managers and coaching staff, including coaches Scarborough and Janusas.",
-    "year": 1953,
-    "original": "IMG_2602(1).jpeg",
-    "category": "Teams",
-    "golden": false,
-    "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records."
-  },
-  {
     "file": "photos/contributed-2661-hall.webp",
     "thumb": "photos/thumb-contributed-2661-hall.webp",
     "title": "Bob Belyea · 1953 Boston Globe All-Scholastic",
@@ -1263,6 +1252,17 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Identification and context supplied by Sal Nicolo."
+  },
+  {
+    "file": "photos/contributed-2602.webp",
+    "thumb": "photos/thumb-contributed-2602.webp",
+    "title": "The 1953 champions · team & named roster",
+    "caption": "The 1953 Sachems pose with their coaches in a yearbook portrait labeled “North Shore Champions.” Captains John Leahy and Doug MacNeill led John Janusas’s 6–2–1 championship squad. The named roster beneath the photograph preserves the players, managers and coaching staff, including coaches Scarborough and Janusas.",
+    "year": 1953,
+    "original": "IMG_2602(1).jpeg",
+    "category": "Teams",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records."
   },
   {
     "file": "photos/honors-IMG_3345.webp",
@@ -1714,17 +1714,6 @@
     "dateLabel": "1974–1975"
   },
   {
-    "file": "photos/contributed-2594.webp",
-    "thumb": "photos/thumb-contributed-2594.webp",
-    "title": "The 1974 Sachems · building toward a championship",
-    "caption": "The Sachems finished 6–4 under Mike Ginolfi, with captain Steve Spinney leading a veteran group. The page combines the team portrait, roster, game scores and photographs of Ginolfi and his players. Juniors John Nicolo and Doug Mackie were among the returning players who would help lead Saugus to the 1975 Northeastern Conference championship.",
-    "year": 1974,
-    "original": "IMG_2594.jpeg",
-    "category": "Teams",
-    "golden": false,
-    "dateSource": "The printed 6–4 record, captain Steve Spinney and game scores match the 1974 season in the archive; this page was supplied with the 1975 materials."
-  },
-  {
     "file": "photos/contributed-2688.webp",
     "thumb": "photos/thumb-contributed-2688.webp",
     "title": "Doug Mackie · 1974 Boston Globe All-Scholastic",
@@ -1734,6 +1723,17 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
+  },
+  {
+    "file": "photos/contributed-2594.webp",
+    "thumb": "photos/thumb-contributed-2594.webp",
+    "title": "The 1974 Sachems · building toward a championship",
+    "caption": "The Sachems finished 6–4 under Mike Ginolfi, with captain Steve Spinney leading a veteran group. The page combines the team portrait, roster, game scores and photographs of Ginolfi and his players. Juniors John Nicolo and Doug Mackie were among the returning players who would help lead Saugus to the 1975 Northeastern Conference championship.",
+    "year": 1974,
+    "original": "IMG_2594.jpeg",
+    "category": "Teams",
+    "golden": false,
+    "dateSource": "The printed 6–4 record, captain Steve Spinney and game scores match the 1974 season in the archive; this page was supplied with the 1975 materials."
   },
   {
     "file": "photos/era-IMG_3100.webp",
@@ -1800,66 +1800,6 @@
     "category": "Action",
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
     "golden": false
-  },
-  {
-    "file": "photos/era-IMG_3097.webp",
-    "thumb": "photos/thumb-era-IMG_3097.webp",
-    "title": "John Nicolo · scoring champion profile",
-    "caption": "John Nicolo’s portrait and Item All-Star profiles from 1974 and 1975, together with coverage of his college career. After high school, John played at Ithaca College, where he led the football team to a national championship in 1979 and was named an All-American.",
-    "year": 1975,
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "original": "IMG_3097.jpg",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "images": [
-      {
-        "file": "photos/zip-IMG_3415.webp",
-        "thumb": "photos/thumb-zip-IMG_3415.webp",
-        "title": "John Nicolo · player portrait",
-        "caption": "John Nicolo’s Saugus player portrait, grouped with his 1975 scoring profile.",
-        "original": "IMG_3415.jpg",
-        "year": 1975
-      },
-      {
-        "file": "photos/era-IMG_3097.webp",
-        "thumb": "photos/thumb-era-IMG_3097.webp",
-        "title": "John Nicolo · scoring champion profile",
-        "caption": "An All-Star player capsule reports 1,205 rushing yards, 109 points, and four touchdown passes.",
-        "original": "IMG_3097.jpg",
-        "year": 1975
-      },
-      {
-        "file": "photos/folio-IMG_3423-copy.webp",
-        "thumb": "photos/thumb-folio-IMG_3423-copy.webp",
-        "title": "John Nicolo · 1974 Item All-Star",
-        "caption": "John Nicolo’s junior-season Item All-Star clipping reports 1,110 rushing yards, nine touchdowns, three interceptions, and 378 return yards. The year matches the supplied 1974 player statistics.",
-        "year": 1974,
-        "category": "All-Star & All-Scholastic",
-        "original": "IMG_3423(1).jpeg",
-        "golden": false
-      },
-      {
-        "file": "photos/update-IMG_3885.webp",
-        "thumb": "photos/thumb-update-IMG_3885.webp",
-        "title": "John Nicolo · Ithaca All-American",
-        "caption": "The newspaper reports John Nicolo’s second-team All-American recognition after Ithaca’s 1979 national championship season.",
-        "year": 1979,
-        "category": "College & pro",
-        "golden": false,
-        "original": "IMG_3885.jpg"
-      },
-      {
-        "file": "photos/honors-IMG_3164.webp",
-        "thumb": "photos/thumb-honors-IMG_3164.webp",
-        "title": "John Nicolo · 1979 college All-Star",
-        "caption": "The clipping reports John Nicolo’s selection to the Division III Upstate New York All-Star football team during Ithaca’s national-championship season.",
-        "year": 1979,
-        "original": "IMG_3164.jpg",
-        "category": "All-Star & All-Scholastic",
-        "golden": false,
-        "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
-      }
-    ]
   },
   {
     "file": "photos/era-IMG_3099.webp",
@@ -1950,39 +1890,6 @@
     "dateSource": "1975 season inferred from the identified teammates and 5–1 pre-Danvers record in the original caption."
   },
   {
-    "file": "photos/contributed-2552.webp",
-    "thumb": "photos/thumb-contributed-2552.webp",
-    "title": "The decisive touchdown · Thanksgiving 1975",
-    "caption": "John Nicolo returns a field goal blocked by Steve Gannon for the only touchdown of Saugus’ muddy 1975 Thanksgiving Day game against Peabody. The Sachems won 6–0, completing a 9–1 season as Northeastern Conference champions.",
-    "year": 1975,
-    "original": "IMG_2552.jpeg",
-    "category": "Clippings",
-    "golden": false,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
-  },
-  {
-    "file": "photos/contributed-2553.webp",
-    "thumb": "photos/thumb-contributed-2553.webp",
-    "title": "Battle in the mud · Thanksgiving 1975",
-    "caption": "Saugus and Peabody battle through heavy mud during their 1975 Thanksgiving Day game. The Sachems’ 6–0 victory capped a 9–1 season and the Northeastern Conference championship.",
-    "year": 1975,
-    "original": "IMG_2553.jpeg",
-    "category": "Clippings",
-    "golden": false,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
-  },
-  {
-    "file": "photos/contributed-2555.webp",
-    "thumb": "photos/thumb-contributed-2555.webp",
-    "title": "Mud-covered Sachems · Thanksgiving 1975",
-    "caption": "Mud-covered Saugus players regroup during the 1975 Thanksgiving Day game against Peabody. The hard-fought 6–0 win completed the Sachems’ 9–1 Northeastern Conference championship season.",
-    "year": 1975,
-    "original": "IMG_2555.jpeg",
-    "category": "Teams",
-    "golden": false,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
-  },
-  {
     "file": "photos/contributed-3917.webp",
     "thumb": "photos/thumb-contributed-3917.webp",
     "title": "John & Patricia Nicolo · Sachems pride, 1975",
@@ -2027,6 +1934,99 @@
         "dateSource": "Year or dated heading printed on the contributed Item clipping."
       }
     ]
+  },
+  {
+    "file": "photos/era-IMG_3097.webp",
+    "thumb": "photos/thumb-era-IMG_3097.webp",
+    "title": "John Nicolo · scoring champion profile",
+    "caption": "John Nicolo’s portrait and Item All-Star profiles from 1974 and 1975, together with coverage of his college career. After high school, John played at Ithaca College, where he led the football team to a national championship in 1979 and was named an All-American.",
+    "year": 1975,
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "original": "IMG_3097.jpg",
+    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
+    "images": [
+      {
+        "file": "photos/zip-IMG_3415.webp",
+        "thumb": "photos/thumb-zip-IMG_3415.webp",
+        "title": "John Nicolo · player portrait",
+        "caption": "John Nicolo’s Saugus player portrait, grouped with his 1975 scoring profile.",
+        "original": "IMG_3415.jpg",
+        "year": 1975
+      },
+      {
+        "file": "photos/era-IMG_3097.webp",
+        "thumb": "photos/thumb-era-IMG_3097.webp",
+        "title": "John Nicolo · scoring champion profile",
+        "caption": "An All-Star player capsule reports 1,205 rushing yards, 109 points, and four touchdown passes.",
+        "original": "IMG_3097.jpg",
+        "year": 1975
+      },
+      {
+        "file": "photos/folio-IMG_3423-copy.webp",
+        "thumb": "photos/thumb-folio-IMG_3423-copy.webp",
+        "title": "John Nicolo · 1974 Item All-Star",
+        "caption": "John Nicolo’s junior-season Item All-Star clipping reports 1,110 rushing yards, nine touchdowns, three interceptions, and 378 return yards. The year matches the supplied 1974 player statistics.",
+        "year": 1974,
+        "category": "All-Star & All-Scholastic",
+        "original": "IMG_3423(1).jpeg",
+        "golden": false
+      },
+      {
+        "file": "photos/update-IMG_3885.webp",
+        "thumb": "photos/thumb-update-IMG_3885.webp",
+        "title": "John Nicolo · Ithaca All-American",
+        "caption": "The newspaper reports John Nicolo’s second-team All-American recognition after Ithaca’s 1979 national championship season.",
+        "year": 1979,
+        "category": "College & pro",
+        "golden": false,
+        "original": "IMG_3885.jpg"
+      },
+      {
+        "file": "photos/honors-IMG_3164.webp",
+        "thumb": "photos/thumb-honors-IMG_3164.webp",
+        "title": "John Nicolo · 1979 college All-Star",
+        "caption": "The clipping reports John Nicolo’s selection to the Division III Upstate New York All-Star football team during Ithaca’s national-championship season.",
+        "year": 1979,
+        "original": "IMG_3164.jpg",
+        "category": "All-Star & All-Scholastic",
+        "golden": false,
+        "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+      }
+    ]
+  },
+  {
+    "file": "photos/contributed-2552.webp",
+    "thumb": "photos/thumb-contributed-2552.webp",
+    "title": "The decisive touchdown · Thanksgiving 1975",
+    "caption": "John Nicolo returns a field goal blocked by Steve Gannon for the only touchdown of Saugus’ muddy 1975 Thanksgiving Day game against Peabody. The Sachems won 6–0, completing a 9–1 season as Northeastern Conference champions.",
+    "year": 1975,
+    "original": "IMG_2552.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/contributed-2553.webp",
+    "thumb": "photos/thumb-contributed-2553.webp",
+    "title": "Battle in the mud · Thanksgiving 1975",
+    "caption": "Saugus and Peabody battle through heavy mud during their 1975 Thanksgiving Day game. The Sachems’ 6–0 victory capped a 9–1 season and the Northeastern Conference championship.",
+    "year": 1975,
+    "original": "IMG_2553.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/contributed-2555.webp",
+    "thumb": "photos/thumb-contributed-2555.webp",
+    "title": "Mud-covered Sachems · Thanksgiving 1975",
+    "caption": "Mud-covered Saugus players regroup during the 1975 Thanksgiving Day game against Peabody. The hard-fought 6–0 win completed the Sachems’ 9–1 Northeastern Conference championship season.",
+    "year": 1975,
+    "original": "IMG_2555.jpeg",
+    "category": "Teams",
+    "golden": false,
+    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
   },
   {
     "file": "photos/contributed-2595.webp",
@@ -2170,17 +2170,6 @@
     "original": "IMG_3322.jpg"
   },
   {
-    "file": "photos/item-add-IMG_4027.webp",
-    "thumb": "photos/thumb-item-add-IMG_4027.webp",
-    "title": "Mike Ginolfi · 1977 Item Coach of the Year",
-    "caption": "At the 1977 Item All-Star banquet, Mike Ginolfi accepts the Coach of the Year award on behalf of the Sachems. The December 7 report recalls Saugus’ 9–1 season and Northeastern Conference championship.",
-    "year": 1977,
-    "original": "IMG_4027.jpg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Year or dated heading printed on the contributed Item clipping."
-  },
-  {
     "file": "photos/contributed-2556.webp",
     "thumb": "photos/thumb-contributed-2556.webp",
     "title": "John Nicolo · Ithaca College, 1977",
@@ -2190,6 +2179,28 @@
     "category": "College & pro",
     "golden": false,
     "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+  },
+  {
+    "file": "photos/contributed-2659-hall.webp",
+    "thumb": "photos/thumb-contributed-2659-hall.webp",
+    "title": "Paul Serino · 1977 Boston Globe All-Scholastic",
+    "caption": "The Boston Globe’s 1977 All-Scholastic football team features Saugus defensive back Paul Serino among the region’s outstanding players.",
+    "year": 1977,
+    "original": "IMG_2659(1).jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Identification and context supplied by Sal Nicolo."
+  },
+  {
+    "file": "photos/item-add-IMG_4027.webp",
+    "thumb": "photos/thumb-item-add-IMG_4027.webp",
+    "title": "Mike Ginolfi · 1977 Item Coach of the Year",
+    "caption": "At the 1977 Item All-Star banquet, Mike Ginolfi accepts the Coach of the Year award on behalf of the Sachems. The December 7 report recalls Saugus’ 9–1 season and Northeastern Conference championship.",
+    "year": 1977,
+    "original": "IMG_4027.jpg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Year or dated heading printed on the contributed Item clipping."
   },
   {
     "file": "photos/contributed-2607.webp",
@@ -2225,17 +2236,6 @@
         "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records."
       }
     ]
-  },
-  {
-    "file": "photos/contributed-2659-hall.webp",
-    "thumb": "photos/thumb-contributed-2659-hall.webp",
-    "title": "Paul Serino · 1977 Boston Globe All-Scholastic",
-    "caption": "The Boston Globe’s 1977 All-Scholastic football team features Saugus defensive back Paul Serino among the region’s outstanding players.",
-    "year": 1977,
-    "original": "IMG_2659(1).jpeg",
-    "category": "All-Star & All-Scholastic",
-    "golden": false,
-    "dateSource": "Identification and context supplied by Sal Nicolo."
   },
   {
     "file": "photos/highlights-IMG_3387.webp",
@@ -2396,6 +2396,28 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
+    "file": "photos/contributed-2658.webp",
+    "thumb": "photos/thumb-contributed-2658.webp",
+    "title": "Steve Peach · standout Sachems quarterback",
+    "caption": "A 1979 newspaper profile celebrates junior quarterback Steve Peach, one of the program’s greats, for his passing, kicking and play on defense.",
+    "year": 1979,
+    "original": "IMG_2658.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Season and context supplied by Sal Nicolo."
+  },
+  {
+    "file": "photos/contributed-1251.webp",
+    "thumb": "photos/thumb-contributed-1251.webp",
+    "title": "Sachems versus Peabody · Thanksgiving 1979",
+    "caption": "A Saugus Advertiser illustration looks back at the 1979 Thanksgiving game against Peabody, highlighting quarterback Steve Peach, Gary Quinlan, Buddy Staples and the Sachems’ offensive line.",
+    "year": 1979,
+    "original": "IMG_1251(1).jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Season and context supplied by Sal Nicolo."
+  },
+  {
     "file": "photos/contributed-2557.webp",
     "thumb": "photos/thumb-contributed-2557.webp",
     "title": "John Nicolo · 1979 Stagg Bowl champion",
@@ -2426,28 +2448,6 @@
         "year": 1979
       }
     ]
-  },
-  {
-    "file": "photos/contributed-2658.webp",
-    "thumb": "photos/thumb-contributed-2658.webp",
-    "title": "Steve Peach · standout Sachems quarterback",
-    "caption": "A 1979 newspaper profile celebrates junior quarterback Steve Peach, one of the program’s greats, for his passing, kicking and play on defense.",
-    "year": 1979,
-    "original": "IMG_2658.jpeg",
-    "category": "Clippings",
-    "golden": false,
-    "dateSource": "Season and context supplied by Sal Nicolo."
-  },
-  {
-    "file": "photos/contributed-1251.webp",
-    "thumb": "photos/thumb-contributed-1251.webp",
-    "title": "Sachems versus Peabody · Thanksgiving 1979",
-    "caption": "A Saugus Advertiser illustration looks back at the 1979 Thanksgiving game against Peabody, highlighting quarterback Steve Peach, Gary Quinlan, Buddy Staples and the Sachems’ offensive line.",
-    "year": 1979,
-    "original": "IMG_1251(1).jpeg",
-    "category": "Clippings",
-    "golden": false,
-    "dateSource": "Season and context supplied by Sal Nicolo."
   },
   {
     "file": "photos/honors-IMG_3388.webp",
