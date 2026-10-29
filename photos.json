@@ -380,6 +380,17 @@
     "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
   },
   {
+    "file": "photos/contributed-2690.webp",
+    "thumb": "photos/thumb-contributed-2690.webp",
+    "title": "Saugus players · 1941 Globe All-Scholastic selections",
+    "caption": "Mike Harrington represents Saugus as a second-team back in the Boston Globe’s 1941 All-Scholastic selections. Saugus honorable mentions include ends Collette and Goclowski; tackles MacDonald and Pendlebury; guards Daniels and Flaherty; center Statuto; and backs Shipulski and Goss.",
+    "year": 1941,
+    "original": "IMG_2690.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": true,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
+  },
+  {
     "file": "photos/contributed-2589.webp",
     "thumb": "photos/thumb-contributed-2589.webp",
     "title": "The 1942 Sachems · team & schedule",
@@ -614,6 +625,17 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Identification and context supplied by Sal Nicolo."
+  },
+  {
+    "file": "photos/contributed-2685.webp",
+    "thumb": "photos/thumb-contributed-2685.webp",
+    "title": "Thanksgiving 1948 · Saugus defeats Peabody, 27–13",
+    "caption": "Saugus defeated Peabody 27–13 on Thanksgiving in 1948, setting a new scoring high for the rivalry. Rolly Charest’s report highlights Sardi Nicolo, Ken Neale and Frank Forti, with Richie Nicolo also contributing to the Sachems’ passing attack.",
+    "year": 1948,
+    "original": "IMG_2685.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
   },
   {
     "file": "photos/contributed-IMG_2471.webp",
@@ -1690,6 +1712,17 @@
     "dateSource": "The printed 6–4 record, captain Steve Spinney and game scores match the 1974 season in the archive; this page was supplied with the 1975 materials."
   },
   {
+    "file": "photos/contributed-2688.webp",
+    "thumb": "photos/thumb-contributed-2688.webp",
+    "title": "Doug Mackie · 1974 Boston Globe All-Scholastic",
+    "caption": "Saugus junior Doug Mackie appears among the Boston Globe’s 1974 All-Scholastic football selections. The page preserves his recognition alongside the season’s selected players and team rosters.",
+    "year": 1974,
+    "original": "IMG_2688.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
+  },
+  {
     "file": "photos/era-IMG_3100.webp",
     "thumb": "photos/thumb-era-IMG_3100.webp",
     "title": "Steve Gannon · All-Star profile",
@@ -2026,6 +2059,17 @@
     "golden": false,
     "dateSource": "Season and context supplied by Sal Nicolo.",
     "dateLabel": "1976–1995"
+  },
+  {
+    "file": "photos/contributed-2689.webp",
+    "thumb": "photos/thumb-contributed-2689.webp",
+    "title": "Doug Mackie · Ohio State recruiting, 1976",
+    "caption": "The Boston Globe’s January 12, 1976 feature follows Saugus tackle Doug Mackie as he considers Ohio State and describes his meetings with coach Woody Hayes. Named the Globe’s Player of the Year, Mackie was leaning toward Ohio State while planning other college visits before making his final decision.",
+    "year": 1976,
+    "original": "IMG_2689.jpeg",
+    "category": "College & pro",
+    "golden": false,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
   },
   {
     "file": "photos/era-IMG_3323.webp",
@@ -3441,6 +3485,17 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+  },
+  {
+    "file": "photos/contributed-2691.webp",
+    "thumb": "photos/thumb-contributed-2691.webp",
+    "title": "Mark Spadafora · a beautiful mind, with brawn to spare",
+    "caption": "Christopher L. Gasper’s Boston Globe feature profiles Saugus valedictorian and football All-Star Mark Spadafora as he prepares for the Agganis game and a future at MIT. The article highlights his academic achievements, leadership on the offensive line, and plans to study engineering and continue playing football.",
+    "year": 2005,
+    "original": "IMG_2691.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
   },
   {
     "file": "photos/highlights-IMG_3373.webp",
