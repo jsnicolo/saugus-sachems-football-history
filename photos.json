@@ -77,6 +77,28 @@
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
   },
   {
+    "file": "photos/add-IMG_2717.webp",
+    "thumb": "photos/add-thumb-IMG_2717.webp",
+    "title": "The undefeated 1922 Sachems · season in review",
+    "caption": "A football season review credits coach Fred Beresford’s Saugus team with nine victories and two ties in 11 games, describing it as the first Saugus High team to complete a season without defeat. The clipping documents the unbeaten record but does not award Saugus a championship.",
+    "year": 1922,
+    "original": "IMG_2717.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
+  },
+  {
+    "file": "photos/add-IMG_2723.webp",
+    "thumb": "photos/add-thumb-IMG_2723.webp",
+    "title": "1922 Sachems · claiming no title, willing to play anyone",
+    "caption": "This contemporary report describes Fred Beresford’s unbeaten Saugus team and quotes his statement that it was claiming no championship. It recounts the team’s results to that point, discusses interest from Waite High School of Toledo, Ohio, and praises the Sachems’ teamwork. The clipping provides important context for the disputed 1922 championship claim.",
+    "year": 1922,
+    "original": "IMG_2723.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
+  },
+  {
     "file": "photos/era-IMG_4007.webp",
     "thumb": "photos/thumb-era-IMG_4007.webp",
     "title": "Ready for Essex Aggies",
@@ -389,6 +411,17 @@
     "category": "Yearbooks",
     "golden": true,
     "dateSource": "Season identified by Sal Nicolo; school-year and schedule headings retained in the caption."
+  },
+  {
+    "file": "photos/add-IMG_2722.webp",
+    "thumb": "photos/add-thumb-IMG_2722.webp",
+    "title": "Honoring the unbeaten 1941 Sachems",
+    "caption": "Saugus football supporters planned a Town Hall banquet honoring the unbeaten 1941 championship team and coach Henry “Hank” Toczylowski before his upcoming Navy service. The article also describes a proposed educational trip to New York, Washington and Annapolis for the squad.",
+    "year": 1941,
+    "original": "IMG_2722.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
   },
   {
     "file": "photos/contributed-2589.webp",
@@ -809,6 +842,28 @@
     "category": "Teams",
     "golden": true,
     "dateSource": "Year and context supplied by Sal Nicolo; descriptive details checked against the contributed image."
+  },
+  {
+    "file": "photos/add-IMG_2725.webp",
+    "thumb": "photos/add-thumb-IMG_2725.webp",
+    "title": "Saugus defeats Marblehead, 25–7 · North Shore title report",
+    "caption": "Henry J. Collins reports Saugus’ 25–7 victory over Marblehead on November 12, 1949, under a headline declaring the Sachems North Shore champions. After a scoreless first half, Saugus took control; the account highlights Sardi Nicolo’s 69-yard touchdown run. Later season coverage described Saugus and Gloucester as co-champions.",
+    "year": 1949,
+    "original": "IMG_2725.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
+  },
+  {
+    "file": "photos/add-IMG_2726.webp",
+    "thumb": "photos/add-thumb-IMG_2726.webp",
+    "title": "North Shore co-champions · Sardi Nicolo leads the scoring",
+    "caption": "Harvey L. Southward’s regular-season wrap-up names Saugus and Gloucester North Shore co-champions and credits Sardi Nicolo with an area-leading 99 points, including 16 touchdowns. Fred Quinlan is listed with 60 points, while Leo Kane led place-kickers with 20. The article looks ahead to Saugus’ Exchange Bowl meeting with Weymouth.",
+    "year": 1949,
+    "original": "IMG_2726.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
   },
   {
     "file": "photos/contributed-IMG_2471.webp",
@@ -2429,6 +2484,17 @@
     "dateSource": "Season and context supplied by Sal Nicolo."
   },
   {
+    "file": "photos/add-IMG_2718.webp",
+    "thumb": "photos/add-thumb-IMG_2718.webp",
+    "title": "Steve Gannon · Holy Cross standout draws pro scouts",
+    "caption": "Bill Brotherton’s Item feature follows Saugus native Steve Gannon during his senior season at Holy Cross. His play at defensive end attracted professional scouts, while coach Neil Wheelwright praised his tackling, consistency and character. The article also recalls Gannon’s multi-sport career at Saugus High.",
+    "year": 1979,
+    "original": "IMG_2718.jpeg",
+    "category": "College & pro",
+    "golden": false,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
+  },
+  {
     "file": "photos/contributed-2557.webp",
     "thumb": "photos/thumb-contributed-2557.webp",
     "title": "John Nicolo · 1979 Stagg Bowl champion",
@@ -2527,6 +2593,17 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+  },
+  {
+    "file": "photos/add-IMG_2720.webp",
+    "thumb": "photos/add-thumb-IMG_2720.webp",
+    "title": "Steve Peach · 1981 Shriners Football Classic",
+    "caption": "Ken Gordon’s Boston Globe preview of the 1981 Shriners Football Classic includes Saugus quarterback Steve Peach on the North All-Star roster. The article notes his Syracuse scholarship and highlights the players’ visits to Shriners hospitals and the game’s fundraising mission.",
+    "year": 1981,
+    "original": "IMG_2720.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
   },
   {
     "file": "photos/honors-IMG_4166.webp",
