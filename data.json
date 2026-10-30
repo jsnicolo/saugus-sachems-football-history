@@ -104,13 +104,13 @@
       "coach": "Fred Beresford",
       "record": "9 - 0 - 2",
       "league": "Greater Lynn League",
-      "title": null,
+      "title": "Greater Lynn League Champions",
       "players": "Franklin \"Ooze\" Pike, John Pike, Googie Emery, Forrest Kenerson, Podge Herold, Lester Pool",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 15,
       "championshipClaim": "Greater Lynn League / Class C championship",
-      "championshipNote": "The season workbook lists a Greater Lynn League title, while the 1942 yearbook retrospectively implies a 1922 Class C title. A contemporary in-season clipping says coach Beresford was claiming no championship at that point. The unbeaten 9–0–2 record does not by itself settle either title; final 1922 standings or an award report are still needed.",
+      "championshipNote": "Retained as a championship season at Sal Nicolo’s request, following the supplied season workbook. The unbeaten team finished 9–0–2. The 1942 yearbook retrospectively refers to a 1922 Class C championship, while an in-season 1922 clipping says no title was being claimed at that point. The precise historical title remains under review.",
       "championshipSources": [
         {
           "label": "1922 clipping · no title claimed at that point",
@@ -121,7 +121,8 @@
           "url": "https://archive.org/details/tontoquonian1942saug"
         }
       ],
-      "championshipStatus": "unverified"
+      "championshipStatus": "supported",
+      "championshipCategory": "League · historical designation"
     },
     {
       "year": 1923,
