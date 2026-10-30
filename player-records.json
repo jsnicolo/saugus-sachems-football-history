@@ -14,7 +14,8 @@
       "schoolClass": "Globe's All Time Team",
       "year": 2023,
       "publisher": "Boston Globe",
-      "row": 3
+      "row": 3,
+      "award": "Retrospective all-time team (not a 2023 playing-season award)"
     },
     {
       "name": "Doug Mackie",
@@ -34,7 +35,7 @@
       "row": 4
     },
     {
-      "name": "LJ McKanas",
+      "name": "L.J. McKanas",
       "position": "RB",
       "schoolClass": "Sr",
       "year": 1996,
@@ -42,12 +43,13 @@
       "row": 4
     },
     {
-      "name": "Brandon Faiella**",
+      "name": "Braden Faiella**",
       "position": "LB/DPOY",
       "schoolClass": "Sr",
       "year": 2023,
       "publisher": "Lynn Item",
-      "row": 5
+      "row": 5,
+      "sourceNote": "Contemporary clipping spells the first name Braden; original workbook uses Brandon."
     },
     {
       "name": "Dan Schena",
@@ -58,7 +60,7 @@
       "row": 5
     },
     {
-      "name": "Tommy DeSimmone",
+      "name": "Tommy DeSimone",
       "position": "RB",
       "schoolClass": "Sr",
       "year": 2023,
@@ -74,7 +76,7 @@
       "row": 6
     },
     {
-      "name": "Brandon Faiella*",
+      "name": "Braden Faiella*",
       "position": "LB",
       "schoolClass": "Jr",
       "year": 2022,
@@ -135,7 +137,10 @@
       "schoolClass": "Sr",
       "year": 1958,
       "publisher": "Boston Globe",
-      "row": 10
+      "row": 10,
+      "award": "All-Scholastic reserves · guard",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
+      "sourceLabel": "1958 Globe selection scan"
     },
     {
       "name": "Ricky Martinez",
@@ -202,12 +207,14 @@
       "row": 14
     },
     {
-      "name": "Dan Cicciola",
+      "name": "Dan Cacciola",
       "position": "RB",
       "schoolClass": "Sr",
       "year": 2014,
       "publisher": "Lynn Item",
-      "row": 15
+      "row": 15,
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_4150.webp",
+      "sourceLabel": "2014 Item team"
     },
     {
       "name": "Eugene Decereau",
@@ -263,7 +270,10 @@
       "schoolClass": "Sr",
       "year": 1944,
       "publisher": "Boston Globe",
-      "row": 18
+      "row": 18,
+      "award": "All-Scholastic first team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3718.webp",
+      "sourceLabel": "1944 Globe selection scan"
     },
     {
       "name": "Shamir Guillaume",
@@ -279,7 +289,10 @@
       "schoolClass": "Sr",
       "year": 1944,
       "publisher": "Boston Globe",
-      "row": 19
+      "row": 19,
+      "award": "All-Scholastic second team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3718.webp",
+      "sourceLabel": "1944 Globe selection scan"
     },
     {
       "name": "Brett Reid**",
@@ -295,7 +308,10 @@
       "schoolClass": "Sr",
       "year": 1941,
       "publisher": "Boston Globe",
-      "row": 20
+      "row": 20,
+      "award": "All-Scholastic second team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan"
     },
     {
       "name": "Mike Dean",
@@ -426,7 +442,7 @@
       "row": 35
     },
     {
-      "name": "LJ Mckanas",
+      "name": "L.J. McKanas",
       "position": "RB",
       "schoolClass": "Sr",
       "year": 1996,
@@ -442,20 +458,24 @@
       "row": 37
     },
     {
-      "name": "Carlos Abate**",
+      "name": "Carlo Abate**",
       "position": "LB",
       "schoolClass": "Sr",
       "year": 1995,
       "publisher": "Lynn Item",
-      "row": 38
+      "row": 38,
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3328.webp",
+      "sourceLabel": "1995 Item team"
     },
     {
-      "name": "Carlos Abate*",
+      "name": "Carlo Abate*",
       "position": "LB",
       "schoolClass": "Jr",
       "year": 1994,
       "publisher": "Lynn Item",
-      "row": 39
+      "row": 39,
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3331.webp",
+      "sourceLabel": "1994 Item team"
     },
     {
       "name": "Joseph Attubato",
@@ -842,12 +862,14 @@
       "row": 87
     },
     {
-      "name": "Eddie McGuire",
+      "name": "Eddie Maguire",
       "position": "Back",
       "schoolClass": "Sr",
       "year": 1966,
       "publisher": "Lynn Item",
-      "row": 88
+      "row": 88,
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3337.webp",
+      "sourceLabel": "1966 Item team"
     },
     {
       "name": "John Dancewicz",
@@ -962,20 +984,26 @@
       "row": 102
     },
     {
-      "name": "Matt Light",
+      "name": "Mike Light",
       "position": "End",
       "schoolClass": "Sr",
       "year": 1958,
       "publisher": "Lynn Item",
-      "row": 103
+      "row": 103,
+      "award": "North Shore All-Star second team · end",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3350.webp",
+      "sourceLabel": "1958 Item team"
     },
     {
-      "name": "Dick Rohrbacker",
+      "name": "Dick Rohrbacher",
       "position": "OL",
       "schoolClass": "Sr",
       "year": 1957,
       "publisher": "Lynn Item",
-      "row": 104
+      "row": 104,
+      "award": "North Shore All-Star first team · tackle",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3349.webp",
+      "sourceLabel": "1957 Item team"
     },
     {
       "name": "Bob Piwowarski",
@@ -1072,6 +1100,437 @@
       "year": 1946,
       "publisher": "Lynn Item",
       "row": 116
+    },
+    {
+      "year": 1941,
+      "name": "Collette",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Goclowski",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "MacDonald",
+      "position": "Tackle",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Pendlebury",
+      "position": "Tackle",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Daniels",
+      "position": "Guard",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Flaherty",
+      "position": "Guard",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Art Statuto",
+      "position": "Center",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Edward “Eddie” Shipulski",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1941,
+      "name": "Goss",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
+      "sourceLabel": "1941 Globe selection scan",
+      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+    },
+    {
+      "year": 1944,
+      "name": "Art Spinney",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games",
+      "sourceNote": "Captain of the North Shore All-Stars."
+    },
+    {
+      "year": 1944,
+      "name": "Dick Allen",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "Don Reiniger",
+      "position": "Linebacker",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "John Quinlan",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "Bob Thurell",
+      "position": "Punter",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "Bruce Waybright",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games"
+    },
+    {
+      "year": 1944,
+      "name": "Bob Kane",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "North Shore All-Star game",
+      "award": "North Shore All-Star game selection",
+      "sourceUrl": "https://archive.org/details/tontoquonian1945saug",
+      "sourceLabel": "1945 Tontoquonian · post-season games",
+      "sourceNote": "Chosen but unable to play because of an ankle injury."
+    },
+    {
+      "year": 1969,
+      "name": "Bob Osgood",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC first offensive team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "Bill Eichel",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC first offensive team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "Steve Nelson",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC first defensive team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "Rich DeSisto",
+      "position": "Utility",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "Bill Babcock",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "Rich Conti",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1969,
+      "name": "John Richard",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp",
+      "sourceLabel": "1969 season yearbook review"
+    },
+    {
+      "year": 1994,
+      "name": "Carlo Abate",
+      "position": "LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3331.webp",
+      "sourceLabel": "1994 Item capsule"
+    },
+    {
+      "year": 1995,
+      "name": "Carlo Abate",
+      "position": "LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3328.webp",
+      "sourceLabel": "1995 Item capsule"
+    },
+    {
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC Offensive Player of the Year",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3333.webp",
+      "sourceLabel": "1996 Item capsule"
+    },
+    {
+      "year": 1997,
+      "name": "Ryan Leahy",
+      "position": "QB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3357.webp",
+      "sourceLabel": "1997 Item capsule"
+    },
+    {
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3359.webp",
+      "sourceLabel": "1998 Item capsule"
+    },
+    {
+      "year": 1998,
+      "name": "Mike Panzini",
+      "position": "LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3360.webp",
+      "sourceLabel": "1998 Item capsule"
+    },
+    {
+      "year": 1999,
+      "name": "George Lowe",
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://archive.org/details/tontoquonian2000saug",
+      "sourceLabel": "2000 Tontoquonian · 1999 football review"
+    },
+    {
+      "year": 2000,
+      "name": "Ryan Gould",
+      "position": "LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3362.webp",
+      "sourceLabel": "2000 Item capsule"
+    },
+    {
+      "year": 2000,
+      "name": "Billy Robinson",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Conference team",
+      "sourceUrl": "https://archive.org/details/tontoquonian2001saug",
+      "sourceLabel": "2001 Tontoquonian · 2000 football review"
+    },
+    {
+      "year": 2001,
+      "name": "Pat Eaton",
+      "position": "DB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3365.webp",
+      "sourceLabel": "2001 Item capsule"
+    },
+    {
+      "year": 2002,
+      "name": "Anthony Barbanti",
+      "position": "DL",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3369.webp",
+      "sourceLabel": "2002 Item capsule"
+    },
+    {
+      "year": 2003,
+      "name": "Anthony Barbanti",
+      "position": "DL",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star (third career selection)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3256.webp",
+      "sourceLabel": "2003 Item All-Star article; three-time NEC selection"
+    },
+    {
+      "year": 2003,
+      "name": "Mike Nicolo",
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3256.webp",
+      "sourceLabel": "2003 Item player capsule"
+    },
+    {
+      "year": 2004,
+      "name": "Brian Bianchi",
+      "position": "LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3371.webp",
+      "sourceLabel": "2004 Item capsule"
+    },
+    {
+      "year": 2010,
+      "name": "Shamir Guillaume",
+      "position": "RB/LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_4142.webp",
+      "sourceLabel": "2010 Item capsule"
+    },
+    {
+      "year": 2014,
+      "name": "Justin Winn",
+      "position": "QB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_4149.webp",
+      "sourceLabel": "2014 Item capsule"
+    },
+    {
+      "year": 2014,
+      "name": "Dan Cacciola",
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_4150.webp",
+      "sourceLabel": "2014 Item capsule"
+    },
+    {
+      "year": 2015,
+      "name": "Brendan Grocki",
+      "position": "OL/LB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4152.webp",
+      "sourceLabel": "2015 Item capsule"
     }
   ],
   "alumni": [
