@@ -258,12 +258,81 @@
     "file": "photos/zip-IMG_2712.webp",
     "thumb": "photos/thumb-zip-IMG_2712.webp",
     "title": "The 1928 football team",
-    "caption": "The Saugus High School football team poses outside the school in this portrait labeled 1928.",
+    "caption": "Fred Beresford’s 1928 team brought a new generation onto Stackpole’s Field. The yearbook recalls forty-five candidates but only two returning varsity men, captain Reggie Goss and Gilman Cann, and describes a squad whose oldest player was seventeen. Carroll Freeman, Red Hunnewell, Stuart Kidder and Jim Foley emerge as central figures in its account of hard work and determined play. Kidder, a first-year player who became the leading ground-gainer, provided a memorable Thanksgiving highlight with a pass to Goss that gained more than sixty yards. Saugus lost that muddy finale to Mission High of Roxbury, 6–0, but the yearbook honored the seniors’ effort and the resolve of a team that kept fighting against heavier opposition. The original portrait and two newly added review pages preserve the players, their positions, the Thanksgiving game and the hopes placed in the next generation. The seven wins in eleven games mentioned in the opening historical passage belong to 1927, not the 1928 season.",
     "year": 1928,
     "original": "IMG_2712.jpg",
     "category": "Teams",
     "golden": true,
-    "dateSource": "1928 is written on the photograph; correction confirmed by Sal Nicolo, October 2026."
+    "dateSource": "1928 is written on the photograph; correction confirmed by Sal Nicolo, October 2026.",
+    "images": [
+      {
+        "file": "photos/zip-IMG_2712.webp",
+        "thumb": "photos/thumb-zip-IMG_2712.webp",
+        "title": "The 1928 football team",
+        "caption": "The Saugus High School football team poses outside the school in this portrait labeled 1928.",
+        "year": 1928,
+        "original": "IMG_2712.jpg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "1928 is written on the photograph; correction confirmed by Sal Nicolo, October 2026."
+      },
+      {
+        "file": "photos/yearbook-1928-2767.webp",
+        "thumb": "photos/thumb-yearbook-1928-2767.webp",
+        "title": "1928 season review · a young team under Fred Beresford",
+        "caption": "The yearbook traces the senior class’s football experience from 1925 through 1928. After a 1927 team coached by Benny Rice won seven of eleven games, Fred Beresford returned for 1928. Forty-five candidates answered the call, but Reggie Goss and Gilman Cann were the only returning varsity men identified at the outset. Goss was elected captain. The account describes an unusually young squad: its oldest player was seventeen, most were sixteen, and speedy Larry Templeman was only fifteen. Carroll Freeman earned a place at left tackle, Red Hunnewell played guard, and newcomer Stuart Kidder won the fullback position and led the team in yardage.",
+        "year": 1928,
+        "original": "IMG_2767(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      },
+      {
+        "file": "photos/yearbook-1928-2768.webp",
+        "thumb": "photos/thumb-yearbook-1928-2768.webp",
+        "title": "1928 Thanksgiving · a determined stand in the mud",
+        "caption": "On Thanksgiving morning at Stackpole’s Field, Saugus faced the heavier Mission High team from Roxbury on a surface covered by three or four inches of mud. Mission won 6–0, but the yearbook praised Saugus’s effort before the season’s largest home crowd. Stuart Kidder’s pass to Reggie Goss produced a gain of more than sixty yards. Freeman, Hunnewell and Goss anchored a stubborn left side, while Kidder, Kelley and Jim Foley earned praise in the backfield. Foley, who played with one arm, was singled out for his tackling, passing and spirit. The page also records the first-string lineup and looks ahead to captain-elect Ernie Castle and returning players Lawrence Templeman, Jimmy Glinski, Mike Gifford and Bill MacKay.",
+        "year": 1928,
+        "original": "IMG_2768(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      }
+    ]
+  },
+  {
+    "file": "photos/yearbook-1929-2769.webp",
+    "thumb": "photos/thumb-yearbook-1929-2769.webp",
+    "title": "The 1929 football team",
+    "caption": "Coach Rice’s 1929 Sachems began with consecutive shutout victories over Manchester and Swampscott. The 12–0 Swampscott result was especially significant: the yearbook described it as Saugus’s first victory over that rival. Templeman supplied the finishing runs, while Roveto’s passing and the receiving of Gates and Quint helped move the offense. Injuries and a demanding schedule tested the team, including captain Quint’s knee injury against Milton and tackle Ed Newbury’s broken wrist at Chelsea. A 27–6 victory over Rockport showcased Templeman’s big-play running, with touchdown runs of 70, 44 and 35 yards. The squad portrait and companion game account, published in the 1930 Tontoquonian, offer a detailed view of the preceding fall’s players and performances. The supplied results page ends with Chelsea and does not document the complete season record.",
+    "year": 1929,
+    "category": "Teams",
+    "golden": true,
+    "images": [
+      {
+        "file": "photos/yearbook-1929-2769.webp",
+        "thumb": "photos/thumb-yearbook-1929-2769.webp",
+        "title": "1929 Sachems · team portrait",
+        "caption": "The 1929 Saugus High football squad poses on the school steps in this yearbook portrait. The photograph preserves the team as a group, but carries no individual identification key; names discussed in the companion season account should not be treated as confirmed identifications of particular faces.",
+        "year": 1929,
+        "original": "IMG_2769(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      },
+      {
+        "file": "photos/yearbook-1929-2770.webp",
+        "thumb": "photos/thumb-yearbook-1929-2770.webp",
+        "title": "1929 season · game-by-game yearbook account",
+        "caption": "Published in the 1930 Tontoquonian, this page reviews the preceding fall. Saugus opened September 28 at Stackpole’s Field with a 22–0 victory over Manchester: Templeman scored twice, Gifford once, and Gates added a safety. A 12–0 victory over Swampscott followed, described by the yearbook as Saugus’s first football win over that opponent. Roveto’s passing to Gates and Quint helped set up one Templeman touchdown; Templeman later added a 25-yard scoring run. Losses followed against Milton (15–0), Essex Aggies (15–0) and Reading (12–0). Saugus rebounded against Rockport, 27–6, with Templeman scoring on runs of 70, 44 and 35 yards and Muzzey adding another touchdown. Chelsea won the next recorded game, 24–6, with Templeman scoring for Saugus. Captain Quint injured his right knee against Milton, while tackle Ed Newbury broke his right wrist against Chelsea. This page does not include the Danvers result or establish the complete season record.",
+        "year": 1929,
+        "original": "IMG_2770(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      }
+    ],
+    "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
   },
   {
     "file": "photos/contributed-2740.webp",
@@ -287,6 +356,40 @@
     "golden": true,
     "dateSource": "Lynn Item clipping supplied by Sal Nicolo; caption based on visible text. Publication year supplied by contributor unless printed; any date conflict is noted in the caption.",
     "dateLabel": "1930 · captain elected for 1931"
+  },
+  {
+    "file": "photos/yearbook-1930-2771.webp",
+    "thumb": "photos/thumb-yearbook-1930-2771.webp",
+    "title": "The 1930 football team",
+    "caption": "Led by captain Jim Muzzy and Coach Rice, the 1930 Sachems were celebrated in their yearbook as Saugus’s best football team since the undefeated 1922 squad. A 30–0 opening victory over Manchester set the tone, while Laurie Templeman’s speed and scoring and Muzzy’s passing, tackling and steady leadership gave the backfield its character. Rice’s tribute also recognized Jimmie Glinski, Albie Day, Harry Raddin, Eddie Newbury, Stewart Quint, Foster and Gordon Baker, emphasizing the line play, blocking and persistence behind the team’s success. The squad photograph commemorates a 14–0 victory over Danvers with a handwritten 1930 notation. Its printed “Football Squad of 1931” caption reflects a dating difference retained in the image and explained here; the gallery follows the 1930 season identification supplied by Sal Nicolo. Beyond the games, the review honors the cheerleaders and recalls a Parent Teachers’ Association banquet at which nine seniors received sweaters and returning players received letters. Together, the portrait and written tribute preserve a season remembered for strong play, shared effort and community pride. The supplied page does not establish an exact final season record.",
+    "year": 1930,
+    "category": "Teams",
+    "golden": true,
+    "images": [
+      {
+        "file": "photos/yearbook-1930-2771.webp",
+        "thumb": "photos/thumb-yearbook-1930-2771.webp",
+        "title": "1930 Sachems · squad portrait & Danvers victory",
+        "caption": "The team photograph bears the handwritten notation “Saugus 14, Danvers 0 — 1930.” Although the printed caption calls it the football squad of 1931, it is grouped here with the 1930 season as identified by Sal Nicolo and the handwritten game notation. The image preserves the squad in numbered jerseys; without a printed identification key, individual players cannot be securely matched to positions in the portrait.",
+        "year": 1930,
+        "original": "IMG_2771(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      },
+      {
+        "file": "photos/yearbook-1930-2772.webp",
+        "thumb": "photos/thumb-yearbook-1930-2772.webp",
+        "title": "1930 season · Captain Jim Muzzy & Coach Rice’s tribute",
+        "caption": "The yearbook called this Saugus’s best team since the unbeaten 1922 eleven. Coach Rice’s squad opened with a 30–0 win over Manchester and was led by captain Jim Muzzy, whose surname appears elsewhere as Muzzey. Rice praised Jimmie Glinski’s strength in the line, Albie Day at center, Harry Raddin at offensive end, Eddie Newbury’s determination despite an injured wrist, and Stewart Quint’s steady improvement at tackle. Foster was credited with directing the offense, Gordon Baker with effective blocking, and Laurie Templeman with speed and scoring ability. Muzzy earned praise as a consistent all-around contributor, blocker, tackler and passer, and as a scoring threat second only to Templeman. Frances Keough directed the cheerleaders, supported by Eunice Shea, Florence Russell, Elwin Shaw and Charles Brostrom. At the Parent Teachers’ Association football banquet, nine seniors received sweaters and younger squad members received letters. Captain Muzzy and Coach Rice spoke, while musical entertainment and impersonations completed the celebration. The account does not supply a full won–lost record.",
+        "year": 1930,
+        "original": "IMG_2772(1).jpeg",
+        "category": "Teams",
+        "golden": true,
+        "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
+      }
+    ],
+    "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
   },
   {
     "file": "photos/zip-IMG_2721.webp",
