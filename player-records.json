@@ -1079,137 +1079,278 @@
       "name": "Stan Green",
       "position": "End",
       "schoolClass": "1940",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Football Captain. Boston Herald and Boston Post All Scholastic team his senior season. Went on to play college football at Columbia.",
-      "row": 3
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nFootball Captain. Boston Herald and Boston Post All Scholastic team his senior season. Went on to play college football at Columbia.",
+      "row": 3,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "John \"Iron Mike\" Harrington",
       "position": "RB",
-      "schoolClass": "1944",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Two-time football captain. Boston Herald, Boston Globe, WESX, and North Shore All Scholastic team his senior season. Also an excellent baseball player. Athletic career ended after his senior season due to an accident. One of the greatest athletes to come out of Saugus.",
-      "row": 4
+      "schoolClass": "1942",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nTwo-time football captain. Boston Herald, Boston Globe, WESX, and North Shore All Scholastic team his senior season. Also an excellent baseball player. Athletic career ended after his senior season due to an accident. One of the greatest athletes to come out of Saugus.",
+      "row": 4,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        },
+        {
+          "label": "1942 yearbook · senior class",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        }
+      ]
     },
     {
       "name": "Art Statuto",
       "position": "OL",
-      "schoolClass": "1944",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 1989). Helped lead the Sachems to the 1941 Class C state championship. Went on to play college football at Notre Dame, where he was a member of their 1946 and 1947 National Champion football teams. He was selected to the 1948 college football All-Star Team. After graduating, he played professional football for three seasons with the Buffalo Bills (AAFC) and Los Angeles Rams (NFL) at the center position.",
-      "row": 5
+      "schoolClass": "1943",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1989.\n\nHelped lead the Sachems to the 1941 Class C state championship. Went on to play college football at Notre Dame, where he was a member of their 1946 and 1947 National Champion football teams. He was selected to the 1948 college football All-Star Team. After graduating, he played professional football for three seasons with the Buffalo Bills (AAFC) and Los Angeles Rams (NFL) at the center position.",
+      "row": 5,
+      "hallOfFameYear": 1989,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1989",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        },
+        {
+          "label": "1943 yearbook · senior biography",
+          "url": "https://archive.org/details/tontoquonian1943saug"
+        }
+      ]
     },
     {
       "name": "Doug Waybright",
       "position": "RB",
       "schoolClass": "1944",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 1988). Won State Championship in 1941 during his sophomore season. Was Captain his senior season. A 1943 Essex County All-Star. Went on to play college football at Notre Dame (1945, 1947-1949). Member of the 1947 and 1949 National Championship teams at Notre Dame. After college he served in the military before he returned to Saugus, where he was very active in youth sports. He was so beloved by the town that when he died at the young age of 38, officials named a new elementary school in his honor.",
-      "row": 6
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nWon State Championship in 1941 during his sophomore season. Was Captain his senior season. A 1943 Essex County All-Star. Went on to play college football at Notre Dame (1945, 1947-1949). Member of the 1947 and 1949 National Championship teams at Notre Dame. After college he served in the military before he returned to Saugus, where he was very active in youth sports. He was so beloved by the town that when he died at the young age of 38, officials named a new elementary school in his honor.",
+      "row": 6,
+      "hallOfFameYear": 1988,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1988",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Art Spinney",
       "position": "OL/End",
       "schoolClass": "1945",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Went on to play college football at Boston College where he was Captain his senior season (1949). A 1972 Inductee into the Boston College Athletic Hall of Fame.\nPlayed in the NFL for the Baltimore Colts (1950, 1953-1960) where he won several accolades:\n3x All Pro (1958 - 1960)\n2x Pro Bowl (1959 - 1960)\n2x NFL Champion (1958 - 1959)\nWas the Offensive Line Coach for the Boston Patriots from 1962 - 1968.",
-      "row": 7
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nWent on to play college football at Boston College where he was Captain his senior season (1949). A 1972 Inductee into the Boston College Athletic Hall of Fame.\nPlayed in the NFL for the Baltimore Colts (1950, 1953-1960) where he won several accolades:\n3x All Pro (1958 - 1960)\n2x Pro Bowl (1959 - 1960)\n2x NFL Champion (1958 - 1959)\nWas the Offensive Line Coach for the Boston Patriots from 1962 - 1968.",
+      "row": 7,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "George Laskey",
       "position": "RB",
       "schoolClass": "1948",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). 2x Sgt. Arthur Defranzo Player of the Year Award winner (1946-1947), Thomas Atkins Memorial Award 1946, named Boston Globe, Boston Post, Lynn Item, and North Shore All Scholastic teams in 1947.",
-      "row": 8
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\n2x Sgt. Arthur Defranzo Player of the Year Award winner (1946-1947), Thomas Atkins Memorial Award 1946, named Boston Globe, Boston Post, Lynn Item, and North Shore All Scholastic teams in 1947.",
+      "row": 8,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Dan Murphy",
       "position": "OL",
       "schoolClass": "1950",
-      "bio": "Saugus High School Hall of Fame inductee (Class of 1994). Named a Boston Globe and Lynn Item All-Scholastic in 1949.",
-      "row": 9
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1994.\n\nNamed a Boston Globe and Lynn Item All-Scholastic in 1949.",
+      "row": 9,
+      "hallOfFameYear": 1994,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1994",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Salvatore 'Sardi' Nicolo",
       "position": "RB",
       "schoolClass": "1950",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). A three-year starter at running back, Sal “Sardi” Nicolo became one of Massachusetts’ most celebrated high school football players. In a memorable senior season, he led his division in touchdowns and points, earned numerous All-Scholastic selections and received honorable mention High School All-American recognition.\n\nHis signature Sachems moment came in the 1949 Exchange Bowl, when he caught a 50-yard, over-the-shoulder touchdown pass from his brother Richie to tie Weymouth as time expired. Jimmy Kane’s extra point secured Saugus’ 7–6 victory and the Exchange Bowl championship. Nicolo also excelled in baseball.\n\nHe went on to play football at Louisiana State University from 1952 through 1954. His 94-yard touchdown run against Rice on October 4, 1952, remains a memorable achievement in LSU football history.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nA three-year starter at running back, Sal “Sardi” Nicolo became one of Massachusetts’ most celebrated high school football players. In a memorable senior season, he led his division in touchdowns and points, earned numerous All-Scholastic selections and received honorable mention High School All-American recognition.\n\nHis signature Sachems moment came in the 1949 Exchange Bowl, when he caught a 50-yard, over-the-shoulder touchdown pass from his brother Richie to tie Weymouth as time expired. Jimmy Kane’s extra point secured Saugus’ 7–6 victory and the Exchange Bowl championship. Nicolo also excelled in baseball.\n\nHe went on to play football at Louisiana State University from 1952 through 1954. His 94-yard touchdown run against Rice on October 4, 1952, remains a memorable achievement in LSU football history.",
       "row": 10,
-      "source": "Profile details supplied by Sal Nicolo, October 2026."
+      "source": "Profile details supplied by Sal Nicolo, October 2026.",
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Richard “Richie” Nicolo",
       "position": "QB",
       "schoolClass": "1951",
-      "bio": "Saugus High School Hall of Fame Inductee (1988). A Lynn Item All-Scholastic in 1950, Richard “Richie” Nicolo was a dual-threat quarterback who could beat opponents with both his arm and his legs. He led the Sachems to consecutive Exchange Bowl championships in 1949 and 1950.\n\nIn the 1949 Exchange Bowl, his 50-yard touchdown pass to his brother Sardi as time expired tied Weymouth. Jimmy Kane’s extra point completed the dramatic 7–6 victory. The following year, Richie threw two touchdown passes and rushed for two more scores in a 30–12 win over Brockton, earning the game’s Most Valuable Player honors.\n\nNicolo continued his college football career at Boston College and Louisiana State University (LSU).",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nA Lynn Item All-Scholastic in 1950, Richard “Richie” Nicolo was a dual-threat quarterback who could beat opponents with both his arm and his legs. He led the Sachems to consecutive Exchange Bowl championships in 1949 and 1950.\n\nIn the 1949 Exchange Bowl, his 50-yard touchdown pass to his brother Sardi as time expired tied Weymouth. Jimmy Kane’s extra point completed the dramatic 7–6 victory. The following year, Richie threw two touchdown passes and rushed for two more scores in a 30–12 win over Brockton, earning the game’s Most Valuable Player honors.\n\nNicolo continued his college football career at Boston College and Louisiana State University (LSU).",
       "row": 11,
-      "source": "Profile details supplied by Sal Nicolo, October 2026."
+      "source": "Profile details supplied by Sal Nicolo, October 2026.",
+      "hallOfFameYear": 1988,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1988",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Christie Serino",
       "position": "QB",
       "schoolClass": "1967",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). Set the career passing yards record at Saugus.\nWent on to have a successful hockey coaching career. Coached in the Hockey East 1991 - 2005 (Assistant Coach at UNH 1991-1998; Head Coach at Merrimack 1999 - 2005).\nSpent his final years as head coach, building Malden Catholic hockey program into a powerhouse (2005 - 2011). He led Malden Catholic to the Super 8 Championship in his final season in 2011.",
-      "row": 12
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nSet the career passing yards record at Saugus.\nWent on to have a successful hockey coaching career. Coached in the Hockey East 1991 - 2005 (Assistant Coach at UNH 1991-1998; Head Coach at Merrimack 1999 - 2005).\nSpent his final years as head coach, building Malden Catholic hockey program into a powerhouse (2005 - 2011). He led Malden Catholic to the Super 8 Championship in his final season in 2011.",
+      "row": 12,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Doug Mackie",
       "position": "OL",
       "schoolClass": "1976",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987). 2x Boston Globe, Boston Herald, and Lynn Item All Scholastic (1974-1975). Named to Parade Magazine and Blue Chip Magazine High School All American Team in 1975. Went on to play college football at Ohio State for the legendary Woody Hayes. Injuries cost him some playing time during his college days. Went on to play professionally in the NFL for the New York Giants (1982), New Orleans Saints (1986), and Atlanta Falcons (1987) although he was mostly a practice player in the NFL. His greatest success as a professional was in the USFL where he played for the Tampa Bay Bandits (1983) and the New Jersey Generals (1984-1985). While playing for the New Jersey Generals he was selected as a 1984 College & Pro Football Newsweekly 2nd Team All-Pro along with running back Herschel Walker as he was part of the starting offensive line who helped Walker set the still standing, single-season, pro football rushing record of 2,411 yards.",
-      "row": 13
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\n2x Boston Globe, Boston Herald, and Lynn Item All Scholastic (1974-1975). Named to Parade Magazine and Blue Chip Magazine High School All American Team in 1975. Went on to play college football at Ohio State for the legendary Woody Hayes. Injuries cost him some playing time during his college days. Went on to play professionally in the NFL for the New York Giants (1982), New Orleans Saints (1986), and Atlanta Falcons (1987) although he was mostly a practice player in the NFL. His greatest success as a professional was in the USFL where he played for the Tampa Bay Bandits (1983) and the New Jersey Generals (1984-1985). While playing for the New Jersey Generals he was selected as a 1984 College & Pro Football Newsweekly 2nd Team All-Pro along with running back Herschel Walker as he was part of the starting offensive line who helped Walker set the still standing, single-season, pro football rushing record of 2,411 yards.",
+      "row": 13,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Steve Gannon",
       "position": "End",
       "schoolClass": "1976",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 1988). Went on to play college football at Holy Cross. He was a standout member of the defense for the Holy Cross football team during the late 1970s. Earned first team All-ECAC honors during his senior year, in addition to receiving the Davitt Award as the team’s top defensive lineman. As a senior led the team with 143 tackles, the most in recorded school history at the time. During his junior year in 1978, he helped lead the Crusaders to an overall record of 7-4, including victories over Air Force, Army and Boston College. A 2020 Inductee into the Holy Cross Athletic Hall of Fame. After college he had two NFL tryouts, one with the New York Giants and one with the Cincinnati Bengals both in 1980. After his playing days ended he got involved in coaching youth and high school football, being an assistant coach on John Nicolo's Sachems teams (2001-2004).",
-      "row": 14
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nWent on to play college football at Holy Cross. He was a standout member of the defense for the Holy Cross football team during the late 1970s. Earned first team All-ECAC honors during his senior year, in addition to receiving the Davitt Award as the team’s top defensive lineman. As a senior led the team with 143 tackles, the most in recorded school history at the time. During his junior year in 1978, he helped lead the Crusaders to an overall record of 7-4, including victories over Air Force, Army and Boston College. A 2020 Inductee into the Holy Cross Athletic Hall of Fame. After college he had two NFL tryouts, one with the New York Giants and one with the Cincinnati Bengals both in 1980. After his playing days ended he got involved in coaching youth and high school football, being an assistant coach on John Nicolo's Sachems teams (2001-2004).",
+      "row": 14,
+      "hallOfFameYear": 1988,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1988",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "John Nicolo",
       "position": "RB",
       "schoolClass": "1976",
-      "bio": "Saugus High School Hall of Fame Inductee (Inaugural Class, 1987)\nA two-time Lynn Item All-Scholastic (1974, 1975) and 1975 Thom McCann North Shore Player of the Year and Boston Herald All-Scholastic, he captained Saugus to a share of the 1975 Northeastern Conference championship.\nAt Ithaca College, he starred in football and baseball: All-American running back on the 1979 Stagg Bowl (Division III National) champions; College World Series MVP on the 1980 Division III National Championship baseball team.\nThree-time Ithaca College Athletic Hall of Fame inductee (1986 individual; 2014 football team; 2019 baseball team).\nLater contributions: Rebuilt Saugus Pop Warner program; Saugus Sachems head football coach (2001–2004); interim Saugus High School Athletic Director (2003–2004).",
-      "row": 15
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nA two-time Lynn Item All-Scholastic (1974, 1975) and 1975 Thom McCann North Shore Player of the Year and Boston Herald All-Scholastic, he captained Saugus to a share of the 1975 Northeastern Conference championship.\nAt Ithaca College, he starred in football and baseball: All-American running back on the 1979 Stagg Bowl (Division III National) champions; College World Series MVP on the 1980 Division III National Championship baseball team.\nThree-time Ithaca College Athletic Hall of Fame inductee (1986 individual; 2014 football team; 2019 baseball team).\nLater contributions: Rebuilt Saugus Pop Warner program; Saugus Sachems head football coach (2001–2004); interim Saugus High School Athletic Director (2003–2004).",
+      "row": 15,
+      "hallOfFameYear": 1987,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1987",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Steve Peach",
       "position": "QB",
       "schoolClass": "1981",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 1991). A 3x Lynn Item All Scholastic (first player to ever make the team 3x). Greatest QB to ever come out of Saugus High. Was also an excellent baseball and basketball player. He was heavily recruited by Syracuse and Boston College, and he decided on going to Syracuse, where he started as a freshman. After that, he transferred to Boston College as a junior and was the backup to Doug Flutie and was also the punter.",
-      "row": 16
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1991.\n\nA 3x Lynn Item All Scholastic (first player to ever make the team 3x). Greatest QB to ever come out of Saugus High. Was also an excellent baseball and basketball player. He was heavily recruited by Syracuse and Boston College, and he decided on going to Syracuse, where he started as a freshman. After that, he transferred to Boston College as a junior and was the backup to Doug Flutie and was also the punter.",
+      "row": 16,
+      "hallOfFameYear": 1991,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1991",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Darren McCullough",
       "position": "LB",
       "schoolClass": "1987",
-      "bio": "Saugus High School Hall of Fame Inductee (Class of 1997).\n\nDarren McCullough ranks among the best all-around players in Sachems history and is one of the few Saugus players to earn Lynn Item All-Scholastic honors twice.\n\nAs a junior in 1985, he recorded 123 tackles and four interceptions while playing linebacker and defensive back. On offense, he rushed for 442 yards and added 232 receiving yards, finishing with six total touchdowns.\n\nAs a senior in 1986, McCullough again led the team in tackles and rushed for 1,081 yards and 11 touchdowns. His standout performance came against Danvers, when he rushed for 225 yards and four touchdowns while also making 16 tackles. That effort earned him the Item/Coca-Cola Gold Helmet Award.",
-      "row": 17
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1997.\n\nDarren McCullough ranks among the best all-around players in Sachems history and is one of the few Saugus players to earn Lynn Item All-Scholastic honors twice.\n\nAs a junior in 1985, he recorded 123 tackles and four interceptions while playing linebacker and defensive back. On offense, he rushed for 442 yards and added 232 receiving yards, finishing with six total touchdowns.\n\nAs a senior in 1986, McCullough again led the team in tackles and rushed for 1,081 yards and 11 touchdowns. His standout performance came against Danvers, when he rushed for 225 yards and four touchdowns while also making 16 tackles. That effort earned him the Item/Coca-Cola Gold Helmet Award.",
+      "row": 17,
+      "hallOfFameYear": 1997,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 1997",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Marc Fauci",
       "position": "QB/LB",
       "schoolClass": "1990",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 2000). A 2x Lynn Item All Scholastic. Boston Globe All Scholastic his senior season. Won the NEC Most Valuable Player Award in football during his senior year. A 2x co-captain as a junior and senior. Went on to play college football for Boston University. Led the Terriers football team during arguably its best season ever in 1993 when BU went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. A second-team All-America selection by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press, Fauci played linebacker and ranks in the top five for career primary, assisted and total tackles. Was a 2010 Inductee into the Boston University Athletic Hall of Fame.",
-      "row": 18
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2000.\n\nA 2x Lynn Item All Scholastic. Boston Globe All Scholastic his senior season. Won the NEC Most Valuable Player Award in football during his senior year. A 2x co-captain as a junior and senior. Went on to play college football for Boston University. Led the Terriers football team during arguably its best season ever in 1993 when BU went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. A second-team All-America selection by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press, Fauci played linebacker and ranks in the top five for career primary, assisted and total tackles. Was a 2010 Inductee into the Boston University Athletic Hall of Fame.",
+      "row": 18,
+      "hallOfFameYear": 2000,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 2000",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Dan Schena",
       "position": "Line",
       "schoolClass": "1991",
-      "bio": "Saugus High School Hall of Fame Inductee (Class of 2001). A Lynn Item All-Scholastic in 1990, Dan Schena was a tri-captain and the heart and soul of the Sachems’ 8–2 team, whose season remains a highlight in the program’s history.\n\nRegarded as one of the finest linemen to wear a Sachems jersey, Schena recorded more than 100 tackles during his senior season. He continued his football career at Northeastern University.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2001.\n\nA Lynn Item All-Scholastic in 1990, Dan Schena was a tri-captain and the heart and soul of the Sachems’ 8–2 team, whose season remains a highlight in the program’s history.\n\nRegarded as one of the finest linemen to wear a Sachems jersey, Schena recorded more than 100 tackles during his senior season. He continued his football career at Northeastern University.",
       "row": "User contribution",
-      "source": "Profile details supplied by Sal Nicolo, October 2026."
+      "source": "Profile details supplied by Sal Nicolo, October 2026.",
+      "hallOfFameYear": 2001,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 2001",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Mike Mabee",
       "position": "QB",
       "schoolClass": "1996",
-      "bio": "Saugus High School Hall of Fame inductee (Class of 2006) and Lynn Item All-Scholastic. A multi-sport star at Saugus High School. As co-captain and standout quarterback of the 1995 Sachems, Mabee helped end a school-record 34-game losing streak and led Saugus to a 6–5 finish—the program’s first winning season since 1990.",
-      "row": 19
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2006.\n\nA Lynn Item All-Scholastic. A multi-sport star at Saugus High School. As co-captain and standout quarterback of the 1995 Sachems, Mabee helped end a school-record 34-game losing streak and led Saugus to a 6–5 finish—the program’s first winning season since 1990.",
+      "row": 19,
+      "hallOfFameYear": 2006,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 2006",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "LJ McKanas",
       "position": "RB",
       "schoolClass": "1997",
-      "bio": "Saugus High School Hall of Fame Inductee (Class, 2007). Captain his senior season. Played a big role in turning Saugus into a competitive program in the mid-90s. During his senior season he set records for most rushing yards and most touchdowns. He was selected Boston Globe, Boston Herald, and Lynn Item All-Scholastic. He then went on to play college football at Northeastern University. After he redshirted his freshman season, he went on to become a four-year starter. During his redshirt freshman season he broke the NU rookie rushing record with 832 yards, averaging 92.4 yards per game. His Sophomore and Junior seasons were derailed due to injuries. During his senior season he set school records for most carries, 342, rushing yards, 1756, and rushing touchdowns, 14. For his senior season, he was named team MVP, All-New England, All-Conference and first-team Hanson All-America. He was also the winner of the Harry Agganis Award as the Outstanding Senior Football Player in New England. After college he appeared on the TV Show \"Survivor\" in 2014 where he finished in 9th place.",
-      "row": 20
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2007.\n\nCaptain his senior season. Played a big role in turning Saugus into a competitive program in the mid-90s. During his senior season he set records for most rushing yards and most touchdowns. He was selected Boston Globe, Boston Herald, and Lynn Item All-Scholastic. He then went on to play college football at Northeastern University. After he redshirted his freshman season, he went on to become a four-year starter. During his redshirt freshman season he broke the NU rookie rushing record with 832 yards, averaging 92.4 yards per game. His Sophomore and Junior seasons were derailed due to injuries. During his senior season he set school records for most carries, 342, rushing yards, 1756, and rushing touchdowns, 14. For his senior season, he was named team MVP, All-New England, All-Conference and first-team Hanson All-America. He was also the winner of the Harry Agganis Award as the Outstanding Senior Football Player in New England. After college he appeared on the TV Show \"Survivor\" in 2014 where he finished in 9th place.",
+      "row": 20,
+      "hallOfFameYear": 2007,
+      "sources": [
+        {
+          "label": "SHS Hall of Fame · induction class 2007",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     },
     {
       "name": "Anthony “Beave” Barbanti",
@@ -1224,7 +1365,8 @@
       "position": "RB",
       "schoolClass": "2005",
       "bio": "Saugus High School Hall of Fame Inductee (Class, 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, his athletic success extended beyond football—he was an All-Scholastic selection in Winter Track as a sophomore and in Baseball as a junior.\nHe continued his football career at Curry College, where he was part of four consecutive New England Football Conference championship teams. He also contributed to Curry’s first-ever NCAA Division III playoff victory—fittingly, against his father John’s alma mater, Ithaca College.",
-      "row": 21
+      "row": 21,
+      "hallOfFameYear": 2026
     },
     {
       "name": "Brett Reid",
@@ -1256,6 +1398,735 @@
       "schoolClass": "1996",
       "bio": "A three-year starter at linebacker and a two-time Lynn Item All-Scholastic, Carlo Abate was a cornerstone of the Sachems’ defense. As a junior in 1994, he recorded more than 120 tackles, including 22 against Lynn English in a performance that earned him Gold Helmet player of the game honors.\n\nDespite shoulder and knee injuries, Abate led the Saugus defense as a senior in 1995 with 115 tackles, four interceptions and four fumble recoveries. He played a key role in ending the Sachems’ 34-game losing streak and helping the team achieve its first winning season in five years.",
       "source": "Profile contributed by Sal Nicolo."
+    },
+    {
+      "name": "Edward “Eddie” Shipulski",
+      "position": "Halfback",
+      "schoolClass": "1942",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nEdward “Eddie” Shipulski was a major backfield star during one of Saugus High's finest football eras. A three-season player, he helped the Sachems win the 1939 North Shore championship and the 1941 Class C state championship. The 1940 yearbook singled him out as a sophomore standout after he scored twice in a 26–0 victory over Gloucester. By his senior season, Shipulski and Mike Harrington formed the backfield partnership the yearbook called its “touchdown twins.” Shipulski's 1941 highlights included touchdown runs of 70 yards against Gloucester, 57 yards against Amesbury, and 87 yards against Swampscott. A newspaper preview credited him with a team-leading 84 points entering Thanksgiving, despite an arm injury that limited his late-season action. He received Boston Globe All-Scholastic honorable mention and also played varsity baseball.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1942 Tontoquonian",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        },
+        {
+          "label": "1939 yearbook game accounts",
+          "url": "photos/tribute-2755.webp"
+        },
+        {
+          "label": "1941 preview and scoring table",
+          "url": "photos/contributed-IMG_2480.webp"
+        },
+        {
+          "label": "Globe selection clipping",
+          "url": "photos/contributed-2690.webp"
+        },
+        {
+          "label": "Melrose action clipping",
+          "url": "photos/contributed-2531.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1988",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1988
+    },
+    {
+      "name": "Michael “Mike” Garofano",
+      "position": "Halfback / Captain",
+      "schoolClass": "Year to confirm",
+      "bio": "Michael Garofano helped lead Saugus High's return to organized football in 1914. A September newspaper feature identified him as captain and left halfback of a team being rebuilt after a lengthy interruption. By the time of a 1917 preseason report, Garofano was serving in France during World War I, and Saugus was preparing to select a replacement captain. His surviving clippings preserve both an early leader of the revived football program and a young Saugus serviceman whose life extended beyond the playing field.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "September 25, 1914 feature",
+          "url": "photos/contributed-IMG_2482.webp"
+        },
+        {
+          "label": "1917 report",
+          "url": "photos/contributed-2747.webp"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "era": "1910s",
+      "sortYear": 1914
+    },
+    {
+      "name": "Franklin “Oozo” Pike",
+      "position": "Fullback",
+      "schoolClass": "Year to confirm",
+      "bio": "Franklin Pike was a powerful, versatile fullback at the center of Fred Beresford's unbeaten 1922 Saugus team. Contemporary coverage praised his strength as a runner and his ability to pass and kick, making him a threat in several parts of the game. He had already attracted notice in 1921, when a 75-yard interception return helped Saugus defeat Rockland. A later profile credited him with decisive performances against Rockland and Wellesley and described his development into one of the team's leading players. Pike represents the early generation that helped establish Saugus as a competitive football program.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "Pike feature",
+          "url": "photos/contributed-2750-1.webp"
+        },
+        {
+          "label": "Rockland report",
+          "url": "photos/contributed-2728.webp"
+        },
+        {
+          "label": "1922 review",
+          "url": "photos/add-IMG_2717.webp"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "era": "1920s",
+      "sortYear": 1922
+    },
+    {
+      "name": "Edward Amery",
+      "position": "Back / Captain",
+      "schoolClass": "Year to confirm",
+      "bio": "Captain Edward Amery supplied leadership and versatility to Saugus High's unbeaten 1922 eleven. The contemporary profile of the team praised him as a passer, receiver, interceptor, and its leading punter. Alongside Franklin Pike, Lester Pool, and quarterback Forest Kenerson, Amery helped give a relatively light squad the skill and adaptability to compete successfully under Fred Beresford. His captaincy and contributions in several roles helped shape one of Saugus's earliest outstanding teams.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1922 team/player feature",
+          "url": "photos/contributed-2750-1.webp"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "era": "1920s",
+      "sortYear": 1922
+    },
+    {
+      "name": "John “Jack” Leahy",
+      "position": "Fullback / Captain",
+      "schoolClass": "1928",
+      "bio": "John Leahy was a captain and fullback during Albion Rice's early years at Saugus. A newspaper feature compared his summer work delivering heavy blocks of ice with the conditioning associated with football celebrity Red Grange. The article identified Leahy as a junior and one of Rice's leading hopes for the following fall. The later yearbook account places him among the experienced players around whom the successful 1927 team was built, preserving his importance as both a backfield player and a veteran leader. He was inducted into the Saugus High School Athletic Hall of Fame in 1992.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "Leahy newspaper feature",
+          "url": "photos/contributed-2739.webp"
+        },
+        {
+          "label": "1928 review recalling 1927",
+          "url": "photos/yearbook-1928-2767.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1992",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1992
+    },
+    {
+      "name": "Reginald “Reggie” Goss",
+      "position": "End / QB / Punter",
+      "schoolClass": "1929",
+      "bio": "Reggie Goss was an experienced leader of Saugus football in the late 1920s. After contributing at end to the 1927 team that won seven of eleven games, he was elected captain for 1928. The yearbook records his work at quarterback and end, his responsibility for the team's punting, and his determination despite an injury carried over from the previous season. In the muddy Thanksgiving game against Mission High, he caught Stuart Kidder's long pass and continued downfield on a play that gained more than sixty yards. The account also recognizes Goss's academic achievement.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1929 senior biography for Reginald Goss",
+          "url": "https://archive.org/details/tontoquonian1929saug"
+        },
+        {
+          "label": "Yearbook review, first page",
+          "url": "photos/yearbook-1928-2767.webp"
+        },
+        {
+          "label": "Thanksgiving and lineup",
+          "url": "photos/yearbook-1928-2768.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "James “Jim” Foley",
+      "position": "Quarterback / Back",
+      "schoolClass": "1929",
+      "bio": "Jim Foley earned a memorable place in the 1928 yearbook through his passing, tackling, and upbeat approach to football. Playing with one arm, he was praised for his judgment and effectiveness as well as his determination. The season account lists him among the quarterbacks and commends his backfield work against a heavier Mission High team on Thanksgiving. Foley's story offers a distinctive portrait of an early Saugus player whose teammates valued his ability, attitude, and willingness to take on the game's demands.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1929 senior biography for James Foley",
+          "url": "https://archive.org/details/tontoquonian1929saug"
+        },
+        {
+          "label": "1928 yearbook account",
+          "url": "photos/yearbook-1928-2768.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Stuart Kidder",
+      "position": "Fullback",
+      "schoolClass": "1929",
+      "bio": "Stuart Kidder made a strong impression at fullback during the 1928 season. He won the fullback position and, according to the yearbook, gained more yardage than any other Saugus player that fall. His most vividly recalled play came against Mission High on Thanksgiving, when he escaped pressure and threw a long pass to Reggie Goss for a gain exceeding sixty yards. The yearbook regarded his combination of running ability and promise as one of the bright spots of a demanding season.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1929 senior biography for Stuart Kidder",
+          "url": "https://archive.org/details/tontoquonian1929saug"
+        },
+        {
+          "label": "Role and leading yardage",
+          "url": "photos/yearbook-1928-2767.webp"
+        },
+        {
+          "label": "Thanksgiving pass",
+          "url": "photos/yearbook-1928-2768.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "James “Jim” Muzzy",
+      "position": "Halfback / Captain",
+      "schoolClass": "1931",
+      "bio": "James Muzzy was a versatile halfback and captain of Saugus High's 1930 football team. When the lettermen elected him, Coach Albion Rice described him as the squad's best all-around player. The yearbook tribute credited Muzzy with consistent running, blocking, tackling, and passing, and ranked him behind only Laurie Templeman as a scoring threat. His leadership helped define a team remembered in the yearbook as Saugus's best since the unbeaten 1922 eleven.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "Captain election and June 1931 graduation",
+          "url": "photos/contributed-2740.webp"
+        },
+        {
+          "label": "season tribute",
+          "url": "photos/yearbook-1930-2772.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Laurence “Laurie” Templeman",
+      "position": "Halfback",
+      "schoolClass": "1931",
+      "bio": "Laurence “Laurie” Templeman was one of Saugus High's outstanding running threats at the turn of the 1930s. In 1929, he scored both touchdowns in the 12–0 victory over Swampscott that the yearbook described as Saugus's first football win over that opponent. He also scored three long touchdowns in a victory over Rockport. The following season's tribute praised his speed, scoring, and ability to threaten opponents whenever he carried the ball. Together with captain Jim Muzzy, Templeman gave Coach Rice an accomplished backfield pairing.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1929 game accounts",
+          "url": "photos/yearbook-1929-2770.webp"
+        },
+        {
+          "label": "1930 tribute",
+          "url": "photos/yearbook-1930-2772.webp"
+        },
+        {
+          "label": "departing players",
+          "url": "photos/contributed-2737.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Charles “Charlie” Murphy",
+      "position": "Guard",
+      "schoolClass": "1952",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1999.\n\nCharles Murphy was one of Saugus High's most widely recognized linemen of the early 1950s. A co-captain of the 1951 team, he earned places on the Boston Globe, Boston Post, and Lynn Item All-Scholastic selections. The Globe's main team identified him at guard, while the Item listed him as a senior guard. R.A.A. award material provides further recognition of his line play. These surviving selections document Murphy's distinction during the years immediately following the Exchange Bowl teams.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "Globe, December 2, 1951",
+          "url": "photos/contributed-2680.webp"
+        },
+        {
+          "label": "Post 1951",
+          "url": "photos/contributed-2678.webp"
+        },
+        {
+          "label": "Item 1951",
+          "url": "photos/honors-IMG_3343.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "“'52 R-A-A” roster",
+          "url": "photos/contributed-2676.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1999",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1999
+    },
+    {
+      "name": "Jim Driscoll",
+      "position": "Halfback / Quarterback",
+      "schoolClass": "1951",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2006.\n\nJim Driscoll was a Lynn Item All-Scholastic halfback on Saugus High's 1950 Exchange Bowl championship team. His versatility helped the Sachems early in the season, when he moved to quarterback while Richie Nicolo was unavailable. The Football Folio records his passing connection with Charlie Woodell and his later contributions as a runner. Driscoll helped give the 8–2 Sachems an adaptable backfield during the season that ended with a 30–12 Exchange Bowl victory over Brockton.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1950 Item selection",
+          "url": "photos/era-IMG_3335.webp"
+        },
+        {
+          "label": "early-season Folio",
+          "url": "photos/contributed-2613.webp"
+        },
+        {
+          "label": "later games and bowl",
+          "url": "photos/contributed-2614.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2006",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2006
+    },
+    {
+      "name": "Tony Serino",
+      "position": "Back",
+      "schoolClass": "1952",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2004.\n\nTony Serino contributed to the backfield during Saugus's successful transition from the Exchange Bowl years into the early 1950s. The 1950 Football Folio records two touchdown runs against Chelsea during the season that produced a second consecutive Exchange Bowl championship. In 1951, he shared the captaincy with Charlie Murphy and earned Lynn Item All-Scholastic recognition as a utility back. His scoring, leadership, and regional selection marked his contributions during these seasons.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1950 Folio",
+          "url": "photos/contributed-2613.webp"
+        },
+        {
+          "label": "1951 Item selection",
+          "url": "photos/honors-IMG_3343.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2004",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2004
+    },
+    {
+      "name": "Robert “Bob” Belyea",
+      "position": "Guard",
+      "schoolClass": "1954",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1999.\n\nBob Belyea was an honored lineman on Saugus High's 1953 North Shore League championship team. The 1954 yearbook records four years of football participation and identifies Belyea and Bill Whittredge as first-string selections on the Lynn All-Star team. The Boston Globe also named Belyea among its All-Scholastic reserves at guard in December 1953. His individual recognition complemented his contributions to a championship team.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1954 Tontoquonian, senior biography and senior-year class history",
+          "url": "https://archive.org/details/tontoquonian1954saug"
+        },
+        {
+          "label": "Globe, December 6, 1953 — reserves, guards",
+          "url": "photos/contributed-2661-hall.webp"
+        },
+        {
+          "label": "championship finish",
+          "url": "photos/team1953-2765.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1999",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1999
+    },
+    {
+      "name": "Bill Whittredge",
+      "position": "Back",
+      "schoolClass": "1954",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1996.\n\nBill Whittredge helped give Saugus its productive backfield during the 1953 North Shore League championship season. The 1954 yearbook records that he had been voted the best back of the previous year and names him, alongside Bob Belyea, as a first-string selection on the Lynn All-Star team during the class's championship senior year. The yearbook preserves his contributions to John Janusas's title-winning team.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1954 Tontoquonian, junior- and senior-year class histories",
+          "url": "https://archive.org/details/tontoquonian1954saug"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1996",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1996
+    },
+    {
+      "name": "John Leahy",
+      "position": "Co-captain",
+      "schoolClass": "1954",
+      "bio": "John Leahy helped lead Saugus High to the 1953 North Shore League championship as a co-captain with Doug MacNeill. His senior biography records four years of football, and the class history identifies both captains as second-string selections on the Lynn All-Star team. The Sachems finished 6–1–1 in regular-season play and secured the title with a 33–6 Thanksgiving victory over Peabody. Leahy's captaincy and individual recognition preserve his place among the leaders of that championship team.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1954 Tontoquonian, senior biography and class history",
+          "url": "https://archive.org/details/tontoquonian1954saug"
+        },
+        {
+          "label": "title-clinching review",
+          "url": "photos/team1953-2765.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Douglas “Doug” MacNeill",
+      "position": "Co-captain",
+      "schoolClass": "1954",
+      "bio": "Doug MacNeill was a co-captain of Saugus High's 1953 North Shore League champions and a four-year football participant. The yearbook identifies him and fellow captain John Leahy as second-string Lynn All-Star selections. MacNeill also participated in basketball and baseball, reflecting the broad athletic involvement common to that generation of Sachems. His leadership helped define a season capped by a decisive Thanksgiving win over Peabody and remembered as a championship autumn for the school.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1954 Tontoquonian, Douglas MacNeill biography and senior-year history",
+          "url": "https://archive.org/details/tontoquonian1954saug"
+        },
+        {
+          "label": "championship review",
+          "url": "photos/team1953-2765.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Bob Piwowarski",
+      "position": "Back",
+      "schoolClass": "1955",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2004.\n\nBob Piwowarski was a prominent runner on Saugus High's 6–3 team in 1954 and earned Lynn Item All-Scholastic recognition at back. The yearbook recalls his touchdown during the opening 20–0 win over Revere and his contribution to an offense that also featured Mal Rice, Fred Case, and Charlie Lawrence. His newspaper selection and repeated appearances in the season accounts place him among the notable Sachems of the middle 1950s.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1954 Item roster",
+          "url": "photos/honors-IMG_3345.webp"
+        },
+        {
+          "label": "Revere game",
+          "url": "photos/season-1954-2775.webp"
+        },
+        {
+          "label": "1954 action review",
+          "url": "photos/season-1954-2778.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2004",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2004
+    },
+    {
+      "name": "Richard “Dick” Rohrbacher",
+      "position": "Tackle",
+      "schoolClass": "1958",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2002.\n\nDick Rohrbacher was a captain and a recognized lineman for Saugus High in the late 1950s. The Item selected him at tackle on its 1957 North Shore All-Star team, listing him as a senior. His selection provides a contemporary record of a Sachem earning regional distinction in the late 1950s.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1958 senior biography for Richard Rohrbacher",
+          "url": "https://archive.org/details/tontoquonian1958saug"
+        },
+        {
+          "label": "1957 Item team",
+          "url": "photos/honors-IMG_3349.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2002",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2002
+    },
+    {
+      "name": "John Naples",
+      "position": "Guard",
+      "schoolClass": "1959",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2002.\n\nJohn Naples was a captain and first-team regional honoree for Saugus High in 1958. The Item's North Shore All-Star roster selected him at guard and identified him as a senior. His captaincy and selection recognized the line play behind Saugus football in the late 1950s.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1959 senior biography for John James Naples",
+          "url": "https://archive.org/details/tontoquonian1959saug"
+        },
+        {
+          "label": "1958 Item roster",
+          "url": "photos/honors-IMG_3350.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2002",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2002
+    },
+    {
+      "name": "William Banks",
+      "position": "Guard",
+      "schoolClass": "1959",
+      "bio": "William Banks earned Boston Globe recognition for his line play at Saugus High in 1958. The newspaper's December 7 All-Scholastic feature named him among its reserves at guard. His inclusion documents the Sachems' contribution to the region's accomplished linemen.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1959 senior biography for William Clifford Banks",
+          "url": "https://archive.org/details/tontoquonian1959saug"
+        },
+        {
+          "label": "Globe, December 7, 1958 — reserves, guards",
+          "url": "photos/contributed-2683.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Ron “Ronnie” Barressi",
+      "position": "Utility back / Captain",
+      "schoolClass": "1965",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2000.\n\nRon Barressi was a captain and regional All-Star during Saugus High's rebuilding years in the middle 1960s. The Item's 1964 North Shore team recognized him as its utility back, listing him as a senior. His selection is a reminder that individual Sachems earned distinction even outside the program's championship seasons.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1964 Item roster",
+          "url": "photos/honors-IMG_3412.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2000",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2000
+    },
+    {
+      "name": "John Dancewicz",
+      "position": "Back / Tackle",
+      "schoolClass": "1967",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2000.\n\nJohn Dancewicz was a co-captain of Saugus High's 7–2 football team in 1966 and a first-team Lynn Item All-Star. His versatility is preserved in two contemporary records: the yearbook identifies him as a back, while the Item honored him at tackle. Dancewicz also served as senior class president and appears among the year's National Merit finalists, giving his profile a documented combination of football leadership and academic accomplishment.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1966 Item first team",
+          "url": "photos/honors-IMG_3337.webp"
+        },
+        {
+          "label": "co-captain portrait",
+          "url": "photos/season1966-2799.webp"
+        },
+        {
+          "label": "1967 Tontoquonian, senior officers, honors and commencement",
+          "url": "https://archive.org/details/tontoquonian1967saug"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2000",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2000
+    },
+    {
+      "name": "James “Jim” Mancuso",
+      "position": "Tackle",
+      "schoolClass": "1967",
+      "bio": "Jim Mancuso was a first-team Lynn Item All-Star tackle on Saugus High's successful 1966 team. The newspaper listed him at 6-foot-1 and 205 pounds, and the yearbook preserves his individual football portrait. His senior biography records four years of football and hockey and identifies him as a hockey co-captain. Mancuso combined individual football recognition with participation across several sports.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1966 Item team",
+          "url": "photos/honors-IMG_3337.webp"
+        },
+        {
+          "label": "football portrait",
+          "url": "photos/season1966-2798.webp"
+        },
+        {
+          "label": "1967 Tontoquonian, James Joseph Mancuso senior entry",
+          "url": "https://archive.org/details/tontoquonian1967saug"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Edward “Eddie” Maguire",
+      "position": "Back / Captain",
+      "schoolClass": "1967",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nEdward Maguire was a backfield leader and co-captain of Saugus High's 7–2 team in 1966. He earned first-team Lynn Item All-Star recognition at back, joining teammates John Dancewicz and Jim Mancuso on the selected team. The yearbook preserves his co-captain portrait alongside Dancewicz and Paul Uga, documenting the leadership group behind one of Saugus's strongest seasons of the decade.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1966 Item team",
+          "url": "photos/honors-IMG_3337.webp"
+        },
+        {
+          "label": "yearbook co-captains",
+          "url": "photos/season1966-2799.webp"
+        },
+        {
+          "label": "1967 yearbook, Edward James Maguire senior entry",
+          "url": "https://archive.org/details/tontoquonian1967saug"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1988",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1988
+    },
+    {
+      "name": "James “Jim” Fauci",
+      "position": "Captain",
+      "schoolClass": "1938",
+      "bio": "James Fauci captained Saugus High during Buzz Harvey's first season as head coach in 1937. His senior yearbook praised his alert, determined play and the example he set for his teammates. The team opened with five consecutive victories, making Fauci a useful representative of the players who helped establish Harvey's successful Saugus tenure. His yearbook tribute preserves an important leadership figure from the late 1930s.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1938 senior biography and football roster",
+          "url": "https://archive.org/details/tontoquonian1938saug"
+        },
+        {
+          "label": "1937 gallery season page",
+          "url": "photos/zip-team-2725.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Earl Hanson",
+      "position": "Captain",
+      "schoolClass": "1939",
+      "bio": "Earl Hanson was a three-season football participant and captain of Saugus High's 1938 team. His senior yearbook remembered a quiet leader whose courage helped set the tone for his teammates. The Sachems finished 6–4 and closed with a 6–0 Thanksgiving victory over Danvers. Hanson's captaincy links the early years of Buzz Harvey's program with the greater success that followed in 1939.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1939 senior biography and fall 1938 football section",
+          "url": "https://archive.org/details/tontoquonian1939saug"
+        },
+        {
+          "label": "1938 results",
+          "url": "photos/zip-team-2730.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Michael “Mike” Light",
+      "position": "End",
+      "schoolClass": "1959",
+      "bio": "Michael Light was a co-captain of Saugus High's 1958 football team and earned second-team Lynn Item North Shore All-Star recognition at end. His senior biography records three seasons of football and four years of hockey, preserving the range of his athletic participation. Light shared the football captaincy with John Naples.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1959 senior entry for Michael Charles Light",
+          "url": "https://archive.org/details/tontoquonian1959saug"
+        },
+        {
+          "label": "1958 Item second team",
+          "url": "photos/honors-IMG_3350.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "David Russell “Dave” Mathews",
+      "position": "Back",
+      "schoolClass": "1960",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1989.\n\nDavid Russell Mathews was a football and hockey co-captain at Saugus High and a four-year participant in football, hockey and baseball. The Item selected him at back on its 1959 North Shore All-Star team. His senior yearbook remembered his broad athletic ability, and the football portrait collection preserves him among the leaders of Saugus's recognized 1959 championship team. He was part of the final graduating cohort to play under John Janusas at Saugus.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1960 senior biography, printed p. 42",
+          "url": "https://archive.org/details/tontoquonian1960saug"
+        },
+        {
+          "label": "1959 Item first team",
+          "url": "photos/honors-IMG_3351.webp"
+        },
+        {
+          "label": "1959 team portraits",
+          "url": "photos/replacement-1959-1-oct29.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1989",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 1989
+    },
+    {
+      "name": "Richard “Richie” Burt",
+      "position": "Fullback",
+      "schoolClass": "1960",
+      "bio": "Richard Burt was a fullback on Saugus High's recognized 1959 championship team and earned second-team Lynn Item North Shore All-Star recognition. His senior biography records four years each of football and baseball and specifically praises his running for the champion football team. The yearbook's award list also names him as recipient of the John A. W. Pearce Football Award. Burt combined team success with regional recognition and a school football award.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1960 yearbook: Richard Cochrane Burt biography, printed p. 22, and award list",
+          "url": "https://archive.org/details/tontoquonian1960saug"
+        },
+        {
+          "label": "1959 Item second team",
+          "url": "photos/honors-IMG_3351.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Louis “Lou” O’Neil",
+      "position": "Guard",
+      "schoolClass": "1969",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2006.\n\nLouis O'Neil was a four-year football participant and captain whose line play earned first-team Lynn Item North Shore All-Star recognition in 1968. His senior biography also lists hockey, track and weightlifting, reflecting his broad athletic involvement. The 1969 yearbook's football roster identifies him as a captain during a season in which Saugus recovered from a difficult start to finish with three consecutive victories. His first-team selection recognized his line play at the end of the decade.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1969 yearbook senior entry, printed p. 126, and football section",
+          "url": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "label": "1968 Item first team",
+          "url": "photos/honors-IMG_3409.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2006",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2006
+    },
+    {
+      "name": "James “Jim” Canole",
+      "position": "Utility player",
+      "schoolClass": "1969",
+      "bio": "James Canole was a captain and three-season football participant at Saugus High. The Item named him to its 1968 North Shore All-Star second team as a utility player. His senior biography also records track, volleyball and gymnastics participation, while the football section preserves his captaincy and role in the team's late-season improvement. His regional recognition and leadership marked his contribution to the Class of 1969.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1969 senior entry for James William Canole and football roster",
+          "url": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "label": "1968 Item second team",
+          "url": "photos/honors-IMG_3409.webp"
+        }
+      ],
+      "row": "Archive research, October 2026"
     }
   ],
   "stats": [
@@ -2299,5 +3170,1064 @@
       },
       "row": 92
     }
-  ]
+  ],
+  "hallOfFame": {
+    "source": "SHS HOF.pdf",
+    "sourceUrl": "documents/shs-hall-of-fame-roster.pdf",
+    "sourceCoverage": "1987–2024 roster, plus the existing 2026 alumni record",
+    "members": [
+      {
+        "name": "Arthur “Art” Spinney",
+        "footballEvidence": "2023 Art Spinney Boston Globe; 1944 Art Spinney Boston Globe; 1941 Art Spinney; 1942 Art Spinney; 1943 Art Spinney; 1944 Art Spinney",
+        "footballSourceYear": null,
+        "nameAsListed": "Arthur Spinney",
+        "graduationYear": 1945,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "John Nicolo",
+        "footballEvidence": "1975 John Nicolo** Lynn Item; 1974 John Nicolo* Lynn Item; 1974 John Nicolo; 1975 John Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "John Nicolo",
+        "graduationYear": 1976,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "Doug Mackie",
+        "footballEvidence": "1975 Doug Mackie All-American; 1975 Doug Mackie** Boston Globe; 1974 Doug Mackie* Boston Globe; 1975 Doug Mackie** Lynn Item; 1974 Doug Mackie* Lynn Item; 1974 Doug Mackie; 1975 Doug Mackie",
+        "footballSourceYear": null,
+        "nameAsListed": "Doug Mackie",
+        "graduationYear": 1976,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "George Laskey",
+        "footballEvidence": "1947 George Laskey Boston Globe; 1947 George Laskey Lynn Item; 1946 George Laskey; 1947 George Laskey",
+        "footballSourceYear": null,
+        "nameAsListed": "George Laskey",
+        "graduationYear": 1948,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "Sardi Nicolo",
+        "footballEvidence": "1947 Sardi Nicolo; 1948 Sardi Nicolo; 1949 Sardi Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "Sardi Nicolo",
+        "graduationYear": 1950,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "Stan Green",
+        "footballEvidence": "1939 Stan Green",
+        "footballSourceYear": null,
+        "nameAsListed": "Stan Green",
+        "graduationYear": 1940,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "Christie Serino",
+        "footballEvidence": "1966 Christie Serino Lynn Item; 1966 Christie Serino",
+        "footballSourceYear": null,
+        "nameAsListed": "Chris Serino",
+        "graduationYear": 1967,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "John “Mike” Harrington",
+        "footballEvidence": "Harrington: 1942 yearbook class history, football roster and senior group",
+        "footballSourceYear": 1942,
+        "nameAsListed": "John (Mike) Harrington",
+        "graduationYear": 1942,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "Edward “Eddie” Shipulski",
+        "footballEvidence": "Shipulski: 1942 senior biography and 1941 Football Folio; PDF spelling Shupulski",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Ed Shupulski",
+        "graduationYear": 1942,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Douglas Waybright",
+        "footballEvidence": "1943 Doug Waybright; 1944 Doug Waybright",
+        "footballSourceYear": null,
+        "nameAsListed": "Douglas Waybright",
+        "graduationYear": 1944,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Eugene Decareau",
+        "footballEvidence": "Eugene F. Decareau: 1948 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1948,
+        "nameAsListed": "Eugene Decareau",
+        "graduationYear": 1948,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Richard “Richie” Nicolo",
+        "footballEvidence": "1950 Richie Nicolo Lynn Item; 1949 Richie Nicolo; 1950 Richie Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "Richard Nicolo",
+        "graduationYear": 1951,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": "The induction roster lists SHS 1950; his senior biography in the 1951 yearbook confirms the Class of 1951."
+      },
+      {
+        "name": "Edward “Eddie” Maguire",
+        "footballEvidence": "Edward James Maguire: 1967 senior biography, football co-captain",
+        "footballSourceYear": 1967,
+        "nameAsListed": "Edward J. MaGuire",
+        "graduationYear": 1967,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Stephen “Steve” Gannon",
+        "footballEvidence": "1975 Stephen Gannon Lynn Item; 1974 Steve Gannon; 1975 Steve Gannon",
+        "footballSourceYear": null,
+        "nameAsListed": "Stephen Gannon",
+        "graduationYear": 1976,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Abraham Pinciss",
+        "footballEvidence": "Abraham Pinciss: named tackle in the 1922 Pike/team clipping",
+        "footballSourceYear": 1922,
+        "nameAsListed": "Abraham Pinciss",
+        "graduationYear": 1923,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Edwin Holmes",
+        "footballEvidence": "Edwin Holmes: named end in the 1921 Dedham lineup and later player feature",
+        "footballSourceYear": 1921,
+        "nameAsListed": "Edwin Holmes",
+        "graduationYear": 1922,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Richard MacDonald",
+        "footballEvidence": "Richard MacDonald: 1942 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Richard MacDonald",
+        "graduationYear": 1942,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Arthur Statuto",
+        "footballEvidence": "1939 Art Statuto; 1940 Art Statuto; 1941 Art Statuto; 1942 Art Statuto",
+        "footballSourceYear": null,
+        "nameAsListed": "Arthur Statuto",
+        "graduationYear": 1943,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "David Russell Mathews",
+        "footballEvidence": "David Russell Mathews: 1960 senior biography, football co-captain",
+        "footballSourceYear": 1960,
+        "nameAsListed": "David Mathews",
+        "graduationYear": 1960,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Donald January",
+        "footballEvidence": "Donald January: 1963 senior biography, Football 3, 4; PDF Januray",
+        "footballSourceYear": 1963,
+        "nameAsListed": "Donald Januray",
+        "graduationYear": 1963,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Daniel Heaney",
+        "footballEvidence": "1970 Dan Heaney Lynn Item; 1970 Dan Heaney",
+        "footballSourceYear": null,
+        "nameAsListed": "Daniel Heaney",
+        "graduationYear": 1971,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Len Flaherty",
+        "footballEvidence": "1942 Lennie Flaherty",
+        "footballSourceYear": null,
+        "nameAsListed": "Len Flaherty",
+        "graduationYear": 1943,
+        "inductionYear": 1990,
+        "sourcePage": 4,
+        "note": ""
+      },
+      {
+        "name": "Tom Sheehan",
+        "footballEvidence": "1946 Tommy Sheehan",
+        "footballSourceYear": null,
+        "nameAsListed": "Tom Sheehan",
+        "graduationYear": 1947,
+        "inductionYear": 1990,
+        "sourcePage": 4,
+        "note": ""
+      },
+      {
+        "name": "Norm Peach",
+        "footballEvidence": "1957 Norman Peach",
+        "footballSourceYear": null,
+        "nameAsListed": "Norm Peach",
+        "graduationYear": 1958,
+        "inductionYear": 1990,
+        "sourcePage": 4,
+        "note": ""
+      },
+      {
+        "name": "Tim Churchard",
+        "footballEvidence": "1960 Tim Churchard",
+        "footballSourceYear": null,
+        "nameAsListed": "Tim Churchard",
+        "graduationYear": 1961,
+        "inductionYear": 1990,
+        "sourcePage": 4,
+        "note": ""
+      },
+      {
+        "name": "Bob Osgood",
+        "footballEvidence": "1969 Bob Osgood Lynn Item; 1969 Bob Osgood",
+        "footballSourceYear": null,
+        "nameAsListed": "Bob Osgood",
+        "graduationYear": 1970,
+        "inductionYear": 1990,
+        "sourcePage": 4,
+        "note": ""
+      },
+      {
+        "name": "Ernie Anganis",
+        "footballEvidence": "1947 Ernie Anganis",
+        "footballSourceYear": null,
+        "nameAsListed": "Ernie Anganis",
+        "graduationYear": 1948,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "Bill Babcock",
+        "footballEvidence": "1969 Bill Babcock",
+        "footballSourceYear": null,
+        "nameAsListed": "Bill Babcock",
+        "graduationYear": 1970,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "Harry Gates",
+        "footballEvidence": "1931 Harry Gates",
+        "footballSourceYear": null,
+        "nameAsListed": "Harry Gates",
+        "graduationYear": 1932,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "Bayard “Buzzy” Maxwell",
+        "footballEvidence": "Buzzy Maxwell: 1961 football section names him at left end",
+        "footballSourceYear": 1961,
+        "nameAsListed": "Bayard (Buzz) Maxwell",
+        "graduationYear": 1961,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "Paul Nigro",
+        "footballEvidence": "1978 Paul Nigro Lynn Item; 1978 Paul Nigro",
+        "footballSourceYear": null,
+        "nameAsListed": "Paul Nigro",
+        "graduationYear": 1979,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "Steve Peach",
+        "footballEvidence": "1980 Steve Peach*** Lynn Item; 1979 Steve Peach** Lynn Item; 1978 Steve Peach* Lynn Item; 1979 Steve Peach; 1980 Steve Peach",
+        "footballSourceYear": null,
+        "nameAsListed": "Steve Peach",
+        "graduationYear": 1981,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "John Quinlan",
+        "footballEvidence": "John Quinlan: 1946 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1946,
+        "nameAsListed": "John Quinlan",
+        "graduationYear": 1946,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
+        "name": "John Leahy",
+        "footballEvidence": "1926 Jack Leahy; 1927 Jack Leahy; 1928 John Leahy; 1953 John Leahy",
+        "footballSourceYear": null,
+        "nameAsListed": "John Leahy",
+        "graduationYear": 1928,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": "This is the Class of 1928 player, not the Class of 1954 co-captain."
+      },
+      {
+        "name": "Edward Koschei",
+        "footballEvidence": "1941 Eddie Koschei",
+        "footballSourceYear": null,
+        "nameAsListed": "Edward Koschei",
+        "graduationYear": 1942,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": ""
+      },
+      {
+        "name": "Steve Nelson",
+        "footballEvidence": "1970 Steven Nelson Lynn Item; 1970 Steve Nelson",
+        "footballSourceYear": null,
+        "nameAsListed": "Steve Nelson",
+        "graduationYear": 1970,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": ""
+      },
+      {
+        "name": "Gary Quinlan",
+        "footballEvidence": "1979 Gary Quinlan Lynn Item; 1979 Gary Quinlan",
+        "footballSourceYear": null,
+        "nameAsListed": "Gary Quinlan",
+        "graduationYear": 1980,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": ""
+      },
+      {
+        "name": "Frank Pyszko",
+        "footballEvidence": "Frank Pysko/Pyszko/Pyzsko: 1944 Class B championship back and Globe honors",
+        "footballSourceYear": 1944,
+        "nameAsListed": "Frank Pysko",
+        "graduationYear": 1945,
+        "inductionYear": 1993,
+        "sourcePage": 7,
+        "note": ""
+      },
+      {
+        "name": "Tom Carr",
+        "footballEvidence": "1961 Tom Carr Lynn Item; 1961 Tom Carr",
+        "footballSourceYear": null,
+        "nameAsListed": "Tom Carr",
+        "graduationYear": 1962,
+        "inductionYear": 1993,
+        "sourcePage": 7,
+        "note": ""
+      },
+      {
+        "name": "Tom Heaney",
+        "footballEvidence": "1975 Tom Heaney",
+        "footballSourceYear": null,
+        "nameAsListed": "Tom Heaney",
+        "graduationYear": 1976,
+        "inductionYear": 1993,
+        "sourcePage": 7,
+        "note": ""
+      },
+      {
+        "name": "Walter “Wally” Gautreau",
+        "footballEvidence": "Walter/Wally Gaudreau/Gautreau: 1927 team veteran in the 1929 football review",
+        "footballSourceYear": 1927,
+        "nameAsListed": "Walter Gaudreau",
+        "graduationYear": 1928,
+        "inductionYear": 1994,
+        "sourcePage": 8,
+        "note": ""
+      },
+      {
+        "name": "Dan Murphy",
+        "footballEvidence": "1949 Dan Murphy Boston Globe; 1949 Dan Murphy Lynn Item; 1949 Dan Murphy",
+        "footballSourceYear": null,
+        "nameAsListed": "Dan Murphy",
+        "graduationYear": 1950,
+        "inductionYear": 1994,
+        "sourcePage": 8,
+        "note": "The induction roster lists SHS 1945; the 1949 football records and existing alumni profile identify the player with the Class of 1950."
+      },
+      {
+        "name": "Steven Spinney",
+        "footballEvidence": "1974 Steve Spinney Lynn Item; 1974 Steve Spinney",
+        "footballSourceYear": null,
+        "nameAsListed": "Steven Spinney",
+        "graduationYear": 1975,
+        "inductionYear": 1994,
+        "sourcePage": 8,
+        "note": ""
+      },
+      {
+        "name": "Frank DeMaso",
+        "footballEvidence": "Frank DeMaso: 1940 senior biography, Football 1, 2, 3",
+        "footballSourceYear": 1940,
+        "nameAsListed": "Frank DeMaso",
+        "graduationYear": 1940,
+        "inductionYear": 1994,
+        "sourcePage": 8,
+        "note": ""
+      },
+      {
+        "name": "Bill Peach",
+        "footballEvidence": "1978 Bill Peach Lynn Item; 1978 Bill Peach",
+        "footballSourceYear": null,
+        "nameAsListed": "Bill Peach",
+        "graduationYear": 1979,
+        "inductionYear": 1994,
+        "sourcePage": 8,
+        "note": ""
+      },
+      {
+        "name": "Harold Huff",
+        "footballEvidence": "Harold Huff: 1943 senior biography, Football 3, 4",
+        "footballSourceYear": 1943,
+        "nameAsListed": "Harold Huff",
+        "graduationYear": 1943,
+        "inductionYear": 1995,
+        "sourcePage": 9,
+        "note": ""
+      },
+      {
+        "name": "Ed Falasca",
+        "footballEvidence": "1948 Ed Falasca",
+        "footballSourceYear": null,
+        "nameAsListed": "Ed Falasca",
+        "graduationYear": 1949,
+        "inductionYear": 1995,
+        "sourcePage": 9,
+        "note": ""
+      },
+      {
+        "name": "Fred Quinlan",
+        "footballEvidence": "1949 Fred Quinlan Lynn Item; 1949 Fred Quinlan",
+        "footballSourceYear": null,
+        "nameAsListed": "Fred Quinlan",
+        "graduationYear": 1950,
+        "inductionYear": 1995,
+        "sourcePage": 9,
+        "note": ""
+      },
+      {
+        "name": "Vito Russo",
+        "footballEvidence": "1960 Vito Russo Lynn Item; 1960 Vito Russo",
+        "footballSourceYear": null,
+        "nameAsListed": "Vito Russo",
+        "graduationYear": 1961,
+        "inductionYear": 1995,
+        "sourcePage": 9,
+        "note": ""
+      },
+      {
+        "name": "Thomas Atkins",
+        "footballEvidence": "Thomas Atkins: 1942 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Thomas Atkins",
+        "graduationYear": 1942,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "Robert Meagher",
+        "footballEvidence": "Robert/Bob Meagher: 1952 Football Folio records receiving Tony Serino passes",
+        "footballSourceYear": 1951,
+        "nameAsListed": "Robert Meagher",
+        "graduationYear": 1952,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "William Whittredge",
+        "footballEvidence": "William Whittredge: 1954 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1954,
+        "nameAsListed": "William Whittredge",
+        "graduationYear": 1954,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "John Richard",
+        "footballEvidence": "John Philip Richard: 1970 senior biography, Football 2, 3, 4, Captain",
+        "footballSourceYear": 1970,
+        "nameAsListed": "John Richard",
+        "graduationYear": 1970,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "George Nicolo",
+        "footballEvidence": "1977 George Nicolo Lynn Item; 1977 George Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "George Nicolo",
+        "graduationYear": 1978,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "Andy Forti",
+        "footballEvidence": "1946 Andy Forti Lynn Item; 1946 Andy Forti",
+        "footballSourceYear": null,
+        "nameAsListed": "Andy Forti",
+        "graduationYear": 1947,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Tim Fawcett",
+        "footballEvidence": "1977 Tim Fawcett Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Tim Fawcett",
+        "graduationYear": 1978,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Don Trainor",
+        "footballEvidence": "1978 Don Trainor; 1979 Don Trainor",
+        "footballSourceYear": null,
+        "nameAsListed": "Don Trainor",
+        "graduationYear": 1979,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Bruce Waybright",
+        "footballEvidence": "1945 Bruce Waybright",
+        "footballSourceYear": null,
+        "nameAsListed": "Bruce Waybright",
+        "graduationYear": 1948,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Darren McCullough",
+        "footballEvidence": "1986 Darren McCullough** Lynn Item; 1985 Darren McCullough* Lynn Item; 1986 Darren McCullough",
+        "footballSourceYear": null,
+        "nameAsListed": "Darren McCullough",
+        "graduationYear": 1987,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Jim Patch",
+        "footballEvidence": "James Harold Patch: 1965 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1965,
+        "nameAsListed": "Jim Patch",
+        "graduationYear": 1965,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Jeff Sanborn",
+        "footballEvidence": "Jeffrey Parker Sanborn: 1965 senior biography, Football 1 only; participation level limited",
+        "footballSourceYear": 1965,
+        "nameAsListed": "Jeff Sanborn",
+        "graduationYear": 1965,
+        "inductionYear": 1998,
+        "sourcePage": 12,
+        "note": "The 1965 senior biography lists Football 1; varsity football participation is not established."
+      },
+      {
+        "name": "Ned Orlando",
+        "footballEvidence": "1955 Ned Orlando",
+        "footballSourceYear": null,
+        "nameAsListed": "Ned Orlando",
+        "graduationYear": 1956,
+        "inductionYear": 1998,
+        "sourcePage": 12,
+        "note": ""
+      },
+      {
+        "name": "Joe Barressi",
+        "footballEvidence": "1987 Joe Barressi Lynn Item; 1987 Joe Barressi",
+        "footballSourceYear": null,
+        "nameAsListed": "Joe Barressi",
+        "graduationYear": 1988,
+        "inductionYear": 1998,
+        "sourcePage": 12,
+        "note": ""
+      },
+      {
+        "name": "Charlie Murphy",
+        "footballEvidence": "1951 Charlie Murphy Boston Globe; 1951 Charlie Murphy",
+        "footballSourceYear": null,
+        "nameAsListed": "Charlie Murphy",
+        "graduationYear": 1952,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": ""
+      },
+      {
+        "name": "William “Bill” MacNeill",
+        "footballEvidence": "Bill/Billy MacNeill: repeated appearances in the 1953 championship Football Folio",
+        "footballSourceYear": 1953,
+        "nameAsListed": "Bill McNeil",
+        "graduationYear": 1954,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": "The 1953 football records use Billy/William MacNeill; distinct from Doug MacNeill."
+      },
+      {
+        "name": "Dan Hashem",
+        "footballEvidence": "1977 Dan Hashem",
+        "footballSourceYear": null,
+        "nameAsListed": "Dan Hashem",
+        "graduationYear": 1978,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": ""
+      },
+      {
+        "name": "Frank Doyle",
+        "footballEvidence": "1977 Frank Doyle Lynn Item; 1977 Frank Doyle",
+        "footballSourceYear": null,
+        "nameAsListed": "Frank Doyle",
+        "graduationYear": 1978,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": ""
+      },
+      {
+        "name": "Robert “Bob” Belyea",
+        "footballEvidence": "1953 Bob Belyea Boston Globe",
+        "footballSourceYear": null,
+        "nameAsListed": "Rob Belyea",
+        "graduationYear": 1954,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": ""
+      },
+      {
+        "name": "Jack Warren",
+        "footballEvidence": "Jack Warren: named in 1939 squad and Wakefield game account, 1940 yearbook",
+        "footballSourceYear": 1939,
+        "nameAsListed": "Jack Warren",
+        "graduationYear": 1941,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "Jim Rouleau",
+        "footballEvidence": "James Rouleau: 1956 senior biography, Football 4",
+        "footballSourceYear": 1956,
+        "nameAsListed": "Jim Rouleau",
+        "graduationYear": 1956,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "John Matrona",
+        "footballEvidence": "1960 John Matrona Lynn Item; 1960 John Matrona",
+        "footballSourceYear": null,
+        "nameAsListed": "John Matrona",
+        "graduationYear": 1961,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "John Dancewicz",
+        "footballEvidence": "1966 John Dancewicz Lynn Item; 1966 John Dancewicz",
+        "footballSourceYear": null,
+        "nameAsListed": "John Dancewicz",
+        "graduationYear": 1967,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "Ron Barressi",
+        "footballEvidence": "1964 Ron Barressi Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Ron Barressi",
+        "graduationYear": 1965,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "Marc Fauci",
+        "footballEvidence": "1989 Marc Fauci Boston Globe; 1989 Marc Fauci** Lynn Item; 1988 Marc Fauci* Lynn Item; 1988 Marc Fauci; 1989 Marc Fauci",
+        "footballSourceYear": null,
+        "nameAsListed": "Marc Fauci",
+        "graduationYear": 1990,
+        "inductionYear": 2000,
+        "sourcePage": 14,
+        "note": ""
+      },
+      {
+        "name": "Leo Kane",
+        "footballEvidence": "1950 Leo Kane",
+        "footballSourceYear": null,
+        "nameAsListed": "Leo Kane",
+        "graduationYear": 1951,
+        "inductionYear": 2001,
+        "sourcePage": 15,
+        "note": ""
+      },
+      {
+        "name": "Dan Schena",
+        "footballEvidence": "1990 Dan Schena Boston Globe; 1990 Dan Schena Lynn Item; 1990 Dan Schena",
+        "footballSourceYear": null,
+        "nameAsListed": "Dan Schena",
+        "graduationYear": 1991,
+        "inductionYear": 2001,
+        "sourcePage": 15,
+        "note": ""
+      },
+      {
+        "name": "Frank Serino",
+        "footballEvidence": "1977 Frank Serino Lynn Item; 1977 Frank Serino",
+        "footballSourceYear": null,
+        "nameAsListed": "Frank Serino",
+        "graduationYear": 1978,
+        "inductionYear": 2002,
+        "sourcePage": 16,
+        "note": ""
+      },
+      {
+        "name": "John Naples",
+        "footballEvidence": "1958 John Naples Lynn Item; 1958 John Naples",
+        "footballSourceYear": null,
+        "nameAsListed": "John Naples",
+        "graduationYear": 1959,
+        "inductionYear": 2002,
+        "sourcePage": 16,
+        "note": ""
+      },
+      {
+        "name": "Doug Orlando",
+        "footballEvidence": "Douglas William Orlando: 1981 senior biography, Football 2, 3, Captain 4",
+        "footballSourceYear": 1981,
+        "nameAsListed": "Doug Orlando",
+        "graduationYear": 1981,
+        "inductionYear": 2002,
+        "sourcePage": 16,
+        "note": ""
+      },
+      {
+        "name": "Richard “Dick” Rohrbacher",
+        "footballEvidence": "1957 Dick Rohrbacker Lynn Item; 1957 Dick Rohrbacker",
+        "footballSourceYear": null,
+        "nameAsListed": "Richard Rohrbacker",
+        "graduationYear": 1958,
+        "inductionYear": 2002,
+        "sourcePage": 16,
+        "note": ""
+      },
+      {
+        "name": "Charles Lawrence",
+        "footballEvidence": "Charles Lawrence: 1955 senior biography, Football 2–4",
+        "footballSourceYear": 1955,
+        "nameAsListed": "Charles Lawrence",
+        "graduationYear": 1955,
+        "inductionYear": 2003,
+        "sourcePage": 17,
+        "note": ""
+      },
+      {
+        "name": "William MacDonald",
+        "footballEvidence": "1972 Bill MacDonald Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "William MacDonald",
+        "graduationYear": 1973,
+        "inductionYear": 2003,
+        "sourcePage": 17,
+        "note": "The football honors record uses Bill MacDonald."
+      },
+      {
+        "name": "Patrick Sullivan",
+        "footballEvidence": "1975 Pat Sullivan Lynn Item; 1976 Pat Sullivan",
+        "footballSourceYear": null,
+        "nameAsListed": "Patrick Sullivan",
+        "graduationYear": 1977,
+        "inductionYear": 2003,
+        "sourcePage": 17,
+        "note": ""
+      },
+      {
+        "name": "William Mitchell",
+        "footballEvidence": "William/Bill Mitchell: 1978 yearbook championship senior list, printed p. 165",
+        "footballSourceYear": 1977,
+        "nameAsListed": "William Mitchell",
+        "graduationYear": 1978,
+        "inductionYear": 2003,
+        "sourcePage": 17,
+        "note": ""
+      },
+      {
+        "name": "Charles Woodell",
+        "footballEvidence": "Charles Woodell: 1951 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1951,
+        "nameAsListed": "Charles Woodell",
+        "graduationYear": 1951,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": ""
+      },
+      {
+        "name": "Anthony Serino",
+        "footballEvidence": "1951 Tony Serino Lynn Item; 1951 Tony Serino",
+        "footballSourceYear": null,
+        "nameAsListed": "Anthony Serino",
+        "graduationYear": 1952,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": ""
+      },
+      {
+        "name": "Richard Salerno",
+        "footballEvidence": "Richard Salerno: 1954 senior biography, Football 2, 3, 4; not the 1984 same-name player",
+        "footballSourceYear": 1954,
+        "nameAsListed": "Richard Salerno",
+        "graduationYear": 1954,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": "Class of 1954; distinct from the later same-name football player."
+      },
+      {
+        "name": "Bob Piwowarski",
+        "footballEvidence": "1954 Bob Piwowarski Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Bob Piwowarski",
+        "graduationYear": 1955,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": ""
+      },
+      {
+        "name": "Joe Attubato",
+        "footballEvidence": "1992 Joe Attubato; 1993 Joe Attubato",
+        "footballSourceYear": null,
+        "nameAsListed": "Joe Attubato",
+        "graduationYear": 1994,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": ""
+      },
+      {
+        "name": "Arthur Polimeno",
+        "footballEvidence": "1980 Art Polimeno Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Arthur Polimeno",
+        "graduationYear": 1981,
+        "inductionYear": 2005,
+        "sourcePage": 19,
+        "note": ""
+      },
+      {
+        "name": "Allen Comeau",
+        "footballEvidence": "1957 Allan Comeau",
+        "footballSourceYear": null,
+        "nameAsListed": "Allen Comeau",
+        "graduationYear": 1958,
+        "inductionYear": 2005,
+        "sourcePage": 19,
+        "note": "The roster leaves the school class blank; the 1958 senior yearbook identifies Allan Comeau."
+      },
+      {
+        "name": "James Quinlan",
+        "footballEvidence": "James Quinlan: 1982 senior biography, Football 3, 4",
+        "footballSourceYear": 1982,
+        "nameAsListed": "James Quinlan",
+        "graduationYear": 1982,
+        "inductionYear": 2005,
+        "sourcePage": 19,
+        "note": ""
+      },
+      {
+        "name": "Michael Mabee",
+        "footballEvidence": "1995 Mike Mabee Lynn Item; 1995 Mike Mabee",
+        "footballSourceYear": null,
+        "nameAsListed": "Michael Mabee",
+        "graduationYear": 1996,
+        "inductionYear": 2006,
+        "sourcePage": 20,
+        "note": ""
+      },
+      {
+        "name": "Louis O'Neil",
+        "footballEvidence": "1968 Lou O'Neil Lynn Item; 1967 Louis O'Neil; 1968 Lou O'Neil",
+        "footballSourceYear": null,
+        "nameAsListed": "Louis O'Neil",
+        "graduationYear": 1969,
+        "inductionYear": 2006,
+        "sourcePage": 20,
+        "note": "The roster leaves the school class blank; his 1969 senior biography confirms it."
+      },
+      {
+        "name": "James Driscoll",
+        "footballEvidence": "1950 Jim Driscoll Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "James Driscoll",
+        "graduationYear": 1951,
+        "inductionYear": 2006,
+        "sourcePage": 20,
+        "note": "The roster leaves the school class blank; the 1950 Item identifies him as a senior, and he is associated with the 1951 graduating cohort."
+      },
+      {
+        "name": "Nicholas Barressi",
+        "footballEvidence": "Nicholas Barressi: 1943 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1943,
+        "nameAsListed": "Nick Barresi",
+        "graduationYear": 1943,
+        "inductionYear": 2007,
+        "sourcePage": 21,
+        "note": ""
+      },
+      {
+        "name": "Jim Blunt",
+        "footballEvidence": "James Blunt: 1949 senior biography, Football 3, 4",
+        "footballSourceYear": 1949,
+        "nameAsListed": "Jim Blunt",
+        "graduationYear": 1949,
+        "inductionYear": 2007,
+        "sourcePage": 21,
+        "note": ""
+      },
+      {
+        "name": "LJ McKanas",
+        "footballEvidence": "1996 LJ McKanas Boston Globe; 1996 LJ Mckanas Lynn Item; 1995 LJ McKanas; 1996 LJ McKanas",
+        "footballSourceYear": null,
+        "nameAsListed": "LJ McKanas",
+        "graduationYear": 1997,
+        "inductionYear": 2007,
+        "sourcePage": 21,
+        "note": ""
+      },
+      {
+        "name": "Larry Furey",
+        "footballEvidence": "1987 Larry Furey Lynn Item; 1987 Larry Furey",
+        "footballSourceYear": null,
+        "nameAsListed": "Larry Furey",
+        "graduationYear": 1988,
+        "inductionYear": 2008,
+        "sourcePage": 22,
+        "note": ""
+      },
+      {
+        "name": "Paul Serino",
+        "footballEvidence": "1977 Paul Serino Boston Globe",
+        "footballSourceYear": null,
+        "nameAsListed": "Paul Serino",
+        "graduationYear": null,
+        "inductionYear": 2009,
+        "sourcePage": 23,
+        "note": ""
+      },
+      {
+        "name": "Kyle Sucharewicz",
+        "footballEvidence": "2001 Kyle Sucharewicz",
+        "footballSourceYear": null,
+        "nameAsListed": "Kyle Sucharewicz",
+        "graduationYear": 2001,
+        "inductionYear": 2014,
+        "sourcePage": 24,
+        "note": ""
+      },
+      {
+        "name": "Robert Lessard",
+        "footballEvidence": "1981 Bob Lessard Lynn Item; 1981 Bob Lessard",
+        "footballSourceYear": null,
+        "nameAsListed": "Robert Lessard",
+        "graduationYear": 1982,
+        "inductionYear": 2014,
+        "sourcePage": 24,
+        "note": ""
+      },
+      {
+        "name": "Steve Capozzi",
+        "footballEvidence": "1979 Steve Capozzi",
+        "footballSourceYear": null,
+        "nameAsListed": "Steve Capozzi",
+        "graduationYear": 1980,
+        "inductionYear": 2018,
+        "sourcePage": 25,
+        "note": ""
+      },
+      {
+        "name": "Robert Gannon",
+        "footballEvidence": "2004 Rob Gannon",
+        "footballSourceYear": null,
+        "nameAsListed": "Robert Gannon",
+        "graduationYear": 2005,
+        "inductionYear": 2024,
+        "sourcePage": 26,
+        "note": ""
+      },
+      {
+        "name": "Mike Nicolo",
+        "nameAsListed": "Mike Nicolo",
+        "graduationYear": 2005,
+        "inductionYear": 2026,
+        "sourcePage": null,
+        "sourceUrl": "#alumni",
+        "sourceLabel": "Alumni record",
+        "note": "The existing alumni record identifies the 2026 induction. This later class is outside the supplied 1987–2024 roster.",
+        "footballEvidence": "2003 Item All-Star clipping; existing football alumni profile."
+      }
+    ],
+    "note": "Athlete inductees with documented Saugus football participation. Athletic Hall of Fame recognition may reflect more than one sport. Additional names will be added as football participation and identities are confirmed."
+  }
 }
