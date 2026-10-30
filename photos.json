@@ -380,62 +380,96 @@
     ]
   },
   {
-    "file": "photos/zip-IMG_2731.webp",
-    "thumb": "photos/thumb-zip-IMG_2731.webp",
-    "title": "Football, in a yearbook collage",
-    "caption": "Game action and player portraits from the 1939 football season. The Sachems finished 9–1–1 that year.",
+    "file": "photos/tribute-2751.webp",
+    "thumb": "photos/thumb-tribute-2751.webp",
+    "title": "The 1939 Sachems · a season to remember",
+    "caption": "The 1939 Sachems gave Saugus a season to remember. Under head coach Charles “Buzz” Harvey and assistant Nick Morris, a team that began amid modest expectations answered a 12–0 opening defeat at Medford with ten unbeaten games, finishing 9–1–1. Co-captains Jimmy Duffy and Stan Green helped lead a squad whose resilience, teamwork and determined play earned growing recognition across the region. Mike Harrington, Eddie Shipulski, Fred Walkey, Ray Mansfield, Dexter Pratt, Joe Bucherie, Woody Dill and Del Pitman figure prominently in the yearbook’s accounts, while the named squad portrait preserves Art Statuto and the teammates whose contributions made the season possible. Shutout victories over Gloucester, Swampscott and Marblehead built momentum, but the defining afternoon came against Salem. Before a crowd the yearbook estimated at 10,000, Saugus prevailed 3–0 on Bucherie’s field goal, with Harrington holding, backed by a defense that kept the Witches scoreless. A 38–6 Thanksgiving victory over Danvers provided a fitting farewell for the seniors. The celebration reached beyond the field: supporters traveled to Gloucester by special train, the squad enjoyed a Christmas holiday trip to New York and West Point, and 1,000 fans attended the January 20 banquet at the Lynn Armory. These seven yearbook pages preserve more than scores. Together, the action photographs, roster, co-captain portraits and celebrations honor a team that turned an uncertain beginning into an enduring source of Sachem pride—and the community that stood behind it.",
     "year": 1939,
-    "original": "IMG_2731.jpg",
-    "category": "Yearbooks",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "golden": true
-  },
-  {
-    "file": "photos/era-IMG_2733.webp",
-    "thumb": "photos/thumb-era-IMG_2733.webp",
-    "title": "The 1939 Sachems · squad & 1940 schedule",
-    "caption": "The 1939 squad under coach Charles “Buzz” Harvey is preserved with game recaps, alongside the following year’s schedule and co-captain announcement. The team portrait includes Art Statuto, Mike Harrington, Eddie Shipulski and their teammates.",
-    "year": 1939,
+    "yearEnd": 1940,
+    "dateLabel": "1939 season · 1940 schedule & celebrations",
     "category": "Teams",
     "golden": true,
-    "original": "IMG_2733.jpg",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
+    "original": "IMG_2751.jpeg",
+    "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context.",
     "images": [
       {
-        "file": "photos/era-IMG_2733.webp",
-        "thumb": "photos/thumb-era-IMG_2733.webp",
-        "title": "A Sachem squad from the Harvey years",
-        "caption": "The 1939 squad under coach Charles “Buzz” Harvey. The yearbook portrait names Art Statuto, Mike Harrington, Eddie Shipulski, and their teammates.",
+        "file": "photos/tribute-2751.webp",
+        "thumb": "photos/thumb-tribute-2751.webp",
+        "title": "1939 Sachems · a season captured in pictures",
+        "caption": "A marching band, packed stands and game photographs surround a collage of newspaper headlines, preserving the energy and community pride of Saugus football in 1939.",
         "year": 1939,
-        "category": "Teams",
-        "golden": true,
-        "original": "IMG_2733.jpg",
-        "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
-      },
-      {
-        "file": "photos/contributed-2585.webp",
-        "thumb": "photos/thumb-contributed-2585.webp",
-        "title": "Looking ahead · the 1940 schedule & co-captains",
-        "caption": "This companion page to the 1939 season material presents the 1940 schedule and announces Mike Harrington and George Flaherty as co-captains for the coming 1940–1941 school year. Harrington is described as an experienced quarterback and halfback, while Flaherty is recognized for his work at guard.",
-        "year": 1939,
-        "original": "IMG_2585.jpeg",
+        "original": "IMG_2751.jpeg",
         "category": "Yearbooks",
         "golden": true,
-        "dateSource": "Season identified by Sal Nicolo; school-year and schedule headings retained in the caption."
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2752.webp",
+        "thumb": "photos/thumb-tribute-2752.webp",
+        "title": "1939 season review · a setback, then a response",
+        "caption": "The yearbook recalls modest preseason expectations, the 12–0 opening loss at Medford, and the team’s determined response. Game accounts cover the 12–0 win over Cambridge Latin, the 6–6 tie with Melrose and the 21–0 victory over Amesbury.",
+        "year": 1939,
+        "original": "IMG_2752.jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2753.webp",
+        "thumb": "photos/thumb-tribute-2753.webp",
+        "title": "The 1939 squad · named roster, Woburn & Wakefield",
+        "caption": "The team portrait preserves the named roster, including Art Statuto, Mike Harrington, Eddie Shipulski, George Flaherty, Ray Mansfield and co-captain Stan Green. The original caption notes that co-captain Jim Duffy was receiving treatment for injuries when the photograph was taken. The accompanying accounts record victories over Woburn, 6–0, and Wakefield, 13–7.",
+        "year": 1939,
+        "original": "IMG_2753.jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2754.webp",
+        "thumb": "photos/thumb-tribute-2754.webp",
+        "title": "Co-captains Jimmy Duffy and Stan Green · 1939",
+        "caption": "A yearbook montage honors co-captains Jimmy Duffy and Stan Green alongside player poses, coaches and game action, preserving the faces and leadership behind the season.",
+        "year": 1939,
+        "original": "IMG_2754.jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2755.webp",
+        "thumb": "photos/thumb-tribute-2755.webp",
+        "title": "The winning stretch · Gloucester, Swampscott, Marblehead & Salem",
+        "caption": "The Sachems defeated Gloucester 26–0, Swampscott 20–0 and Marblehead 40–0 before their dramatic meeting with Salem. The yearbook recalls supporters traveling to Gloucester by special train and approximately 10,000 spectators gathering for the Salem game. This page begins the account of Joe Bucherie’s decisive field goal.",
+        "year": 1939,
+        "original": "IMG_2755.jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2756.webp",
+        "thumb": "photos/thumb-tribute-2756.webp",
+        "title": "A memorable finish · Salem, Thanksgiving & the next captains",
+        "caption": "Joe Bucherie’s field goal, with Mike Harrington holding, secured the 3–0 victory over Salem. Saugus then closed with a 38–6 Thanksgiving win over Danvers. The page honors the departing seniors, prints the 1940 schedule and announces Harrington and George Flaherty as the next co-captains; its school-year wording is 1940–1941.",
+        "year": 1939,
+        "original": "IMG_2756(1).jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
+      },
+      {
+        "file": "photos/tribute-2757.webp",
+        "thumb": "photos/thumb-tribute-2757.webp",
+        "title": "A town celebrates · the banquet & New York trip",
+        "caption": "The yearbook reports that 1,000 enthusiastic supporters attended the January 20 banquet at the Lynn Armory. The photograph identifies Boston College’s Ed McKeever, co-captain Jim Duffy, head coach Buzz Harvey, toastmaster Bill Cunningham, co-captain Stan Green and assistant coach Nick Morris. A companion account recalls the squad’s Christmas holiday trip to New York, including Radio City, the Aquarium, the Empire State Building and West Point.",
+        "year": 1939,
+        "original": "IMG_2757.jpeg",
+        "category": "Yearbooks",
+        "golden": true,
+        "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
       }
-    ],
-    "yearEnd": 1940,
-    "dateLabel": "1939 season · 1940 schedule"
-  },
-  {
-    "file": "photos/update-IMG_2734.webp",
-    "thumb": "photos/thumb-update-IMG_2734.webp",
-    "title": "Jimmy Duffy and Stan Green · 1939",
-    "caption": "A 1939 yearbook collage names co-captains Jimmy Duffy and Stan Green alongside portraits, game action, and coach Charles “Buzz” Harvey. Saugus finished 9–1–1.",
-    "year": 1939,
-    "category": "Yearbooks",
-    "golden": true,
-    "original": "IMG_2734.jpg"
+    ]
   },
   {
     "file": "photos/contributed-2748.webp",
