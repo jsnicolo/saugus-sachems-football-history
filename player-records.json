@@ -1437,7 +1437,7 @@
     {
       "name": "Michael “Mike” Garofano",
       "position": "Halfback / Captain",
-      "schoolClass": "Year to confirm",
+      "schoolClass": "1918",
       "bio": "Michael Garofano helped lead Saugus High's return to organized football in 1914. A September newspaper feature identified him as captain and left halfback of a team being rebuilt after a lengthy interruption. By the time of a 1917 preseason report, Garofano was serving in France during World War I, and Saugus was preparing to select a replacement captain. His surviving clippings preserve both an early leader of the revived football program and a young Saugus serviceman whose life extended beyond the playing field.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
@@ -1452,12 +1452,12 @@
       ],
       "row": "Archive research, October 2026",
       "era": "1910s",
-      "sortYear": 1914
+      "sortYear": 1918
     },
     {
       "name": "Franklin “Oozo” Pike",
       "position": "Fullback",
-      "schoolClass": "Year to confirm",
+      "schoolClass": "1923",
       "bio": "Franklin Pike was a powerful, versatile fullback at the center of Fred Beresford's unbeaten 1922 Saugus team. Contemporary coverage praised his strength as a runner and his ability to pass and kick, making him a threat in several parts of the game. He had already attracted notice in 1921, when a 75-yard interception return helped Saugus defeat Rockland. A later profile credited him with decisive performances against Rockland and Wellesley and described his development into one of the team's leading players. Pike represents the early generation that helped establish Saugus as a competitive football program.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
@@ -1476,23 +1476,28 @@
       ],
       "row": "Archive research, October 2026",
       "era": "1920s",
-      "sortYear": 1922
+      "sortYear": 1923
     },
     {
       "name": "Edward Amery",
       "position": "Back / Captain",
-      "schoolClass": "Year to confirm",
-      "bio": "Captain Edward Amery supplied leadership and versatility to Saugus High's unbeaten 1922 eleven. The contemporary profile of the team praised him as a passer, receiver, interceptor, and its leading punter. Alongside Franklin Pike, Lester Pool, and quarterback Forest Kenerson, Amery helped give a relatively light squad the skill and adaptability to compete successfully under Fred Beresford. His captaincy and contributions in several roles helped shape one of Saugus's earliest outstanding teams.",
+      "schoolClass": "1926",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1992.\n\nCaptain Edward Amery supplied leadership and versatility to Saugus High's unbeaten 1922 eleven. The contemporary profile of the team praised him as a passer, receiver, interceptor, and its leading punter. Alongside Franklin Pike, Lester Pool, and quarterback Forest Kenerson, Amery helped give a relatively light squad the skill and adaptability to compete successfully under Fred Beresford. His captaincy and contributions in several roles helped shape one of Saugus's earliest outstanding teams.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
         {
           "label": "1922 team/player feature",
           "url": "photos/contributed-2750-1.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1992",
+          "url": "documents/shs-hall-of-fame-roster.pdf#page=6"
         }
       ],
       "row": "Archive research, October 2026",
       "era": "1920s",
-      "sortYear": 1922
+      "sortYear": 1926,
+      "hallOfFameYear": 1992
     },
     {
       "name": "John “Jack” Leahy",
@@ -3187,11 +3192,11 @@
         "note": ""
       },
       {
-        "name": "John Nicolo",
-        "footballEvidence": "1975 John Nicolo** Lynn Item; 1974 John Nicolo* Lynn Item; 1974 John Nicolo; 1975 John Nicolo",
+        "name": "Christie Serino",
+        "footballEvidence": "1966 Christie Serino Lynn Item; 1966 Christie Serino",
         "footballSourceYear": null,
-        "nameAsListed": "John Nicolo",
-        "graduationYear": 1976,
+        "nameAsListed": "Chris Serino",
+        "graduationYear": 1967,
         "inductionYear": 1987,
         "sourcePage": 1,
         "note": ""
@@ -3217,6 +3222,26 @@
         "note": ""
       },
       {
+        "name": "John “Mike” Harrington",
+        "footballEvidence": "Harrington: 1942 yearbook class history, football roster and senior group",
+        "footballSourceYear": 1942,
+        "nameAsListed": "John (Mike) Harrington",
+        "graduationYear": 1942,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
+        "name": "John Nicolo",
+        "footballEvidence": "1975 John Nicolo** Lynn Item; 1974 John Nicolo* Lynn Item; 1974 John Nicolo; 1975 John Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "John Nicolo",
+        "graduationYear": 1976,
+        "inductionYear": 1987,
+        "sourcePage": 1,
+        "note": ""
+      },
+      {
         "name": "Sardi Nicolo",
         "footballEvidence": "1947 Sardi Nicolo; 1948 Sardi Nicolo; 1949 Sardi Nicolo",
         "footballSourceYear": null,
@@ -3237,31 +3262,11 @@
         "note": ""
       },
       {
-        "name": "Christie Serino",
-        "footballEvidence": "1966 Christie Serino Lynn Item; 1966 Christie Serino",
-        "footballSourceYear": null,
-        "nameAsListed": "Chris Serino",
-        "graduationYear": 1967,
-        "inductionYear": 1987,
-        "sourcePage": 1,
-        "note": ""
-      },
-      {
-        "name": "John “Mike” Harrington",
-        "footballEvidence": "Harrington: 1942 yearbook class history, football roster and senior group",
-        "footballSourceYear": 1942,
-        "nameAsListed": "John (Mike) Harrington",
-        "graduationYear": 1942,
-        "inductionYear": 1987,
-        "sourcePage": 1,
-        "note": ""
-      },
-      {
-        "name": "Edward “Eddie” Shipulski",
-        "footballEvidence": "Shipulski: 1942 senior biography and 1941 Football Folio; PDF spelling Shupulski",
-        "footballSourceYear": 1942,
-        "nameAsListed": "Ed Shupulski",
-        "graduationYear": 1942,
+        "name": "Abraham Pinciss",
+        "footballEvidence": "Abraham Pinciss: named tackle in the 1922 Pike/team clipping",
+        "footballSourceYear": 1922,
+        "nameAsListed": "Abraham Pinciss",
+        "graduationYear": 1923,
         "inductionYear": 1988,
         "sourcePage": 2,
         "note": ""
@@ -3272,6 +3277,26 @@
         "footballSourceYear": null,
         "nameAsListed": "Douglas Waybright",
         "graduationYear": 1944,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Edward “Eddie” Maguire",
+        "footballEvidence": "Edward James Maguire: 1967 senior biography, football co-captain",
+        "footballSourceYear": 1967,
+        "nameAsListed": "Edward J. MaGuire",
+        "graduationYear": 1967,
+        "inductionYear": 1988,
+        "sourcePage": 2,
+        "note": ""
+      },
+      {
+        "name": "Edward “Eddie” Shipulski",
+        "footballEvidence": "Shipulski: 1942 senior biography and 1941 Football Folio; PDF spelling Shupulski",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Ed Shupulski",
+        "graduationYear": 1942,
         "inductionYear": 1988,
         "sourcePage": 2,
         "note": ""
@@ -3297,16 +3322,6 @@
         "note": "The induction roster lists SHS 1950; his senior biography in the 1951 yearbook confirms the Class of 1951."
       },
       {
-        "name": "Edward “Eddie” Maguire",
-        "footballEvidence": "Edward James Maguire: 1967 senior biography, football co-captain",
-        "footballSourceYear": 1967,
-        "nameAsListed": "Edward J. MaGuire",
-        "graduationYear": 1967,
-        "inductionYear": 1988,
-        "sourcePage": 2,
-        "note": ""
-      },
-      {
         "name": "Stephen “Steve” Gannon",
         "footballEvidence": "1975 Stephen Gannon Lynn Item; 1974 Steve Gannon; 1975 Steve Gannon",
         "footballSourceYear": null,
@@ -3317,41 +3332,21 @@
         "note": ""
       },
       {
-        "name": "Abraham Pinciss",
-        "footballEvidence": "Abraham Pinciss: named tackle in the 1922 Pike/team clipping",
-        "footballSourceYear": 1922,
-        "nameAsListed": "Abraham Pinciss",
-        "graduationYear": 1923,
-        "inductionYear": 1988,
-        "sourcePage": 2,
-        "note": ""
-      },
-      {
-        "name": "Edwin Holmes",
-        "footballEvidence": "Edwin Holmes: named end in the 1921 Dedham lineup and later player feature",
-        "footballSourceYear": 1921,
-        "nameAsListed": "Edwin Holmes",
-        "graduationYear": 1922,
-        "inductionYear": 1989,
-        "sourcePage": 3,
-        "note": ""
-      },
-      {
-        "name": "Richard MacDonald",
-        "footballEvidence": "Richard MacDonald: 1942 senior biography, Football 1, 2, 3, 4",
-        "footballSourceYear": 1942,
-        "nameAsListed": "Richard MacDonald",
-        "graduationYear": 1942,
-        "inductionYear": 1989,
-        "sourcePage": 3,
-        "note": ""
-      },
-      {
         "name": "Arthur Statuto",
         "footballEvidence": "1939 Art Statuto; 1940 Art Statuto; 1941 Art Statuto; 1942 Art Statuto",
         "footballSourceYear": null,
         "nameAsListed": "Arthur Statuto",
         "graduationYear": 1943,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Daniel Heaney",
+        "footballEvidence": "1970 Dan Heaney Lynn Item; 1970 Dan Heaney",
+        "footballSourceYear": null,
+        "nameAsListed": "Daniel Heaney",
+        "graduationYear": 1971,
         "inductionYear": 1989,
         "sourcePage": 3,
         "note": ""
@@ -3377,13 +3372,33 @@
         "note": ""
       },
       {
-        "name": "Daniel Heaney",
-        "footballEvidence": "1970 Dan Heaney Lynn Item; 1970 Dan Heaney",
-        "footballSourceYear": null,
-        "nameAsListed": "Daniel Heaney",
-        "graduationYear": 1971,
+        "name": "Edwin Holmes",
+        "footballEvidence": "Edwin Holmes: named end in the 1921 Dedham lineup and later player feature",
+        "footballSourceYear": 1921,
+        "nameAsListed": "Edwin Holmes",
+        "graduationYear": 1922,
         "inductionYear": 1989,
         "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Richard MacDonald",
+        "footballEvidence": "Richard MacDonald: 1942 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Richard MacDonald",
+        "graduationYear": 1942,
+        "inductionYear": 1989,
+        "sourcePage": 3,
+        "note": ""
+      },
+      {
+        "name": "Bob Osgood",
+        "footballEvidence": "1969 Bob Osgood Lynn Item; 1969 Bob Osgood",
+        "footballSourceYear": null,
+        "nameAsListed": "Bob Osgood",
+        "graduationYear": 1970,
+        "inductionYear": 1990,
+        "sourcePage": 4,
         "note": ""
       },
       {
@@ -3392,16 +3407,6 @@
         "footballSourceYear": null,
         "nameAsListed": "Len Flaherty",
         "graduationYear": 1943,
-        "inductionYear": 1990,
-        "sourcePage": 4,
-        "note": ""
-      },
-      {
-        "name": "Tom Sheehan",
-        "footballEvidence": "1946 Tommy Sheehan",
-        "footballSourceYear": null,
-        "nameAsListed": "Tom Sheehan",
-        "graduationYear": 1947,
         "inductionYear": 1990,
         "sourcePage": 4,
         "note": ""
@@ -3427,21 +3432,21 @@
         "note": ""
       },
       {
-        "name": "Bob Osgood",
-        "footballEvidence": "1969 Bob Osgood Lynn Item; 1969 Bob Osgood",
+        "name": "Tom Sheehan",
+        "footballEvidence": "1946 Tommy Sheehan",
         "footballSourceYear": null,
-        "nameAsListed": "Bob Osgood",
-        "graduationYear": 1970,
+        "nameAsListed": "Tom Sheehan",
+        "graduationYear": 1947,
         "inductionYear": 1990,
         "sourcePage": 4,
         "note": ""
       },
       {
-        "name": "Ernie Anganis",
-        "footballEvidence": "1947 Ernie Anganis",
-        "footballSourceYear": null,
-        "nameAsListed": "Ernie Anganis",
-        "graduationYear": 1948,
+        "name": "Bayard “Buzzy” Maxwell",
+        "footballEvidence": "Buzzy Maxwell: 1961 football section names him at left end",
+        "footballSourceYear": 1961,
+        "nameAsListed": "Bayard (Buzz) Maxwell",
+        "graduationYear": 1961,
         "inductionYear": 1991,
         "sourcePage": 5,
         "note": ""
@@ -3457,6 +3462,16 @@
         "note": ""
       },
       {
+        "name": "Ernie Anganis",
+        "footballEvidence": "1947 Ernie Anganis",
+        "footballSourceYear": null,
+        "nameAsListed": "Ernie Anganis",
+        "graduationYear": 1948,
+        "inductionYear": 1991,
+        "sourcePage": 5,
+        "note": ""
+      },
+      {
         "name": "Harry Gates",
         "footballEvidence": "1931 Harry Gates",
         "footballSourceYear": null,
@@ -3467,11 +3482,11 @@
         "note": ""
       },
       {
-        "name": "Bayard “Buzzy” Maxwell",
-        "footballEvidence": "Buzzy Maxwell: 1961 football section names him at left end",
-        "footballSourceYear": 1961,
-        "nameAsListed": "Bayard (Buzz) Maxwell",
-        "graduationYear": 1961,
+        "name": "John Quinlan",
+        "footballEvidence": "John Quinlan: 1946 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1946,
+        "nameAsListed": "John Quinlan",
+        "graduationYear": 1946,
         "inductionYear": 1991,
         "sourcePage": 5,
         "note": ""
@@ -3497,13 +3512,33 @@
         "note": ""
       },
       {
-        "name": "John Quinlan",
-        "footballEvidence": "John Quinlan: 1946 senior biography, Football 1, 2, 3, 4",
-        "footballSourceYear": 1946,
-        "nameAsListed": "John Quinlan",
-        "graduationYear": 1946,
-        "inductionYear": 1991,
-        "sourcePage": 5,
+        "name": "Edward “Googie” Amery",
+        "nameAsListed": "Ed (Googie) Amery",
+        "graduationYear": 1926,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": "",
+        "footballEvidence": "1922 team/player newspaper feature; Edward Amery alumni profile.",
+        "footballSourceYear": 1922
+      },
+      {
+        "name": "Edward Koschei",
+        "footballEvidence": "1941 Eddie Koschei",
+        "footballSourceYear": null,
+        "nameAsListed": "Edward Koschei",
+        "graduationYear": 1942,
+        "inductionYear": 1992,
+        "sourcePage": 6,
+        "note": ""
+      },
+      {
+        "name": "Gary Quinlan",
+        "footballEvidence": "1979 Gary Quinlan Lynn Item; 1979 Gary Quinlan",
+        "footballSourceYear": null,
+        "nameAsListed": "Gary Quinlan",
+        "graduationYear": 1980,
+        "inductionYear": 1992,
+        "sourcePage": 6,
         "note": ""
       },
       {
@@ -3517,31 +3552,11 @@
         "note": "This is the Class of 1928 player, not the Class of 1954 co-captain."
       },
       {
-        "name": "Edward Koschei",
-        "footballEvidence": "1941 Eddie Koschei",
-        "footballSourceYear": null,
-        "nameAsListed": "Edward Koschei",
-        "graduationYear": 1942,
-        "inductionYear": 1992,
-        "sourcePage": 6,
-        "note": ""
-      },
-      {
         "name": "Steve Nelson",
         "footballEvidence": "1970 Steven Nelson Lynn Item; 1970 Steve Nelson",
         "footballSourceYear": null,
         "nameAsListed": "Steve Nelson",
         "graduationYear": 1970,
-        "inductionYear": 1992,
-        "sourcePage": 6,
-        "note": ""
-      },
-      {
-        "name": "Gary Quinlan",
-        "footballEvidence": "1979 Gary Quinlan Lynn Item; 1979 Gary Quinlan",
-        "footballSourceYear": null,
-        "nameAsListed": "Gary Quinlan",
-        "graduationYear": 1980,
         "inductionYear": 1992,
         "sourcePage": 6,
         "note": ""
@@ -3577,11 +3592,11 @@
         "note": ""
       },
       {
-        "name": "Walter “Wally” Gautreau",
-        "footballEvidence": "Walter/Wally Gaudreau/Gautreau: 1927 team veteran in the 1929 football review",
-        "footballSourceYear": 1927,
-        "nameAsListed": "Walter Gaudreau",
-        "graduationYear": 1928,
+        "name": "Bill Peach",
+        "footballEvidence": "1978 Bill Peach Lynn Item; 1978 Bill Peach",
+        "footballSourceYear": null,
+        "nameAsListed": "Bill Peach",
+        "graduationYear": 1979,
         "inductionYear": 1994,
         "sourcePage": 8,
         "note": ""
@@ -3597,16 +3612,6 @@
         "note": "The induction roster lists SHS 1945; the 1949 football records and existing alumni profile identify the player with the Class of 1950."
       },
       {
-        "name": "Steven Spinney",
-        "footballEvidence": "1974 Steve Spinney Lynn Item; 1974 Steve Spinney",
-        "footballSourceYear": null,
-        "nameAsListed": "Steven Spinney",
-        "graduationYear": 1975,
-        "inductionYear": 1994,
-        "sourcePage": 8,
-        "note": ""
-      },
-      {
         "name": "Frank DeMaso",
         "footballEvidence": "Frank DeMaso: 1940 senior biography, Football 1, 2, 3",
         "footballSourceYear": 1940,
@@ -3617,23 +3622,23 @@
         "note": ""
       },
       {
-        "name": "Bill Peach",
-        "footballEvidence": "1978 Bill Peach Lynn Item; 1978 Bill Peach",
+        "name": "Steven Spinney",
+        "footballEvidence": "1974 Steve Spinney Lynn Item; 1974 Steve Spinney",
         "footballSourceYear": null,
-        "nameAsListed": "Bill Peach",
-        "graduationYear": 1979,
+        "nameAsListed": "Steven Spinney",
+        "graduationYear": 1975,
         "inductionYear": 1994,
         "sourcePage": 8,
         "note": ""
       },
       {
-        "name": "Harold Huff",
-        "footballEvidence": "Harold Huff: 1943 senior biography, Football 3, 4",
-        "footballSourceYear": 1943,
-        "nameAsListed": "Harold Huff",
-        "graduationYear": 1943,
-        "inductionYear": 1995,
-        "sourcePage": 9,
+        "name": "Walter “Wally” Gautreau",
+        "footballEvidence": "Walter/Wally Gaudreau/Gautreau: 1927 team veteran in the 1929 football review",
+        "footballSourceYear": 1927,
+        "nameAsListed": "Walter Gaudreau",
+        "graduationYear": 1928,
+        "inductionYear": 1994,
+        "sourcePage": 8,
         "note": ""
       },
       {
@@ -3657,6 +3662,16 @@
         "note": ""
       },
       {
+        "name": "Harold Huff",
+        "footballEvidence": "Harold Huff: 1943 senior biography, Football 3, 4",
+        "footballSourceYear": 1943,
+        "nameAsListed": "Harold Huff",
+        "graduationYear": 1943,
+        "inductionYear": 1995,
+        "sourcePage": 9,
+        "note": ""
+      },
+      {
         "name": "Vito Russo",
         "footballEvidence": "1960 Vito Russo Lynn Item; 1960 Vito Russo",
         "footballSourceYear": null,
@@ -3667,31 +3682,11 @@
         "note": ""
       },
       {
-        "name": "Thomas Atkins",
-        "footballEvidence": "Thomas Atkins: 1942 senior biography, Football 2, 3, 4",
-        "footballSourceYear": 1942,
-        "nameAsListed": "Thomas Atkins",
-        "graduationYear": 1942,
-        "inductionYear": 1996,
-        "sourcePage": 10,
-        "note": ""
-      },
-      {
-        "name": "Robert Meagher",
-        "footballEvidence": "Robert/Bob Meagher: 1952 Football Folio records receiving Tony Serino passes",
-        "footballSourceYear": 1951,
-        "nameAsListed": "Robert Meagher",
-        "graduationYear": 1952,
-        "inductionYear": 1996,
-        "sourcePage": 10,
-        "note": ""
-      },
-      {
-        "name": "William Whittredge",
-        "footballEvidence": "William Whittredge: 1954 senior biography, Football 1, 2, 3, 4",
-        "footballSourceYear": 1954,
-        "nameAsListed": "William Whittredge",
-        "graduationYear": 1954,
+        "name": "George Nicolo",
+        "footballEvidence": "1977 George Nicolo Lynn Item; 1977 George Nicolo",
+        "footballSourceYear": null,
+        "nameAsListed": "George Nicolo",
+        "graduationYear": 1978,
         "inductionYear": 1996,
         "sourcePage": 10,
         "note": ""
@@ -3707,11 +3702,31 @@
         "note": ""
       },
       {
-        "name": "George Nicolo",
-        "footballEvidence": "1977 George Nicolo Lynn Item; 1977 George Nicolo",
-        "footballSourceYear": null,
-        "nameAsListed": "George Nicolo",
-        "graduationYear": 1978,
+        "name": "Robert Meagher",
+        "footballEvidence": "Robert/Bob Meagher: 1952 Football Folio records receiving Tony Serino passes",
+        "footballSourceYear": 1951,
+        "nameAsListed": "Robert Meagher",
+        "graduationYear": 1952,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "Thomas Atkins",
+        "footballEvidence": "Thomas Atkins: 1942 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1942,
+        "nameAsListed": "Thomas Atkins",
+        "graduationYear": 1942,
+        "inductionYear": 1996,
+        "sourcePage": 10,
+        "note": ""
+      },
+      {
+        "name": "William Whittredge",
+        "footballEvidence": "William Whittredge: 1954 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1954,
+        "nameAsListed": "William Whittredge",
+        "graduationYear": 1954,
         "inductionYear": 1996,
         "sourcePage": 10,
         "note": ""
@@ -3722,26 +3737,6 @@
         "footballSourceYear": null,
         "nameAsListed": "Andy Forti",
         "graduationYear": 1947,
-        "inductionYear": 1997,
-        "sourcePage": 11,
-        "note": ""
-      },
-      {
-        "name": "Tim Fawcett",
-        "footballEvidence": "1977 Tim Fawcett Lynn Item",
-        "footballSourceYear": null,
-        "nameAsListed": "Tim Fawcett",
-        "graduationYear": 1978,
-        "inductionYear": 1997,
-        "sourcePage": 11,
-        "note": ""
-      },
-      {
-        "name": "Don Trainor",
-        "footballEvidence": "1978 Don Trainor; 1979 Don Trainor",
-        "footballSourceYear": null,
-        "nameAsListed": "Don Trainor",
-        "graduationYear": 1979,
         "inductionYear": 1997,
         "sourcePage": 11,
         "note": ""
@@ -3767,11 +3762,31 @@
         "note": ""
       },
       {
+        "name": "Don Trainor",
+        "footballEvidence": "1978 Don Trainor; 1979 Don Trainor",
+        "footballSourceYear": null,
+        "nameAsListed": "Don Trainor",
+        "graduationYear": 1979,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
         "name": "Jim Patch",
         "footballEvidence": "James Harold Patch: 1965 senior biography, Football 2, 3, 4",
         "footballSourceYear": 1965,
         "nameAsListed": "Jim Patch",
         "graduationYear": 1965,
+        "inductionYear": 1997,
+        "sourcePage": 11,
+        "note": ""
+      },
+      {
+        "name": "Tim Fawcett",
+        "footballEvidence": "1977 Tim Fawcett Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Tim Fawcett",
+        "graduationYear": 1978,
         "inductionYear": 1997,
         "sourcePage": 11,
         "note": ""
@@ -3787,21 +3802,21 @@
         "note": "The 1965 senior biography lists Football 1; varsity football participation is not established."
       },
       {
-        "name": "Ned Orlando",
-        "footballEvidence": "1955 Ned Orlando",
-        "footballSourceYear": null,
-        "nameAsListed": "Ned Orlando",
-        "graduationYear": 1956,
-        "inductionYear": 1998,
-        "sourcePage": 12,
-        "note": ""
-      },
-      {
         "name": "Joe Barressi",
         "footballEvidence": "1987 Joe Barressi Lynn Item; 1987 Joe Barressi",
         "footballSourceYear": null,
         "nameAsListed": "Joe Barressi",
         "graduationYear": 1988,
+        "inductionYear": 1998,
+        "sourcePage": 12,
+        "note": ""
+      },
+      {
+        "name": "Ned Orlando",
+        "footballEvidence": "1955 Ned Orlando",
+        "footballSourceYear": null,
+        "nameAsListed": "Ned Orlando",
+        "graduationYear": 1956,
         "inductionYear": 1998,
         "sourcePage": 12,
         "note": ""
@@ -3815,16 +3830,6 @@
         "inductionYear": 1999,
         "sourcePage": 13,
         "note": ""
-      },
-      {
-        "name": "William “Bill” MacNeill",
-        "footballEvidence": "Bill/Billy MacNeill: repeated appearances in the 1953 championship Football Folio",
-        "footballSourceYear": 1953,
-        "nameAsListed": "Bill McNeil",
-        "graduationYear": 1954,
-        "inductionYear": 1999,
-        "sourcePage": 13,
-        "note": "The 1953 football records use Billy/William MacNeill; distinct from Doug MacNeill."
       },
       {
         "name": "Dan Hashem",
@@ -3857,6 +3862,16 @@
         "note": ""
       },
       {
+        "name": "William “Bill” MacNeill",
+        "footballEvidence": "Bill/Billy MacNeill: repeated appearances in the 1953 championship Football Folio",
+        "footballSourceYear": 1953,
+        "nameAsListed": "Bill McNeil",
+        "graduationYear": 1954,
+        "inductionYear": 1999,
+        "sourcePage": 13,
+        "note": "The 1953 football records use Billy/William MacNeill; distinct from Doug MacNeill."
+      },
+      {
         "name": "Jack Warren",
         "footballEvidence": "Jack Warren: named in 1939 squad and Wakefield game account, 1940 yearbook",
         "footballSourceYear": 1939,
@@ -3877,16 +3892,6 @@
         "note": ""
       },
       {
-        "name": "John Matrona",
-        "footballEvidence": "1960 John Matrona Lynn Item; 1960 John Matrona",
-        "footballSourceYear": null,
-        "nameAsListed": "John Matrona",
-        "graduationYear": 1961,
-        "inductionYear": 2000,
-        "sourcePage": 14,
-        "note": ""
-      },
-      {
         "name": "John Dancewicz",
         "footballEvidence": "1966 John Dancewicz Lynn Item; 1966 John Dancewicz",
         "footballSourceYear": null,
@@ -3897,11 +3902,11 @@
         "note": ""
       },
       {
-        "name": "Ron Barressi",
-        "footballEvidence": "1964 Ron Barressi Lynn Item",
+        "name": "John Matrona",
+        "footballEvidence": "1960 John Matrona Lynn Item; 1960 John Matrona",
         "footballSourceYear": null,
-        "nameAsListed": "Ron Barressi",
-        "graduationYear": 1965,
+        "nameAsListed": "John Matrona",
+        "graduationYear": 1961,
         "inductionYear": 2000,
         "sourcePage": 14,
         "note": ""
@@ -3917,13 +3922,13 @@
         "note": ""
       },
       {
-        "name": "Leo Kane",
-        "footballEvidence": "1950 Leo Kane",
+        "name": "Ron Barressi",
+        "footballEvidence": "1964 Ron Barressi Lynn Item",
         "footballSourceYear": null,
-        "nameAsListed": "Leo Kane",
-        "graduationYear": 1951,
-        "inductionYear": 2001,
-        "sourcePage": 15,
+        "nameAsListed": "Ron Barressi",
+        "graduationYear": 1965,
+        "inductionYear": 2000,
+        "sourcePage": 14,
         "note": ""
       },
       {
@@ -3934,6 +3939,26 @@
         "graduationYear": 1991,
         "inductionYear": 2001,
         "sourcePage": 15,
+        "note": ""
+      },
+      {
+        "name": "Leo Kane",
+        "footballEvidence": "1950 Leo Kane",
+        "footballSourceYear": null,
+        "nameAsListed": "Leo Kane",
+        "graduationYear": 1951,
+        "inductionYear": 2001,
+        "sourcePage": 15,
+        "note": ""
+      },
+      {
+        "name": "Doug Orlando",
+        "footballEvidence": "Douglas William Orlando: 1981 senior biography, Football 2, 3, Captain 4",
+        "footballSourceYear": 1981,
+        "nameAsListed": "Doug Orlando",
+        "graduationYear": 1981,
+        "inductionYear": 2002,
+        "sourcePage": 16,
         "note": ""
       },
       {
@@ -3952,16 +3977,6 @@
         "footballSourceYear": null,
         "nameAsListed": "John Naples",
         "graduationYear": 1959,
-        "inductionYear": 2002,
-        "sourcePage": 16,
-        "note": ""
-      },
-      {
-        "name": "Doug Orlando",
-        "footballEvidence": "Douglas William Orlando: 1981 senior biography, Football 2, 3, Captain 4",
-        "footballSourceYear": 1981,
-        "nameAsListed": "Doug Orlando",
-        "graduationYear": 1981,
         "inductionYear": 2002,
         "sourcePage": 16,
         "note": ""
@@ -3987,16 +4002,6 @@
         "note": ""
       },
       {
-        "name": "William MacDonald",
-        "footballEvidence": "1972 Bill MacDonald Lynn Item",
-        "footballSourceYear": null,
-        "nameAsListed": "William MacDonald",
-        "graduationYear": 1973,
-        "inductionYear": 2003,
-        "sourcePage": 17,
-        "note": "The football honors record uses Bill MacDonald."
-      },
-      {
         "name": "Patrick Sullivan",
         "footballEvidence": "1975 Pat Sullivan Lynn Item; 1976 Pat Sullivan",
         "footballSourceYear": null,
@@ -4007,6 +4012,16 @@
         "note": ""
       },
       {
+        "name": "William MacDonald",
+        "footballEvidence": "1972 Bill MacDonald Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "William MacDonald",
+        "graduationYear": 1973,
+        "inductionYear": 2003,
+        "sourcePage": 17,
+        "note": "The football honors record uses Bill MacDonald."
+      },
+      {
         "name": "William Mitchell",
         "footballEvidence": "William/Bill Mitchell: 1978 yearbook championship senior list, printed p. 165",
         "footballSourceYear": 1977,
@@ -4014,16 +4029,6 @@
         "graduationYear": 1978,
         "inductionYear": 2003,
         "sourcePage": 17,
-        "note": ""
-      },
-      {
-        "name": "Charles Woodell",
-        "footballEvidence": "Charles Woodell: 1951 senior biography, Football 1, 2, 3, 4",
-        "footballSourceYear": 1951,
-        "nameAsListed": "Charles Woodell",
-        "graduationYear": 1951,
-        "inductionYear": 2004,
-        "sourcePage": 18,
         "note": ""
       },
       {
@@ -4037,21 +4042,21 @@
         "note": ""
       },
       {
-        "name": "Richard Salerno",
-        "footballEvidence": "Richard Salerno: 1954 senior biography, Football 2, 3, 4; not the 1984 same-name player",
-        "footballSourceYear": 1954,
-        "nameAsListed": "Richard Salerno",
-        "graduationYear": 1954,
-        "inductionYear": 2004,
-        "sourcePage": 18,
-        "note": "Class of 1954; distinct from the later same-name football player."
-      },
-      {
         "name": "Bob Piwowarski",
         "footballEvidence": "1954 Bob Piwowarski Lynn Item",
         "footballSourceYear": null,
         "nameAsListed": "Bob Piwowarski",
         "graduationYear": 1955,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": ""
+      },
+      {
+        "name": "Charles Woodell",
+        "footballEvidence": "Charles Woodell: 1951 senior biography, Football 1, 2, 3, 4",
+        "footballSourceYear": 1951,
+        "nameAsListed": "Charles Woodell",
+        "graduationYear": 1951,
         "inductionYear": 2004,
         "sourcePage": 18,
         "note": ""
@@ -4067,14 +4072,14 @@
         "note": ""
       },
       {
-        "name": "Arthur Polimeno",
-        "footballEvidence": "1980 Art Polimeno Lynn Item",
-        "footballSourceYear": null,
-        "nameAsListed": "Arthur Polimeno",
-        "graduationYear": 1981,
-        "inductionYear": 2005,
-        "sourcePage": 19,
-        "note": ""
+        "name": "Richard Salerno",
+        "footballEvidence": "Richard Salerno: 1954 senior biography, Football 2, 3, 4; not the 1984 same-name player",
+        "footballSourceYear": 1954,
+        "nameAsListed": "Richard Salerno",
+        "graduationYear": 1954,
+        "inductionYear": 2004,
+        "sourcePage": 18,
+        "note": "Class of 1954; distinct from the later same-name football player."
       },
       {
         "name": "Allen Comeau",
@@ -4087,6 +4092,16 @@
         "note": "The roster leaves the school class blank; the 1958 senior yearbook identifies Allan Comeau."
       },
       {
+        "name": "Arthur Polimeno",
+        "footballEvidence": "1980 Art Polimeno Lynn Item",
+        "footballSourceYear": null,
+        "nameAsListed": "Arthur Polimeno",
+        "graduationYear": 1981,
+        "inductionYear": 2005,
+        "sourcePage": 19,
+        "note": ""
+      },
+      {
         "name": "James Quinlan",
         "footballEvidence": "James Quinlan: 1982 senior biography, Football 3, 4",
         "footballSourceYear": 1982,
@@ -4095,26 +4110,6 @@
         "inductionYear": 2005,
         "sourcePage": 19,
         "note": ""
-      },
-      {
-        "name": "Michael Mabee",
-        "footballEvidence": "1995 Mike Mabee Lynn Item; 1995 Mike Mabee",
-        "footballSourceYear": null,
-        "nameAsListed": "Michael Mabee",
-        "graduationYear": 1996,
-        "inductionYear": 2006,
-        "sourcePage": 20,
-        "note": ""
-      },
-      {
-        "name": "Louis O'Neil",
-        "footballEvidence": "1968 Lou O'Neil Lynn Item; 1967 Louis O'Neil; 1968 Lou O'Neil",
-        "footballSourceYear": null,
-        "nameAsListed": "Louis O'Neil",
-        "graduationYear": 1969,
-        "inductionYear": 2006,
-        "sourcePage": 20,
-        "note": "The roster leaves the school class blank; his 1969 senior biography confirms it."
       },
       {
         "name": "James Driscoll",
@@ -4127,13 +4122,23 @@
         "note": "The roster leaves the school class blank; the 1950 Item identifies him as a senior, and he is associated with the 1951 graduating cohort."
       },
       {
-        "name": "Nicholas Barressi",
-        "footballEvidence": "Nicholas Barressi: 1943 senior biography, Football 2, 3, 4",
-        "footballSourceYear": 1943,
-        "nameAsListed": "Nick Barresi",
-        "graduationYear": 1943,
-        "inductionYear": 2007,
-        "sourcePage": 21,
+        "name": "Louis O'Neil",
+        "footballEvidence": "1968 Lou O'Neil Lynn Item; 1967 Louis O'Neil; 1968 Lou O'Neil",
+        "footballSourceYear": null,
+        "nameAsListed": "Louis O'Neil",
+        "graduationYear": 1969,
+        "inductionYear": 2006,
+        "sourcePage": 20,
+        "note": "The roster leaves the school class blank; his 1969 senior biography confirms it."
+      },
+      {
+        "name": "Michael Mabee",
+        "footballEvidence": "1995 Mike Mabee Lynn Item; 1995 Mike Mabee",
+        "footballSourceYear": null,
+        "nameAsListed": "Michael Mabee",
+        "graduationYear": 1996,
+        "inductionYear": 2006,
+        "sourcePage": 20,
         "note": ""
       },
       {
@@ -4152,6 +4157,16 @@
         "footballSourceYear": null,
         "nameAsListed": "LJ McKanas",
         "graduationYear": 1997,
+        "inductionYear": 2007,
+        "sourcePage": 21,
+        "note": ""
+      },
+      {
+        "name": "Nicholas Barressi",
+        "footballEvidence": "Nicholas Barressi: 1943 senior biography, Football 2, 3, 4",
+        "footballSourceYear": 1943,
+        "nameAsListed": "Nick Barresi",
+        "graduationYear": 1943,
         "inductionYear": 2007,
         "sourcePage": 21,
         "note": ""
