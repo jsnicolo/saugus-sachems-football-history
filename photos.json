@@ -2070,37 +2070,48 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
-    "file": "photos/replacement-1969-1-oct29.webp",
-    "thumb": "photos/thumb-replacement-1969-1-oct29.webp",
+    "file": "photos/season1969-2795.webp",
+    "thumb": "photos/thumb-season1969-2795.webp",
     "title": "The 1969 Sachems · squad & season photographs",
-    "caption": "Yearbook photographs preserve the 1969 Sachems in a named team portrait, on the sideline and in game action. The pages bring together the squad, coaches and moments from the season.",
+    "caption": "The 1969 Sachems finished 7–2 under Paul Maguire, led by captains John Richard, Richard Conti and William Babcock. These three yearbook pages preserve the squad portrait and named roster, season review, regional honors, complete results, and photographs of the players and coaches. Victories included a 3–0 shutout of Woburn and a narrow 28–26 win over Newburyport. The team’s only defeats came against Class B champion Swampscott and Class A champion Peabody. Bob Osgood and Bill Eichel earned first offensive-team Northeastern Conference All-Star honors, Steve Nelson made the first defensive team, and Rich Desisto, Bill Babcock, Rich Conti and John Richard received honorable mentions. The yearbook celebrates a successful season without explicitly awarding Saugus a conference championship.",
     "year": 1969,
-    "original": "IMG_2703.jpeg",
+    "original": "IMG_2795.jpeg",
     "category": "Teams",
     "golden": false,
     "dateSource": "Season identified by Sal Nicolo and yearbook context.",
     "images": [
       {
-        "file": "photos/replacement-1969-1-oct29.webp",
-        "thumb": "photos/thumb-replacement-1969-1-oct29.webp",
-        "title": "1969 Sachems · team portrait & roster",
-        "caption": "The squad poses above its named roster, accompanied by photographs from the season. A two-page spread combines team photographs, action and a season review.",
+        "file": "photos/season1969-2795.webp",
+        "thumb": "photos/thumb-season1969-2795.webp",
+        "title": "1969 Sachems · team portrait, roster & action",
+        "caption": "The named roster identifies captains John Richard, Richard Conti and William Babcock alongside their teammates. The page combines the left portion of the squad portrait with photographs of the team in action; the adjoining season-review page preserves the remainder of the portrait.",
         "year": 1969,
-        "original": "IMG_2703.jpeg",
+        "original": "IMG_2795.jpeg",
         "category": "Teams",
         "golden": false,
-        "dateSource": "Season identified by Sal Nicolo and yearbook context."
+        "dateSource": "1970 Tontoquonian yearbook pages supplied by Sal Nicolo; review explicitly records the preceding fall’s 7–2 season."
       },
       {
-        "file": "photos/replacement-1969-2-oct29.webp",
-        "thumb": "photos/thumb-replacement-1969-2-oct29.webp",
-        "title": "1969 Sachems · game action & results",
-        "caption": "A closer view of the companion page preserves player photographs and the season’s results.",
+        "file": "photos/season1969-2796.webp",
+        "thumb": "photos/thumb-season1969-2796.webp",
+        "title": "1969 Sachems · season review & regional honors",
+        "caption": "The yearbook records seven wins and two losses, describing this as only the second seven-win Saugus football season in nineteen years. Its only defeats came against Class A champion Peabody and Class B champion Swampscott. Bob Osgood and Bill Eichel made the first offensive Northeastern Conference All-Star team, while Steve Nelson earned first defensive-team honors. Honorable mentions went to Rich Desisto, Bill Babcock, Rich Conti and John Richard.",
         "year": 1969,
-        "original": "IMG_2704.jpeg",
+        "original": "IMG_2796.jpeg",
         "category": "Teams",
         "golden": false,
-        "dateSource": "Season identified by Sal Nicolo and yearbook context."
+        "dateSource": "1970 Tontoquonian yearbook pages supplied by Sal Nicolo; review explicitly records the preceding fall’s 7–2 season."
+      },
+      {
+        "file": "photos/season1969-2797.webp",
+        "thumb": "photos/thumb-season1969-2797.webp",
+        "title": "1969 Sachems · captains, sideline photographs & results",
+        "caption": "The results list victories over B.C. High (29–6), Beverly (28–20), Woburn (3–0), Marblehead (12–7), Newburyport (28–26), Winthrop (30–6) and Watertown (29–12), with losses to Swampscott (27–6) and Peabody (30–6). Photographs preserve the captains, coaches and players on the field and sideline.",
+        "year": 1969,
+        "original": "IMG_2797.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1970 Tontoquonian yearbook pages supplied by Sal Nicolo; review explicitly records the preceding fall’s 7–2 season."
       }
     ]
   },
