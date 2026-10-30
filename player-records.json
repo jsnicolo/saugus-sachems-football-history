@@ -49,7 +49,9 @@
       "year": 2023,
       "publisher": "Lynn Item",
       "row": 5,
-      "sourceNote": "Contemporary clipping spells the first name Braden; original workbook uses Brandon."
+      "sourceNote": "Contemporary clipping spells the first name Braden; original workbook uses Brandon.",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4162.webp",
+      "sourceLabel": "2023 Item All-Star capsule"
     },
     {
       "name": "Dan Schena",
@@ -81,7 +83,9 @@
       "schoolClass": "Jr",
       "year": 2022,
       "publisher": "Lynn Item",
-      "row": 7
+      "row": 7,
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/update-IMG_4161.webp",
+      "sourceLabel": "2022 Item All-Star capsule"
     },
     {
       "name": "Paul Serino",
@@ -1043,7 +1047,10 @@
       "schoolClass": "Sr",
       "year": 1950,
       "publisher": "Lynn Item",
-      "row": 109
+      "row": 109,
+      "award": "Lynn Item All-Scholastic",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3335.webp",
+      "sourceLabel": "1950 Item All-Scholastic scan"
     },
     {
       "name": "Richie Nicolo",
@@ -1051,7 +1058,10 @@
       "schoolClass": "Sr",
       "year": 1950,
       "publisher": "Lynn Item",
-      "row": 110
+      "row": 110,
+      "award": "Lynn Item All-Scholastic",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3335.webp",
+      "sourceLabel": "1950 Item All-Scholastic scan"
     },
     {
       "name": "Dan Murphy",
@@ -1059,7 +1069,10 @@
       "schoolClass": "Sr",
       "year": 1949,
       "publisher": "Lynn Item",
-      "row": 111
+      "row": 111,
+      "award": "Lynn Item All-Scholastic",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3334.webp",
+      "sourceLabel": "1949 Item All-Scholastic scan"
     },
     {
       "name": "Salvatore 'Sard' Nicolo",
@@ -1067,7 +1080,10 @@
       "schoolClass": "Sr",
       "year": 1949,
       "publisher": "Lynn Item",
-      "row": 112
+      "row": 112,
+      "award": "Lynn Item All-Scholastic",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3334.webp",
+      "sourceLabel": "1949 Item All-Scholastic scan"
     },
     {
       "name": "Fred Quinlan",
@@ -1075,7 +1091,10 @@
       "schoolClass": "Sr",
       "year": 1949,
       "publisher": "Lynn Item",
-      "row": 113
+      "row": 113,
+      "award": "Lynn Item All-Scholastic",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3334.webp",
+      "sourceLabel": "1949 Item All-Scholastic scan"
     },
     {
       "name": "Eugene Decereau",
@@ -1469,8 +1488,8 @@
       "schoolClass": "",
       "publisher": "Northeastern Conference",
       "award": "NEC All-Star (third career selection)",
-      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3256.webp",
-      "sourceLabel": "2003 Item All-Star article; three-time NEC selection"
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3760.webp",
+      "sourceLabel": "2003 Item capsule · three NEC selections"
     },
     {
       "year": 2003,
@@ -1531,6 +1550,16 @@
       "award": "NEC All-Star",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4152.webp",
       "sourceLabel": "2015 Item capsule"
+    },
+    {
+      "year": 2003,
+      "name": "Sal Nicolo",
+      "position": "—",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2477.webp",
+      "sourceLabel": "2003 Gridiron star clipping"
     }
   ],
   "alumni": [
