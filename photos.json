@@ -2013,26 +2013,59 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
-    "file": "photos/replacement-1966-1-oct29.webp",
-    "thumb": "photos/thumb-replacement-1966-1-oct29.webp",
+    "file": "photos/season1966-2798.webp",
+    "thumb": "photos/thumb-season1966-2798.webp",
     "title": "The 1966 Sachems · squad & player portraits",
-    "caption": "Walter Sheridan’s Sachems finished 7–2 in a strong season; a reported Northeastern Conference championship remains unverified. These adjoining yearbook pages preserve the squad portrait and individual player poses, including co-captains Edward Maguire, John Dancewicz and Paul Uga. Familiar names include Christie Serino, Jim Mancuso, Don Murray and Richie Lombardo, members of a team well represented in the season’s regional honors.",
+    "caption": "Walter Sheridan’s 1966 Sachems finished 7–2. These four pages from the 1967 yearbook bring together both halves of the squad portrait, named player studies and two pages of game action, with the pep squad, cheerleaders and spectators sharing in the season’s story. Co-captains Edward Maguire, John Dancewicz and Paul Uga appear among their teammates, alongside Christie Serino, James Mancuso, Donald Murray and Richard Lombardo. The printed portraits preserve players across the backfield, line and receiving positions, while the action photographs capture running, blocking, tackling and scoring in front of crowded sidelines. These pages document the team and its school spirit; a conference championship remains unverified.",
     "year": 1966,
-    "original": "IMG_2702.jpeg",
+    "original": "IMG_2798.jpeg",
     "category": "Teams",
     "golden": false,
     "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records.",
     "images": [
       {
-        "file": "photos/replacement-1966-1-oct29.webp",
-        "thumb": "photos/thumb-replacement-1966-1-oct29.webp",
-        "title": "1966 Sachems · squad & player portraits",
-        "caption": "The first half of a two-page yearbook spread combines the team photograph with individual portraits of James Mancuso, Michael Shell, Michael Kimball, Vincent Paolini, Charles Bilton, Donald Murray, Stephen Malgeri, Charles Stack and Charles Shipulski. The companion page completes the team photograph and features co-captains Edward Maguire, John Dancewicz and Paul Uga, together with Joseph Meuse, Arthur Grabowski, Richard Jackman, Christie Serino, John Hansen and Richard Lombardo. The heading “1967” refers to the yearbook year; the football season was fall 1966.",
+        "file": "photos/season1966-2798.webp",
+        "thumb": "photos/thumb-season1966-2798.webp",
+        "title": "1966 Sachems · squad portrait & player studies",
+        "caption": "The first half of the squad photograph appears with named portraits of James Mancuso, tackle; Michael Shell, guard; Michael Kimball, Vincent Paolini, Charles Bilton and Donald Murray, backs; and Stephen Malgeri, Charles Stack and Charles Shipulski, ends. Names and positions follow the printed yearbook captions.",
         "year": 1966,
-        "original": "IMG_2702.jpeg",
+        "original": "IMG_2798.jpeg",
         "category": "Teams",
         "golden": false,
-        "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records."
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      },
+      {
+        "file": "photos/season1966-2799.webp",
+        "thumb": "photos/thumb-season1966-2799.webp",
+        "title": "1966 Sachems · co-captains & teammates",
+        "caption": "The adjoining page completes the squad portrait and identifies co-captains Edward Maguire and John Dancewicz, backs, and Paul Uga, guard. Other named portraits show Joseph Meuse and Richard Jackman, guards; Arthur Grabowski and John Hansen, centers; Christie Serino, back; and Richard Lombardo, guard.",
+        "year": 1966,
+        "original": "IMG_2799.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      },
+      {
+        "file": "photos/season1966-2800.webp",
+        "thumb": "photos/thumb-season1966-2800.webp",
+        "title": "1966 season · game action & school spirit",
+        "caption": "Yearbook page 130 preserves running plays, tackles and close work at the line of scrimmage, alongside part of the football pep squad and cheerleading photographs. The original captions emphasize the physical contests on the field; the action photographs do not individually identify every player.",
+        "year": 1966,
+        "original": "IMG_2800.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      },
+      {
+        "file": "photos/season1966-2801.webp",
+        "thumb": "photos/thumb-season1966-2801.webp",
+        "title": "1966 season · scoring plays, pep squad & cheerleaders",
+        "caption": "Yearbook page 131 continues the action collection with a touchdown photograph, a point-after attempt, a leaping player and open-field running. The football pep squad and cheerleaders share the page, preserving the student support and crowded game-day atmosphere around the Sachems.",
+        "year": 1966,
+        "original": "IMG_2801.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
       }
     ]
   },
