@@ -1555,15 +1555,94 @@
     "dateSource": "Identification and context supplied by Sal Nicolo."
   },
   {
-    "file": "photos/contributed-2602.webp",
-    "thumb": "photos/thumb-contributed-2602.webp",
-    "title": "The 1953 champions · team & named roster",
-    "caption": "The 1953 Sachems pose with their coaches in a yearbook portrait labeled “North Shore Champions.” Captains John Leahy and Doug MacNeill led John Janusas’s 6–2–1 championship squad. The named roster beneath the photograph preserves the players, managers and coaching staff, including coaches Scarborough and Janusas.",
+    "file": "photos/team1953-2758.webp",
+    "thumb": "photos/thumb-team1953-2758.webp",
+    "title": "The 1953 North Shore champions · team & season review",
+    "caption": "The 1953 Sachems earned their place in Saugus football history as North Shore champions, led by co-captains John Leahy and Doug MacNeill under coach John Janusas. These seven yearbook pages bring together the full squad and named roster, player portraits set against newspaper headlines, detailed game accounts and three collections of photographs from the field and stands. The season demanded both resilience and teamwork. Saugus opened with shutouts of Revere and Lynn Classical, rallied for a 12–12 tie with Marblehead, and edged Beverly 14–13 in a game the yearbook remembered as a thriller. A 26–18 victory over Lynn English kept the Sachems moving forward before Chelsea delivered their only regular-season defeat. They answered with a 27–0 win over Salem, then finished decisively on Thanksgiving, defeating Peabody 33–6 to secure the North Shore League title. Billy MacNeill, Bill Whittredge, Bob Piwowarski, Mal Rice and Charlie and Jackie Lawrence feature throughout the accounts, alongside the linemen and teammates who made the scoring drives and defensive stops possible. The yearbook records a 6–1–1 season and lists the 18–6 Joyce Jamboree loss to Haverhill separately. Together, these pages honor the players, coaches, managers, band and supporters who shared in a memorable championship autumn.",
     "year": 1953,
-    "original": "IMG_2602(1).jpeg",
+    "original": "IMG_2758.jpeg",
     "category": "Teams",
     "golden": false,
-    "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records."
+    "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season.",
+    "images": [
+      {
+        "file": "photos/team1953-2758.webp",
+        "thumb": "photos/thumb-team1953-2758.webp",
+        "title": "1953 North Shore champions · squad, roster & opening games",
+        "caption": "The full squad portrait and named roster preserve co-captains John Leahy and Doug MacNeill, coaches John Janusas and Scarborough, and the players and managers behind the North Shore championship. The page lists an 18–6 Joyce Jamboree loss to Haverhill separately from the regular-season opener, a 28–0 victory over Revere.",
+        "year": 1953,
+        "original": "IMG_2758.jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2759.webp",
+        "thumb": "photos/thumb-team1953-2759.webp",
+        "title": "The 1953 Sachems · players amid the headlines",
+        "caption": "Player poses and formations are arranged over contemporary newspaper coverage of the 1953 season. Headlines trace the unbeaten early run, the Marblehead tie, the Beverly victory and the drive toward the North Shore title, culminating in the 33–6 Thanksgiving win over Peabody.",
+        "year": 1953,
+        "original": "IMG_2759.jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2761.webp",
+        "thumb": "photos/thumb-team1953-2761.webp",
+        "title": "1953 season review · Classical through Chelsea",
+        "caption": "The yearbook recounts the 21–0 win over Lynn Classical, the second-half rally for a 12–12 tie with Marblehead, the dramatic 14–13 victory over Beverly, and the 26–18 win over Lynn English. Chelsea then handed Saugus its only regular-season defeat, 13–0. The accounts highlight Billy MacNeill, Bill Whittredge, Bob Piwowarski, Mal Rice, Charlie Lawrence and the work of the offensive and defensive lines.",
+        "year": 1953,
+        "original": "IMG_2761(2).jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2762.webp",
+        "thumb": "photos/thumb-team1953-2762.webp",
+        "title": "1953 Sachems in action · photograph collection, page 1",
+        "caption": "A full page of game photographs captures the Sachems running, passing, blocking and tackling in daylight and under the lights. Packed sidelines and stands provide a backdrop to the physical play of the 1953 championship season. The photographs do not supply individual player identifications.",
+        "year": 1953,
+        "original": "IMG_2762(1).jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2763.webp",
+        "thumb": "photos/thumb-team1953-2763.webp",
+        "title": "1953 Sachems in action · photograph collection, page 2",
+        "caption": "A second collection preserves open-field runs, plays at the line of scrimmage, tackles and passing action from the 1953 season. Daytime and night-game photographs show the team at work from several vantage points; individual players are not identified in the accompanying page.",
+        "year": 1953,
+        "original": "IMG_2763(1).jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2764.webp",
+        "thumb": "photos/thumb-team1953-2764.webp",
+        "title": "The 1953 season · the crowd, the band & the game",
+        "caption": "This yearbook collage widens the view beyond the field, bringing together crowded stands, cheering supporters, the marching band and game action. It preserves the school spirit and community atmosphere surrounding the Sachems’ 1953 North Shore championship season.",
+        "year": 1953,
+        "original": "IMG_2764.jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      },
+      {
+        "file": "photos/team1953-2765.webp",
+        "thumb": "photos/thumb-team1953-2765.webp",
+        "title": "Finishing as champions · Salem & Thanksgiving against Peabody",
+        "caption": "Saugus rebounded from the Chelsea loss with a 27–0 victory over Salem before a Dads’ Day crowd of 2,500, then defeated Peabody 33–6 on Thanksgiving to secure the North Shore League championship. The game accounts credit contributions from Bill MacNeill, Bill Whittredge, Mal Rice, Charlie and Jackie Lawrence, Dave Donaldson, Bob Piwowarski and Bob Krzywicki. The yearbook closes with a season total of six wins, one tie and one loss; the Joyce Jamboree defeat appears separately on the opening page.",
+        "year": 1953,
+        "original": "IMG_2765(1).jpeg",
+        "category": "Yearbooks",
+        "golden": false,
+        "dateSource": "Contributed yearbook pages explicitly describe the 1953 North Shore championship season."
+      }
+    ]
   },
   {
     "file": "photos/honors-IMG_3345.webp",
