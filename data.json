@@ -615,13 +615,13 @@
       "coach": "John Janusas",
       "record": "6 - 2 - 1",
       "league": "Northeastern Conference",
-      "title": null,
+      "title": "North Shore League Champions",
       "players": "David Matthews, Richie Burt, and Jim Kelleher",
       "awards": "Dave Matthews - Lynn Item and North Shore\nRichie Burt - Lynn Item and North Shore",
       "nickname": "Sachems",
       "sourceRow": 58,
       "championshipClaim": "Championship season; exact title designation to confirm",
-      "championshipNote": "The school district's 2023 banner announcement recognizes the 1959 football team as a championship team, but does not identify the title. The supplied workbook calls it North Shore League Champions; the gallery calls it NEC champions. Retain the school recognition while seeking a contemporary clipping or explicit yearbook passage to resolve that discrepancy.",
+      "championshipNote": "Retained as North Shore League Champions using the supplied season workbook, as requested by Sal Nicolo. The school district’s 2023 championship-banner announcement independently recognizes the 1959 football team as a championship team, but does not specify the league designation. A contemporary clipping or explicit yearbook statement confirming that exact label is still being sought.",
       "championshipSources": [
         {
           "label": "School championship-banner announcement",
@@ -632,7 +632,8 @@
           "url": "https://archive.org/details/tontoquonian1960saug"
         }
       ],
-      "championshipStatus": "unverified"
+      "championshipStatus": "supported",
+      "championshipCategory": "League · supplied designation"
     },
     {
       "year": 1960,
