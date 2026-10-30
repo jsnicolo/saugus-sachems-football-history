@@ -486,7 +486,7 @@
     "file": "photos/tribute-2751.webp",
     "thumb": "photos/thumb-tribute-2751.webp",
     "title": "The 1939 Sachems · a season to remember",
-    "caption": "The 1939 Sachems gave Saugus a season to remember. Under head coach Charles “Buzz” Harvey and assistant Nick Morris, a team that began amid modest expectations answered a 12–0 opening defeat at Medford with ten unbeaten games, finishing 9–1–1. Co-captains Jimmy Duffy and Stan Green helped lead a squad whose resilience, teamwork and determined play earned growing recognition across the region. Mike Harrington, Eddie Shipulski, Fred Walkey, Ray Mansfield, Dexter Pratt, Joe Bucherie, Woody Dill and Del Pitman figure prominently in the yearbook’s accounts, while the named squad portrait preserves Art Statuto and the teammates whose contributions made the season possible. Shutout victories over Gloucester, Swampscott and Marblehead built momentum, but the defining afternoon came against Salem. Before a crowd the yearbook estimated at 10,000, Saugus prevailed 3–0 on Bucherie’s field goal, with Harrington holding, backed by a defense that kept the Witches scoreless. A 38–6 Thanksgiving victory over Danvers provided a fitting farewell for the seniors. The celebration reached beyond the field: supporters traveled to Gloucester by special train, the squad enjoyed a Christmas holiday trip to New York and West Point, and 1,000 fans attended the January 20 banquet at the Lynn Armory. These seven yearbook pages preserve more than scores. Together, the action photographs, roster, co-captain portraits and celebrations honor a team that turned an uncertain beginning into an enduring source of Sachem pride—and the community that stood behind it.",
+    "caption": "The 1939 North Shore champions. The 1939 Sachems gave Saugus a season to remember. Under head coach Charles “Buzz” Harvey and assistant Nick Morris, a team that began amid modest expectations answered a 12–0 opening defeat at Medford with ten unbeaten games, finishing 9–1–1. Co-captains Jimmy Duffy and Stan Green helped lead a squad whose resilience, teamwork and determined play earned growing recognition across the region. Mike Harrington, Eddie Shipulski, Fred Walkey, Ray Mansfield, Dexter Pratt, Joe Bucherie, Woody Dill and Del Pitman figure prominently in the yearbook’s accounts, while the named squad portrait preserves Art Statuto and the teammates whose contributions made the season possible. Shutout victories over Gloucester, Swampscott and Marblehead built momentum, but the defining afternoon came against Salem. Before a crowd the yearbook estimated at 10,000, Saugus prevailed 3–0 on Bucherie’s field goal, with Harrington holding, backed by a defense that kept the Witches scoreless. A 38–6 Thanksgiving victory over Danvers provided a fitting farewell for the seniors. The celebration reached beyond the field: supporters traveled to Gloucester by special train, the squad enjoyed a Christmas holiday trip to New York and West Point, and 1,000 fans attended the January 20 banquet at the Lynn Armory. These seven yearbook pages preserve more than scores. Together, the action photographs, roster, co-captain portraits and celebrations honor a team that turned an uncertain beginning into an enduring source of Sachem pride—and the community that stood behind it.",
     "year": 1939,
     "yearEnd": 1940,
     "dateLabel": "1939 season · 1940 schedule & celebrations",
@@ -572,7 +572,14 @@
         "golden": true,
         "dateSource": "Contributed yearbook pages explicitly review the 1939 football season; the 1940 schedule and subsequent celebrations are retained as context."
       }
-    ]
+    ],
+    "sources": [
+      {
+        "label": "1942 Tontoquonian · Class History, Sophomore Year, p. 39",
+        "url": "https://archive.org/details/tontoquonian1942saug"
+      }
+    ],
+    "sourceNote": "Championship source"
   },
   {
     "file": "photos/contributed-2748.webp",
@@ -1929,8 +1936,8 @@
   {
     "file": "photos/replacement-1959-1-oct29.webp",
     "thumb": "photos/thumb-replacement-1959-1-oct29.webp",
-    "title": "The 1959 Northeastern Conference champions",
-    "caption": "John Janusas’s Sachems finished 6–2–1 in a championship season led by co-captains Jim Kelleher and Dave Matthews. Matthews and Richie Burt earned regional recognition. These adjoining yearbook pages combine the team photograph with individual portraits and a football-field design, preserving the faces and positions of the 1959 squad.",
+    "title": "The 1959 Sachems · a recognized championship team",
+    "caption": "John Janusas’s Sachems finished 6–2–1 in a championship season led by co-captains Jim Kelleher and Dave Matthews. Matthews and Richie Burt earned regional recognition. These adjoining yearbook pages combine the team photograph with individual portraits and a football-field design, preserving the faces and positions of the 1959 squad. The school district's 2023 championship-banner announcement recognizes this team, but its exact title designation remains under review; the supplied workbook says North Shore League and an earlier gallery caption said Northeastern Conference.",
     "year": 1959,
     "original": "IMG_2701.jpeg",
     "category": "Teams",
@@ -1940,7 +1947,7 @@
       {
         "file": "photos/replacement-1959-1-oct29.webp",
         "thumb": "photos/thumb-replacement-1959-1-oct29.webp",
-        "title": "1959 Northeastern Conference champions",
+        "title": "1959 Sachems · team & player portraits",
         "caption": "Co-captains James Kelleher and David Mathews appear with portraits of Ralph DeFronzo, Richard Burt, David Mathews and Francis Buccheire, alongside the first half of the squad photograph. Names and positions are preserved as printed on the yearbook page. The second page completes the team photograph beneath a Sachems pennant and features Robert Preziozo, David Boynton, James Samms and Eugene deAcetis. Together, the adjoining pages preserve the championship squad and its individual player portraits.",
         "year": 1959,
         "original": "IMG_2701.jpeg",
@@ -2008,8 +2015,8 @@
   {
     "file": "photos/replacement-1966-1-oct29.webp",
     "thumb": "photos/thumb-replacement-1966-1-oct29.webp",
-    "title": "The 1966 Northeastern Conference champions",
-    "caption": "Walter Sheridan’s Sachems finished 7–2 and captured the Northeastern Conference championship. These adjoining yearbook pages preserve the squad portrait and individual player poses, including co-captains Edward Maguire, John Dancewicz and Paul Uga. Familiar names include Christie Serino, Jim Mancuso, Don Murray and Richie Lombardo, members of a team well represented in the season’s regional honors.",
+    "title": "The 1966 Sachems · squad & player portraits",
+    "caption": "Walter Sheridan’s Sachems finished 7–2 in a strong season; a reported Northeastern Conference championship remains unverified. These adjoining yearbook pages preserve the squad portrait and individual player poses, including co-captains Edward Maguire, John Dancewicz and Paul Uga. Familiar names include Christie Serino, Jim Mancuso, Don Murray and Richie Lombardo, members of a team well represented in the season’s regional honors.",
     "year": 1966,
     "original": "IMG_2702.jpeg",
     "category": "Teams",
@@ -2019,7 +2026,7 @@
       {
         "file": "photos/replacement-1966-1-oct29.webp",
         "thumb": "photos/thumb-replacement-1966-1-oct29.webp",
-        "title": "1966 Northeastern Conference champions",
+        "title": "1966 Sachems · squad & player portraits",
         "caption": "The first half of a two-page yearbook spread combines the team photograph with individual portraits of James Mancuso, Michael Shell, Michael Kimball, Vincent Paolini, Charles Bilton, Donald Murray, Stephen Malgeri, Charles Stack and Charles Shipulski. The companion page completes the team photograph and features co-captains Edward Maguire, John Dancewicz and Paul Uga, together with Joseph Meuse, Arthur Grabowski, Richard Jackman, Christie Serino, John Hansen and Richard Lombardo. The heading “1967” refers to the yearbook year; the football season was fall 1966.",
         "year": 1966,
         "original": "IMG_2702.jpeg",

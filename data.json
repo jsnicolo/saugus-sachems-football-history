@@ -104,11 +104,24 @@
       "coach": "Fred Beresford",
       "record": "9 - 0 - 2",
       "league": "Greater Lynn League",
-      "title": "Greater Lynn League Champions",
+      "title": null,
       "players": "Franklin \"Ooze\" Pike, John Pike, Googie Emery, Forrest Kenerson, Podge Herold, Lester Pool",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 15
+      "sourceRow": 15,
+      "championshipClaim": "Greater Lynn League / Class C championship",
+      "championshipNote": "The season workbook lists a Greater Lynn League title, while the 1942 yearbook retrospectively implies a 1922 Class C title. A contemporary in-season clipping says coach Beresford was claiming no championship at that point. The unbeaten 9–0–2 record does not by itself settle either title; final 1922 standings or an award report are still needed.",
+      "championshipSources": [
+        {
+          "label": "1922 clipping · no title claimed at that point",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "label": "1942 yearbook · Senior Year, p. 41",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        }
+      ],
+      "championshipStatus": "unverified"
     },
     {
       "year": 1923,
@@ -291,11 +304,24 @@
       "coach": "Charles \"Buzz\" Harvey",
       "record": "9 - 1 - 1",
       "league": "Independent ",
-      "title": null,
+      "title": "North Shore Champions",
       "players": "Stan Green, Jim Duffy, Mike \"Iron Mike\" Harrington and Art Statuto",
       "awards": "Joseph Bucchiere - Boston Globe",
       "nickname": "Sachems",
-      "sourceRow": 34
+      "sourceRow": 34,
+      "championshipCategory": "Regional",
+      "championshipNote": "The 1942 Tontoquonian, Class History—Sophomore Year (p. 39), credits the 1939 team with the North Shore championship. The 1939 town report independently records this title and second place in the state Class C standings.",
+      "championshipSources": [
+        {
+          "label": "1942 yearbook · Class History, p. 39",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        },
+        {
+          "label": "1939 town report · school athletics",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1939-part-19.htm"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1940,
@@ -317,7 +343,24 @@
       "players": "Art Spinney, Art Statuto, Mike \"Iron Mike\" Harrington, Dick McDonald, Eddie \"Shipper\" Shipulski, Eddie Koschei",
       "awards": "Mike Harrington - Boston Globe and North Shore\nClaude Collette - North Shore\nStanley Wladkowski - North Shore\nDick McDonald - North Shore\nDoo Pendlebury - North Shore\nLarry Daniels - North Shore\nLennie Flaherty - North Shore\nArt Statuto - North Shore\nWelcome Goss - North Shore\nEddie Shipulski - North Shore",
       "nickname": "Sachems",
-      "sourceRow": 38
+      "sourceRow": 38,
+      "championshipCategory": "Historical state class",
+      "championshipNote": "The contemporary final standings place Saugus first in Class C. The 1942 yearbook Football Folio and 1941 town report explicitly recognize the class championship. This is a historical class title; no separate all-class statewide No. 1 ranking is established.",
+      "championshipSources": [
+        {
+          "label": "Contemporary clipping · final Class C standings",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_3079.webp"
+        },
+        {
+          "label": "1942 yearbook · Football Folio",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
+        },
+        {
+          "label": "1941 town report",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1941-part-14.htm"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1942,
@@ -350,7 +393,24 @@
       "players": "Art Spinney, Dick Allen, Don Reiniger, Doug Waybright, Bob Kane, and Frank Pyzsko",
       "awards": "Art Spinney - Suburban, Boston Globe (1944 season and All Time team), Class B, North Shore.\nDick Allen - Class B, Suburban, North Shore\nFrank Pyzsko - Class B, Suburban, Boston Globe, Boston Chronicle, North Shore\nBob Kane - Suburban, North Shore \nDon Reiniger - North Shore\nThurrell - North Shore\n",
       "nickname": "Sachems",
-      "sourceRow": 41
+      "sourceRow": 41,
+      "championshipCategory": "Historical state class",
+      "championshipNote": "The 1945 yearbook explicitly awards the Massachusetts State Class B championship for 1944, corroborated by the 1944 town report. The yearbook records ten straight regular-season wins and separately describes a 19–7 postseason loss to Class A champion Peabody; the class title remains valid.",
+      "championshipSources": [
+        {
+          "label": "1945 yearbook · Class B championship",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2762.webp"
+        },
+        {
+          "label": "1944 town report",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1944-part-12.htm"
+        },
+        {
+          "label": "1945 yearbook · postseason account",
+          "url": "https://archive.org/details/tontoquonian1945saug"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1945,
@@ -401,11 +461,28 @@
       "coach": "John Janusas",
       "record": "10 - 1",
       "league": "Northeastern Conference",
-      "title": "Exchange Bowl Champions",
+      "title": "North Shore Co-Champions; Exchange Bowl Champions",
       "players": "Sardi Nicolo, Fred Quinlan, Richie Nicolo, Dan Murphy",
       "awards": "Sardi Nicolo - North Shore, Lynn Item, Boston Globe, and Boston Herald\nDan Murphy - Lynn Item and North Shore\nFred Quinlan - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 46
+      "sourceRow": 46,
+      "championshipCategory": "Regional / Bowl",
+      "championshipNote": "Harvey L. Southward's season-ending newspaper report names Saugus and Gloucester North Shore co-champions. The Exchange Bowl was a separate honor: Saugus defeated Weymouth 7–6. The same newspaper report identifies Gloucester as Class B state champion; the bowl win alone does not establish a Saugus state class title.",
+      "championshipSources": [
+        {
+          "label": "Newspaper · North Shore co-champions",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2726.webp"
+        },
+        {
+          "label": "Newspaper · Exchange Bowl finish",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_4310.webp"
+        },
+        {
+          "label": "1950 yearbook · squad and results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2608.webp"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1950,
@@ -416,7 +493,20 @@
       "players": "Richie Nicolo, Leo Kane, Ted Fredericks",
       "awards": "Woodell - North Shore\nLeo Kane - North Shore\nCharlie Murphy - North Shore\nRichie Nicolo - Lynn Item and North Shore\nJim Driscoll - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 49
+      "sourceRow": 49,
+      "championshipCategory": "Bowl",
+      "championshipNote": "The 1951 yearbook describes Saugus's 30–12 Exchange Bowl victory over Brockton. Retrospective Marblehead profiles also call Saugus a Class B champion, but no contemporary final class standings establishing a separate 1950 state title have been located. Only the bowl title is confirmed here.",
+      "championshipSources": [
+        {
+          "label": "1951 yearbook · Exchange Bowl account",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2614.webp"
+        },
+        {
+          "label": "1951 yearbook · squad and results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2612.webp"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1951,
@@ -443,13 +533,26 @@
     {
       "year": 1953,
       "coach": "John Janusas",
-      "record": "6 - 2 - 1",
+      "record": "6 - 1 - 1",
       "league": "Northeastern Conference",
       "title": "North Shore League Champions",
       "players": "John Leahy, Doug MacNeill",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 52
+      "sourceRow": 52,
+      "championshipCategory": "League",
+      "championshipNote": "The yearbook explicitly states that the 33–6 Thanksgiving victory over Peabody secured the North Shore League championship. It records six wins, one tie and one loss; the Haverhill Joyce Jamboree loss is listed separately.",
+      "championshipSources": [
+        {
+          "label": "1954 yearbook · championship and season total",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp"
+        },
+        {
+          "label": "1954 yearbook · opening games and jamboree",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1954,
@@ -511,11 +614,24 @@
       "coach": "John Janusas",
       "record": "6 - 2 - 1",
       "league": "Northeastern Conference",
-      "title": "North Shore League Champions",
+      "title": null,
       "players": "David Matthews, Richie Burt, and Jim Kelleher",
       "awards": "Dave Matthews - Lynn Item and North Shore\nRichie Burt - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 58
+      "sourceRow": 58,
+      "championshipClaim": "Championship season; exact title designation to confirm",
+      "championshipNote": "The school district's 2023 banner announcement recognizes the 1959 football team as a championship team, but does not identify the title. The supplied workbook calls it North Shore League Champions; the gallery calls it NEC champions. Retain the school recognition while seeking a contemporary clipping or explicit yearbook passage to resolve that discrepancy.",
+      "championshipSources": [
+        {
+          "label": "School championship-banner announcement",
+          "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
+        },
+        {
+          "label": "1960 yearbook · 1959 squad",
+          "url": "https://archive.org/details/tontoquonian1960saug"
+        }
+      ],
+      "championshipStatus": "unverified"
     },
     {
       "year": 1960,
@@ -588,11 +704,20 @@
       "coach": "Walter Sheridan",
       "record": "7 - 2",
       "league": "Northeastern Conference",
-      "title": "Northeastern Conference Champions",
+      "title": null,
       "players": "Christie Serino, Eddie McGuire, John Dancewicz",
       "awards": "Eddie McGuire - NEC - Lynn Item\nJohn Dancewicz - NEC - Lynn Item\nJim Mancuso - Lynn Item and NEC\nDon Murray - Lynn Item and NEC\nChristie Serino - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 67
+      "sourceRow": 67,
+      "championshipClaim": "Northeastern Conference championship",
+      "championshipNote": "The supplied workbook and gallery claim a title, but the inspected yearbook portrait spread does not state one. No contemporary championship clipping or final conference standings verifying the claim were located. A strong season and All-Star selections alone do not establish a conference championship.",
+      "championshipSources": [
+        {
+          "label": "1967 yearbook · squad portrait",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1966-1-oct29.webp"
+        }
+      ],
+      "championshipStatus": "unverified"
     },
     {
       "year": 1967,
@@ -621,11 +746,24 @@
       "coach": "Paul Maguire",
       "record": "7 - 2",
       "league": "Northeastern Conference",
-      "title": "Northeastern Conference Champions",
+      "title": null,
       "players": "Bob Osgood, Bill Eichel, Bill Babcock, Richard Conti, and John Richards",
       "awards": "John Richard - NEC\nRichie DeSisito - Lynn Item and NEC\nBob Osgood - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 70
+      "sourceRow": 70,
+      "championshipClaim": "Northeastern Conference championship",
+      "championshipNote": "The supplied history/workbook claim is unverified. The 1970 yearbook football review (p. 121) describes a 7–2 season and losses to Class A champion Peabody and Class B champion Swampscott without awarding Saugus a title. Swampscott's program history lists its undefeated 1969 team as NEC champion. Do not count this as a confirmed Saugus conference title.",
+      "championshipSources": [
+        {
+          "label": "1970 yearbook · football review, p. 121",
+          "url": "https://archive.org/stream/tontoquonian1970saug/tontoquonian1970saug_djvu.txt"
+        },
+        {
+          "label": "Swampscott program history",
+          "url": "https://www.swampscottfootball.com/history.html"
+        }
+      ],
+      "championshipStatus": "unverified"
     },
     {
       "year": 1970,
@@ -687,11 +825,28 @@
       "coach": "Mike Ginolfi",
       "record": "9 - 1",
       "league": "Northeastern Conference",
-      "title": "Northeastern Conference Champions",
+      "title": "Northeastern Conference Co-Champions",
       "players": "Doug Mackie, John Nicolo, Steve Gannon, Tom Heaney",
       "awards": "Doug Mackie - NEC, Lynn Item, Boston Globe, All American\nJohn Nicolo - Lynn Item (POY) and NEC\nSteve Gannon - Lynn Item and NEC\nPat Sullivan - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 78
+      "sourceRow": 78,
+      "championshipCategory": "Conference",
+      "championshipNote": "The 1978 yearbook's 1977 football review explicitly recalls that Saugus was tied for first place in 1975. The 1976 yearbook preserves the 9–1 season, and the school district's 2023 championship-banner announcement also recognizes the team.",
+      "championshipSources": [
+        {
+          "label": "1978 yearbook · 1975 tied for first, p. 165",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1977-1-oct29.webp"
+        },
+        {
+          "label": "1976 yearbook · 1975 team and results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2595.webp"
+        },
+        {
+          "label": "School championship-banner announcement",
+          "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1976,
@@ -713,7 +868,20 @@
       "players": "Frank Serino, George Nicolo, Dan Hashem, Frank Doyle",
       "awards": "Paul Serino - NEC and Boston Globe\nFrank Doyle - Lynn Item and NEC\nFrank Serino - Lynn Item and NEC\nGeorge Nicolo - Lynn Item and NEC\nJohn Coffey - Lynn Item and NEC\nTim Fawcett - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 80
+      "sourceRow": 80,
+      "championshipCategory": "Conference",
+      "championshipNote": "The 1978 yearbook explicitly credits this team with winning the conference, distinguishing it from the shared first-place finish in 1975. Saugus finished 9–1. The district's championship-banner announcement provides additional recognition.",
+      "championshipSources": [
+        {
+          "label": "1978 yearbook · conference championship, p. 165",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1977-1-oct29.webp"
+        },
+        {
+          "label": "School championship-banner announcement",
+          "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
+        }
+      ],
+      "championshipStatus": "supported"
     },
     {
       "year": 1978,
@@ -819,11 +987,20 @@
       "coach": "Kevin Ward",
       "record": "7 - 3",
       "league": "Northeastern Conference",
-      "title": "Northeastern Conference Champions",
+      "title": null,
       "players": "Dave Fauci, Joe Barressi, Larry Furey",
       "awards": "Dave Fauci - NEC\nMarc Fauci - NEC\nJoe Barressi - Lynn Item and NEC\nLarry Furey - Lynn Item and NEC\nScott Crabtree - NEC",
       "nickname": "Sachems",
-      "sourceRow": 92
+      "sourceRow": 92,
+      "championshipClaim": "Northeastern Conference championship / shared title",
+      "championshipNote": "The claim appears in the supplied workbook and narrative, but no supporting contemporary clipping was located in the indexed ZIP review, inspected gallery sources or external searches. The 1987 Item All-Star clipping identifies Saugus players, not a team championship. Excluded from confirmed championships pending a final standings or title-clinching report.",
+      "championshipSources": [
+        {
+          "label": "1987 Item All-Stars · player honors only",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3392.webp"
+        }
+      ],
+      "championshipStatus": "unverified"
     },
     {
       "year": 1988,
@@ -1270,14 +1447,14 @@
     "The 1947 Sachems went 7-3 and were led by Ernie Anganis, Sardi Nicolo, Eugene Decereau, and George Lasky. Lasky was the star of that 1947 team. Lasky won numerous awards through his High School career including the Sgt. Arthur Defranzo Player of the Year Award in 1946 and 1947, the Thomas Atkins Memorial Award in 1946, and was named to the Boston Globe, Boston Post, Lynn Item, and North Shore All Scholastic teams in 1947. The 1948 Sachems team had an off year going a disappointing 3-8.",
     "The 1949 Sachems went 10-1, winning the Exchange Bowl against Weymouth 7-6. This game will forever be remembered for the last second 50-yard Touchdown pass QB Richie Nicolo threw to his older brother, Sal ‘Sardi’, for the game tying score followed by the game winning extra point made by Jimmy Kane. The 1949 squad scored 230 Points on the season while only allowing 41 points. They went on to shut out 5 teams (consecutively) during the season. Their lone loss was a 20-15 loss to the Beverly Panthers. That 1949 team was led by Dan Murphy, Fred Quinlan, along with the Nicolo Brothers. Sardi would be named to numerous All Star teams while leading Massachusetts in total touchdowns. He would go on to play College Football at Louisiana State University, where he scored on a 94-yard run against Rice University on October 4, 1952.",
     "Saugus followed up their 1949 Championship season by going 8-2 and winning their second consecutive Exchange Bowl, this time a 30-12 victory over Brockton. Richie Nicolo was the star QB again and was helped by Charlie Murphy, Jim Driscoll, Leo Kane, Tony Serino, Charlie Woodell, and Ted Fredericks. This was Saugus’ second consecutive Exchange Bowl championship, marking the end of the Saugus Sachems Football Golden Era.",
-    "After the 1950 Exchange Bowl championship, he kept Saugus competitive throughout the 1950s and led the program to conference championships in 1953 and 1959. The 1953 Sachems team was led by Bob Belyea, John Leahy, and Doug MacNeill while the 1959 team was led by David Matthews, Richie Burt, and Jim Kelleher. Other notable players during the 1950s, included Ed Healey, Bob Piwowarski, Dick Rohrbacker, John Naples, Matt Light, William Banks, Vito Russo, and John Matrona.",
+    "After the 1950 Exchange Bowl championship, he kept Saugus competitive throughout the 1950s and led the program to the yearbook-documented 1953 North Shore League championship. The 1959 team is also recognized in the school district’s championship-banner announcement, although its exact title designation needs a contemporary source. The 1953 Sachems team was led by Bob Belyea, John Leahy, and Doug MacNeill while the 1959 team was led by David Matthews, Richie Burt, and Jim Kelleher. Other notable players during the 1950s, included Ed Healey, Bob Piwowarski, Dick Rohrbacker, John Naples, Matt Light, William Banks, Vito Russo, and John Matrona.",
     "1961–1972 (Sustaining Competitiveness):",
     "Bernard Stead (1961-1963)",
     "Bernard Stead coached from 1961 to 1963, but the program struggled during his tenure going a combined 1-25. Tom Carr was the only All-Star Stead coached.",
     "Walter Sheridan (1964-1966)",
     "Walter Sheridan took over in 1964 and helped rebuild the team, highlighted by a 7-2 season in 1966. That 1966 team was led by several All Stars including Christie Serino, Eddie McGuire, John Dancewicz, Jim Mancuso, Richie Lombardo, and Don Murray. Serino, with hockey being his best sport, would go on to become a division 1 Head Hockey Coach at Merrimack College followed by a very successful tenure as the head hockey coach at Massachusetts Prep High School Hockey Powerhouse Malden Catholic, cementing his legacy as a champion. Other notable players were All Stars Ronnie Barressi and John Sands, as well as Dick Serino and Harold Kingman.",
     "Paul Maguire (1967-1972)",
-    "Paul Maguire coached from 1967 through 1972, with Saugus showing improvement in the late 1960s and early 1970s, including a Northeastern Conference championship in 1969. Notable players during this era were Jim Canole, Lou O'Neil, Bob Osgood, Richie DeSisito, Bill Eichel, Bill Babcock, Richard Conti, John Richards, Dan Heaney and Steve Nelson.",
+    "Paul Maguire coached from 1967 through 1972, with Saugus showing improvement in the late 1960s and early 1970s, including a 7–2 season in 1969. The reported conference championship has not been verified. Notable players during this era were Jim Canole, Lou O'Neil, Bob Osgood, Richie DeSisito, Bill Eichel, Bill Babcock, Richard Conti, John Richards, Dan Heaney and Steve Nelson.",
     "1973–1983: (The Ginolfi Era):",
     "Mike Ginolfi (First tenure 1973-1983)",
     "Mike “Gino” Ginolfi took over as the Sachems head coach in 1973. Coach Ginolfi restored Saugus as a competitive force.",
@@ -1291,7 +1468,7 @@
     "Ginolfi would step down after the 1983 season and moved into athletic administration. His coaching tree shaped Saugus football for decades through assistants and former players who followed him into the head coaching role.",
     "1984–1993: Inconsistency and Brief Success",
     "Kevin Ward (1984-1990)",
-    "Kevin Ward took over in 1984, and the program went through several down years, though the 1987 team rebounded to go 7-3 and share the Northeastern Conference title. Marc Fauci emerged as one of the Sachems greatest players. He was named Boston Globe All Scholastic in 1989. Fauci would go on to play college football at Boston University (BU). While at BU, Fauci would play Linebacker and was twice named Co-Captain as a junior and senior. Fauci led BU to arguably its best season ever in 1993 when they went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. Fauci was named a second-team All-America by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press.",
+    "Kevin Ward took over in 1984, and the program went through several down years, though the 1987 team rebounded to go 7-3. A reported shared Northeastern Conference title remains unverified; no supporting contemporary clipping has been located. Marc Fauci emerged as one of the Sachems greatest players. He was named Boston Globe All Scholastic in 1989. Fauci would go on to play college football at Boston University (BU). While at BU, Fauci would play Linebacker and was twice named Co-Captain as a junior and senior. Fauci led BU to arguably its best season ever in 1993 when they went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. Fauci was named a second-team All-America by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press.",
     "Mike “Bonty” Bontempo (1991-1993)",
     "The 1990 team went 8-2, which was Saugus’s best record in years. After that, Mike “Bonty” Bontempo took over and coached through 1993, but the program struggled during that span going 1-29. During his tenure he coached All Stars Sean Publicover and Joe Attubato.",
     "1994–2004: Rebuilding and Setbacks",
@@ -1332,5 +1509,10 @@
     "The 2025 Sachems went 2-9 with Jette being an All-Star for the second consecutive season.",
     "Conclusion",
     "Saugus football has a proud and deeply rooted history. While the program has not reached the heights of its golden era in recent times, it has produced championship caliber teams, conference titles, and many memorable players who excelled at the college and professional levels. More than wins and losses, being a Sachem has always meant pride, tradition, and commitment to the red and white."
-  ]
+  ],
+  "championshipAudit": {
+    "reviewed": "2026-10-30",
+    "scope": "Original Football.zip: 390 image files, cross-referenced against its existing 390-row OCR/source-review index; targeted visual inspection of relevant scans; current gallery and season data; selected full yearbooks, contemporary town reports, and external historical sources. Not every scan is legible or individually re-transcribed. Supported means the cited source explicitly supports the stated honor; unresolved claims are retained separately.",
+    "statewideRankingNote": "Historical Class C and Class B titles are recorded for 1941 and 1944. No separate final all-class Massachusetts No. 1 poll finish has been verified. No additional modern MIAA sectional/division/Super Bowl title was identified in the records reviewed. Absence of evidence is not proof that no other honor existed."
+  }
 }
