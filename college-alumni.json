@@ -448,7 +448,7 @@
       "position": "CB",
       "rosterYears": "2000, 2002–2003 (documented)",
       "professional": "",
-      "notes": "Starting cornerback; 2003 ECAC All-Region Second Team (Curry football accolades document supplied by contributor). 2003 NEFC All-Star selection reported by contributor with supporting image; exact conference award designation still requires independent verification.",
+      "notes": "Starting cornerback; 2003 First Team All-Conference and ECAC All-Region Second Team, both confirmed in Curry College Football Record Book (updated January 2025). Credited with 13 passes broken up in 2003, tied for second on the school's season leaderboard as of January 2025.",
       "sources": [
         {
           "label": "Nichols vs Curry 2000 game statistics",
@@ -465,6 +465,10 @@
         {
           "label": "RPI vs Curry 2003 NCAA playoff",
           "url": "https://rpiathletics.com/sports/football/stats/2003/curry-college-ncaa-tournament/boxscore/13399"
+        },
+        {
+          "label": "Curry College Football Record Book (January 2025), pp. 1–2",
+          "url": "https://www.curryathletics.com/sports/fball/index"
         }
       ]
     },
@@ -488,13 +492,17 @@
       "gradYear": 1999,
       "college": "Curry College",
       "position": "RB",
-      "rosterYears": "2002–2003 (ECAC honors documented; full roster years pending)",
+      "rosterYears": "2000–2003",
       "professional": "",
-      "notes": "College running back (listed as RB/HB in 2003 Curry game box scores). ECAC All-Region First Team in 2002 and 2003, documented by Curry football accolades list supplied by contributor.",
+      "notes": "Curry running back, 2000–2003. Career: 800 carries, 4,353 rushing yards, 44 rushing TDs; 46 kickoff returns for 1,131 yards and 2 punt-return TDs. 2002: 1,479 rushing yards, 18 rushing TDs; 2003: 1,587 rushing yards, 12 rushing TDs. First Team All-Conference (2002, 2003); Second Team All-Conference (2000, 2001); Conference Offensive Player of the Year (2002, 2003); National Third Team All-American (2002, 2003); ECAC All-Region First Team (2002, 2003); NEFWA Division II/III All-Star (2002, 2003); NEFWA Gold Helmet weekly award (2002, 2003). Source: Curry College Football Record Book, updated January 2025.",
       "sources": [
         {
           "label": "Curry vs. RPI 2003 official game box score",
           "url": "https://rpiathletics.com/sports/football/stats/2003/curry-college-ncaa-tournament/boxscore/13399"
+        },
+        {
+          "label": "Curry College Football Record Book (January 2025), pp. 1–2",
+          "url": "https://www.curryathletics.com/sports/fball/index"
         }
       ]
     },
