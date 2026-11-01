@@ -25,12 +25,12 @@
     },
     {
       "name": "Doug Waybright",
-      "gradYear": 1944,
+      "gradYear": 1945,
       "college": "University of Notre Dame",
       "position": "E",
       "rosterYears": "1944; 1947–1949",
       "professional": "1948 AAFC draft selection (Buffalo); professional roster not confirmed",
-      "notes": "Notre Dame’s historical lineups and 1949 Football Review document his Irish career; a draft selection alone is not counted as professional roster membership. Saugus graduation year needs reconciliation: existing archive lists 1944, while contributor reports Class of 1945; Notre Dame records confirm college football in 1944, but do not resolve Saugus graduation year.",
+      "notes": "Notre Dame’s historical lineups and 1949 Football Review document his Irish career; a draft selection alone is not counted as professional roster membership. Saugus Class of 1945 supported by Saugus Advocate retrospective; Notre Dame's 1944 football review independently documents his early college career.",
       "sources": [
         {
           "label": "Notre Dame 1949 Football Review",
@@ -43,6 +43,10 @@
         {
           "label": "Notre Dame 1947 Football Review",
           "url": "https://archives.nd.edu/Football/Football-1947s.pdf"
+        },
+        {
+          "label": "Saugus Advocate: Doug Waybright Class of 1945",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
         }
       ]
     },
@@ -123,13 +127,17 @@
       "gradYear": 1970,
       "college": "University of New Hampshire",
       "position": "QB",
-      "rosterYears": "1970s; precise seasons pending",
+      "rosterYears": "1973 confirmed; additional years pending",
       "professional": "",
-      "notes": "Saugus historical retrospective reports he was New Hampshire’s starting quarterback; primary roster pages remain to be located.",
+      "notes": "Named in the University of New Hampshire's official 1973 football team photograph. Saugus retrospective identifies him as a UNH quarterback; exact position and additional seasons require roster corroboration.",
       "sources": [
         {
           "label": "Saugus Advocate retrospective",
           "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        },
+        {
+          "label": "UNH 1973 team photograph and identified roster",
+          "url": "https://scholars.unh.edu/team_photos/506/"
         }
       ]
     },
