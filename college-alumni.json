@@ -424,7 +424,7 @@
       "position": "CB",
       "rosterYears": "2000, 2002–2003 (documented)",
       "professional": "",
-      "notes": "Starting cornerback; 2003 NEFC All-Star recognition reported by contributor, pending award-list verification.",
+      "notes": "Starting cornerback; 2003 ECAC All-Region Second Team (Curry football accolades document supplied by contributor). Separate NEFC All-Star claim awaits confirmation.",
       "sources": [
         {
           "label": "Nichols vs Curry 2000 game statistics",
@@ -458,6 +458,16 @@
           "url": "https://www.utica.edu/ucpioneers/stats/football/mtida01.htm"
         }
       ]
+    },
+    {
+      "name": "Raphael Zammit",
+      "gradYear": 1999,
+      "college": "Curry College",
+      "position": "",
+      "rosterYears": "2002–2003 (ECAC honors documented; full roster years pending)",
+      "professional": "",
+      "notes": "ECAC All-Region First Team in both 2002 and 2003, documented by Curry football accolades list supplied by contributor.",
+      "sources": []
     }
   ]
 }
