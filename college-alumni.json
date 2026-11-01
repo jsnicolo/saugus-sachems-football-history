@@ -30,7 +30,7 @@
       "position": "E",
       "rosterYears": "1944; 1947–1949",
       "professional": "1948 AAFC draft selection (Buffalo); professional roster not confirmed",
-      "notes": "Notre Dame’s historical lineups and 1949 Football Review document his Irish career; a draft selection alone is not counted as professional roster membership.",
+      "notes": "Notre Dame’s historical lineups and 1949 Football Review document his Irish career; a draft selection alone is not counted as professional roster membership. Saugus graduation year needs reconciliation: existing archive lists 1944, while contributor reports Class of 1945; Notre Dame records confirm college football in 1944, but do not resolve Saugus graduation year.",
       "sources": [
         {
           "label": "Notre Dame 1949 Football Review",
@@ -39,6 +39,10 @@
         {
           "label": "Notre Dame historical rosters",
           "url": "https://fightingirish.com/wp-content/uploads/2019/06/Full_Supplement.pdf"
+        },
+        {
+          "label": "Notre Dame 1947 Football Review",
+          "url": "https://archives.nd.edu/Football/Football-1947s.pdf"
         }
       ]
     },
@@ -202,9 +206,9 @@
       "gradYear": 1981,
       "college": "Syracuse University; Boston College",
       "position": "QB/P",
-      "rosterYears": "BC 1984–1985; Syracuse earlier (years pending)",
+      "rosterYears": "Syracuse 1981–1982; Boston College 1983–1985 (played 1982, 1984–1985)",
       "professional": "",
-      "notes": "BC’s official record book identifies him as a quarterback/punter from Saugus.",
+      "notes": "Syracuse: 1981 redshirt (contributor-reported); 1982 QB, 26 completions on 65 attempts for 372 yards and 1 passing TD. Boston College: 1983 transfer redshirt (contributor-reported); 1984 punter, 46 punts for 1,678 yards (36.5 average); 1985 QB/punter, 72 punts for 2,591 yards (36.0 average), 14-of-31 passing for 297 yards and 1 TD. BC totals: 118 punts, 4,269 yards, 36.2 average. Redshirt seasons not independently verified.",
       "sources": [
         {
           "label": "BC football record book",
@@ -213,6 +217,14 @@
         {
           "label": "Saugus Advocate retrospective",
           "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        },
+        {
+          "label": "1982 Syracuse football statistics",
+          "url": "https://www.sports-reference.com/cfb/schools/syracuse/1982.html"
+        },
+        {
+          "label": "Steve Peach college career statistics",
+          "url": "https://www.sports-reference.com/cfb/players/steve-peach-2.html"
         }
       ]
     },
@@ -424,7 +436,7 @@
       "position": "CB",
       "rosterYears": "2000, 2002–2003 (documented)",
       "professional": "",
-      "notes": "Starting cornerback; 2003 ECAC All-Region Second Team (Curry football accolades document supplied by contributor). Separate NEFC All-Star claim awaits confirmation.",
+      "notes": "Starting cornerback; 2003 ECAC All-Region Second Team (Curry football accolades document supplied by contributor). 2003 NEFC All-Star selection reported by contributor with supporting image; exact conference award designation still requires independent verification.",
       "sources": [
         {
           "label": "Nichols vs Curry 2000 game statistics",
@@ -466,8 +478,32 @@
       "position": "RB",
       "rosterYears": "2002–2003 (ECAC honors documented; full roster years pending)",
       "professional": "",
-      "notes": "ECAC All-Region First Team in both 2002 and 2003, documented by Curry football accolades list supplied by contributor.",
-      "sources": []
+      "notes": "College running back (listed as RB/HB in 2003 Curry game box scores). ECAC All-Region First Team in 2002 and 2003, documented by Curry football accolades list supplied by contributor.",
+      "sources": [
+        {
+          "label": "Curry vs. RPI 2003 official game box score",
+          "url": "https://rpiathletics.com/sports/football/stats/2003/curry-college-ncaa-tournament/boxscore/13399"
+        }
+      ]
+    },
+    {
+      "name": "Chris “Christie” Serino",
+      "gradYear": 1967,
+      "college": "American International College",
+      "position": "QB/DB",
+      "rosterYears": "1968–1971",
+      "professional": "",
+      "notes": "AIC confirms he lettered in football as a quarterback and defensive back, while also playing baseball and ice hockey. AIC Athletics Hall of Fame inductee, 2006 (three-sport athlete).",
+      "sources": [
+        {
+          "label": "AIC Athletics Hall of Fame biography",
+          "url": "https://aicyellowjackets.com/honors/hall-of-fame/chris-serino/25"
+        },
+        {
+          "label": "Saugus Advocate retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
     }
   ]
 }
