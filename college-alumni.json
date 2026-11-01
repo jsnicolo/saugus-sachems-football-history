@@ -1,0 +1,333 @@
+{
+  "title": "Sachems Who Played in College & Beyond",
+  "updated": "2026-11-01",
+  "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
+  "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
+  "entries": [
+    {
+      "name": "Art Statuto",
+      "gradYear": 1943,
+      "college": "University of Notre Dame",
+      "position": "C",
+      "rosterYears": "1943; 1946–1947",
+      "professional": "Buffalo Bills (AAFC, 1948–1949); Los Angeles Rams (NFL, 1950)",
+      "notes": "Reserve center on Notre Dame national championship teams; professional playing career documented.",
+      "sources": [
+        {
+          "label": "Notre Dame historical roster",
+          "url": "https://fightingirish.com/wp-content/uploads/2019/06/Full_Supplement.pdf"
+        },
+        {
+          "label": "Professional alumni list",
+          "url": "https://www.pro-football-reference.com/schools/high_schools.cgi?id=93be58fb"
+        }
+      ]
+    },
+    {
+      "name": "Doug Waybright",
+      "gradYear": 1944,
+      "college": "University of Notre Dame",
+      "position": "E",
+      "rosterYears": "1944; 1947–1949",
+      "professional": "1948 AAFC draft selection (Buffalo); professional roster not confirmed",
+      "notes": "Notre Dame’s historical lineups and 1949 Football Review document his Irish career; a draft selection alone is not counted as professional roster membership.",
+      "sources": [
+        {
+          "label": "Notre Dame 1949 Football Review",
+          "url": "https://archives.nd.edu/Football/Football-1949s.pdf"
+        },
+        {
+          "label": "Notre Dame historical rosters",
+          "url": "https://fightingirish.com/wp-content/uploads/2019/06/Full_Supplement.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Art Spinney",
+      "gradYear": 1945,
+      "college": "Boston College",
+      "position": "E (college); G/DE (professional)",
+      "rosterYears": "1946–1949",
+      "professional": "Baltimore Colts (NFL, 1950; 1953–1960)",
+      "notes": "Captain of Boston College’s 1949 team; two NFL championship teams.",
+      "sources": [
+        {
+          "label": "BC 1949 official roster",
+          "url": "https://bceagles.com/sports/football/roster/arthur-spinney/21939"
+        },
+        {
+          "label": "Professional alumni list",
+          "url": "https://www.pro-football-reference.com/schools/high_schools.cgi?id=93be58fb"
+        }
+      ]
+    },
+    {
+      "name": "Leonard Flaherty",
+      "gradYear": null,
+      "college": "Boston College",
+      "position": "G",
+      "rosterYears": "1948–1949",
+      "professional": "",
+      "notes": "BC identifies Saugus High as his school. Saugus graduation year still being verified.",
+      "sources": [
+        {
+          "label": "BC 1949 official roster",
+          "url": "https://bceagles.com/sports/football/roster/leonard-flaherty/21953"
+        },
+        {
+          "label": "BC 1948 official roster",
+          "url": "https://bceagles.com/sports/football/roster/leonard-flaherty/22005"
+        }
+      ]
+    },
+    {
+      "name": "Salvatore “Sardi” Nicolo",
+      "gradYear": 1950,
+      "college": "Louisiana State University",
+      "position": "HB",
+      "rosterYears": "1952–1954",
+      "professional": "",
+      "notes": "LSU’s official all-time letterwinners list identifies him as Sal Nicolo of Saugus, Massachusetts.",
+      "sources": [
+        {
+          "label": "LSU all-time letterwinners",
+          "url": "https://lsusports.net/fbletterwinners"
+        },
+        {
+          "label": "Saugus Advocate retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
+    },
+    {
+      "name": "Richard “Richie” Nicolo",
+      "gradYear": 1951,
+      "college": "Boston College",
+      "position": "QB (Saugus)",
+      "rosterYears": "1951",
+      "professional": "",
+      "notes": "BC’s official football lettermen directory confirms 1951. A reported LSU connection requires separate roster verification.",
+      "sources": [
+        {
+          "label": "BC football record book",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/bceagles.com/documents/2022/7/18/2022_BC_Football_Media_Guide.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Bob Osgood",
+      "gradYear": 1970,
+      "college": "University of New Hampshire",
+      "position": "QB",
+      "rosterYears": "1970s; precise seasons pending",
+      "professional": "",
+      "notes": "Saugus historical retrospective reports he was New Hampshire’s starting quarterback; primary roster pages remain to be located.",
+      "sources": [
+        {
+          "label": "Saugus Advocate retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
+    },
+    {
+      "name": "Dan Cordeau",
+      "gradYear": null,
+      "college": "Boston College",
+      "position": "OT",
+      "rosterYears": "1976–1978",
+      "professional": "",
+      "notes": "BC roster explicitly identifies Saugus High. Graduation year not independently confirmed; do not confuse with Bob Cordeau in later Saugus clippings.",
+      "sources": [
+        {
+          "label": "BC 1978 official roster",
+          "url": "https://bceagles.com/sports/football/roster/dan-cordeau/20123"
+        },
+        {
+          "label": "BC 1976 official roster",
+          "url": "https://bceagles.com/sports/football/roster/1976"
+        }
+      ]
+    },
+    {
+      "name": "Doug Mackie",
+      "gradYear": 1976,
+      "college": "Ohio State University",
+      "position": "OT",
+      "rosterYears": "1976–1977 (documented); later college status to review",
+      "professional": "Tampa Bay Bandits (USFL, 1983); New Jersey Generals (USFL, 1984–1985); Atlanta Falcons (NFL, 1987); New York Giants and New Orleans Saints offseason/practice rosters",
+      "notes": "Practice and offseason affiliations are included under the user’s roster-only standard.",
+      "sources": [
+        {
+          "label": "Saugus Advocate retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        },
+        {
+          "label": "Professional alumni list",
+          "url": "https://www.pro-football-reference.com/schools/high_schools.cgi?id=93be58fb"
+        }
+      ]
+    },
+    {
+      "name": "Steve Gannon",
+      "gradYear": 1976,
+      "college": "College of the Holy Cross",
+      "position": "DE",
+      "rosterYears": "Late 1970s (through 1979)",
+      "professional": "NFL tryouts reported; no professional roster verified",
+      "notes": "Holy Cross Hall of Fame inductee (2020).",
+      "sources": [
+        {
+          "label": "Holy Cross Hall of Fame",
+          "url": "https://goholycross.com/honors/hall-of-fame/stephen-m-gannon/112"
+        }
+      ]
+    },
+    {
+      "name": "John Nicolo",
+      "gradYear": 1976,
+      "college": "Ithaca College",
+      "position": "RB",
+      "rosterYears": "1976–1979",
+      "professional": "",
+      "notes": "Four-year letterwinner; captain and All-American on Ithaca’s 1979 NCAA Division III championship team.",
+      "sources": [
+        {
+          "label": "Ithaca Athletic Hall of Fame",
+          "url": "https://athletics.ithaca.edu/honors/ithaca-college-athletic-hall-of-fame/john-j-nicolo/203"
+        }
+      ]
+    },
+    {
+      "name": "Steve Peach",
+      "gradYear": 1981,
+      "college": "Syracuse University; Boston College",
+      "position": "QB/P",
+      "rosterYears": "BC 1984–1985; Syracuse earlier (years pending)",
+      "professional": "",
+      "notes": "BC’s official record book identifies him as a quarterback/punter from Saugus.",
+      "sources": [
+        {
+          "label": "BC football record book",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/bceagles.com/documents/2022/7/18/2022_BC_Football_Media_Guide.pdf"
+        },
+        {
+          "label": "Saugus Advocate retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
+    },
+    {
+      "name": "Marc Fauci",
+      "gradYear": 1990,
+      "college": "Boston University",
+      "position": "LB",
+      "rosterYears": "1990–1993",
+      "professional": "",
+      "notes": "BU All-American in 1993; university Athletics Hall of Fame inductee (2010).",
+      "sources": [
+        {
+          "label": "BU Athletic Hall of Fame",
+          "url": "https://goterriers.com/honors/boston-university-athletic-hall-of-fame/marc--fauci/68"
+        }
+      ]
+    },
+    {
+      "name": "Dan Schena",
+      "gradYear": 1991,
+      "college": "Northeastern University",
+      "position": "OL/DL (Saugus)",
+      "rosterYears": "1992–1995",
+      "professional": "",
+      "notes": "Northeastern’s official all-time lettermen directory confirms four seasons.",
+      "sources": [
+        {
+          "label": "Northeastern football lettermen",
+          "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133622.aspx"
+        }
+      ]
+    },
+    {
+      "name": "L.J. McKanas",
+      "gradYear": 1997,
+      "college": "Northeastern University",
+      "position": "RB",
+      "rosterYears": "1997 redshirt; 1998–2001",
+      "professional": "",
+      "notes": "Northeastern Hall of Fame inductee; redshirt season included under roster-based eligibility.",
+      "sources": [
+        {
+          "label": "Northeastern Hall of Fame",
+          "url": "https://nuhuskies.com/honors/varsity-club-hall-of-fame/l-j-mckanas/215"
+        },
+        {
+          "label": "Northeastern football lettermen",
+          "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133622.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Mike Nicolo",
+      "gradYear": 2005,
+      "college": "Curry College",
+      "position": "RB/DB",
+      "rosterYears": "2005–2008 (season-by-season check ongoing)",
+      "professional": "",
+      "notes": "Listed in official 2005 and 2006 Curry game participation records.",
+      "sources": [
+        {
+          "label": "Curry–Nichols 2005 game participation",
+          "url": "https://nicholsathletics.com/sports/football/stats/2005/curry/boxscore/6054"
+        },
+        {
+          "label": "Curry–Nichols 2006 game participation",
+          "url": "https://nicholsathletics.com/sports/football/stats/2006/curry/boxscore/268"
+        }
+      ]
+    },
+    {
+      "name": "James Hyde",
+      "gradYear": null,
+      "college": "Saint Anselm College",
+      "position": "K/P, TE, WR",
+      "rosterYears": "2011–2014",
+      "professional": "",
+      "notes": "College freshman in 2011; exact Saugus graduation year to confirm. Listed even in 2011–2012 seasons without game appearances.",
+      "sources": [
+        {
+          "label": "Saint Anselm official roster",
+          "url": "https://saintanselmhawks.com/sports/football/roster/james-hyde/1080"
+        }
+      ]
+    },
+    {
+      "name": "Nick Ferrari",
+      "gradYear": null,
+      "college": "Salve Regina University",
+      "position": "OL",
+      "rosterYears": "2017",
+      "professional": "",
+      "notes": "Freshman on 2017 roster; exact Saugus graduation year to confirm.",
+      "sources": [
+        {
+          "label": "Salve Regina 2017 official roster",
+          "url": "https://salveathletics.com/sports/football/roster/2017"
+        }
+      ]
+    },
+    {
+      "name": "Braden Faiella",
+      "gradYear": 2024,
+      "college": "Saint Anselm College",
+      "position": "LB",
+      "rosterYears": "2024–2026",
+      "professional": "",
+      "notes": "Official 2026 roster identifies Saugus High; included regardless of playing time.",
+      "sources": [
+        {
+          "label": "Saint Anselm 2026 official roster",
+          "url": "https://saintanselmhawks.com/sports/football/roster/braden-faiella/15545"
+        }
+      ]
+    }
+  ]
+}
