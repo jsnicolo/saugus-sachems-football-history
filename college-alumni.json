@@ -343,6 +343,79 @@
           "url": "https://www.google.com/search?q=Bridgewater+State+Framingham+State+Sep+25+2004+Sal+Nicolo"
         }
       ]
+    },
+    {
+      "name": "Mike Mabee",
+      "gradYear": 1996,
+      "college": "Plymouth State College",
+      "position": "DB / QB",
+      "rosterYears": "1996–1997 (verified)",
+      "professional": "",
+      "notes": "Listed as a defensive back in 1996 and quarterback in 1997.",
+      "sources": [
+        {
+          "label": "Plymouth State official 1996 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1996"
+        },
+        {
+          "label": "Plymouth State official 1997 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1997"
+        }
+      ]
+    },
+    {
+      "name": "Justin Falite",
+      "gradYear": null,
+      "college": "Plymouth State College",
+      "position": "DB",
+      "rosterYears": "1999, 2001–2002 (verified)",
+      "professional": "",
+      "notes": "Listed as a defensive back; additional seasons are not yet verified.",
+      "sources": [
+        {
+          "label": "Plymouth State official 1999 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1999"
+        },
+        {
+          "label": "Plymouth State official 2001 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2001"
+        },
+        {
+          "label": "Plymouth State official 2002 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2002"
+        }
+      ]
+    },
+    {
+      "name": "Pat Quinlan",
+      "gradYear": 2002,
+      "college": "Plymouth State College",
+      "position": "DL",
+      "rosterYears": "2002–2005",
+      "professional": "",
+      "notes": "Defensive lineman; received Plymouth State’s Fred Madore Award and Homecoming Game MVP in 2004.",
+      "sources": [
+        {
+          "label": "Plymouth State official 2002 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2002"
+        },
+        {
+          "label": "Plymouth State official 2003 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2003"
+        },
+        {
+          "label": "Plymouth State official 2004 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2004"
+        },
+        {
+          "label": "Plymouth State official 2005 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2005"
+        },
+        {
+          "label": "Plymouth State football awards guide",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.plymouth.edu/documents/2023/11/28/2023_FB_Media_Guide.pdf"
+        }
+      ]
     }
   ]
 }
