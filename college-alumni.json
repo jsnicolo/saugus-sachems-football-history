@@ -416,6 +416,58 @@
           "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.plymouth.edu/documents/2023/11/28/2023_FB_Media_Guide.pdf"
         }
       ]
+    },
+    {
+      "name": "George Lowe",
+      "gradYear": null,
+      "college": "Curry College",
+      "position": "CB",
+      "rosterYears": "2000, 2002–2003 (documented)",
+      "professional": "",
+      "notes": "Starting cornerback; 2003 NEFC All-Star recognition reported by contributor, pending award-list verification.",
+      "sources": [
+        {
+          "label": "Nichols vs Curry 2000 game statistics",
+          "url": "https://nicholsathletics.com/sports/football/stats/2000/curry/boxscore/6100"
+        },
+        {
+          "label": "Nichols vs Curry 2002 game statistics",
+          "url": "https://nicholsathletics.com/sports/football/stats/2002/curry/boxscore/6084"
+        },
+        {
+          "label": "Nichols vs Curry 2003 game statistics",
+          "url": "https://nicholsathletics.com/sports/football/stats/2003/curry/boxscore/6074"
+        },
+        {
+          "label": "RPI vs Curry 2003 NCAA playoff",
+          "url": "https://rpiathletics.com/sports/football/stats/2003/curry-college-ncaa-tournament/boxscore/13399"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Gould",
+      "gradYear": null,
+      "college": "Mount Ida College",
+      "position": "ILB",
+      "rosterYears": "2001 (confirmed); 2002–2004 unverified",
+      "professional": "",
+      "notes": "Started at inside linebacker in 2001; recorded 10 tackles against Utica on September 29.",
+      "sources": [
+        {
+          "label": "Utica vs Mount Ida official 2001 box score",
+          "url": "https://www.utica.edu/ucpioneers/stats/football/mtida01.htm"
+        }
+      ]
+    },
+    {
+      "name": "Adam Magnasco",
+      "gradYear": null,
+      "college": "Bridgewater State College",
+      "position": "",
+      "rosterYears": "2001 (reported; roster pending)",
+      "professional": "",
+      "notes": "One season at Bridgewater State in 2001, reported by Saugus contributor; independent roster confirmation pending.",
+      "sources": []
     }
   ]
 }
