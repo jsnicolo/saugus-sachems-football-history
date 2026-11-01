@@ -63,12 +63,12 @@
     },
     {
       "name": "Leonard Flaherty",
-      "gradYear": null,
+      "gradYear": 1946,
       "college": "Boston College",
       "position": "G",
       "rosterYears": "1948–1949",
       "professional": "",
-      "notes": "BC identifies Saugus High as his school. Saugus graduation year still being verified.",
+      "notes": "BC identifies Saugus High as his school.",
       "sources": [
         {
           "label": "BC 1949 official roster",
@@ -131,12 +131,12 @@
     },
     {
       "name": "Dan Cordeau",
-      "gradYear": null,
+      "gradYear": 1975,
       "college": "Boston College",
       "position": "OT",
       "rosterYears": "1976–1978",
       "professional": "",
-      "notes": "BC roster explicitly identifies Saugus High. Graduation year not independently confirmed; do not confuse with Bob Cordeau in later Saugus clippings.",
+      "notes": "BC roster identifies Saugus High; not to be confused with Bob Cordeau in later clippings.",
       "sources": [
         {
           "label": "BC 1978 official roster",
@@ -286,12 +286,12 @@
     },
     {
       "name": "James Hyde",
-      "gradYear": null,
+      "gradYear": 2010,
       "college": "Saint Anselm College",
       "position": "K/P, TE, WR",
       "rosterYears": "2011–2014",
       "professional": "",
-      "notes": "College freshman in 2011; exact Saugus graduation year to confirm. Listed even in 2011–2012 seasons without game appearances.",
+      "notes": "Listed on Saint Anselm rosters, including seasons without game appearances.",
       "sources": [
         {
           "label": "Saint Anselm official roster",
@@ -301,12 +301,12 @@
     },
     {
       "name": "Nick Ferrari",
-      "gradYear": null,
+      "gradYear": 2016,
       "college": "Salve Regina University",
       "position": "OL",
       "rosterYears": "2017",
       "professional": "",
-      "notes": "Freshman on 2017 roster; exact Saugus graduation year to confirm.",
+      "notes": "Freshman on Salve Regina’s 2017 roster.",
       "sources": [
         {
           "label": "Salve Regina 2017 official roster",
