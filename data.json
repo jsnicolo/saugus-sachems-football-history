@@ -1472,7 +1472,71 @@
       "players": "Braden Faiella, Mike MacEacheran, and Drew Gardiner",
       "awards": "Braden Faiella - NEC\nMike MacEacheran - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 134
+      "sourceRow": 134,
+      "games": [
+        {
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–41",
+          "status": "Played"
+        },
+        {
+          "opponent": "Greater Lawrence Tech",
+          "result": "L 14–15",
+          "status": "Played"
+        },
+        {
+          "opponent": "Winthrop",
+          "result": "L 0–22",
+          "status": "Played"
+        },
+        {
+          "opponent": "Rockland",
+          "result": "L 0–33",
+          "status": "Played"
+        },
+        {
+          "opponent": "Gloucester",
+          "result": "L 7–20",
+          "status": "Played"
+        },
+        {
+          "opponent": "Salem",
+          "result": "L 6–12",
+          "status": "Played"
+        },
+        {
+          "opponent": "Swampscott",
+          "result": "L 6–41",
+          "status": "Played"
+        },
+        {
+          "opponent": "Watertown",
+          "result": "L 6–32",
+          "status": "Played"
+        },
+        {
+          "opponent": "Northeast Metro Rvt",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynnfield",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "opponent": "Marblehead",
+          "result": "L 6–42",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
+          "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        }
+      ],
+      "seasonNote": "Game-by-game opponent and score results sourced from USA Prep Football; exact dates still need confirmation."
     },
     {
       "year": 2022,
@@ -1483,7 +1547,81 @@
       "players": "Braden Faiella",
       "awards": "Braden Faiella - Lynn Item and NEC\nTommy DeSimmone - NEC",
       "nickname": "Sachems",
-      "sourceRow": 135
+      "sourceRow": 135,
+      "games": [
+        {
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–48",
+          "status": "Played"
+        },
+        {
+          "opponent": "Whittier Rvt",
+          "result": "W 21–20",
+          "status": "Played"
+        },
+        {
+          "opponent": "Greater Lawrence Tech",
+          "result": "L 28–45",
+          "status": "Played"
+        },
+        {
+          "opponent": "Winthrop",
+          "result": "L 18–35",
+          "status": "Played"
+        },
+        {
+          "opponent": "Rockland",
+          "result": "L 12–48",
+          "status": "Played"
+        },
+        {
+          "opponent": "Gloucester",
+          "result": "L 22–48",
+          "status": "Played"
+        },
+        {
+          "opponent": "Salem",
+          "result": "L 6–21",
+          "status": "Played"
+        },
+        {
+          "opponent": "Swampscott",
+          "result": "L 0–38",
+          "status": "Played"
+        },
+        {
+          "opponent": "Watertown",
+          "result": "L 8–33",
+          "status": "Played"
+        },
+        {
+          "opponent": "Northeast Metro Rvt",
+          "result": "L 12–40",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynnfield",
+          "result": "L 0–37",
+          "status": "Played"
+        },
+        {
+          "opponent": "Dracut",
+          "result": "W 21–0",
+          "status": "Played"
+        },
+        {
+          "opponent": "Newburyport",
+          "result": "L 0–7",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
+          "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        }
+      ],
+      "seasonNote": "Game-by-game opponent and score results sourced from USA Prep Football; exact dates still need confirmation."
     },
     {
       "year": 2023,
@@ -1494,7 +1632,66 @@
       "players": "Braden Faiella, Tommy DeSimmone, and Dylan Clark",
       "awards": "Braden Faiella - NEC, Lynn Item (DPOY)\nDylan Clark - NEC\nTommy DeSimmone - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 136
+      "sourceRow": 136,
+      "games": [
+        {
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–27",
+          "status": "Played"
+        },
+        {
+          "opponent": "Wilmington",
+          "result": "L 16–28",
+          "status": "Played"
+        },
+        {
+          "opponent": "Winthrop",
+          "result": "L 8–38",
+          "status": "Played"
+        },
+        {
+          "opponent": "Falmouth",
+          "result": "W 20–12",
+          "status": "Played"
+        },
+        {
+          "opponent": "Gloucester",
+          "result": "L 8–27",
+          "status": "Played"
+        },
+        {
+          "opponent": "Salem",
+          "result": "L 20–55",
+          "status": "Played"
+        },
+        {
+          "opponent": "Swampscott",
+          "result": "L 0–35",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynn Vocational Tech",
+          "result": "W 27–18",
+          "status": "Played"
+        },
+        {
+          "opponent": "Northeast Metro Rvt",
+          "result": "W 28–22",
+          "status": "Played"
+        },
+        {
+          "opponent": "Chelsea",
+          "result": "W 40–6",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
+          "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        }
+      ],
+      "seasonNote": "Partial game-by-game results: 10 opponents and scores documented in USA Prep Football; additional game(s) remain to be verified. Dates not confirmed."
     },
     {
       "year": 2024,
@@ -1505,7 +1702,66 @@
       "players": "Koby Jette, Cody Munafo, Ryan Shea, Melvin Perez",
       "awards": "Cody Munafo - Lynn Item \nKoby Jette - NEC",
       "nickname": "Sachems",
-      "sourceRow": 137
+      "sourceRow": 137,
+      "games": [
+        {
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 7–33",
+          "status": "Played"
+        },
+        {
+          "opponent": "Dracut",
+          "result": "L 16–21",
+          "status": "Played"
+        },
+        {
+          "opponent": "Chelsea",
+          "result": "W 30–8",
+          "status": "Played"
+        },
+        {
+          "opponent": "Swampscott",
+          "result": "L 0–56",
+          "status": "Played"
+        },
+        {
+          "opponent": "Gloucester",
+          "result": "L 12–32",
+          "status": "Played"
+        },
+        {
+          "opponent": "Salem",
+          "result": "L 0–21",
+          "status": "Played"
+        },
+        {
+          "opponent": "Winthrop",
+          "result": "L 12–42",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynn Vocational Tech",
+          "result": "L 0–3",
+          "status": "Played"
+        },
+        {
+          "opponent": "Wilmington",
+          "result": "W 20–10",
+          "status": "Played"
+        },
+        {
+          "opponent": "Cambridge Rindge and Latin",
+          "result": "L 14–21",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
+          "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        }
+      ],
+      "seasonNote": "Partial game-by-game results: 10 opponents and scores documented in USA Prep Football; additional game(s) remain to be verified. Dates not confirmed."
     },
     {
       "year": 2026,
