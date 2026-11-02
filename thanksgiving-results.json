@@ -10,21 +10,21 @@
   },
   {
     "year": 1914,
-    "opponent": "Needham (scheduled; probable year)",
-    "result": "—",
-    "status": "Provisional year; preview only",
-    "note": "Thanksgiving morning at Needham; Michael Garofano, Bernard Boyle, George Sprague, the Flynn brothers, Gordon Williams and Carl Penney link the preview to the restart-era 1914 team. No year printed and no final score in this clipping. Find a dated issue and Needham postgame report before treating the fixture as played.",
-    "sourceFile": "IMG_2868.jpg; roster context IMG_2866.jpg and IMG_2867.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/early-1914-needham.webp"
-  },
-  {
-    "year": 1915,
     "opponent": "Unknown",
     "result": "—",
     "status": "Unresolved",
-    "note": "No Thanksgiving opponent/result established in this review.",
+    "note": "No Thanksgiving opponent/result established. The Needham preview previously placed here provisionally has been reassigned to 1915 following Sal Nicolo’s player-cohort identification.",
     "sourceFile": "",
     "sourceUrl": ""
+  },
+  {
+    "year": 1915,
+    "opponent": "Needham (scheduled)",
+    "result": "—",
+    "status": "Contributor-dated; preview only",
+    "note": "Thanksgiving morning at Needham. Sal Nicolo identifies the season as 1915 from quarterback John Flynn, George Sprague and captain Michael Garofano. Bernard Boyle led practice. No printed issue date or final score located; silver cup offered to the winner does not establish an award.",
+    "sourceFile": "IMG_2868.jpg",
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/early-1915-needham.webp"
   },
   {
     "year": 1916,

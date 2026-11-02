@@ -4578,5 +4578,17 @@
     "golden": false,
     "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned.",
     "dateLabel": "Season to confirm"
+  },
+  {
+    "file": "photos/early-1915-needham.webp",
+    "thumb": "photos/thumb-early-1915-needham.webp",
+    "title": "Thanksgiving at Needham · the 1915 preview",
+    "caption": "Saugus prepared for a Thanksgiving morning visit to Needham, with a silver cup offered to the winner. The listed eleven includes quarterback John Flynn, captain and halfback Michael Garofano, George Sprague, Gordon Williams, Carl Penney, Charles X. Flynn, Daniel McCarthy, Philip Hull, Lawrence Davis, George MacLeod and Harold Reddish. Captain Bernard Boyle of the Cliftondale A.A. led a two-hour practice at Stackpole Field. Sal Nicolo identifies the season as 1915 from this player cohort. This is a preview; the final score remains unlocated.",
+    "year": 1915,
+    "original": "IMG_2868.jpg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo from the Flynn/Garofano/Sprague cohort; printed issue date absent.",
+    "dateLabel": "1915 · contributor identification"
   }
 ]
