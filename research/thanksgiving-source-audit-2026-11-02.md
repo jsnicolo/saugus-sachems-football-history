@@ -24,3 +24,11 @@ Captions are finding aids, not independent evidence. No unsupported early oppone
 - Boston Globe Nov. 30, 1939, p. 24: Thanksgiving lineup source only.
 - Clearer 1940 Bob Walsh cartoon replaces prior gallery copy.
 - 1999 preview table confirms existing 1984/1989 readings but preserves 1950 yearbook discrepancy.
+
+## Additional continuation and dated retrospective
+
+The continuation A7224DB0-3F81-4C8D-B3C8-F1E5A3CBFB9A.png establishes the final Saugus A.A.–General Electrics score as 5–5 (touchdowns by Jones and Reed). This supersedes the earlier limitation to a scoreless first half. It remains club football, excluded from Saugus High season results; year unconfirmed.
+
+The clearer 00C6307B-A9B2-4880-AE36-85821999C232.jpeg dates Dave Rattigan’s retrospective to November 22, 1983, page 21. Attributed highlights added to 1965, 1978 and 1980 season notes. The 1929–1944 table is another copy of the already reviewed source, not independent corroboration.
+
+Nicholson correction: Sal Nicolo identifies the younger player’s season as 1952 and confirms the later profile’s 1923 captaincy reference is a typo. Father’s captaincy is 1921, explicitly supported by the earlier captain-election clipping.
