@@ -1410,6 +1410,106 @@
       "awards": "Cody Munafo - Lynn Item \nKoby Jette - NEC",
       "nickname": "Sachems",
       "sourceRow": 137
+    },
+    {
+      "year": 2026,
+      "coach": "Greg Bluestein (first season)",
+      "record": "0 - 8",
+      "league": "Northeastern Conference - South",
+      "title": null,
+      "players": "Paxton Ferraro (senior captain; scored touchdowns vs. Winthrop and Salem); Pharoah Brandenburg (announced as a 2026 captain in December 2025; active-season status not reconfirmed); Eli Fialho (starting QB until season-ending injury Sept. 25); Gabriel De Souza (QB); Gavin Hurley; Pablo Dejesus; Laith Haddad; Leo Exantus.",
+      "awards": "2026 postseason All-Star / All-Scholastic selections not yet announced as of Nov. 2, 2026.",
+      "nickname": "Sachems",
+      "recordAsOf": "2026-10-30",
+      "recordNote": "0–8 through October 30: six on-field losses and two forfeits. This is not a final season record. Some score aggregators list the forfeits as 0–14; neither game was played.",
+      "captainsNote": "Paxton Ferraro was identified as captain in the September 2026 preseason report. Pharoah Brandenburg was also named a 2026 captain at the December 2025 banquet; a current-season roster confirmation is pending.",
+      "seasonNote": "First season under head coach Greg Bluestein (Saugus Class of 2008). After six games, the program forfeited its scheduled October 23 Gloucester game and October 30 Swampscott game because of player availability and safety concerns. The roster fell from approximately 38 preseason players to around 20. Starting quarterback Eli Fialho suffered a season-ending injury in the September 25 Lynn Tech game; Gabriel De Souza subsequently took over at quarterback. Ferraro scored Saugus' touchdown against Winthrop (3-yard run) and against Salem (toss play). School officials hoped to resume play in non-playoff/consolation games in November. Thanksgiving against Peabody was scheduled for November 26; its result remains pending.",
+      "games": [
+        {
+          "date": "2026-09-10",
+          "opponent": "Cambridge Rindge & Latin",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "date": "2026-09-18",
+          "opponent": "Hamilton-Wenham",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2026-09-25",
+          "opponent": "Lynn Vocational Tech",
+          "result": "L 8–35",
+          "status": "Played"
+        },
+        {
+          "date": "2026-10-01",
+          "opponent": "Medford",
+          "result": "L 0–33",
+          "status": "Played"
+        },
+        {
+          "date": "2026-10-08",
+          "opponent": "Winthrop",
+          "result": "L 6–47",
+          "status": "Played"
+        },
+        {
+          "date": "2026-10-16",
+          "opponent": "Salem",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2026-10-23",
+          "opponent": "Gloucester",
+          "result": "L by forfeit (0–14 for ratings)",
+          "status": "Forfeit — not played"
+        },
+        {
+          "date": "2026-10-30",
+          "opponent": "Swampscott",
+          "result": "L by forfeit (0–14 on score sites)",
+          "status": "Forfeit — not played"
+        },
+        {
+          "date": "2026-11-26",
+          "opponent": "Peabody (Thanksgiving)",
+          "result": "Scheduled; result pending",
+          "status": "Upcoming as of Nov. 2"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Saugus Advocate · Sept. 3, 2026 preseason, coach and roster",
+          "url": "https://advocatenews.net/saugus/sports/new-era-familiar-face-as-bluestein-takes-over-saugus-football/"
+        },
+        {
+          "label": "Saugus Advocate · Dec. 4, 2025 announcement of 2026 captains",
+          "url": "https://advocatenews.net/saugus/sports/saugus-football-team-drops-thanksgiving-heartbreaker-to-peabody/"
+        },
+        {
+          "label": "MaxPreps · 2026 game-by-game scores (six games played)",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
+        },
+        {
+          "label": "Saugus Advocate · Oct. 15, 2026 game and personnel report",
+          "url": "https://advocatenews.net/saugus/sports/shs-sachems-sports-roundup-sachems-football-battles-through-injuries-field-hockey-earns-hard-fought-tie-with-marblehead/"
+        },
+        {
+          "label": "Saugus Advocate · Oct. 22, 2026 Salem game and players",
+          "url": "https://advocatenews.net/saugus/sports/shs-sachems-sports-roundup-golf-returns-to-states-after-decade-long-drought-field-hockey-earns-win-as-fall-teams-battle-on/"
+        },
+        {
+          "label": "Saugus Advocate · Oct. 22, 2026 Gloucester forfeit",
+          "url": "https://advocatenews.net/saugus/news/saugus-football-forfeits-gloucester-game-amid-safety-and-roster-concerns/"
+        },
+        {
+          "label": "Saugus Advocate · Oct. 29, 2026 Swampscott forfeit and season status",
+          "url": "https://advocatenews.net/saugus/sports/saugus-football-forfeits-another-game-due-to-player-safety-concerns/"
+        }
+      ]
     }
   ],
   "history": [
