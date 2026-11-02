@@ -3196,6 +3196,17 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
+    "file": "photos/thanksgiving-IMG_3288.webp",
+    "thumb": "photos/thanksgiving-IMG_3288.webp",
+    "title": "Expect unexpected when Saugus plays Peabody · 1983",
+    "caption": "Dave Rattigan’s Daily Evening Item retrospective, November 22, 1983, page 21, recalls the rivalry’s upsets. It reports Chris Serino completing 12 of 16 passes for 103 yards and Mike Kimball rushing for 120 yards and three touchdowns in the 1965 win; Saugus outgaining Peabody 188–11 in the second half in 1978; and Steve Peach completing five of nine passes for 100 yards and two touchdowns and returning an interception 40 yards for a score in the 40–6 victory in 1980. These are retrospective accounts. Its description of spring meetings in 1945–1946 conflicts with the yearbook’s timing for 1946; that detail remains unresolved.",
+    "year": 1983,
+    "dateLabel": "November 22, 1983",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Date and page visible in the clearer contributed copy 00C6307B-A9B2-4880-AE36-85821999C232.jpeg; same article as IMG_3288.jpg."
+  },
+  {
     "file": "photos/honors-IMG_4168.webp",
     "thumb": "photos/thumb-honors-IMG_4168.webp",
     "title": "The 1984 Item Football All-Stars",
@@ -4569,4 +4580,3 @@
     "dateLabel": "Season to confirm"
   }
 ]
-
