@@ -489,9 +489,9 @@
       "gradYear": 2001,
       "college": "Mount Ida College",
       "position": "ILB",
-      "rosterYears": "2001 (confirmed); 2002–2004 unverified",
+      "rosterYears": "2001",
       "professional": "",
-      "notes": "Started at inside linebacker in 2001; recorded 10 tackles against Utica on September 29.",
+      "notes": "Played inside linebacker for Mount Ida College during the 2001 season; recorded 10 tackles against Utica on September 29. Later college seasons are not confirmed.",
       "sources": [
         {
           "label": "Utica vs Mount Ida official 2001 box score",
@@ -593,12 +593,12 @@
     },
     {
       "name": "Colt Meredith",
-      "gradYear": null,
+      "gradYear": 1996,
       "college": "Plymouth State College",
       "position": "LB/DB",
       "rosterYears": "1996–1999",
       "professional": "",
-      "notes": "Plymouth State's official rosters list Meredith from 1996 through 1999, at linebacker in 1996 and defensive back in later seasons. A captain in 1999. Saugus graduation year awaits independent confirmation.",
+      "notes": "Saugus High School Class of 1996; Plymouth State College Class of 2000. Played linebacker and defensive back for Plymouth State from 1996 through 1999, serving as a team captain in 1999. Named the 1999 Freedom Football Conference Defensive Player of the Year and earned Hewlett-Packard/SID Division III All-America Honorable Mention as a defensive back. The honors are corroborated by Plymouth State's official records and a 2007 Lynn Daily Item obituary.",
       "sources": [
         {
           "label": "Plymouth State 1996 official football roster",
@@ -615,17 +615,25 @@
         {
           "label": "Plymouth State 1999 official player profile",
           "url": "https://athletics.plymouth.edu/sports/football/roster/colt-meredith/9515"
+        },
+        {
+          "label": "Plymouth State official football All-Americans (1999)",
+          "url": "https://athletics.plymouth.edu/sports/2026/8/5/plymouth-state-football-all-americans.aspx"
+        },
+        {
+          "label": "Plymouth State 2023 football media guide — FFC Defensive Player of the Year",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.plymouth.edu/documents/2023/11/28/2023_FB_Media_Guide.pdf"
         }
       ]
     },
     {
       "name": "Chris Venn",
-      "gradYear": null,
+      "gradYear": 2000,
       "college": "Plymouth State College",
       "position": "DL",
       "rosterYears": "2001–2004",
       "professional": "",
-      "notes": "Plymouth State football rosters identify Venn as a Saugus High alumnus in 2001, 2002, 2003 and 2004. Listed as a defensive lineman; Saugus graduation year awaits independent confirmation.",
+      "notes": "Saugus High School Class of 2000. Plymouth State football rosters identify Venn as a Saugus High alumnus in 2001, 2002, 2003 and 2004, playing on the defensive line.",
       "sources": [
         {
           "label": "Plymouth State 2001 official football roster",
