@@ -156,11 +156,14 @@
     },
     {
       "name": "Bob Belyea",
-      "position": "OL",
+      "position": "Guard",
       "schoolClass": "Sr",
       "year": 1953,
       "publisher": "Boston Globe",
-      "row": 11
+      "row": 11,
+      "award": "All-Scholastic reserve selection (not first team)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2661-hall.webp",
+      "sourceLabel": "Boston Globe · Dec. 6, 1953 · All-Scholastic reserves (guards)"
     },
     {
       "name": "Cam Williamson",
@@ -1725,6 +1728,46 @@
       "award": "Boston Post All-Scholastic squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2678.webp",
       "sourceLabel": "Boston Post · 1951 All-Scholastic squad · Charlie Murphy, guard"
+    },
+    {
+      "year": 1953,
+      "publisher": "Lynn All-Star team (selector unconfirmed)",
+      "sourceUrl": "https://archive.org/details/tontoquonian1954saug",
+      "sourceLabel": "1954 Tontoquonian · senior-year class history",
+      "sourceNote": "The Saugus yearbook reports the selection but does not identify the selecting newspaper or organization; do not attribute it to the Lynn Item without a contemporary team list.",
+      "name": "Robert “Bob” Belyea",
+      "position": "Guard",
+      "award": "First-string Lynn All-Star selection"
+    },
+    {
+      "year": 1953,
+      "publisher": "Lynn All-Star team (selector unconfirmed)",
+      "sourceUrl": "https://archive.org/details/tontoquonian1954saug",
+      "sourceLabel": "1954 Tontoquonian · senior-year class history",
+      "sourceNote": "The Saugus yearbook reports the selection but does not identify the selecting newspaper or organization; do not attribute it to the Lynn Item without a contemporary team list.",
+      "name": "Bill Whittredge",
+      "position": "Back",
+      "award": "First-string Lynn All-Star selection"
+    },
+    {
+      "year": 1953,
+      "publisher": "Lynn All-Star team (selector unconfirmed)",
+      "sourceUrl": "https://archive.org/details/tontoquonian1954saug",
+      "sourceLabel": "1954 Tontoquonian · senior-year class history",
+      "sourceNote": "The Saugus yearbook reports the selection but does not identify the selecting newspaper or organization; do not attribute it to the Lynn Item without a contemporary team list.",
+      "name": "John Leahy",
+      "position": "—",
+      "award": "Second-string Lynn All-Star selection"
+    },
+    {
+      "year": 1953,
+      "publisher": "Lynn All-Star team (selector unconfirmed)",
+      "sourceUrl": "https://archive.org/details/tontoquonian1954saug",
+      "sourceLabel": "1954 Tontoquonian · senior-year class history",
+      "sourceNote": "The Saugus yearbook reports the selection but does not identify the selecting newspaper or organization; do not attribute it to the Lynn Item without a contemporary team list.",
+      "name": "Douglas “Doug” MacNeill",
+      "position": "—",
+      "award": "Second-string Lynn All-Star selection"
     }
   ],
   "alumni": [
