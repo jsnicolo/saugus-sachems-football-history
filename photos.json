@@ -483,6 +483,17 @@
     ]
   },
   {
+    "file": "photos/review-withdrawal.webp",
+    "thumb": "photos/thumb-review-withdrawal.webp",
+    "title": "Saugus leaves the Northeastern Conference · 1938",
+    "caption": "The “With the Schoolboys” column reports Saugus High’s formal withdrawal from the Northeastern Conference, effective June 30, 1938, with athletic council and school committee approval. No official reason was given; a stronger schedule was reported as speculation. It recalls Danvers Thanksgiving ties of 6–6 and 0–0 in the preceding two years. This conflicts with a later historical table assigning 6–6 to 1936; the 1936 result remains unresolved.",
+    "year": 1938,
+    "original": "14C273EA-456E-40DD-8DF6-E7CC43CB70B4.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned."
+  },
+  {
     "file": "photos/tribute-2751.webp",
     "thumb": "photos/thumb-tribute-2751.webp",
     "title": "The 1939 Sachems · a season to remember",
@@ -593,12 +604,23 @@
     "dateSource": "Lynn Item clipping; year supplied by Sal Nicolo and checked against visible article text where available."
   },
   {
-    "file": "photos/contributed-1246.webp",
-    "thumb": "photos/thumb-contributed-1246.webp",
+    "file": "photos/review-globe1939.webp",
+    "thumb": "photos/thumb-review-globe1939.webp",
+    "title": "Thanksgiving lineups · Boston Globe, November 30, 1939",
+    "caption": "The Boston Globe sports page of Thursday, November 30, 1939 (page 24) includes the Saugus–Danvers Thanksgiving lineup under “At Saugus (10 A.M.).” This is a pregame source and does not itself establish the final score.",
+    "year": 1939,
+    "original": "B719E634-EBFA-475D-990F-22D743FF4A59.jpeg",
+    "category": "Clippings",
+    "golden": true,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned."
+  },
+  {
+    "file": "photos/review-danvers1940.webp",
+    "thumb": "photos/thumb-review-danvers1940.webp",
     "title": "Saugus and Danvers · Thanksgiving 1940",
-    "caption": "A Bob Walsh cartoon previews the Thanksgiving rivalry with Danvers, featuring Sachems Mike Harrington, George Flaherty and Eddie Shipulski.",
+    "caption": "Bob Walsh’s “Danvers to Try Again” cartoon previews the final Saugus–Danvers Thanksgiving meeting in 1940. It identifies Mike Harrington as an ace passer, George Flaherty as a lineman and Eddie Shipulski as an all-around triple threat. The caption reports that Danvers had not beaten Saugus during the preceding seven Thanksgiving meetings, although some ended in ties. The cartoon is a preview, not a final-score report.",
     "year": 1940,
-    "original": "IMG_1246(1).jpeg",
+    "original": "493D9CB0-4DBC-4BCD-96A9-C07794E0E36C.jpeg",
     "category": "Clippings",
     "golden": false,
     "dateSource": "Season and context supplied by Sal Nicolo."
@@ -3743,6 +3765,17 @@
     "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
   },
   {
+    "file": "photos/review-series1999.webp",
+    "thumb": "photos/thumb-review-series1999.webp",
+    "title": "Saugus–Peabody series · results through 1998",
+    "caption": "Joyce Erekson’s 1999 Thanksgiving preview includes a series table for 1944–1998. It corroborates Peabody’s 14–13 win in 1989 and Saugus’s 17–14 win in 1984. It lists 1950 as 47–14, conflicting with the contemporary yearbook’s 47–12. The 1999 season is established by the preview text and November 25 fixture; its own final result is not included.",
+    "year": 1999,
+    "original": "5E798981-0540-4A37-972E-75EEADF8B8B2.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned."
+  },
+  {
     "file": "photos/honors-IMG_3361.webp",
     "thumb": "photos/thumb-honors-IMG_3361.webp",
     "title": "The 2000 Item Football All-Stars",
@@ -4498,5 +4531,41 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year or dated heading printed on the contributed Item clipping."
+  },
+  {
+    "file": "photos/review-nicholson.webp",
+    "thumb": "photos/thumb-review-nicholson.webp",
+    "title": "George Nicholson · three interception touchdowns",
+    "caption": "Jim O’Brien profiles Saugus co-captain George Nicholson, a senior who played offensive guard and defensive fullback/linebacker for Coach John Janusas. The article credits him with three interception returns for touchdowns in the preceding fall, including a 55-yard Thanksgiving return against Peabody, and describes him as Saugus’s leading scorer and the state’s highest-scoring guard. These are the article’s claims, not independently established statewide records. The crop does not show a publication date; the season remains unassigned. His father captained Saugus in 1923. He is not the earlier captain elected for the 1921 team.",
+    "year": null,
+    "original": "ED364AD0-CCF8-4005-B66A-BEE36E744467.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned.",
+    "dateLabel": "Season to confirm"
+  },
+  {
+    "file": "photos/review-stoneham.webp",
+    "thumb": "photos/thumb-review-stoneham.webp",
+    "title": "Thanksgiving at Stoneham · Saugus High ties 0–0",
+    "caption": "This undated report explicitly identifies the Saugus High School eleven and describes a 0–0 Thanksgiving morning tie at Stoneham. About 100 Saugus supporters reportedly traveled by a special car from Monument Square, and kickoff was at 10:15 a.m. The year is absent from the crop; the game cannot yet be assigned to a season or placed within the 1914-onward register.",
+    "year": null,
+    "original": "ABD0979A-47CD-4979-BA0D-F0106D8E2C8B.png",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned.",
+    "dateLabel": "Year to confirm"
+  },
+  {
+    "file": "photos/review-revere.webp",
+    "thumb": "photos/thumb-review-revere.webp",
+    "title": "Saugus defeats Revere 20–0 · date to confirm",
+    "caption": "Johnny Maino’s report credits Ted Junkins and Sal Nicolo with 50-yard touchdown runs and Nicolo with a touchdown pass to Paul Neal in a 20–0 win at Paul Revere Stadium. Al Woodell recovered a Revere fumble before the first touchdown. This was a Saturday game before Thanksgiving, not the holiday game. The crop lacks a date; the season remains unassigned.",
+    "year": null,
+    "original": "E4E253ED-5C7A-4666-9FA1-BAC43AC427EC.png",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned.",
+    "dateLabel": "Season to confirm"
   }
 ]

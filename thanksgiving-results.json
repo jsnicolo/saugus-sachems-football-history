@@ -200,11 +200,11 @@
   {
     "year": 1936,
     "opponent": "Danvers",
-    "result": "T 6–6",
-    "status": "Historical table, visually checked",
-    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome.",
-    "sourceFile": "IMG_3294.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+    "result": "T 6–6 / 0–0",
+    "status": "Score conflict",
+    "note": "Later historical table IMG_3294 lists 6–6. The contemporary 1938 withdrawal column recalls 6–6 and 0–0 in the preceding two years; the 1937 yearbook confirms 6–6 for 1937, suggesting 0–0 for 1936. Contemporary 1936 game report needed.",
+    "sourceFile": "IMG_3294.jpg; 1938 With the Schoolboys column",
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp"
   },
   {
     "year": 1937,
@@ -328,7 +328,7 @@
     "opponent": "Peabody",
     "result": "W 47–12 / 47–14",
     "status": "Score conflict",
-    "note": "Contemporary 1951 yearbook account IMG_8924 says 47–12; 1995 historical table says 47–14. Prefer yearbook provisionally; obtain contemporary box score.",
+    "note": "Contemporary 1951 yearbook account IMG_8924 says 47–12; 1995 historical table says 47–14. Prefer yearbook provisionally; obtain contemporary box score. The supplied 1999 Joyce Erekson preview repeats the historical-table score; this is corroboration, not necessarily an independently compiled table.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
   },
@@ -634,7 +634,7 @@
     "opponent": "Peabody",
     "result": "W 17–14 / 15–14",
     "status": "Score conflict",
-    "note": "1995 and 2002 historical tables give 17–14; Bob Sacco’s retrospective 1995 cartoon gives 15–14 and recalls Lynn Serino’s field goal with 13 seconds left. Contemporary report needed.",
+    "note": "1995 and 2002 historical tables give 17–14; Bob Sacco’s retrospective 1995 cartoon gives 15–14 and recalls Lynn Serino’s field goal with 13 seconds left. Contemporary report needed. The supplied 1999 Joyce Erekson preview repeats the historical-table score; this is corroboration, not necessarily an independently compiled table.",
     "sourceFile": "IMG_4048.jpg; IMG_3610.jpg; IMG_1229.heic",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
   },
@@ -679,9 +679,9 @@
     "opponent": "Peabody",
     "result": "L 13–14",
     "status": "Historical table, visually checked",
-    "note": "1995 table explicitly says Peabody 14–13. Confirms later reports; supersedes unsupported 14–10 lead.",
+    "note": "1995 table explicitly says Peabody 14–13. Confirms later reports; supersedes unsupported 14–10 lead. The supplied 1999 Joyce Erekson preview repeats the historical-table score; this is corroboration, not necessarily an independently compiled table.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-series1999.webp"
   },
   {
     "year": 1990,

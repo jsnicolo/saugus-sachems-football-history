@@ -298,7 +298,14 @@
       "players": "Earl Hanson, Del Pitman, Ray Mansfield, Mike \"Iron Mike\" Harrington",
       "awards": "Bob Burns - North Shore\nFrank DeMaso - North Shore",
       "nickname": "Sachems",
-      "sourceRow": 33
+      "sourceRow": 33,
+      "seasonNote": "A contemporary “With the Schoolboys” report documents Saugus’s withdrawal from the Northeastern Conference effective June 30, 1938, approved by the athletic council and school committee. No official reason was stated.",
+      "seasonSources": [
+        {
+          "label": "Contemporary column · NEC withdrawal effective June 30, 1938",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp"
+        }
+      ]
     },
     {
       "year": 1939,
