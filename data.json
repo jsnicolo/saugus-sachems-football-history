@@ -735,7 +735,14 @@
       "players": "Dick Serino, Harold Kingman, John Sands",
       "awards": "John Sands - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 66
+      "sourceRow": 66,
+      "seasonNote": "Dave Rattigan’s November 22, 1983 rivalry retrospective reports that junior quarterback Chris Serino completed 12 of 16 passes for 103 yards, while Mike Kimball gained 120 rushing yards and scored three touchdowns in Saugus’s 35–12 Thanksgiving win over Peabody.",
+      "seasonSources": [
+        {
+          "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        }
+      ]
     },
     {
       "year": 1966,
@@ -944,7 +951,14 @@
       "players": "Don Trainor, Paul Nigro, Bill Peach, Mike Allen",
       "awards": "Steve Peach - Lynn Item and NEC\nBill Peach - Lynn Item and NEC\nPhil Nigro - Lynn Item and NEC\nDon Trainor - NEC\nMike Allen - NEC",
       "nickname": "Sachems",
-      "sourceRow": 81
+      "sourceRow": 81,
+      "seasonNote": "The November 22, 1983 rivalry retrospective reports that Saugus outgained Peabody 188–11 in the second half of its 30–14 Thanksgiving win.",
+      "seasonSources": [
+        {
+          "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        }
+      ]
     },
     {
       "year": 1979,
@@ -966,7 +980,14 @@
       "players": "Steve Peach",
       "awards": "Steve Peach - Lynn Item and NEC\nArt Polimeno - Lynn Item and NEC\nBob Cordeau - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 85
+      "sourceRow": 85,
+      "seasonNote": "Coach Mike Ginolfi, quoted in Dave Rattigan’s November 22, 1983 retrospective, recalled Steve Peach completing five of nine passes for 100 yards and two touchdowns and returning an interception 40 yards for a touchdown in the 40–6 Thanksgiving win over Peabody.",
+      "seasonSources": [
+        {
+          "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        }
+      ]
     },
     {
       "year": 1981,
