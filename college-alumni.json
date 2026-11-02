@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -372,7 +372,7 @@
       "position": "LB",
       "rosterYears": "2003–2004",
       "professional": "",
-      "notes": "Reserve linebacker for the Bridgewater State Bears from 2003 to 2004.",
+      "notes": "Member of the Bridgewater State College football team at LB.",
       "sources": [
         {
           "label": "2004 Bridgewater State vs. Framingham State — game participation (Sep. 25, 2004)",
@@ -534,6 +534,114 @@
         {
           "label": "Saugus Advocate retrospective",
           "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
+    },
+    {
+      "name": "Joe Barressi",
+      "gradYear": 1988,
+      "college": "Plymouth State College",
+      "position": "RB",
+      "rosterYears": "1988–1991",
+      "professional": "",
+      "notes": "Member of Plymouth State's football roster from 1988 through 1991. Listed at running back. Saugus's 1987 captain directory identifies Barressi as a senior captain; class of 1988 corroborated by his 1988 freshman college roster.",
+      "sources": [
+        {
+          "label": "Plymouth State 1988 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1988"
+        },
+        {
+          "label": "Plymouth State 1989 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1989"
+        },
+        {
+          "label": "Plymouth State 1990 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1990"
+        },
+        {
+          "label": "Plymouth State 1991 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1991"
+        }
+      ]
+    },
+    {
+      "name": "Joe Attubato",
+      "gradYear": 1994,
+      "college": "Plymouth State College",
+      "position": "DL",
+      "rosterYears": "1994–1997",
+      "professional": "",
+      "notes": "Listed on Plymouth State's 1994–1997 football rosters; defensive lineman and 1997 team captain. Saugus's 1993 captain directory and a 1994 Lynn Item season preview identify him as a graduating Saugus player headed to Plymouth State.",
+      "sources": [
+        {
+          "label": "Plymouth State 1994 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1994"
+        },
+        {
+          "label": "Plymouth State 1995 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1995"
+        },
+        {
+          "label": "Plymouth State 1996 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1996"
+        },
+        {
+          "label": "Plymouth State 1997 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1997"
+        }
+      ]
+    },
+    {
+      "name": "Colt Meredith",
+      "gradYear": null,
+      "college": "Plymouth State College",
+      "position": "LB/DB",
+      "rosterYears": "1996–1999",
+      "professional": "",
+      "notes": "Plymouth State's official rosters list Meredith from 1996 through 1999, at linebacker in 1996 and defensive back in later seasons. A captain in 1999. Saugus graduation year awaits independent confirmation.",
+      "sources": [
+        {
+          "label": "Plymouth State 1996 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1996"
+        },
+        {
+          "label": "Plymouth State 1997 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1997"
+        },
+        {
+          "label": "Plymouth State 1998 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/1998"
+        },
+        {
+          "label": "Plymouth State 1999 official player profile",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/colt-meredith/9515"
+        }
+      ]
+    },
+    {
+      "name": "Chris Venn",
+      "gradYear": null,
+      "college": "Plymouth State College",
+      "position": "DL",
+      "rosterYears": "2001–2004",
+      "professional": "",
+      "notes": "Plymouth State football rosters identify Venn as a Saugus High alumnus in 2001, 2002, 2003 and 2004. Listed as a defensive lineman; Saugus graduation year awaits independent confirmation.",
+      "sources": [
+        {
+          "label": "Plymouth State 2001 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2001"
+        },
+        {
+          "label": "Plymouth State 2002 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2002"
+        },
+        {
+          "label": "Plymouth State 2003 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2003"
+        },
+        {
+          "label": "Plymouth State 2004 official football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2004"
         }
       ]
     }
