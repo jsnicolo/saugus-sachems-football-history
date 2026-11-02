@@ -1676,6 +1676,18 @@
     "dateSource": "Season identified by Sal Nicolo; publication details taken from the clipping."
   },
   {
+    "file": "photos/review-nicholson.webp",
+    "thumb": "photos/thumb-review-nicholson.webp",
+    "title": "George Nicholson Jr. · three interception touchdowns · 1952",
+    "caption": "Jim O’Brien profiles Saugus co-captain George Nicholson Jr., a senior who played offensive guard and defensive fullback/linebacker for Coach John Janusas. The article credits him with three interception returns for touchdowns in the 1952 season, including a 55-yard Thanksgiving return against Peabody, and describes him as Saugus’s leading scorer and the state’s highest-scoring guard. The statewide distinction is the article’s claim, not an independently established record. His father, George Nicholson Sr., was elected captain for the 1921 season, as the contemporary election clipping explicitly states. The later profile’s reference to 1923 is a typo, corrected by Sal Nicolo.",
+    "year": 1952,
+    "original": "ED364AD0-CCF8-4005-B66A-BEE36E744467.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "1952 season identified by Sal Nicolo; father’s 1921 captaincy supported by the 1920 election clipping. Sal confirmed the later profile’s 1923 reference is a typo.",
+    "dateLabel": "1952 season"
+  },
+  {
     "file": "photos/contributed-2661-hall.webp",
     "thumb": "photos/thumb-contributed-2661-hall.webp",
     "title": "Bob Belyea · 1953 Boston Globe All-Scholastic",
@@ -4533,18 +4545,6 @@
     "dateSource": "Year or dated heading printed on the contributed Item clipping."
   },
   {
-    "file": "photos/review-nicholson.webp",
-    "thumb": "photos/thumb-review-nicholson.webp",
-    "title": "George Nicholson · three interception touchdowns",
-    "caption": "Jim O’Brien profiles Saugus co-captain George Nicholson, a senior who played offensive guard and defensive fullback/linebacker for Coach John Janusas. The article credits him with three interception returns for touchdowns in the preceding fall, including a 55-yard Thanksgiving return against Peabody, and describes him as Saugus’s leading scorer and the state’s highest-scoring guard. These are the article’s claims, not independently established statewide records. The crop does not show a publication date; the season remains unassigned. His father captained Saugus in 1923. He is not the earlier captain elected for the 1921 team.",
-    "year": null,
-    "original": "ED364AD0-CCF8-4005-B66A-BEE36E744467.jpeg",
-    "category": "Clippings",
-    "golden": false,
-    "dateSource": "Contributed clipping; printed date where visible. Undated crops remain unassigned.",
-    "dateLabel": "Season to confirm"
-  },
-  {
     "file": "photos/review-stoneham.webp",
     "thumb": "photos/thumb-review-stoneham.webp",
     "title": "Thanksgiving at Stoneham · Saugus High ties 0–0",
@@ -4569,3 +4569,4 @@
     "dateLabel": "Season to confirm"
   }
 ]
+
