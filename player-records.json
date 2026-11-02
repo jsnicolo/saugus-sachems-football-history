@@ -968,11 +968,14 @@
     },
     {
       "name": "Richie Burt",
-      "position": "RB",
+      "position": "Back",
       "schoolClass": "Sr",
       "year": 1959,
       "publisher": "Lynn Item",
-      "row": 100
+      "row": 100,
+      "award": "North Shore All-Star second team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3351.webp",
+      "sourceLabel": "1959 Lynn Item North Shore All-Star team · second-team backs"
     },
     {
       "name": "Dave Matthews",
@@ -1768,6 +1771,17 @@
       "name": "Douglas “Doug” MacNeill",
       "position": "—",
       "award": "Second-string Lynn All-Star selection"
+    },
+    {
+      "year": 1959,
+      "name": "Dave Mathews",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "publisher": "Lynn Item",
+      "award": "North Shore All-Star first team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3351.webp",
+      "sourceLabel": "1959 Lynn Item North Shore All-Star team · Dave Mathews, Saugus back",
+      "sourceNote": "David Russell Mathews (one t), Saugus Class of 1960; distinct from David James Matthews in the same yearbook."
     }
   ],
   "alumni": [
