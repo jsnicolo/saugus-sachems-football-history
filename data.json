@@ -1635,63 +1635,94 @@
       "sourceRow": 136,
       "games": [
         {
-          "opponent": "Peabody Veterans Memorial",
-          "result": "L 6–27",
-          "status": "Played"
-        },
-        {
-          "opponent": "Wilmington",
-          "result": "L 16–28",
-          "status": "Played"
-        },
-        {
-          "opponent": "Winthrop",
-          "result": "L 8–38",
-          "status": "Played"
-        },
-        {
-          "opponent": "Falmouth",
-          "result": "W 20–12",
-          "status": "Played"
-        },
-        {
-          "opponent": "Gloucester",
-          "result": "L 8–27",
-          "status": "Played"
-        },
-        {
-          "opponent": "Salem",
-          "result": "L 20–55",
-          "status": "Played"
-        },
-        {
-          "opponent": "Swampscott",
-          "result": "L 0–35",
-          "status": "Played"
-        },
-        {
-          "opponent": "Lynn Vocational Tech",
-          "result": "W 27–18",
-          "status": "Played"
-        },
-        {
-          "opponent": "Northeast Metro Rvt",
-          "result": "W 28–22",
-          "status": "Played"
-        },
-        {
+          "date": "2023-09-08",
           "opponent": "Chelsea",
           "result": "W 40–6",
-          "status": "Played"
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2023-09-15",
+          "opponent": "Northeast Metro RVT",
+          "result": "W 28–22",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2023-09-23",
+          "opponent": "Lynn Vocational Tech",
+          "result": "W 27–18",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2023-09-29",
+          "opponent": "Swampscott",
+          "result": "L 0–35",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2023-10-06",
+          "opponent": "Salem",
+          "result": "L 20–55",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2023-10-12",
+          "opponent": "Gloucester",
+          "result": "L 8–27",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2023-10-21",
+          "opponent": "Falmouth",
+          "result": "W 20–12",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2023-10-27",
+          "opponent": "Winthrop",
+          "result": "L 8–38",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2023-11-03",
+          "opponent": "Georgetown/Pentucket Regional",
+          "result": "W 20–8",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2023-11-09",
+          "opponent": "Wilmington",
+          "result": "L 16–28",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2023-11-23",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–27",
+          "status": "Played",
+          "venue": "Away"
         }
       ],
       "seasonSources": [
         {
           "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
           "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        },
+        {
+          "label": "User-provided varsity schedule screenshots · 2023 opponents, dates, and final scores",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
         }
       ],
-      "seasonNote": "Partial game-by-game results: 10 opponents and scores documented in USA Prep Football; additional game(s) remain to be verified. Dates not confirmed."
+      "seasonNote": "Eleven completed games documented in the supplied varsity schedule screenshots, including the November 3 Georgetown/Pentucket victory."
     },
     {
       "year": 2024,
@@ -1705,63 +1736,94 @@
       "sourceRow": 137,
       "games": [
         {
-          "opponent": "Peabody Veterans Memorial",
-          "result": "L 7–33",
-          "status": "Played"
+          "date": "2024-09-13",
+          "opponent": "Cambridge Rindge & Latin",
+          "result": "L 14–21",
+          "status": "Played",
+          "venue": "Away"
         },
         {
-          "opponent": "Dracut",
-          "result": "L 16–21",
-          "status": "Played"
-        },
-        {
-          "opponent": "Chelsea",
-          "result": "W 30–8",
-          "status": "Played"
-        },
-        {
-          "opponent": "Swampscott",
-          "result": "L 0–56",
-          "status": "Played"
-        },
-        {
-          "opponent": "Gloucester",
-          "result": "L 12–32",
-          "status": "Played"
-        },
-        {
-          "opponent": "Salem",
-          "result": "L 0–21",
-          "status": "Played"
-        },
-        {
-          "opponent": "Winthrop",
-          "result": "L 12–42",
-          "status": "Played"
-        },
-        {
-          "opponent": "Lynn Vocational Tech",
-          "result": "L 0–3",
-          "status": "Played"
-        },
-        {
+          "date": "2024-09-20",
           "opponent": "Wilmington",
           "result": "W 20–10",
-          "status": "Played"
+          "status": "Played",
+          "venue": "Away"
         },
         {
-          "opponent": "Cambridge Rindge and Latin",
-          "result": "L 14–21",
-          "status": "Played"
+          "date": "2024-09-26",
+          "opponent": "Lynn Vocational Tech",
+          "result": "L 0–3",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2024-10-04",
+          "opponent": "Winthrop",
+          "result": "L 12–42",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Salem",
+          "result": "L 0–21",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2024-10-18",
+          "opponent": "Gloucester",
+          "result": "L 12–32",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2024-10-25",
+          "opponent": "Swampscott",
+          "result": "L 0–56",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2024-11-01",
+          "opponent": "Chelsea",
+          "result": "W 30–8",
+          "status": "Played",
+          "venue": "Away"
+        },
+        {
+          "date": "2024-11-08",
+          "opponent": "Dracut",
+          "result": "L 16–21",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Brighton/Kennedy Health Careers",
+          "result": "W 34–0",
+          "status": "Played",
+          "venue": "Home"
+        },
+        {
+          "date": "2024-11-28",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 7–33",
+          "status": "Played",
+          "venue": "Home"
         }
       ],
       "seasonSources": [
         {
           "label": "USA Prep Football · Saugus Sachems historical results (opponents and scores; dates not supplied)",
           "url": "https://usaprepfootball.com/team/saugus-sachems/"
+        },
+        {
+          "label": "User-provided varsity schedule screenshots · 2024 opponents, dates, and final scores",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
         }
       ],
-      "seasonNote": "Partial game-by-game results: 10 opponents and scores documented in USA Prep Football; additional game(s) remain to be verified. Dates not confirmed."
+      "seasonNote": "Eleven completed games documented in the supplied varsity schedule screenshots. An August 30 Arlington listing had no reported score and is excluded as unconfirmed/canceled."
     },
     {
       "year": 2026,
