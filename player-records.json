@@ -956,15 +956,21 @@
       "schoolClass": "Sr",
       "year": 1960,
       "publisher": "Lynn Item",
-      "row": 98
+      "row": 98,
+      "award": "Lynn Item All-Star second team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3353.webp",
+      "sourceLabel": "1960 Lynn Daily Evening Item · All-Star second team (back)"
     },
     {
       "name": "Vito Russo",
-      "position": "OL",
+      "position": "Center",
       "schoolClass": "Sr",
       "year": 1960,
       "publisher": "Lynn Item",
-      "row": 99
+      "row": 99,
+      "award": "Lynn Item All-Star second team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3353.webp",
+      "sourceLabel": "1960 Lynn Daily Evening Item · All-Star second team (center)"
     },
     {
       "name": "Richie Burt",
@@ -987,11 +993,14 @@
     },
     {
       "name": "John Naples",
-      "position": "OL",
+      "position": "Guard",
       "schoolClass": "Sr",
       "year": 1958,
       "publisher": "Lynn Item",
-      "row": 102
+      "row": 102,
+      "award": "North Shore All-Star first team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3350.webp",
+      "sourceLabel": "1958 Lynn Item North Shore All-Star team (guard)"
     },
     {
       "name": "Mike Light",
@@ -1021,7 +1030,10 @@
       "schoolClass": "Sr",
       "year": 1954,
       "publisher": "Lynn Item",
-      "row": 105
+      "row": 105,
+      "award": "Lynn Item All-Scholastic first team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3345.webp",
+      "sourceLabel": "1954 Lynn Item All-Scholastic grid team (back)"
     },
     {
       "name": "Ed Healey",
