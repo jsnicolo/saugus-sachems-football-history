@@ -361,7 +361,18 @@
           "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1941-part-14.htm"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Thanksgiving: Saugus beat Wakefield. The contemporary yearbook reports 12–6 and describes twelve Sachem points; a later historical table prints 13–6. The yearbook reading is preferred provisionally.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_2748.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_2748.webp"
+        },
+        {
+          "label": "Thanksgiving collection · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        }
+      ]
     },
     {
       "year": 1942,
@@ -455,7 +466,14 @@
       "players": "Ed Falasca, Sardi Nicolo",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 45
+      "sourceRow": 45,
+      "seasonNote": "Thanksgiving: Saugus defeated Peabody 27–13. Contemporary newspaper accounts credit Sardi Nicolo with three touchdown passes and a rushing touchdown.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_4208.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4208.webp"
+        }
+      ]
     },
     {
       "year": 1949,
@@ -507,7 +525,18 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2612.webp"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Thanksgiving score remains disputed: the contemporary yearbook reports Saugus 47, Peabody 12; later series tables print 47–14. The Exchange Bowl victory over Brockton was a separate game.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_8924.JPG",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_8924.webp"
+        },
+        {
+          "label": "Thanksgiving collection · IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        }
+      ]
     },
     {
       "year": 1951,
@@ -848,7 +877,14 @@
           "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Thanksgiving: Steve Gannon blocked a Peabody field-goal attempt, John Nicolo recovered it and returned it for the only touchdown, with a final clearing block credited to Neal Connaughton. Saugus won 6–0 in muddy conditions at Stackpole Field.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_3850.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3850.webp"
+        }
+      ]
     },
     {
       "year": 1976,
@@ -883,7 +919,14 @@
           "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Thanksgiving: Saugus beat Peabody 12–10. Tom Dalton’s game report credits Frank Serino with six catches for 116 yards; the win completed the 9–1 season.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_4138.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4138.webp"
+        }
+      ]
     },
     {
       "year": 1978,
@@ -960,7 +1003,18 @@
       "players": "Dave Taylor, Tim January, Eric Jarosz, Rich Salerno, and Jack Cottam",
       "awards": "Tim January - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 89
+      "sourceRow": 89,
+      "seasonNote": "Thanksgiving score requires reconciliation: the newspaper series tables give Saugus 17, Peabody 14; Bob Sacco’s retrospective cartoon prints 15–14 and recalls Lynn Serino’s late field goal. Do not treat the cartoon’s score as settled.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Thanksgiving collection · IMG_1229.heic",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_1229.webp"
+        }
+      ]
     },
     {
       "year": 1985,
@@ -1024,7 +1078,14 @@
       "players": "Marc Fauci",
       "awards": "Marc Fauci - NEC (MVP), Boston Globe, Lynn Item, Agganis",
       "nickname": "Sachems",
-      "sourceRow": 94
+      "sourceRow": 94,
+      "seasonNote": "Thanksgiving: Peabody 14, Saugus 13, as listed in the November 21, 1995 Daily Evening Item series table. This supports the one-point result rather than the previously suggested 14–10.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        }
+      ]
     },
     {
       "year": 1990,
@@ -1035,7 +1096,14 @@
       "players": "Ryan Magnasco, Dan Schena",
       "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Hefferman - NEC\nTodd Leccese - NEC\nChris Miuriski - NEC",
       "nickname": "Sachems",
-      "sourceRow": 97
+      "sourceRow": 97,
+      "seasonNote": "Bob Sacco’s illustrated account of the November 11 Beverly game records a 29–6 Saugus win, credits Ryan Magnasco with three touchdowns and names John Cinelli as quarterback. This was a regular-season game, not Thanksgiving.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving collection · IMG_1257.heic",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_1257.webp"
+        }
+      ]
     },
     {
       "year": 1991,
