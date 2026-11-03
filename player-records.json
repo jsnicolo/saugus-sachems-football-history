@@ -36,11 +36,13 @@
     },
     {
       "name": "L.J. McKanas",
-      "position": "RB",
+      "position": "RB/DB",
       "schoolClass": "Sr",
       "year": 1996,
       "publisher": "Boston Globe",
-      "row": 4
+      "row": 4,
+      "award": "Boston Globe All-Scholastic",
+      "sourceLabel": "1996 Boston Globe All-Scholastic football team — L.J. McKanas player profile (user-supplied clipping)"
     },
     {
       "name": "Braden Faiella**",
@@ -1885,6 +1887,24 @@
       "year": 1975,
       "publisher": "Boston Herald",
       "row": 209
+    },
+    {
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "position": "RB/DB",
+      "schoolClass": "Jr",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceLabel": "1996 Boston Globe All-Scholastic profile states McKanas was a Northeastern Conference All-Star in each of the preceding two seasons"
+    },
+    {
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "position": "RB/DB",
+      "schoolClass": "Sr",
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star",
+      "sourceLabel": "1996 Boston Globe All-Scholastic profile states McKanas was a Northeastern Conference All-Star in each of the preceding two seasons"
     }
   ],
   "alumni": [
