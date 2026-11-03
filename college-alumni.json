@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -733,6 +733,131 @@
       "sources": [
         {
           "label": "Bridgewater State 2014 and 2015 official football rosters (contributor PDFs)"
+        }
+      ]
+    },
+    {
+      "name": "Bret Reid",
+      "gradYear": null,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "QB (2009); WR (2010)",
+      "rosterYears": "2009–2010",
+      "professional": "",
+      "notes": "Listed on the UMass Dartmouth football roster in both seasons; high school graduation year pending independent verification.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2009 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2009"
+        },
+        {
+          "label": "UMass Dartmouth 2010 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2010"
+        }
+      ]
+    },
+    {
+      "name": "Michael Dean",
+      "gradYear": null,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "DB",
+      "rosterYears": "2009",
+      "professional": "",
+      "notes": "Listed as a freshman defensive back on the 2009 roster; high school graduation year pending verification.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2009 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2009"
+        }
+      ]
+    },
+    {
+      "name": "Marvens Jean",
+      "gradYear": null,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "RB (2021–2022, 2024); WR (2023)",
+      "rosterYears": "2021–2024",
+      "professional": "",
+      "notes": "Saugus High alumnus listed on four consecutive UMass Dartmouth football rosters; high school graduation year pending verification.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2021 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2021"
+        },
+        {
+          "label": "UMass Dartmouth 2022 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2022"
+        },
+        {
+          "label": "UMass Dartmouth 2023 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2023"
+        },
+        {
+          "label": "UMass Dartmouth 2024 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2024"
+        }
+      ]
+    },
+    {
+      "name": "Salvatore Franco",
+      "gradYear": null,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "DB",
+      "rosterYears": "2023",
+      "professional": "",
+      "notes": "Freshman defensive back listed on the 2023 roster; high school graduation year pending verification.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2023 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2023"
+        }
+      ]
+    },
+    {
+      "name": "Wilderson Lafortune",
+      "gradYear": 2025,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "DL",
+      "rosterYears": "2025–2026",
+      "professional": "",
+      "notes": "Listed as a freshman in 2025 and sophomore in 2026. Saugus graduation year 2025 inferred from the college freshman roster; yearbook confirmation pending.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2025 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2025"
+        },
+        {
+          "label": "UMass Dartmouth 2026 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2026"
+        }
+      ]
+    },
+    {
+      "name": "David Perez",
+      "gradYear": 2026,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "DL",
+      "rosterYears": "2026",
+      "professional": "",
+      "notes": "Listed as a freshman in 2026; Saugus graduation year 2026 inferred from college roster and pending yearbook confirmation.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2026 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2026"
+        }
+      ]
+    },
+    {
+      "name": "Connor Bloom",
+      "gradYear": null,
+      "college": "University of Massachusetts Dartmouth",
+      "position": "K/P",
+      "rosterYears": "2026",
+      "professional": "",
+      "notes": "Listed as a junior kicker/punter in 2026; earlier college roster seasons and Saugus graduation year not yet established.",
+      "sources": [
+        {
+          "label": "UMass Dartmouth 2026 football roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2026"
         }
       ]
     }
