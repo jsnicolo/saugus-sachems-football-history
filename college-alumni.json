@@ -738,7 +738,7 @@
     },
     {
       "name": "Bret Reid",
-      "gradYear": null,
+      "gradYear": 2009,
       "college": "University of Massachusetts Dartmouth",
       "position": "QB (2009); WR (2010)",
       "rosterYears": "2009–2010",
@@ -757,7 +757,7 @@
     },
     {
       "name": "Michael Dean",
-      "gradYear": null,
+      "gradYear": 2009,
       "college": "University of Massachusetts Dartmouth",
       "position": "DB",
       "rosterYears": "2009",
@@ -772,7 +772,7 @@
     },
     {
       "name": "Marvens Jean",
-      "gradYear": null,
+      "gradYear": 2020,
       "college": "University of Massachusetts Dartmouth",
       "position": "RB (2021–2022, 2024); WR (2023)",
       "rosterYears": "2021–2024",
@@ -799,7 +799,7 @@
     },
     {
       "name": "Salvatore Franco",
-      "gradYear": null,
+      "gradYear": 2021,
       "college": "University of Massachusetts Dartmouth",
       "position": "DB",
       "rosterYears": "2023",
@@ -809,6 +809,10 @@
         {
           "label": "UMass Dartmouth 2023 football roster",
           "url": "https://corsairathletics.com/sports/football/roster/2023"
+        },
+        {
+          "label": "Saugus Hudl profile (Class of 2021)",
+          "url": "https://www.hudl.com/profile/8536830/Sal-Franco"
         }
       ]
     },
@@ -848,7 +852,7 @@
     },
     {
       "name": "Connor Bloom",
-      "gradYear": null,
+      "gradYear": 2026,
       "college": "University of Massachusetts Dartmouth",
       "position": "K/P",
       "rosterYears": "2026",
