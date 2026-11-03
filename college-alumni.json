@@ -707,6 +707,34 @@
           "label": "2010 Bridgewater State official football roster (contributor PDF)"
         }
       ]
+    },
+    {
+      "name": "Thomas (Tommy) Trainor",
+      "gradYear": 2013,
+      "college": "Bridgewater State University",
+      "position": "LB",
+      "rosterYears": "2013",
+      "professional": "",
+      "notes": "Freshman linebacker, No. 59, on the 2013 Bridgewater State roster. One college roster season confirmed.",
+      "sources": [
+        {
+          "label": "Bridgewater State 2013 official football roster (contributor PDF)"
+        }
+      ]
+    },
+    {
+      "name": "Baron Osei-Bonsu",
+      "gradYear": null,
+      "college": "Bridgewater State University",
+      "position": "WR",
+      "rosterYears": "2014–2016",
+      "professional": "",
+      "notes": "Wide receiver, No. 31, on the 2014 and 2015 Bridgewater State rosters; 2016 season reported by contributor, pending independent roster confirmation.",
+      "sources": [
+        {
+          "label": "Bridgewater State 2014 and 2015 official football rosters (contributor PDFs)"
+        }
+      ]
     }
   ]
 }
