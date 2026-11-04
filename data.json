@@ -60,13 +60,14 @@
       "record": "7 - 1",
       "league": "Greater Lynn League",
       "title": null,
-      "players": "Michael Garofano (Captain)",
+      "players": "John Flynn (Captain), Michael Garofano",
+      "captainsNote": "John Flynn’s 1916 captaincy is confirmed by a newspaper clipping supplied by Sal Nicolo.",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 7,
       "seasonSources": [
         {
-          "label": "Newspaper clipping · team captain",
+          "label": "Early newspaper clipping index",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
         }
       ]
