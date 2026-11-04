@@ -1005,6 +1005,15 @@
     "dateSource": "Identification and context supplied by Sal Nicolo."
   },
   {
+    "file": "photos/gallery-2859.webp",
+    "thumb": "photos/thumb-gallery-2859.webp",
+    "title": "Eugene Decereau · 1947 Item All-Scholastic",
+    "caption": "The Item’s All-Scholastic portrait panel includes Saugus tackle Eugene Decereau.",
+    "year": 1947,
+    "original": "IMG_2859(2).jpeg",
+    "category": "All-Star & All-Scholastic"
+  },
+  {
     "file": "photos/contributed-2685.webp",
     "thumb": "photos/thumb-contributed-2685.webp",
     "title": "Thanksgiving 1948 · Saugus defeats Peabody, 27–13",
@@ -1251,12 +1260,12 @@
     "original": "IMG_4311.jpg"
   },
   {
-    "file": "photos/contributed-IMG_2470.webp",
-    "thumb": "photos/thumb-contributed-IMG_2470.webp",
+    "file": "photos/nicolo-brothers-1949-exchange-bowl.webp",
+    "thumb": "photos/thumb-nicolo-brothers-1949-exchange-bowl.webp",
     "title": "The Nicolo brothers — 1949 Exchange Bowl",
     "caption": "Sardi Nicolo (No. 33) leads the blocking for his brother Richie (No. 32). This retrospective clipping recounts Saugus’ 7–6 victory over Weymouth in the 1949 Exchange Bowl and the brothers’ decisive passing play.",
     "year": 1949,
-    "original": "IMG_2470.jpeg",
+    "original": "IMG_2933(4).jpeg",
     "category": "Clippings",
     "golden": true,
     "dateSource": "Player and season identification supplied by Sal Nicolo, October 2026"
@@ -1417,6 +1426,15 @@
         "dateSource": "Added to the 1949 championship feature at Sal Nicolo’s direction; season context matches the yearbook and Exchange Bowl coverage."
       }
     ]
+  },
+  {
+    "file": "photos/gallery-2895.webp",
+    "thumb": "photos/thumb-gallery-2895.webp",
+    "title": "Saugus wins the 1949 Exchange Bowl",
+    "caption": "Game coverage of Saugus’ 7–6 victory over Weymouth includes the deciding pass and Weymouth’s final opportunity.",
+    "year": 1949,
+    "original": "IMG_2895(2).jpeg",
+    "category": "Clippings"
   },
   {
     "file": "photos/era-IMG_3335.webp",
@@ -1948,13 +1966,100 @@
   {
     "file": "photos/zip-IMG_0398.webp",
     "thumb": "photos/thumb-zip-IMG_0398.webp",
-    "title": "Art Spinney · Baltimore Colts",
-    "caption": "Art Spinney, Baltimore Colts guard, pictured on a 1959 football card.",
-    "year": 1959,
+    "title": "Art Spinney · Baltimore Colts football cards",
+    "caption": "Saugus High Class of 1945 and Boston College captain Art Spinney played for Baltimore in 1950 and returned to the Colts in 1953 after Army service. He moved from end to guard and helped Baltimore win NFL championships in 1958 and 1959. He earned Pro Bowl honors for the 1959 and 1960 seasons and later coached the Boston Patriots’ offensive line.",
+    "year": 1960,
     "original": "IMG_0398.jpg",
     "category": "College & pro",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "golden": false
+    "golden": false,
+    "dateLabel": "1955–1960",
+    "sourceNote": "NFL career sources",
+    "sources": [
+      {
+        "label": "NFL career statistics",
+        "url": "https://www.nfl.com/players/art-spinney/stats/career"
+      },
+      {
+        "label": "Colts team history",
+        "url": "https://www.colts.com/team/history/by-the-decade/1950s"
+      },
+      {
+        "label": "Boston Patriots 1965 media guide",
+        "url": "https://media.patriots.1rmg.com/wp-content/uploads/2018/07/19023711/1965_Boston_Patriots_Media_Guide.pdf"
+      }
+    ],
+    "images": [
+      {
+        "file": "photos/zip-IMG_0398.webp",
+        "thumb": "photos/thumb-zip-IMG_0398.webp",
+        "title": "1960 Topps card · front",
+        "caption": "Art Spinney pictured as a Baltimore Colts guard.",
+        "year": 1960
+      },
+      {
+        "file": "photos/art-spinney-2942.webp",
+        "thumb": "photos/thumb-art-spinney-2942.webp",
+        "title": "1960 Topps card · back",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1960,
+        "original": "IMG_2942.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2935.webp",
+        "thumb": "photos/thumb-art-spinney-2935.webp",
+        "title": "1959 Topps card · front",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1959,
+        "original": "IMG_2935.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2941.webp",
+        "thumb": "photos/thumb-art-spinney-2941.webp",
+        "title": "1959 Topps card · back",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1959,
+        "original": "IMG_2941.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2937.webp",
+        "thumb": "photos/thumb-art-spinney-2937.webp",
+        "title": "1955 Bowman card · front",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1955,
+        "original": "IMG_2937.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2940.webp",
+        "thumb": "photos/thumb-art-spinney-2940.webp",
+        "title": "1955 Bowman card · back",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1955,
+        "original": "IMG_2940.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2938.webp",
+        "thumb": "photos/thumb-art-spinney-2938.webp",
+        "title": "Topps card · front",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1957,
+        "original": "IMG_2938.jpeg",
+        "category": "College & pro"
+      },
+      {
+        "file": "photos/art-spinney-2939.webp",
+        "thumb": "photos/thumb-art-spinney-2939.webp",
+        "title": "Topps card · back",
+        "caption": "Art Spinney, Baltimore Colts.",
+        "year": 1957,
+        "original": "IMG_2939.jpeg",
+        "category": "College & pro"
+      }
+    ]
   },
   {
     "file": "photos/honors-IMG_3351.webp",
@@ -2349,6 +2454,15 @@
     "dateSource": "The printed 6–4 record, captain Steve Spinney and game scores match the 1974 season in the archive; this page was supplied with the 1975 materials."
   },
   {
+    "file": "photos/gallery-2898.webp",
+    "thumb": "photos/thumb-gallery-2898.webp",
+    "title": "Saugus rallies against Swampscott · 1974",
+    "caption": "Saugus broke open a scoreless halftime tie against Swampscott. John Nicolo helped spark the second-half offense, and Doug Mackie partially blocked a late field-goal attempt before halftime.",
+    "year": 1974,
+    "original": "IMG_2898(2).jpeg",
+    "category": "Clippings"
+  },
+  {
     "file": "photos/era-IMG_3100.webp",
     "thumb": "photos/thumb-era-IMG_3100.webp",
     "title": "Steve Gannon · All-Star profile",
@@ -2664,6 +2778,24 @@
     "dateSource": "Season and context supplied by Sal Nicolo."
   },
   {
+    "file": "photos/gallery-2899.webp",
+    "thumb": "photos/thumb-gallery-2899.webp",
+    "title": "Saugus prepares for Winthrop against Nashua",
+    "caption": "The September 16, 1975 Daily Evening Item reports on the Nashua scrimmage and John Nicolo’s two touchdown passes as Saugus prepared to open its season.",
+    "year": 1975,
+    "original": "IMG_2899(2).jpeg",
+    "category": "Clippings"
+  },
+  {
+    "file": "photos/gallery-2849.webp",
+    "thumb": "photos/thumb-gallery-2849.webp",
+    "title": "Down through those Saugus–Peabody years",
+    "caption": "An illustrated retrospective recalls memorable games, upsets and players in the Thanksgiving rivalry.",
+    "year": 1975,
+    "original": "IMG_2849(2).jpeg",
+    "category": "Illustrations"
+  },
+  {
     "file": "photos/IMG_3307.webp",
     "thumb": "photos/thumb-IMG_3307.webp",
     "title": "Steve Gannon heads to Holy Cross",
@@ -2687,15 +2819,24 @@
     "dateLabel": "1976–1995"
   },
   {
-    "file": "photos/contributed-2689.webp",
-    "thumb": "photos/thumb-contributed-2689.webp",
+    "file": "photos/doug-mackie-ohio-state-1976.webp",
+    "thumb": "photos/thumb-doug-mackie-ohio-state-1976.webp",
     "title": "Doug Mackie · Ohio State recruiting, 1976",
     "caption": "Ray Fitzgerald’s 1976 feature chronicles Saugus High offensive tackle Doug Mackie’s decision to attend Ohio State and play for coach Woody Hayes. Recruited by Notre Dame, Iowa and many others, Mackie drew extraordinary praise from opposing coaches for his strength, quickness and potential. This article documents his commitment to Ohio State, where he played from 1976 through 1979.",
     "year": 1976,
-    "original": "IMG_2689.jpeg",
+    "original": "IMG_2855.jpeg",
     "category": "College & pro",
     "golden": false,
     "dateSource": "Year and context supplied by Sal Nicolo; caption checked against the contributed clipping."
+  },
+  {
+    "file": "photos/agganis-roster-1976.webp",
+    "thumb": "photos/thumb-agganis-roster-1976.webp",
+    "title": "Three Sachems on the 1976 Agganis roster",
+    "caption": "The North roster lists Saugus selections Steve Gannon (defensive end), Doug Mackie (tackle) and John Nicolo (running back).",
+    "year": 1976,
+    "original": "IMG_2856(1).jpeg",
+    "category": "All-Star & All-Scholastic"
   },
   {
     "file": "photos/era-IMG_3323.webp",
@@ -3164,15 +3305,38 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
-    "file": "photos/IMG_3311.webp",
-    "thumb": "photos/thumb-IMG_3311.webp",
+    "file": "photos/doug-mackie-bandits-1983.webp",
+    "thumb": "photos/thumb-doug-mackie-bandits-1983.webp",
     "title": "Doug Mackie and the USFL",
     "caption": "Doug Mackie’s professional football career included the USFL’s Tampa Bay Bandits in 1983. After overcoming repeated knee surgeries and setbacks with the Boston Breakers, the former Saugus High All-American and Ohio State offensive tackle earned a starting role with Tampa Bay. A contemporary Item feature described his persistence and his contributions to the Bandits’ offensive line.",
     "year": 1983,
-    "original": "IMG_3311.jpeg",
-    "category": "Clippings",
+    "original": "IMG_2853.jpeg",
+    "category": "College & pro",
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "golden": false
+    "golden": false,
+    "images": [
+      {
+        "file": "photos/doug-mackie-bandits-1983.webp",
+        "thumb": "photos/thumb-doug-mackie-bandits-1983.webp",
+        "title": "Doug Mackie and the USFL",
+        "caption": "Doug Mackie’s professional football career included the USFL’s Tampa Bay Bandits in 1983. After overcoming repeated knee surgeries and setbacks with the Boston Breakers, the former Saugus High All-American and Ohio State offensive tackle earned a starting role with Tampa Bay. A contemporary Item feature described his persistence and his contributions to the Bandits’ offensive line.",
+        "year": 1983,
+        "original": "IMG_2853.jpeg",
+        "category": "College & pro",
+        "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
+        "golden": false
+      },
+      {
+        "file": "photos/doug-mackie-bandits-followup.webp",
+        "thumb": "photos/thumb-doug-mackie-bandits-followup.webp",
+        "title": "Doug Mackie · on the rebound",
+        "caption": "This feature revisits Mackie’s time with the 1983 Tampa Bay Bandits and his return to football after injuries.",
+        "year": null,
+        "original": "IMG_2854.jpeg",
+        "category": "College & pro",
+        "dateLabel": "1983 Bandits retrospective · publication date unconfirmed"
+      }
+    ]
   },
   {
     "file": "photos/zip-IMG_1256.webp",
@@ -4362,7 +4526,7 @@
     "file": "photos/zip-IMG_4150.webp",
     "thumb": "photos/thumb-zip-IMG_4150.webp",
     "title": "Dan Cacciola · rushing performance",
-    "caption": "The player profile reports a 367-yard rushing game against Winthrop.",
+    "caption": "The player profile reports a 367-yard rushing game against Winthrop. The Winthrop Transcript account elsewhere in the gallery credits him with 375 yards.",
     "year": 2014,
     "original": "IMG_4150.jpg",
     "category": "Player records",
@@ -4590,5 +4754,53 @@
     "golden": false,
     "dateSource": "Season identified by Sal Nicolo from the Flynn/Garofano/Sprague cohort; printed issue date absent.",
     "dateLabel": "1915 · contributor identification"
+  },
+  {
+    "file": "photos/gallery-2896.webp",
+    "thumb": "photos/thumb-gallery-2896.webp",
+    "title": "Saugus High football team portrait",
+    "caption": "The newspaper photograph identifies Saugus players including John Sands, Jim Mancuso, John Dancewicz, Christie Serino and Mike Kimball. The roster places the photo in the mid-1960s.",
+    "year": null,
+    "original": "IMG_2896(2).jpeg",
+    "category": "Teams",
+    "dateLabel": "Mid-1960s · exact season to confirm"
+  },
+  {
+    "file": "photos/gallery-2846.webp",
+    "thumb": "photos/thumb-gallery-2846.webp",
+    "title": "John Scarborough steps down after 36 years in sports",
+    "caption": "Two clippings look back on John Scarborough’s career in Saugus athletics, including his years on the football coaching staff and the Exchange Bowl era.",
+    "year": null,
+    "original": "IMG_2846(2).jpeg",
+    "category": "Clippings",
+    "images": [
+      {
+        "file": "photos/gallery-2846.webp",
+        "thumb": "photos/thumb-gallery-2846.webp",
+        "title": "John Scarborough steps down after 36 years in sports",
+        "caption": "Two clippings look back on John Scarborough’s career in Saugus athletics, including his years on the football coaching staff and the Exchange Bowl era.",
+        "year": null,
+        "original": "IMG_2846(2).jpeg",
+        "category": "Clippings"
+      },
+      {
+        "file": "photos/gallery-2848.webp",
+        "thumb": "photos/thumb-gallery-2848.webp",
+        "title": "John Scarborough reflects on his Saugus years",
+        "caption": "Scarborough looks back on his career and recalls the Sachems’ Exchange Bowl games.",
+        "year": null,
+        "original": "IMG_2848(2).jpeg",
+        "category": "Clippings"
+      }
+    ]
+  },
+  {
+    "file": "photos/doug-waybright-school-portrait.webp",
+    "thumb": "photos/thumb-doug-waybright-school-portrait.webp",
+    "title": "Douglas G. Waybright · Waybright School tribute",
+    "caption": "This framed portrait hung at the Waybright School in honor of Doug Waybright, Saugus High Class of 1944. The school closed in 2021.",
+    "year": 2021,
+    "original": "0BD57697-9AD4-4018-969A-A0702AF49961.jpeg",
+    "category": "Clippings"
   }
 ]
