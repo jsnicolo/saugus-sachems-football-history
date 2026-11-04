@@ -17,10 +17,16 @@
       "record": "2 - 7",
       "league": "Greater Lynn League",
       "title": null,
-      "players": "George Sprague, Mike Garofano, John Fox",
+      "players": "George Sprague, Michael Garofano (Captain), John Fox",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 5
+      "sourceRow": 5,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2482.webp"
+        }
+      ]
     },
     {
       "year": 1915,
@@ -28,10 +34,25 @@
       "record": "6 - 0",
       "league": "Greater Lynn League",
       "title": null,
-      "players": "John Flynn, George Sprague, Mike Garofano",
+      "players": "John Flynn, George Sprague, Michael Garofano (Captain)",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 6
+      "sourceRow": 6,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Ipswich",
+          "result": "W 20–13",
+          "status": "Contributor-dated clipping"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Early newspaper clipping · IMG_2871",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1916,
@@ -39,10 +60,16 @@
       "record": "7 - 1",
       "league": "Greater Lynn League",
       "title": null,
-      "players": "Mike Garofano",
+      "players": "Michael Garofano (Captain)",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 7
+      "sourceRow": 7,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1917,
@@ -105,7 +132,7 @@
       "record": "9 - 0 - 2",
       "league": "Greater Lynn League",
       "title": "Greater Lynn League Champions",
-      "players": "Franklin \"Ooze\" Pike, John Pike, Googie Emery, Forrest Kenerson, Podge Herold, Lester Pool",
+      "players": "Franklin \"Ooze\" Pike, John Pike, Googie Amery (Captain), Forrest Kenerson, Podge Herold, Lester Pool",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 15,
@@ -122,7 +149,22 @@
         }
       ],
       "championshipStatus": "supported",
-      "championshipCategory": "League · historical designation"
+      "championshipCategory": "League · historical designation",
+      "seasonNote": "Saugus finished the season as Greater Lynn League Champions.",
+      "seasonSources": [
+        {
+          "label": "1922 clipping · no title claimed at that point",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "label": "1942 yearbook · Senior Year, p. 41",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        },
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1923,
@@ -130,10 +172,16 @@
       "record": "2 - 4 - 3",
       "league": "North Shore League",
       "title": null,
-      "players": "Lester Pool, Googie Emery",
+      "players": "Lester Pool (Captain), Googie Emery",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 16
+      "sourceRow": 16,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1924,
@@ -152,10 +200,16 @@
       "record": "6 - 6",
       "league": "North Shore League",
       "title": null,
-      "players": "Ernest Belliveau, Homer McNutt, Wally Guatreau, Danton Sawyer, Googie Emery.",
+      "players": "Ernest Belliveau (Captain), Homer McNutt, Wally Guatreau, Danton Sawyer, Googie Emery",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 18
+      "sourceRow": 18,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2745.webp"
+        }
+      ]
     },
     {
       "year": 1926,
@@ -174,10 +228,16 @@
       "record": "7 - 4",
       "league": "North Shore League",
       "title": null,
-      "players": "Jack Leahy, Wally Gautreau, and Arthur Martin, Stuart Kidder",
+      "players": "John Leahy (Captain), Wally Gautreau, Arthur Martin, Stuart Kidder",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 20
+      "sourceRow": 20,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1928,
@@ -185,10 +245,16 @@
       "record": "0 - 9",
       "league": "North Shore League",
       "title": null,
-      "players": "Reggie Goss, Gilman Cann, John Leahy, Carroll Freeman",
+      "players": "Reggie Goss (Captain), Gilman Cann, John Leahy, Carroll Freeman",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 21
+      "sourceRow": 21,
+      "seasonSources": [
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1929,
@@ -207,10 +273,29 @@
       "record": "4 - 4 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "John Muzzey, Jimmy Glinski, Laurie Templeman",
+      "players": "James Muzzy (Captain), Jimmy Glinski, Laurie Templeman",
       "awards": null,
       "nickname": "Eagles",
-      "sourceRow": 25
+      "sourceRow": 25,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Mission High (Roxbury)",
+          "result": "W 19–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        },
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2740.webp"
+        }
+      ]
     },
     {
       "year": 1931,
@@ -218,10 +303,29 @@
       "record": "7 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "George Riley, Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty, and Joe Scarozza.",
+      "players": "George Riley (Captain), Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty, Joe Scarozza",
       "awards": null,
       "nickname": "Eagles",
-      "sourceRow": 26
+      "sourceRow": 26,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Mission High (Roxbury)",
+          "result": "W 19–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        },
+        {
+          "label": "Newspaper clipping · team captain",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2737.webp"
+        }
+      ]
     },
     {
       "year": 1932,
@@ -232,7 +336,22 @@
       "players": "Edward Oljey",
       "awards": null,
       "nickname": "Eagles",
-      "sourceRow": 27
+      "sourceRow": 27,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Mission High (Roxbury)",
+          "result": "W 14–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        }
+      ]
     },
     {
       "year": 1933,
@@ -243,7 +362,22 @@
       "players": "Vincent Pendleton, Dizzy Pierce",
       "awards": null,
       "nickname": "Eagles",
-      "sourceRow": 28
+      "sourceRow": 28,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "T 0–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        }
+      ]
     },
     {
       "year": 1934,
@@ -254,7 +388,22 @@
       "players": "Joseph Pendleton, Burton Norton, and Alec Ozahowski",
       "awards": null,
       "nickname": "Eagles",
-      "sourceRow": 29
+      "sourceRow": 29,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 14–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3294.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        }
+      ]
     },
     {
       "year": 1935,
@@ -284,10 +433,16 @@
       "record": "7 - 2 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Jim Fauci, Russ Collomore, Bud McKay, and Wendall Brooks",
+      "players": "Jim Fauci (Captain), Russ Collomore, Bud McKay, Wendall Brooks",
       "awards": "Russ Collomore - North Shore\nBud McKay - North Shore\nWendall Brooks - North Shore",
       "nickname": "Sachems",
-      "sourceRow": 32
+      "sourceRow": 32,
+      "seasonSources": [
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1938,
@@ -295,7 +450,7 @@
       "record": "6 - 4",
       "league": "Independent ",
       "title": null,
-      "players": "Earl Hanson, Del Pitman, Ray Mansfield, Mike \"Iron Mike\" Harrington",
+      "players": "Earl Hanson (Captain), Del Pitman, Ray Mansfield, Mike \"Iron Mike\" Harrington",
       "awards": "Bob Burns - North Shore\nFrank DeMaso - North Shore",
       "nickname": "Sachems",
       "sourceRow": 33,
@@ -304,6 +459,10 @@
         {
           "label": "Contemporary column · NEC withdrawal effective June 30, 1938",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
       ]
     },
@@ -313,7 +472,7 @@
       "record": "9 - 1 - 1",
       "league": "Independent ",
       "title": "North Shore Champions",
-      "players": "Stan Green, Jim Duffy, Mike \"Iron Mike\" Harrington and Art Statuto",
+      "players": "Stan Green (Captain), Jim Duffy (Captain), Mike \"Iron Mike\" Harrington and Art Statuto",
       "awards": "Joseph Bucchiere - Boston Globe",
       "nickname": "Sachems",
       "sourceRow": 34,
@@ -329,7 +488,22 @@
           "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1939-part-19.htm"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Saugus finished the season as North Shore Champions.",
+      "seasonSources": [
+        {
+          "label": "1942 yearbook · Class History, p. 39",
+          "url": "https://archive.org/details/tontoquonian1942saug"
+        },
+        {
+          "label": "1939 town report · school athletics",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1939-part-19.htm"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1940,
@@ -337,10 +511,16 @@
       "record": "5 - 3 - 2",
       "league": "Independent ",
       "title": null,
-      "players": "Mike \"Iron Mike\" Harrington and George Flaherty, Art Statuto",
+      "players": "Mike \"Iron Mike\" Harrington and George Flaherty, Art Statuto, Mike Harrington (Captain), George Flaherty (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 37
+      "sourceRow": 37,
+      "seasonSources": [
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1941,
@@ -348,7 +528,7 @@
       "record": "10 - 0 - 1",
       "league": "Independent ",
       "title": "Class C State Champions",
-      "players": "Art Spinney, Art Statuto, Mike \"Iron Mike\" Harrington, Dick McDonald, Eddie \"Shipper\" Shipulski, Eddie Koschei",
+      "players": "Art Spinney, Art Statuto, Mike \"Iron Mike\" Harrington (Captain), Dick McDonald (Captain), Eddie \"Shipper\" Shipulski, Eddie Koschei",
       "awards": "Mike Harrington - Boston Globe and North Shore\nClaude Collette - North Shore\nStanley Wladkowski - North Shore\nDick McDonald - North Shore\nDoo Pendlebury - North Shore\nLarry Daniels - North Shore\nLennie Flaherty - North Shore\nArt Statuto - North Shore\nWelcome Goss - North Shore\nEddie Shipulski - North Shore",
       "nickname": "Sachems",
       "sourceRow": 38,
@@ -378,8 +558,59 @@
         {
           "label": "Thanksgiving collection · IMG_3294.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · football results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
+        },
+        {
+          "label": "Contemporary clipping · final Class C standings",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_3079.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "W 32–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 13–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Leominster",
+          "result": "T 6–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 14–7",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "W 34–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Wakefield",
+          "result": "W 12–6",
+          "status": "Thanksgiving · score varies by source"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1942,
@@ -387,10 +618,16 @@
       "record": "7 - 3 - 1",
       "league": "Independent ",
       "title": null,
-      "players": "Doo Pendlebury, Lennie Flaherty, Art Statuto, Art Spinney",
+      "players": "Doo Pendlebury (Captain), Lennie Flaherty (Captain), Art Statuto, Art Spinney",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 39
+      "sourceRow": 39,
+      "seasonSources": [
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1943,
@@ -398,10 +635,16 @@
       "record": "5 -4 - 1",
       "league": "Independent ",
       "title": null,
-      "players": "Doug Waybright, Art Spinney, James MacDougal",
+      "players": "Doug Waybright (Captain), Art Spinney, James MacDougal",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 40
+      "sourceRow": 40,
+      "seasonSources": [
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1944,
@@ -409,7 +652,7 @@
       "record": "10 - 0",
       "league": "Independent ",
       "title": "Class B State Champions",
-      "players": "Art Spinney, Dick Allen, Don Reiniger, Doug Waybright, Bob Kane, and Frank Pyzsko",
+      "players": "Art Spinney (Captain), Dick Allen, Don Reiniger, Doug Waybright, Bob Kane, Frank Pyzsko",
       "awards": "Art Spinney - Suburban, Boston Globe (1944 season and All Time team), Class B, North Shore.\nDick Allen - Class B, Suburban, North Shore\nFrank Pyzsko - Class B, Suburban, Boston Globe, Boston Chronicle, North Shore\nBob Kane - Suburban, North Shore \nDon Reiniger - North Shore\nThurrell - North Shore\n",
       "nickname": "Sachems",
       "sourceRow": 41,
@@ -429,7 +672,22 @@
           "url": "https://archive.org/details/tontoquonian1945saug"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Saugus finished the season as Class B State Champions.",
+      "seasonSources": [
+        {
+          "label": "1945 yearbook · Class B championship",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2762.webp"
+        },
+        {
+          "label": "1944 town report",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1944-part-12.htm"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1945,
@@ -437,10 +695,29 @@
       "record": "6 - 2 - 1",
       "league": "Independent ",
       "title": null,
-      "players": "Bruce Waybright",
+      "players": "Bruce Waybright (Captain)",
       "awards": "Jim Blundell - Boston Globe and North Shore\nWinters - North Shore\nChris Harris - North Shore\nTommy Sheehan - North Shore",
       "nickname": "Sachems",
-      "sourceRow": 42
+      "sourceRow": 42,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1946,
@@ -448,10 +725,29 @@
       "record": "4 - 4 - 2",
       "league": "Independent ",
       "title": null,
-      "players": "Andy Forti, Cushie Harris, Tommy Sheehan, and George Laskey",
+      "players": "Andy Forti (Captain), Cushie Harris (Captain), Tommy Sheehan, George Laskey",
       "awards": "Andy Forti - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 43
+      "sourceRow": 43,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 7–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1947,
@@ -459,10 +755,29 @@
       "record": "7 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ernie Anganis, Sardi Nicolo, Eugene Decereau, and George Laskey",
+      "players": "Ernie Anganis (Captain), Sardi Nicolo, Eugene Decereau, George Laskey",
       "awards": "Eugene Decereau - Boston Globe, Lynn Item and North Shore\nGeorge Laskey -Boston Globe,  Lynn Item, and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 44
+      "sourceRow": 44,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–13",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1948,
@@ -470,7 +785,7 @@
       "record": "3 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ed Falasca, Sardi Nicolo",
+      "players": "Ed Falasca (Captain), Sardi Nicolo",
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 45,
@@ -479,8 +794,25 @@
         {
           "label": "Thanksgiving collection · IMG_4208.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4208.webp"
+        },
+        {
+          "label": "Thanksgiving result · IMG_3023.jpg; IMG_3960.jpg; IMG_4208.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 27–13",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1949,
@@ -488,7 +820,7 @@
       "record": "10 - 1",
       "league": "Northeastern Conference",
       "title": "North Shore Co-Champions; Exchange Bowl Champions",
-      "players": "Sardi Nicolo, Fred Quinlan, Richie Nicolo, Dan Murphy",
+      "players": "Sardi Nicolo (Captain), Fred Quinlan, Richie Nicolo, Dan Murphy (Captain)",
       "awards": "Sardi Nicolo - North Shore, Lynn Item, Boston Globe, and Boston Herald\nDan Murphy - Lynn Item and North Shore\nFred Quinlan - Lynn Item and North Shore",
       "nickname": "Sachems",
       "sourceRow": 46,
@@ -508,7 +840,94 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2608.webp"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "games": [
+        {
+          "date": "1949-09-17",
+          "opponent": "Brookline",
+          "result": "W 26–14",
+          "status": "Played"
+        },
+        {
+          "date": "1949-09-24",
+          "opponent": "Beverly",
+          "result": "L 15–20",
+          "status": "Played"
+        },
+        {
+          "date": "1949-09-30",
+          "opponent": "Lynn Classical",
+          "result": "W 20–7",
+          "status": "Played"
+        },
+        {
+          "date": "1949-10-08",
+          "opponent": "Amesbury",
+          "result": "W 27–0",
+          "status": "Played"
+        },
+        {
+          "date": "1949-10-15",
+          "opponent": "Chelsea",
+          "result": "W 40–0",
+          "status": "Played"
+        },
+        {
+          "date": "1949-10-21",
+          "opponent": "Lynn English",
+          "result": "W 21–0",
+          "status": "Played"
+        },
+        {
+          "date": "1949-10-29",
+          "opponent": "Revere",
+          "result": "W 53–0",
+          "status": "Played"
+        },
+        {
+          "date": "1949-11-05",
+          "opponent": "Swampscott",
+          "result": "W 28–0",
+          "status": "Played"
+        },
+        {
+          "date": "1949-11-12",
+          "opponent": "Marblehead",
+          "result": "W 25–7",
+          "status": "Played"
+        },
+        {
+          "date": "1949-11-24",
+          "opponent": "Peabody",
+          "result": "W 26–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Weymouth",
+          "result": "W 7–6",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Tontoquonian yearbook · football results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2608.webp"
+        },
+        {
+          "label": "Exchange Bowl game clipping",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_4310.webp"
+        },
+        {
+          "label": "Newspaper · North Shore co-champions",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2726.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ],
+      "seasonNote": "Saugus shared the North Shore title and won the Exchange Bowl 7–6 over Weymouth. Richie Nicolo threw the tying touchdown pass to his brother Sardi, and Leo Kane kicked the winning extra point."
     },
     {
       "year": 1950,
@@ -516,7 +935,7 @@
       "record": "8 - 2",
       "league": "Northeastern Conference",
       "title": "Exchange Bowl Champions",
-      "players": "Richie Nicolo, Leo Kane, Ted Fredericks",
+      "players": "Richie Nicolo, Leo Kane (Captain), Ted Fredericks (Captain)",
       "awards": "Woodell - North Shore\nLeo Kane - North Shore\nCharlie Murphy - North Shore\nRichie Nicolo - Lynn Item and North Shore\nJim Driscoll - Lynn Item and North Shore",
       "nickname": "Sachems",
       "sourceRow": 49,
@@ -533,7 +952,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Thanksgiving score remains disputed: the contemporary yearbook reports Saugus 47, Peabody 12; later series tables print 47–14. The Exchange Bowl victory over Brockton was a separate game.",
+      "seasonNote": "The Sachems won their second straight Exchange Bowl, beating Brockton 30–12.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_8924.JPG",
@@ -542,8 +961,89 @@
         {
           "label": "Thanksgiving collection · IMG_4048.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · football results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2612.webp"
+        },
+        {
+          "label": "1951 Tontoquonian · Thanksgiving and Exchange Bowl recap",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2614.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "1950-09-16",
+          "opponent": "Brookline",
+          "result": "W 25–6",
+          "status": "Played"
+        },
+        {
+          "date": "1950-09-23",
+          "opponent": "Beverly",
+          "result": "L 0–6",
+          "status": "Played"
+        },
+        {
+          "date": "1950-09-30",
+          "opponent": "Lynn Classical",
+          "result": "L 6–7",
+          "status": "Played"
+        },
+        {
+          "date": "1950-10-07",
+          "opponent": "Marblehead",
+          "result": "W 14–6",
+          "status": "Played"
+        },
+        {
+          "date": "1950-10-14",
+          "opponent": "Chelsea",
+          "result": "W 41–6",
+          "status": "Played"
+        },
+        {
+          "date": "1950-10-20",
+          "opponent": "Lynn English",
+          "result": "W 39–0",
+          "status": "Played"
+        },
+        {
+          "date": "1950-10-28",
+          "opponent": "Revere",
+          "result": "W 26–12",
+          "status": "Played"
+        },
+        {
+          "date": "1950-11-04",
+          "opponent": "Swampscott",
+          "result": "Canceled",
+          "status": "Canceled"
+        },
+        {
+          "date": "1950-11-11",
+          "opponent": "Salem",
+          "result": "W 46–7",
+          "status": "Played"
+        },
+        {
+          "date": "1950-11-23",
+          "opponent": "Peabody",
+          "result": "W 47–12",
+          "status": "Thanksgiving · score varies by source"
+        },
+        {
+          "date": "—",
+          "opponent": "Brockton",
+          "result": "W 30–12",
+          "status": "Played"
+        }
+      ],
+      "scheduleNote": "The yearbook recap and score table give different Thanksgiving scores. The result shown follows the recap."
     },
     {
       "year": 1951,
@@ -551,10 +1051,29 @@
       "record": "6 - 2 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Tony Serino, Charlie Murphy",
+      "players": "Tony Serino (Captain), Charlie Murphy (Captain)",
       "awards": "Charlie Murphy - North Shore, RAA, Boston Post, and Boston Globe\nTony Serino - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 50
+      "sourceRow": 50,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 15–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1952,
@@ -562,10 +1081,29 @@
       "record": "1 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ed Healey, George Nicholson",
+      "players": "Ed Healey (Captain), George Nicholson (Captain)",
       "awards": "Ed Healey - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 51
+      "sourceRow": 51,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 7–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1953,
@@ -573,7 +1111,7 @@
       "record": "6 - 1 - 1",
       "league": "Northeastern Conference",
       "title": "North Shore League Champions",
-      "players": "John Leahy, Doug MacNeill",
+      "players": "John Leahy (Captain), Doug MacNeill (Captain)",
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 52,
@@ -589,7 +1127,35 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp"
         }
       ],
-      "championshipStatus": "supported"
+      "championshipStatus": "supported",
+      "seasonNote": "Saugus finished the season as North Shore League Champions.",
+      "seasonSources": [
+        {
+          "label": "1954 yearbook · championship and season total",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp"
+        },
+        {
+          "label": "1954 yearbook · opening games and jamboree",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 33–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1954,
@@ -597,10 +1163,29 @@
       "record": "6 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Jack Lawrence, Mel Rice",
+      "players": "Jack Lawrence (Captain), Mel Rice, Mal Rice (Captain)",
       "awards": "Bob Piwowarski - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 53
+      "sourceRow": 53,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 20–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1955,
@@ -608,10 +1193,29 @@
       "record": "1 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ned Orlando, Vinny Perillo",
+      "players": "Ned Orlando (Captain), Vinny Perillo (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 54
+      "sourceRow": 54,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1956,
@@ -619,10 +1223,29 @@
       "record": "4 - 4",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ralph Swenson",
+      "players": "Ralph Swenson (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 55
+      "sourceRow": 55,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 32–7",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1957,
@@ -630,10 +1253,29 @@
       "record": "5 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Norman Peach, Allan Comeau, Dick Rohrbacker",
+      "players": "Norman Peach, Allan Comeau (Captain), Dick Rohrbacker (Captain)",
       "awards": "Dick Rohrbacker - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 56
+      "sourceRow": 56,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 34–13",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1958,
@@ -641,10 +1283,29 @@
       "record": "5 - 4",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mike Light, John Naples",
+      "players": "Mike Light (Captain), John Naples (Captain)",
       "awards": "John Naples - Lynn Item and North Shore\nMatt Light - Lynn Item and North Shore",
       "nickname": "Sachems",
-      "sourceRow": 57
+      "sourceRow": 57,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 38–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1959,
@@ -652,7 +1313,7 @@
       "record": "6 - 2 - 1",
       "league": "Northeastern Conference",
       "title": "North Shore League Champions",
-      "players": "David Matthews, Richie Burt, and Jim Kelleher",
+      "players": "David Matthews (Captain), Richie Burt, Jim Kelleher (Captain)",
       "awards": "Dave Matthews - Lynn Item and North Shore\nRichie Burt - Lynn Item and North Shore",
       "nickname": "Sachems",
       "sourceRow": 58,
@@ -669,7 +1330,35 @@
         }
       ],
       "championshipStatus": "supported",
-      "championshipCategory": "League · historical designation"
+      "championshipCategory": "League · historical designation",
+      "seasonNote": "Saugus finished the season as North Shore League Champions.",
+      "seasonSources": [
+        {
+          "label": "School championship-banner announcement",
+          "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
+        },
+        {
+          "label": "1960 yearbook · 1959 squad",
+          "url": "https://archive.org/details/tontoquonian1960saug"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 14–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1960,
@@ -677,10 +1366,29 @@
       "record": "4 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Doc Williams, Vito Russo, John Matrona, and Tim Churchard",
+      "players": "Doc Williams (Captain), Vito Russo, John Matrona, Tim Churchard (Captain)",
       "awards": "Vito Russo - Lynn Item and NEC\nJohn Matrona - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 61
+      "sourceRow": 61,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 22–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1961,
@@ -688,10 +1396,29 @@
       "record": "0 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Eric Wormstead, Tom Carr, and Dick Allen",
+      "players": "Eric Wormstead (Captain), Tom Carr, Dick Allen (Captain)",
       "awards": "Tom Carr - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 62
+      "sourceRow": 62,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–20",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1962,
@@ -699,10 +1426,29 @@
       "record": "1 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "John Driscoll",
+      "players": "John Driscoll (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 63
+      "sourceRow": 63,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1963,
@@ -710,10 +1456,29 @@
       "record": "0 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Sal Spinoza and Bruce Williams",
+      "players": "Sal Spinoza and Bruce Williams, Bruce Williams (Captain), Sal Spinoza (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 64
+      "sourceRow": 64,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 14–26",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1964,
@@ -721,10 +1486,29 @@
       "record": "4 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ronnie Barressi",
+      "players": "Ronnie Barressi (Captain)",
       "awards": "Ronnie Barressi - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 65
+      "sourceRow": 65,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 26–13",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1965,
@@ -732,7 +1516,7 @@
       "record": "3 - 4 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Dick Serino, Harold Kingman, John Sands",
+      "players": "Dick Serino (Captain), Harold Kingman (Captain), John Sands",
       "awards": "John Sands - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 66,
@@ -741,8 +1525,25 @@
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 35–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1966,
@@ -750,7 +1551,7 @@
       "record": "7 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Christie Serino, Eddie McGuire, John Dancewicz",
+      "players": "Christie Serino, Eddie McGuire, John Dancewicz (Captain), Paul Uga (Captain), Edward Maguire (Captain)",
       "awards": "Eddie McGuire - NEC - Lynn Item\nJohn Dancewicz - NEC - Lynn Item\nJim Mancuso - Lynn Item and NEC\nDon Murray - Lynn Item and NEC\nChristie Serino - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 67,
@@ -762,7 +1563,26 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1966-1-oct29.webp"
         }
       ],
-      "championshipStatus": "unverified"
+      "championshipStatus": "unverified",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 48–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1967,
@@ -770,10 +1590,29 @@
       "record": "0 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Fred Paris, Ed Patch, Louis O'Neil",
+      "players": "Fred Paris (Captain), Ed Patch (Captain), Louis O'Neil, Louie O’Neil (Captain)",
       "awards": "Steve Pizzotti - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 68
+      "sourceRow": 68,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 8–26",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1968,
@@ -781,10 +1620,29 @@
       "record": "6 - 4",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Jim Canole, Lou O'Neil",
+      "players": "Jim Canole (Captain), Lou O'Neil",
       "awards": "Lou O'Neil - Lynn Item and NEC\nJim Canole - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 69
+      "sourceRow": 69,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 26–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1969,
@@ -792,7 +1650,7 @@
       "record": "7 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Bob Osgood, Bill Eichel, Bill Babcock, Richard Conti, and John Richards",
+      "players": "Bob Osgood, Bill Eichel, Bill Babcock (Captain), Richard Conti (Captain), John Richards, John Richard (Captain)",
       "awards": "John Richard - NEC\nRichie DeSisito - Lynn Item and NEC\nBob Osgood - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 70,
@@ -808,7 +1666,26 @@
           "url": "https://www.swampscottfootball.com/history.html"
         }
       ],
-      "championshipStatus": "unverified"
+      "championshipStatus": "unverified",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–30",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1970,
@@ -816,10 +1693,29 @@
       "record": "5 - 4",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Dan Heaney and Steve Nelson",
+      "players": "Dan Heaney and Steve Nelson, Steve Nelson (Captain), Dan Heaney (Captain)",
       "awards": "Dan Heaney - Lynn Item and NEC\nSteve Nelson - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 73
+      "sourceRow": 73,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–42",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1971,
@@ -827,10 +1723,29 @@
       "record": "2 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mike Sullivan and Joe Ventrice",
+      "players": "Mike Sullivan and Joe Ventrice, Joe Ventrice (Captain), Mike Sullivan (Captain)",
       "awards": "Mike Spofford - Lynn Item and NEC\nJoe Ventrice - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 74
+      "sourceRow": 74,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–16",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1972,
@@ -838,10 +1753,29 @@
       "record": "2 - 6 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Bob Ellis, Mike Pizzotti, and Steve Seminero",
+      "players": "Bob Ellis (Captain), Mike Pizzotti (Captain), Steve Seminero (Captain)",
       "awards": "Bill MacDonald - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 75
+      "sourceRow": 75,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 16–36",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1973,
@@ -849,10 +1783,29 @@
       "record": "3 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Bob Iozzo and Phil Mancuso",
+      "players": "Bob Iozzo and Phil Mancuso, Bob Iozzo (Captain), Phil Mancuso (Captain)",
       "awards": "Frank Mancuso - Lynn Item and NEC\nRichie Serino - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 76
+      "sourceRow": 76,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 12–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ]
     },
     {
       "year": 1974,
@@ -860,10 +1813,91 @@
       "record": "6 - 4",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Doug Mackie, John Nicolo, Steve Gannon, Steve Spinney",
+      "players": "Doug Mackie, John Nicolo, Steve Gannon, Steve Spinney (Captain)",
       "awards": "Doug Mackie - NEC, Lynn Item, Boston Globe\nJohn Nicolo - Lynn Item and NEC\nSteve Spinney - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 77
+      "sourceRow": 77,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 8–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 12–18",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 12–7",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "W 20–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 19–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 27–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 26–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "L 7–18",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "L 7–20",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 20–21",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "1975 Tontoquonian · 1974 team scores",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2594.webp"
+        },
+        {
+          "label": "Boston Globe · 1974 All-Scholastic selection",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2688.webp"
+        }
+      ],
+      "seasonNote": "Doug Mackie was named a Boston Globe All-Scholastic as a junior."
     },
     {
       "year": 1975,
@@ -871,7 +1905,7 @@
       "record": "9 - 1",
       "league": "Northeastern Conference",
       "title": "Northeastern Conference Co-Champions",
-      "players": "Doug Mackie, John Nicolo, Steve Gannon, Tom Heaney",
+      "players": "Doug Mackie (Captain), John Nicolo (Captain), Steve Gannon (Captain), Tom Heaney (Captain)",
       "awards": "Doug Mackie - NEC, Lynn Item, Boston Globe, All American\nJohn Nicolo - Lynn Item (POY), NEC, Boston Herald All-Scholastic\nSteve Gannon - Lynn Item and NEC\nPat Sullivan - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 78,
@@ -892,11 +1926,97 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Thanksgiving: Steve Gannon blocked a Peabody field-goal attempt, John Nicolo recovered it and returned it for the only touchdown, with a final clearing block credited to Neal Connaughton. Saugus won 6–0 in muddy conditions at Stackpole Field.",
+      "seasonNote": "Saugus shared the Northeastern Conference title. Doug Mackie earned Parade All-American honors and All-Scholastic selections from the Boston Globe and the Herald American/Herald Advertiser. John Nicolo threw the winning 25-yard touchdown pass to Frank Scuzzarella with 47 seconds left in a 15–14 comeback over Salem.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_3850.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3850.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · football results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2595.webp"
+        },
+        {
+          "label": "Daily Item · Doug Mackie All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3109.webp"
+        },
+        {
+          "label": "Daily Item · comeback against Salem",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3117.webp"
+        },
+        {
+          "label": "1975 All-Scholastic selections",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2476.webp"
+        },
+        {
+          "label": "1978 yearbook · 1975 tied for first, p. 165",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1977-1-oct29.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 35–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 14–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "W 42–16",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 6–42",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 28–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 30–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "W 15–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 29–15",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 43–0",
+          "status": "Played"
+        },
+        {
+          "date": "1975-11-27",
+          "opponent": "Peabody",
+          "result": "W 6–0",
+          "status": "Played"
         }
       ]
     },
@@ -906,10 +2026,29 @@
       "record": "2 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mark Calhoun and Pat Sullivan",
+      "players": "Mark Calhoun and Pat Sullivan, Mark Calhoun (Captain), Pat Sullivan (Captain)",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 79
+      "sourceRow": 79,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–62",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1977,
@@ -917,7 +2056,7 @@
       "record": "9 - 1",
       "league": "Northeastern Conference",
       "title": "Northeastern Conference Champions",
-      "players": "Frank Serino, George Nicolo, Dan Hashem, Frank Doyle",
+      "players": "Frank Serino, George Nicolo, Dan Hashem (Captain), Frank Doyle (Captain)",
       "awards": "Paul Serino - NEC and Boston Globe\nFrank Doyle - Lynn Item and NEC\nFrank Serino - Lynn Item and NEC\nGeorge Nicolo - Lynn Item and NEC\nJohn Coffey - Lynn Item and NEC\nTim Fawcett - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 80,
@@ -934,11 +2073,89 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Thanksgiving: Saugus beat Peabody 12–10. Tom Dalton’s game report credits Frank Serino with six catches for 116 yards; the win completed the 9–1 season.",
+      "seasonNote": "Saugus won the Northeastern Conference championship at 9–1. Frank Serino caught six passes for 116 yards in the 12–10 Thanksgiving win over Peabody.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_4138.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4138.webp"
+        },
+        {
+          "label": "1978 Tontoquonian · conference championship",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1977-1-oct29.webp"
+        },
+        {
+          "label": "School championship-banner announcement",
+          "url": "https://advocatenews.net/saugus/sports/reaching-out-to-sachem-sports-champs/"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 16–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 25–7",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 12–0",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 41–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "L 6–7",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 27–15",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 28–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 18–12",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "W 19–15",
+          "status": "Played"
+        },
+        {
+          "date": "1977-11-24",
+          "opponent": "Peabody",
+          "result": "W 12–10",
+          "status": "Played"
         }
       ]
     },
@@ -948,7 +2165,7 @@
       "record": "6 - 3 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Don Trainor, Paul Nigro, Bill Peach, Mike Allen",
+      "players": "Don Trainor (Captain), Paul Nigro (Captain), Bill Peach, Mike Allen, Mike Allan (Captain)",
       "awards": "Steve Peach - Lynn Item and NEC\nBill Peach - Lynn Item and NEC\nPhil Nigro - Lynn Item and NEC\nDon Trainor - NEC\nMike Allen - NEC",
       "nickname": "Sachems",
       "sourceRow": 81,
@@ -957,8 +2174,25 @@
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 30–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1979,
@@ -966,10 +2200,29 @@
       "record": "5 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Steve Capozzi, Steve Peach, Don Trainor, Eric Taylor, Mike Furey, Gary Quinlan",
+      "players": "Steve Capozzi, Steve Peach, Don Trainor, Eric Taylor, Mike Furey (Captain), Gary Quinlan (Captain), Erick Taylor (Captain)",
       "awards": "Steve Peach - Lynn Item and NEC\nEric Taylor - Lynn Item and NEC\nGary Quinlan - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 82
+      "sourceRow": 82,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 14–35",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1980,
@@ -977,7 +2230,7 @@
       "record": "5 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Steve Peach",
+      "players": "Steve Peach (Captain), D. Orlando (Captain), A. Pallomino (Captain), R. Cordeau (Captain)",
       "awards": "Steve Peach - Lynn Item and NEC\nArt Polimeno - Lynn Item and NEC\nBob Cordeau - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 85,
@@ -986,8 +2239,25 @@
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3288.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 40–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1981,
@@ -995,10 +2265,29 @@
       "record": "1 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Bob Lessard and Phil Napolitano",
+      "players": "Bob Lessard and Phil Napolitano, Phil Napolitano (Captain), Bob Lessard (Captain)",
       "awards": "Bob Lessard - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 86
+      "sourceRow": 86,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 12–28",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1982,
@@ -1006,10 +2295,29 @@
       "record": "5 - 4 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Steve Fauci, Anthony Cogliano, Mark Strange, Anthony Guthro",
+      "players": "Steve Fauci, Anthony Cogliano, Mark Strange, Anthony Guthro (Captain), Mark Strangie (Captain)",
       "awards": "Mark Strangie - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 87
+      "sourceRow": 87,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1983,
@@ -1017,10 +2325,29 @@
       "record": "4 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Kevin Pelley and Bob Cinelli",
+      "players": "Kevin Pelley and Bob Cinelli, Kevin Pelley (Captain), Bob Cinelli (Captain)",
       "awards": "Tom Trainor - NEC\nMark Graney - NEC\nKevin Pelley - NEC - Lynn Item",
       "nickname": "Sachems",
-      "sourceRow": 88
+      "sourceRow": 88,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–42",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1984,
@@ -1028,7 +2355,7 @@
       "record": "3 - 7",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Dave Taylor, Tim January, Eric Jarosz, Rich Salerno, and Jack Cottam",
+      "players": "Dave Taylor (Captain), Tim January, Eric Jarosz (Captain), Rich Salerno, Jack Cottam",
       "awards": "Tim January - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 89,
@@ -1041,6 +2368,10 @@
         {
           "label": "Thanksgiving collection · IMG_1229.heic",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_1229.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
         }
       ]
     },
@@ -1050,10 +2381,29 @@
       "record": "4 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Daren Thomas, Shane Meredith, and Robert Cunio",
+      "players": "Daren Thomas (Captain), Shane Meredith (Captain), Robert Cunio (Captain)",
       "awards": "Darren McCullough - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 90
+      "sourceRow": 90,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–8",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1986,
@@ -1061,10 +2411,29 @@
       "record": "3 - 6 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Blair Hatch, Fred Staples, Darren McCullough",
+      "players": "Blair Hatch (Captain), Fred Staples (Captain), Darren McCullough, Daren McCullough (Captain)",
       "awards": "Darren McCullough - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 91
+      "sourceRow": 91,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 12–33",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1987,
@@ -1072,7 +2441,7 @@
       "record": "7 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Dave Fauci, Joe Barressi, Larry Furey",
+      "players": "Dave Fauci (Captain), Joe Barressi (Captain), Larry Furey (Captain)",
       "awards": "Dave Fauci - NEC\nMarc Fauci - NEC\nJoe Barressi - Lynn Item and NEC\nLarry Furey - Lynn Item and NEC\nScott Crabtree - NEC",
       "nickname": "Sachems",
       "sourceRow": 92,
@@ -1084,7 +2453,26 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3392.webp"
         }
       ],
-      "championshipStatus": "unverified"
+      "championshipStatus": "unverified",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 21–20",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1988,
@@ -1092,10 +2480,29 @@
       "record": "5 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ben Lynch, Steve Donahue, Marc Fauci, and Joe Migliore",
+      "players": "Ben Lynch (Captain), Steve Donahue (Captain), Marc Fauci (Captain), Joe Migliore (Captain)",
       "awards": "Marc Fauci - Lynn Item and NEC\nSteve Worthly - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 93
+      "sourceRow": 93,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "W 22–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1989,
@@ -1103,7 +2510,7 @@
       "record": "4 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Marc Fauci",
+      "players": "Marc Fauci (Captain), George Karevetsos (Captain), Joe Rego (Captain)",
       "awards": "Marc Fauci - NEC (MVP), Boston Globe, Lynn Item, Agganis",
       "nickname": "Sachems",
       "sourceRow": 94,
@@ -1112,8 +2519,25 @@
         {
           "label": "Thanksgiving collection · IMG_4048.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-series1999.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 13–14",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1990,
@@ -1121,7 +2545,7 @@
       "record": "8 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ryan Magnasco, Dan Schena",
+      "players": "Ryan Magnasco (Captain), Dan Schena (Captain), Chris Mikulski (Captain)",
       "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Hefferman - NEC\nTodd Leccese - NEC\nChris Miuriski - NEC",
       "nickname": "Sachems",
       "sourceRow": 97,
@@ -1130,8 +2554,25 @@
         {
           "label": "Thanksgiving collection · IMG_1257.heic",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_1257.webp"
+        },
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 8–39",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented."
     },
     {
       "year": 1991,
@@ -1139,10 +2580,29 @@
       "record": "1 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Sean Publicover",
+      "players": "Sean Publicover (Captain), B. Andreotolla (Captain), C. Hunter (Captain), G. Blake (Captain), J. Worthley (Captain)",
       "awards": "Sean Publicover - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 98
+      "sourceRow": 98,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 14–21",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1992,
@@ -1150,10 +2610,29 @@
       "record": "0 - 10",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Chad Parks and Joe Attubato",
+      "players": "Chad Parks and Joe Attubato, Chad Parks (Captain)",
       "awards": "Joe Attubato - NEC",
       "nickname": "Sachems",
-      "sourceRow": 99
+      "sourceRow": 99,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–28",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1993,
@@ -1161,10 +2640,29 @@
       "record": "0 - 10",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Joe Attubato",
+      "players": "Joe Attubato (Captain)",
       "awards": "Joe Attubato - NEC, Lynn Item, and Agganis",
       "nickname": "Sachems",
-      "sourceRow": 100
+      "sourceRow": 100,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–28",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1994,
@@ -1172,10 +2670,29 @@
       "record": "0 - 10",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ted Stephanidies, Carlos Abate",
+      "players": "Ted Stephanidies, Carlos Abate, Ted Stephanides (Captain)",
       "awards": "Ted Stephanidies - NEC and Agganis\nCarlos Abate - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 101
+      "sourceRow": 101,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 8–40",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1995,
@@ -1183,10 +2700,29 @@
       "record": "6 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mike Mabee, Matt Nazzaro, LJ McKanas, Derek Bilton, Carlos Abate, Colt Meredith",
+      "players": "Mike Mabee (Captain), Matt Nazzaro (Captain), LJ McKanas, Derek Bilton, Carlos Abate, Colt Meredith",
       "awards": "Mike Mabee - NEC, Lynn Item, and Agganis\nCarlos Abate - NEC, Lynn Item, and Agganis\nLJ McKanas - NEC",
       "nickname": "Sachems",
-      "sourceRow": 102
+      "sourceRow": 102,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 14–34",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_4045.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "label": "Contributed Saugus High football captains list",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        }
+      ]
     },
     {
       "year": 1996,
@@ -1197,7 +2733,22 @@
       "players": "LJ McKanas, John Plunkett, Justin Falite",
       "awards": "LJ McKanas - NEC (OPOY), Lynn Item, and Boston Globe",
       "nickname": "Sachems",
-      "sourceRow": 103
+      "sourceRow": 103,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 28–39",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ]
     },
     {
       "year": 1997,
@@ -1208,7 +2759,22 @@
       "players": "Dominic Zammit, Raphael Zammit, Ryan Leahy, Chris McColgan",
       "awards": "Ryan Leahy - Lynn Item and NEC\nChris McColgan - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 104
+      "sourceRow": 104,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 31–35",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ]
     },
     {
       "year": 1998,
@@ -1216,10 +2782,26 @@
       "record": "5 - 6",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Raphael Zammit, Ryan Leahy, Mike Panzini",
+      "players": "Raphael Zammit (Captain), Ryan Leahy (Captain), Mike Panzini (Captain)",
       "awards": "Raphael Zammit - Lynn Item and NEC\nMike Panzini - Lynn Item and NEC\nRyan Leahy - NEC",
       "nickname": "Sachems",
-      "sourceRow": 105
+      "sourceRow": 105,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 32–39",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 1999,
@@ -1227,10 +2809,26 @@
       "record": "3 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "George Lowe, Brian Mirasolo, Jason Katsos, Chris Venn, Mike Navarro",
+      "players": "George Lowe (Captain), Brian Mirisolo (Captain), Jason Katsos, Chris Venn, Mike Navarro",
       "awards": "George Lowe - NEC, Lynn Item, and Agganis",
       "nickname": "Sachems",
-      "sourceRow": 106
+      "sourceRow": 106,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 0–36",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2000,
@@ -1238,10 +2836,26 @@
       "record": "2 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ryan Gould, Adam Magnasco, Billy Robinson, Greg Ezell, Dana DeMiles",
+      "players": "Ryan Gould (Captain), Adam Magnasco (Captain), William Robinson (Captain), Greg Ezell, Dana DeMiles",
       "awards": "Ryan Gould - NEC, Lynn Item, and Agganis",
       "nickname": "Sachems",
-      "sourceRow": 109
+      "sourceRow": 109,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 6–22",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2001,
@@ -1249,10 +2863,26 @@
       "record": "2 - 9",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Pat Quinlan, Patrick Eaton, Kyle Sucharewicz, Mark Pizzotti, Nick Picozzi, Mark Cox",
+      "players": "Pat Quinlan, Patrick Eaton (Captain), Kyle Sucharewicz, Mark Pizzotti, Nick Picozzi, Mark Cox",
       "awards": "Patrick Eaton - NEC, Lynn Item, Agganis \nPat Quinlan - Agganis",
       "nickname": "Sachems",
-      "sourceRow": 110
+      "sourceRow": 110,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 16–41",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "seasonSources": [
+        {
+          "label": "Thanksgiving result · IMG_3610.jpg",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2002,
@@ -1260,11 +2890,12 @@
       "record": "1 - 10",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Dan Landry, Sal Nicolo, Chris Finn, Anthony \"Beave\" Barbanti, Mike Surette, Tom Shidlow, John Gannon",
+      "players": "Dan Landry (Captain), Sal Nicolo, Chris Finn (Captain), Anthony \"Beave\" Barbanti, Mike Surette (Captain), Tom Shidlow, John Gannon",
       "awards": "Anthony Barbanti - Lynn Item and NEC \nSal Nicolo - Agganis",
       "nickname": "Sachems",
       "sourceRow": 111,
-      "seasonNote": "Anthony Barbanti earned 2002 Lynn Item Football All-Star recognition as a junior defensive lineman and was also an NEC All-Star. Sal Nicolo, a two-way fullback and linebacker for Saugus, was selected for the 43rd annual Harry Agganis All-Star Football Classic, played July 17, 2003 at Manning Bowl in Lynn, representing the graduating 2002 football season. A contemporary newspaper photograph documents his participation; the Agganis Foundation's May 17 and July 13, 2003 letters confirm his selection and recognition. The South defeated the North, 24–14."
+      "seasonNote": "Sal Nicolo was selected to the Harry Agganis All-Star Football Classic following his senior season.",
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2003,
@@ -1272,10 +2903,41 @@
       "record": "3 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mark Spadafora, Anthony \"Beave\" Barbanti, Chris Benson, Mike Nicolo",
+      "players": "Mark Spadafora (Captain), Anthony \"Beave\" Barbanti (Captain), Chris Benson (Captain), Mike Nicolo",
       "awards": "Mike Nicolo - NEC, Lynn Item \nAnthony Barbanti - NEC, Lynn Item, Shriners, Agganis \nChris Benson - Agganis\nMark Spadafora - NEC and Agganis",
       "nickname": "Sachems",
-      "sourceRow": 112
+      "sourceRow": 112,
+      "seasonNote": "Mike Nicolo rushed for three touchdowns in a win over Salem. His Daily Item All-Star profile credits him with 306 yards, a Saugus single-game record at the time.",
+      "seasonSources": [
+        {
+          "label": "Daily Item · Mike Nicolo All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3256.webp"
+        },
+        {
+          "label": "Newspaper · Salem win and three Nicolo touchdowns",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-3574.webp"
+        },
+        {
+          "label": "Thanksgiving results · historical series",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/#thanksgiving"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "W · final score unknown",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L · final score unknown",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Partial schedule. Final scores for these games are still being researched."
     },
     {
       "year": 2004,
@@ -1283,10 +2945,85 @@
       "record": "0 - 11",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mike Nicolo, Brian Bianchi, Rob Gannon",
+      "players": "Mike Nicolo (Captain), Brian Bianchi (Captain), Rob Gannon (Captain)",
       "awards": "Mike Nicolo - NEC and Agganis\nBrian Bianchi - NEC, Lynn Item, Agganis\nRob Gannon - Agganis",
       "nickname": "Sachems",
-      "sourceRow": 113
+      "sourceRow": 113,
+      "games": [
+        {
+          "date": "2004-09-11",
+          "opponent": "Revere",
+          "result": "L 8–12",
+          "status": "Played"
+        },
+        {
+          "date": "2004-09-17",
+          "opponent": "Winthrop",
+          "result": "L 6–36",
+          "status": "Played"
+        },
+        {
+          "date": "2004-09-24",
+          "opponent": "Salem",
+          "result": "L 14–22",
+          "status": "Played"
+        },
+        {
+          "date": "2004-10-02",
+          "opponent": "Beverly",
+          "result": "L 14–27",
+          "status": "Played"
+        },
+        {
+          "date": "2004-10-09",
+          "opponent": "Gloucester",
+          "result": "L 0–24",
+          "status": "Played"
+        },
+        {
+          "date": "2004-10-15",
+          "opponent": "Marblehead",
+          "result": "L 0–47",
+          "status": "Played"
+        },
+        {
+          "date": "2004-10-23",
+          "opponent": "Lynn English",
+          "result": "L 14–20",
+          "status": "Played"
+        },
+        {
+          "date": "2004-10-30",
+          "opponent": "Swampscott",
+          "result": "L 20–30",
+          "status": "Played"
+        },
+        {
+          "date": "2004-11-06",
+          "opponent": "Lynn Classical",
+          "result": "L 8–24",
+          "status": "Played"
+        },
+        {
+          "date": "2004-11-12",
+          "opponent": "Danvers",
+          "result": "L 8–31",
+          "status": "Played"
+        },
+        {
+          "date": "2004-11-25",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 12–34",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2004 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/04-05/schedule/"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2005,
@@ -1294,10 +3031,85 @@
       "record": "1 - 10",
       "league": "Northeastern Conference - Small",
       "title": null,
-      "players": "Alex Klimarchuk",
+      "players": "Alex Klimarchuk (Captain)",
       "awards": "Alex Klimarchuk - NEC and Agganis",
       "nickname": "Sachems",
-      "sourceRow": 114
+      "sourceRow": 114,
+      "games": [
+        {
+          "date": "2005-09-10",
+          "opponent": "Winthrop",
+          "result": "L 6–40",
+          "status": "Played"
+        },
+        {
+          "date": "2005-09-16",
+          "opponent": "Gloucester",
+          "result": "L 12–35",
+          "status": "Played"
+        },
+        {
+          "date": "2005-09-23",
+          "opponent": "Salem",
+          "result": "W 20–14",
+          "status": "Played"
+        },
+        {
+          "date": "2005-10-01",
+          "opponent": "Danvers",
+          "result": "L 0–26",
+          "status": "Played"
+        },
+        {
+          "date": "2005-10-07",
+          "opponent": "Marblehead",
+          "result": "L 6–13",
+          "status": "Played"
+        },
+        {
+          "date": "2005-10-15",
+          "opponent": "Swampscott",
+          "result": "L 0–27",
+          "status": "Played"
+        },
+        {
+          "date": "2005-10-22",
+          "opponent": "Lynn Classical",
+          "result": "L 6–38",
+          "status": "Played"
+        },
+        {
+          "date": "2005-10-29",
+          "opponent": "Beverly",
+          "result": "L 0–27",
+          "status": "Played"
+        },
+        {
+          "date": "2005-11-05",
+          "opponent": "Lynn English",
+          "result": "L 0–30",
+          "status": "Played"
+        },
+        {
+          "date": "2005-11-11",
+          "opponent": "Revere",
+          "result": "L 14–33",
+          "status": "Played"
+        },
+        {
+          "date": "2005-11-24",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 0–28",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2005 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/05-06/schedule/"
+        }
+      ],
+      "captainsNote": "Captain names supplied by Sal Nicolo."
     },
     {
       "year": 2006,
@@ -1308,7 +3120,75 @@
       "players": "Rodney Lavoie",
       "awards": "Rodney Lavoie - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 115
+      "sourceRow": 115,
+      "games": [
+        {
+          "date": "2006-09-08",
+          "opponent": "Winthrop",
+          "result": "L 0–42",
+          "status": "Played"
+        },
+        {
+          "date": "2006-09-21",
+          "opponent": "Masconomet Regional",
+          "result": "L 6–41",
+          "status": "Played"
+        },
+        {
+          "date": "2006-09-29",
+          "opponent": "Danvers",
+          "result": "L 14–23",
+          "status": "Played"
+        },
+        {
+          "date": "2006-10-06",
+          "opponent": "Marblehead",
+          "result": "L 7–12",
+          "status": "Played"
+        },
+        {
+          "date": "2006-10-14",
+          "opponent": "Swampscott",
+          "result": "L 7–27",
+          "status": "Played"
+        },
+        {
+          "date": "2006-10-21",
+          "opponent": "Easthampton/Hampshire",
+          "result": "L 7–20",
+          "status": "Played"
+        },
+        {
+          "date": "2006-10-28",
+          "opponent": "Beverly",
+          "result": "L 0–21",
+          "status": "Played"
+        },
+        {
+          "date": "2006-11-04",
+          "opponent": "Lowell Catholic",
+          "result": "W 47–8",
+          "status": "Played"
+        },
+        {
+          "date": "2006-11-11",
+          "opponent": "HHolyoke Catholic/Granby",
+          "result": "W 43–0",
+          "status": "Played"
+        },
+        {
+          "date": "2006-11-23",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "W 13–0",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2006 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/06-07/schedule/"
+        }
+      ]
     },
     {
       "year": 2007,
@@ -1319,7 +3199,79 @@
       "players": "Tyler Trainor, Paul Sullivan, Mike Dean, and Brett Reid",
       "awards": "Tyler Trainer - Lynn Item and NEC\nBrett Reid - Lynn Item and NEC\nMike Dean - NEC",
       "nickname": "Sachems",
-      "sourceRow": 116
+      "sourceRow": 116,
+      "games": [
+        {
+          "date": "2007-09-07",
+          "opponent": "Newburyport",
+          "result": "L 13–21",
+          "status": "Played"
+        },
+        {
+          "date": "2007-09-15",
+          "opponent": "St. Mary's",
+          "result": "W 28–7",
+          "status": "Played"
+        },
+        {
+          "date": "2007-09-21",
+          "opponent": "Lynnfield",
+          "result": "W 37–14",
+          "status": "Played"
+        },
+        {
+          "date": "2007-09-28",
+          "opponent": "Watertown",
+          "result": "W 45–21",
+          "status": "Played"
+        },
+        {
+          "date": "2007-10-13",
+          "opponent": "Winthrop",
+          "result": "W 14–7",
+          "status": "Played"
+        },
+        {
+          "date": "2007-10-20",
+          "opponent": "Beverly",
+          "result": "L 14–19",
+          "status": "Played"
+        },
+        {
+          "date": "2007-10-27",
+          "opponent": "Swampscott",
+          "result": "L 19–23",
+          "status": "Played"
+        },
+        {
+          "date": "2007-11-02",
+          "opponent": "Danvers",
+          "result": "W 26–14",
+          "status": "Played"
+        },
+        {
+          "date": "2007-11-09",
+          "opponent": "Marblehead",
+          "result": "W 40–14",
+          "status": "Played"
+        },
+        {
+          "date": "2007-11-22",
+          "opponent": "Chelsea",
+          "result": "W 49–14",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2007 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/07-08/schedule/"
+        },
+        {
+          "label": "Thanksgiving results · newspaper source audit",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/#thanksgiving"
+        }
+      ]
     },
     {
       "year": 2008,
@@ -1330,7 +3282,75 @@
       "players": "Mike Dean and Brett Reid",
       "awards": "Mike Dean - Lynn Item and NEC\nBrett Reid - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 117
+      "sourceRow": 117,
+      "games": [
+        {
+          "date": "2008-09-13",
+          "opponent": "Newburyport",
+          "result": "W 35–32",
+          "status": "Played"
+        },
+        {
+          "date": "2008-09-20",
+          "opponent": "St. Mary's",
+          "result": "W 28–8",
+          "status": "Played"
+        },
+        {
+          "date": "2008-09-28",
+          "opponent": "Lynnfield",
+          "result": "W 49–28",
+          "status": "Played"
+        },
+        {
+          "date": "2008-10-04",
+          "opponent": "Watertown",
+          "result": "W 21–7",
+          "status": "Played"
+        },
+        {
+          "date": "2008-10-17",
+          "opponent": "Winthrop",
+          "result": "L 28–35",
+          "status": "Played"
+        },
+        {
+          "date": "2008-10-25",
+          "opponent": "Beverly",
+          "result": "L 13–35",
+          "status": "Played"
+        },
+        {
+          "date": "2008-11-01",
+          "opponent": "Swampscott",
+          "result": "L 21–42",
+          "status": "Played"
+        },
+        {
+          "date": "2008-11-08",
+          "opponent": "Danvers",
+          "result": "W 16–0",
+          "status": "Played"
+        },
+        {
+          "date": "2008-11-15",
+          "opponent": "Marblehead",
+          "result": "W 41–7",
+          "status": "Played"
+        },
+        {
+          "date": "2008-11-27",
+          "opponent": "Chelsea",
+          "result": "W 35–6",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2008 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/08-09/schedule/"
+        }
+      ]
     },
     {
       "year": 2009,
@@ -1341,7 +3361,75 @@
       "players": "Andrew White",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 118
+      "sourceRow": 118,
+      "games": [
+        {
+          "date": "2009-09-11",
+          "opponent": "Bishop Fenwick",
+          "result": "W 19–12",
+          "status": "Played"
+        },
+        {
+          "date": "2009-09-19",
+          "opponent": "Manchester Essex/Rockport",
+          "result": "L 20–33",
+          "status": "Played"
+        },
+        {
+          "date": "2009-09-26",
+          "opponent": "Salem",
+          "result": "L 7–27",
+          "status": "Played"
+        },
+        {
+          "date": "2009-10-10",
+          "opponent": "Lynn English",
+          "result": "L 0–41",
+          "status": "Played"
+        },
+        {
+          "date": "2009-10-17",
+          "opponent": "Winthrop",
+          "result": "L 0–44",
+          "status": "Played"
+        },
+        {
+          "date": "2009-10-23",
+          "opponent": "Marblehead",
+          "result": "L 12–34",
+          "status": "Played"
+        },
+        {
+          "date": "2009-10-31",
+          "opponent": "Beverly",
+          "result": "L 0–51",
+          "status": "Played"
+        },
+        {
+          "date": "2009-11-07",
+          "opponent": "Swampscott",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "date": "2009-11-13",
+          "opponent": "Danvers",
+          "result": "L 15–38",
+          "status": "Played"
+        },
+        {
+          "date": "2009-11-26",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "W 14–6",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2009 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/09-10/schedule/"
+        }
+      ]
     },
     {
       "year": 2010,
@@ -1352,7 +3440,75 @@
       "players": "Shamir Guillaume, Ryan Kennedy, and David Witham",
       "awards": "Shamir Guillaume - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 121
+      "sourceRow": 121,
+      "games": [
+        {
+          "date": "2010-09-10",
+          "opponent": "Bishop Fenwick",
+          "result": "W 41–20",
+          "status": "Played"
+        },
+        {
+          "date": "2010-09-17",
+          "opponent": "Salem",
+          "result": "L 20–48",
+          "status": "Played"
+        },
+        {
+          "date": "2010-09-25",
+          "opponent": "Austin Prep",
+          "result": "W 22–18",
+          "status": "Played"
+        },
+        {
+          "date": "2010-10-09",
+          "opponent": "Arlington Catholic",
+          "result": "W 30–28",
+          "status": "Played"
+        },
+        {
+          "date": "2010-10-15",
+          "opponent": "Winthrop",
+          "result": "W 26–13",
+          "status": "Played"
+        },
+        {
+          "date": "2010-10-23",
+          "opponent": "Marblehead",
+          "result": "L 16–23",
+          "status": "Played"
+        },
+        {
+          "date": "2010-10-30",
+          "opponent": "Beverly",
+          "result": "L 13–28",
+          "status": "Played"
+        },
+        {
+          "date": "2010-11-06",
+          "opponent": "Swampscott",
+          "result": "L 6–40",
+          "status": "Played"
+        },
+        {
+          "date": "2010-11-13",
+          "opponent": "Danvers",
+          "result": "L 14–20",
+          "status": "Played"
+        },
+        {
+          "date": "2010-11-25",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 13–34",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2010 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/10-11/schedule/"
+        }
+      ]
     },
     {
       "year": 2011,
@@ -1363,7 +3519,81 @@
       "players": "AJ Guthro, Tom Trainor, and CJ Randolph",
       "awards": "AJ Guthro - CAL/NEC and Item All Star",
       "nickname": "Sachems",
-      "sourceRow": 122
+      "sourceRow": 122,
+      "games": [
+        {
+          "date": "2011-09-09",
+          "opponent": "North Reading",
+          "result": "L 0–20",
+          "status": "Played"
+        },
+        {
+          "date": "2011-09-17",
+          "opponent": "Manchester Essex/Rockport",
+          "result": "L 19–23",
+          "status": "Played"
+        },
+        {
+          "date": "2011-09-25",
+          "opponent": "Austin Prep",
+          "result": "L 14–22",
+          "status": "Played"
+        },
+        {
+          "date": "2011-09-30",
+          "opponent": "Danvers",
+          "result": "L 14–47",
+          "status": "Played"
+        },
+        {
+          "date": "2011-10-08",
+          "opponent": "Georgetown",
+          "result": "W 28–6",
+          "status": "Played"
+        },
+        {
+          "date": "2011-10-15",
+          "opponent": "Winthrop",
+          "result": "L 21–28",
+          "status": "Played"
+        },
+        {
+          "date": "2011-10-21",
+          "opponent": "Newburyport",
+          "result": "L 8–14",
+          "status": "Played"
+        },
+        {
+          "date": "2011-10-29",
+          "opponent": "Pentucket Regional",
+          "result": "L 14–27",
+          "status": "Played"
+        },
+        {
+          "date": "2011-11-04",
+          "opponent": "Amesbury",
+          "result": "W 27–20",
+          "status": "Played"
+        },
+        {
+          "date": "2011-11-12",
+          "opponent": "Triton Regional",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2011-11-24",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 7–19",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2011 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/11-12/schedule/"
+        }
+      ]
     },
     {
       "year": 2012,
@@ -1374,7 +3604,81 @@
       "players": "Tom Trainor, CJ Randolph, Nick Benoit, and Ismael Minaya",
       "awards": "Tom Trainor - CAL/NEC and Item All Star",
       "nickname": "Sachems",
-      "sourceRow": 123
+      "sourceRow": 123,
+      "games": [
+        {
+          "date": "2012-09-07",
+          "opponent": "North Reading",
+          "result": "L 10–27",
+          "status": "Played"
+        },
+        {
+          "date": "2012-09-14",
+          "opponent": "Manchester Essex/Rockport",
+          "result": "W 31–12",
+          "status": "Played"
+        },
+        {
+          "date": "2012-09-21",
+          "opponent": "Austin Prep",
+          "result": "W 38–16",
+          "status": "Played"
+        },
+        {
+          "date": "2012-09-29",
+          "opponent": "Danvers",
+          "result": "W 24–14",
+          "status": "Played"
+        },
+        {
+          "date": "2012-10-05",
+          "opponent": "Georgetown",
+          "result": "W 35–14",
+          "status": "Played"
+        },
+        {
+          "date": "2012-10-12",
+          "opponent": "Winthrop",
+          "result": "L 7–13",
+          "status": "Played · overtime"
+        },
+        {
+          "date": "2012-10-19",
+          "opponent": "Newburyport",
+          "result": "L 14–20",
+          "status": "Played"
+        },
+        {
+          "date": "2012-10-27",
+          "opponent": "Pentucket Regional",
+          "result": "L 26–28",
+          "status": "Played"
+        },
+        {
+          "date": "2012-11-03",
+          "opponent": "Amesbury",
+          "result": "L 19–29",
+          "status": "Played"
+        },
+        {
+          "date": "2012-11-09",
+          "opponent": "Triton Regional",
+          "result": "W 35–27",
+          "status": "Played"
+        },
+        {
+          "date": "2012-11-22",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "W 43–0",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2012 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/12-13/schedule/"
+        }
+      ]
     },
     {
       "year": 2013,
@@ -1385,7 +3689,81 @@
       "players": "Justin Winn and Dan Cicciola",
       "awards": "Justin Winn - CAL and Lynn Item",
       "nickname": "Sachems",
-      "sourceRow": 124
+      "sourceRow": 124,
+      "games": [
+        {
+          "date": "2013-09-13",
+          "opponent": "Winthrop",
+          "result": "L 6–20",
+          "status": "Played"
+        },
+        {
+          "date": "2013-09-21",
+          "opponent": "Lynnfield",
+          "result": "L 21–35",
+          "status": "Played"
+        },
+        {
+          "date": "2013-09-27",
+          "opponent": "Masconomet Regional",
+          "result": "L 14–35",
+          "status": "Played"
+        },
+        {
+          "date": "2013-10-04",
+          "opponent": "Triton Regional",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2013-10-11",
+          "opponent": "North Reading",
+          "result": "W 23–20",
+          "status": "Played"
+        },
+        {
+          "date": "2013-10-19",
+          "opponent": "Pentucket Regional",
+          "result": "L 10–27",
+          "status": "Played"
+        },
+        {
+          "date": "2013-10-26",
+          "opponent": "Newburyport",
+          "result": "L 8–41",
+          "status": "Played"
+        },
+        {
+          "date": "2013-11-02",
+          "opponent": "Ipswich",
+          "result": "L 39–40",
+          "status": "Played"
+        },
+        {
+          "date": "2013-11-09",
+          "opponent": "Arlington Catholic",
+          "result": "W 49–20",
+          "status": "Played"
+        },
+        {
+          "date": "2013-11-16",
+          "opponent": "Swampscott",
+          "result": "L 21–28",
+          "status": "Played"
+        },
+        {
+          "date": "2013-11-28",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "W 25–14",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2013 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/13-14/schedule/"
+        }
+      ]
     },
     {
       "year": 2014,
@@ -1396,7 +3774,86 @@
       "players": "Justin Winn, Seth Roy, Brendan Grocki, and Dan Cicciola",
       "awards": "Justin Winn - CAL and Lynn Item\nDan Cicciola - CAL and Lynn Item\nBrendan Grocki - CAL ",
       "nickname": "Sachems",
-      "sourceRow": 125
+      "sourceRow": 125,
+      "games": [
+        {
+          "date": "2014-09-06",
+          "opponent": "Winthrop",
+          "result": "L 41–44",
+          "status": "Played"
+        },
+        {
+          "date": "2014-09-12",
+          "opponent": "Northeast Metro RVT",
+          "result": "W 36–16",
+          "status": "Played"
+        },
+        {
+          "date": "2014-09-19",
+          "opponent": "Triton Regional",
+          "result": "W 36–22",
+          "status": "Played"
+        },
+        {
+          "date": "2014-09-26",
+          "opponent": "Lynn English",
+          "result": "L 33–41",
+          "status": "Played"
+        },
+        {
+          "date": "2014-10-04",
+          "opponent": "Cape Cod RVT",
+          "result": "W 41–0",
+          "status": "Played"
+        },
+        {
+          "date": "2014-10-11",
+          "opponent": "North Reading",
+          "result": "W 24–13",
+          "status": "Played"
+        },
+        {
+          "date": "2014-10-17",
+          "opponent": "Pentucket Regional",
+          "result": "W 42–28",
+          "status": "Played"
+        },
+        {
+          "date": "2014-11-01",
+          "opponent": "Lynnfield",
+          "result": "L 6–42",
+          "status": "Played"
+        },
+        {
+          "date": "2014-11-07",
+          "opponent": "Watertown",
+          "result": "L 15–33",
+          "status": "Played"
+        },
+        {
+          "date": "2014-11-15",
+          "opponent": "Hamilton-Wenham Regional",
+          "result": "W 33–7",
+          "status": "Played"
+        },
+        {
+          "date": "2014-11-27",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 0–33",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2014 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/14-15/schedule/"
+        },
+        {
+          "label": "Winthrop Transcript · rushing record",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/cacciola-2014-rushing-record.webp"
+        }
+      ],
+      "seasonNote": "Dan Cacciola rushed for a school-record 375 yards and four touchdowns against Winthrop, which won 44–41."
     },
     {
       "year": 2015,
@@ -1407,7 +3864,88 @@
       "players": "Brendan Grocki and Cam Williamson",
       "awards": "Brendan Grocki - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 126
+      "sourceRow": 126,
+      "games": [
+        {
+          "date": "2015-09-04",
+          "opponent": "Medford",
+          "result": "T 7–7",
+          "status": "Played"
+        },
+        {
+          "date": "2015-09-11",
+          "opponent": "Austin Prep",
+          "result": "L 17–37",
+          "status": "Played"
+        },
+        {
+          "date": "2015-09-18",
+          "opponent": "Northeast Metro RVT",
+          "result": "W 22–12",
+          "status": "Played"
+        },
+        {
+          "date": "2015-09-25",
+          "opponent": "Salem",
+          "result": "L 7–19",
+          "status": "Played"
+        },
+        {
+          "date": "2015-10-03",
+          "opponent": "Swampscott",
+          "result": "W 2–0",
+          "status": "Win by forfeit"
+        },
+        {
+          "date": "2015-10-10",
+          "opponent": "Revere",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2015-10-16",
+          "opponent": "Winthrop",
+          "result": "L 12–40",
+          "status": "Played"
+        },
+        {
+          "date": "2015-10-24",
+          "opponent": "Gloucester",
+          "result": "L 0–43",
+          "status": "Played"
+        },
+        {
+          "date": "2015-10-31",
+          "opponent": "Weston",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "2015-11-07",
+          "opponent": "Swampscott",
+          "result": "L 12–22",
+          "status": "Played"
+        },
+        {
+          "date": "2015-11-13",
+          "opponent": "Newburyport",
+          "result": "L 6–49",
+          "status": "Played"
+        },
+        {
+          "date": "2015-11-26",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 0–52",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2015 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/15-16/schedule/"
+        }
+      ],
+      "scheduleNote": "The October 3 Swampscott forfeit appears twice in the source schedule and is listed here once. Counting it once gives 2–9–1; the archived season record is 3–9–1."
     },
     {
       "year": 2016,
@@ -1418,7 +3956,81 @@
       "players": "Cam Williamson",
       "awards": "Cam Williamson - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 127
+      "sourceRow": 127,
+      "games": [
+        {
+          "date": "2016-09-09",
+          "opponent": "Austin Prep",
+          "result": "L 6–20",
+          "status": "Played"
+        },
+        {
+          "date": "2016-09-16",
+          "opponent": "Manchester Essex/Rockport",
+          "result": "L 22–41",
+          "status": "Played"
+        },
+        {
+          "date": "2016-09-23",
+          "opponent": "Salem",
+          "result": "L 20–39",
+          "status": "Played"
+        },
+        {
+          "date": "2016-09-30",
+          "opponent": "Swampscott",
+          "result": "L 7–21",
+          "status": "Played"
+        },
+        {
+          "date": "2016-10-07",
+          "opponent": "Revere",
+          "result": "L 13–30",
+          "status": "Played"
+        },
+        {
+          "date": "2016-10-15",
+          "opponent": "Winthrop",
+          "result": "L 16–22",
+          "status": "Played"
+        },
+        {
+          "date": "2016-10-21",
+          "opponent": "Gloucester",
+          "result": "L 7–49",
+          "status": "Played"
+        },
+        {
+          "date": "2016-10-29",
+          "opponent": "Boston Latin",
+          "result": "L 27–32",
+          "status": "Played"
+        },
+        {
+          "date": "2016-11-05",
+          "opponent": "Arlington Catholic",
+          "result": "W 29–14",
+          "status": "Played"
+        },
+        {
+          "date": "2016-11-11",
+          "opponent": "Weston",
+          "result": "L 7–20",
+          "status": "Played"
+        },
+        {
+          "date": "2016-11-24",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–35",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2016 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/16-17/schedule/"
+        }
+      ]
     },
     {
       "year": 2017,
@@ -1429,7 +4041,81 @@
       "players": "Ricky Martinez, Mike Mabee Jr, and Marvin Jean",
       "awards": "Ricky Martinez - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 128
+      "sourceRow": 128,
+      "games": [
+        {
+          "date": "2017-09-08",
+          "opponent": "St. Mary's",
+          "result": "L 21–54",
+          "status": "Played"
+        },
+        {
+          "date": "2017-09-16",
+          "opponent": "North Quincy",
+          "result": "L 20–37",
+          "status": "Played"
+        },
+        {
+          "date": "2017-09-22",
+          "opponent": "Salem",
+          "result": "L 19–22",
+          "status": "Played"
+        },
+        {
+          "date": "2017-09-30",
+          "opponent": "Lynn English",
+          "result": "L 22–46",
+          "status": "Played"
+        },
+        {
+          "date": "2017-10-07",
+          "opponent": "Gloucester",
+          "result": "L 25–26",
+          "status": "Played"
+        },
+        {
+          "date": "2017-10-14",
+          "opponent": "Winthrop",
+          "result": "W 40–13",
+          "status": "Played"
+        },
+        {
+          "date": "2017-10-21",
+          "opponent": "Swampscott",
+          "result": "L 19–40",
+          "status": "Played"
+        },
+        {
+          "date": "2017-10-28",
+          "opponent": "Pentucket Regional",
+          "result": "W 35–21",
+          "status": "Played"
+        },
+        {
+          "date": "2017-11-04",
+          "opponent": "Amesbury",
+          "result": "W 22–6",
+          "status": "Played"
+        },
+        {
+          "date": "2017-11-11",
+          "opponent": "Greater Lowell Tech",
+          "result": "W 42–12",
+          "status": "Played"
+        },
+        {
+          "date": "2017-11-23",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 7–33",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2017 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/17-18/schedule/"
+        }
+      ]
     },
     {
       "year": 2018,
@@ -1440,7 +4126,81 @@
       "players": "Ryan Mabee, Jake Morgante, Marvin Jean, and Dante McGrane",
       "awards": "Dante McGrane - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 129
+      "sourceRow": 129,
+      "games": [
+        {
+          "date": "2018-09-07",
+          "opponent": "Amesbury",
+          "result": "L 12–30",
+          "status": "Played"
+        },
+        {
+          "date": "2018-09-14",
+          "opponent": "Northeast Metro RVT",
+          "result": "L 18–26",
+          "status": "Played"
+        },
+        {
+          "date": "2018-09-22",
+          "opponent": "Salem",
+          "result": "W 14–0",
+          "status": "Played"
+        },
+        {
+          "date": "2018-09-29",
+          "opponent": "Lynn English",
+          "result": "L 35–42",
+          "status": "Played"
+        },
+        {
+          "date": "2018-10-05",
+          "opponent": "Gloucester",
+          "result": "L 15–61",
+          "status": "Played"
+        },
+        {
+          "date": "2018-10-13",
+          "opponent": "Winthrop",
+          "result": "W 20–14",
+          "status": "Played"
+        },
+        {
+          "date": "2018-10-19",
+          "opponent": "Swampscott",
+          "result": "L 0–42",
+          "status": "Played"
+        },
+        {
+          "date": "2018-10-26",
+          "opponent": "Weston",
+          "result": "W 27–6",
+          "status": "Played"
+        },
+        {
+          "date": "2018-11-02",
+          "opponent": "Amesbury",
+          "result": "L 0–20",
+          "status": "Played"
+        },
+        {
+          "date": "2018-11-10",
+          "opponent": "Pentucket Regional",
+          "result": "W 21–7",
+          "status": "Played"
+        },
+        {
+          "date": "2018-11-22",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 6–38",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2018 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/18-19/schedule/"
+        }
+      ]
     },
     {
       "year": 2019,
@@ -1451,7 +4211,85 @@
       "players": "Marvens Jean, Kyle Surette, Sal Franco, Christian Correa, and Javier Martinez",
       "awards": "Marvens Jean - Lynn Item and NEC",
       "nickname": "Sachems",
-      "sourceRow": 130
+      "sourceRow": 130,
+      "games": [
+        {
+          "date": "2019-09-13",
+          "opponent": "Bedford",
+          "result": "L 30–33",
+          "status": "Played"
+        },
+        {
+          "date": "2019-09-20",
+          "opponent": "Winthrop",
+          "result": "L 6–26",
+          "status": "Played"
+        },
+        {
+          "date": "2019-09-28",
+          "opponent": "Marblehead",
+          "result": "L 0–43",
+          "status": "Played"
+        },
+        {
+          "date": "2019-10-05",
+          "opponent": "Revere",
+          "result": "L 13–40",
+          "status": "Played"
+        },
+        {
+          "date": "2019-10-11",
+          "opponent": "Salem",
+          "result": "W 36–18",
+          "status": "Played"
+        },
+        {
+          "date": "2019-10-18",
+          "opponent": "Lynn English",
+          "result": "L 7–48",
+          "status": "Played"
+        },
+        {
+          "date": "2019-10-26",
+          "opponent": "Lynn Classical",
+          "result": "L 0–30",
+          "status": "Played"
+        },
+        {
+          "date": "2019-11-01",
+          "opponent": "Wilmington",
+          "result": "L 8–14",
+          "status": "Played"
+        },
+        {
+          "date": "2019-11-08",
+          "opponent": "Triton Regional",
+          "result": "W 33–0",
+          "status": "Played"
+        },
+        {
+          "date": "2019-11-15",
+          "opponent": "Gloucester",
+          "result": "W 30–6",
+          "status": "Played"
+        },
+        {
+          "date": "2019-11-28",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 7–21",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2019 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/19-20/schedule/"
+        },
+        {
+          "label": "Thanksgiving results · newspaper source audit",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/#thanksgiving"
+        }
+      ]
     },
     {
       "year": 2020,
@@ -1462,7 +4300,58 @@
       "players": null,
       "awards": "N/A (Covid Season)",
       "nickname": "Sachems",
-      "sourceRow": 133
+      "sourceRow": 133,
+      "games": [
+        {
+          "date": "2021-03-12",
+          "opponent": "Gloucester",
+          "result": "L 14–28",
+          "status": "Played"
+        },
+        {
+          "date": "2021-03-19",
+          "opponent": "Winthrop",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "date": "2021-03-27",
+          "opponent": "Marblehead",
+          "result": "L 6–42",
+          "status": "Played"
+        },
+        {
+          "date": "2021-04-03",
+          "opponent": "Salem",
+          "result": "W 42–6",
+          "status": "Played"
+        },
+        {
+          "date": "2021-04-09",
+          "opponent": "Swampscott",
+          "result": "L 0–41",
+          "status": "Played"
+        },
+        {
+          "date": "2021-04-17",
+          "opponent": "Salem",
+          "result": "W 28–6",
+          "status": "Played"
+        },
+        {
+          "date": "2021-04-23",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 0–24",
+          "status": "Played"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2020 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/20-21/schedule/"
+        }
+      ],
+      "scheduleNote": "The 2020 season was played in spring 2021. The traditional Thanksgiving game was canceled."
     },
     {
       "year": 2021,
@@ -1537,7 +4426,7 @@
           "url": "https://usaprepfootball.com/team/saugus-sachems/"
         }
       ],
-      "seasonNote": "Game-by-game opponent and score results sourced from USA Prep Football; exact dates still need confirmation."
+      "scheduleNote": "Exact dates are unavailable for some games."
     },
     {
       "year": 2022,
@@ -1622,7 +4511,7 @@
           "url": "https://usaprepfootball.com/team/saugus-sachems/"
         }
       ],
-      "seasonNote": "Game-by-game opponent and score results sourced from USA Prep Football; exact dates still need confirmation."
+      "scheduleNote": "Exact dates are unavailable for some games."
     },
     {
       "year": 2023,
@@ -1720,10 +4609,9 @@
         },
         {
           "label": "User-provided varsity schedule screenshots · 2023 opponents, dates, and final scores",
-          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/23-24/schedule/"
         }
-      ],
-      "seasonNote": "Eleven completed games documented in the supplied varsity schedule screenshots, including the November 3 Georgetown/Pentucket victory."
+      ]
     },
     {
       "year": 2024,
@@ -1821,10 +4709,92 @@
         },
         {
           "label": "User-provided varsity schedule screenshots · 2024 opponents, dates, and final scores",
-          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/24-25/schedule/"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "coach": "Gregory Bluestein",
+      "record": "2 - 9",
+      "league": "Northeastern Conference - South",
+      "nickname": "Sachems",
+      "games": [
+        {
+          "date": "2025-09-12",
+          "opponent": "Cambridge Rindge & Latin",
+          "result": "L 6–29",
+          "status": "Played"
+        },
+        {
+          "date": "2025-09-19",
+          "opponent": "Wilmington",
+          "result": "L 6–27",
+          "status": "Played"
+        },
+        {
+          "date": "2025-09-27",
+          "opponent": "Lynn Vo-Tech",
+          "result": "W 12–6",
+          "status": "Played"
+        },
+        {
+          "date": "2025-10-02",
+          "opponent": "Winthrop",
+          "result": "L 6–40",
+          "status": "Played"
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Salem",
+          "result": "L 14–20",
+          "status": "Played"
+        },
+        {
+          "date": "2025-10-17",
+          "opponent": "Gloucester",
+          "result": "L 8–33",
+          "status": "Played"
+        },
+        {
+          "date": "2025-10-24",
+          "opponent": "Swampscott",
+          "result": "L 0–34",
+          "status": "Played"
+        },
+        {
+          "date": "2025-10-30",
+          "opponent": "Medford",
+          "result": "L 0–14",
+          "status": "Played"
+        },
+        {
+          "date": "2025-11-06",
+          "opponent": "Lynnfield",
+          "result": "L 0–28",
+          "status": "Played"
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "East Boston",
+          "result": "W 34–0",
+          "status": "Played"
+        },
+        {
+          "date": "2025-11-27",
+          "opponent": "Peabody Veterans Memorial",
+          "result": "L 26–28",
+          "status": "Played"
         }
       ],
-      "seasonNote": "Eleven completed games documented in the supplied varsity schedule screenshots. An August 30 Arlington listing had no reported score and is excluded as unconfirmed/canceled."
+      "seasonSources": [
+        {
+          "label": "MaxPreps · 2025 varsity schedule",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/25-26/schedule/"
+        }
+      ],
+      "players": "Koby Jette",
+      "awards": "Koby Jette — All-Star, as described in the supplied narrative."
     },
     {
       "year": 2026,
@@ -1832,12 +4802,12 @@
       "record": "0 - 8",
       "league": "Northeastern Conference - South",
       "title": null,
-      "players": "Paxton Ferraro (captain); Pharoah Brandenburg (captain).",
+      "players": "Paxton Ferraro (Captain), Pharoah Brandenburg (Captain)",
       "awards": "2026 postseason All-Star / All-Scholastic selections not yet announced as of Nov. 2, 2026.",
       "nickname": "Sachems",
       "recordAsOf": "2026-10-30",
       "recordNote": "0–8 through October 30: six on-field losses and two forfeits. This is not a final season record. Some score aggregators list the forfeits as 0–14; neither game was played.",
-      "seasonNote": "After six games, the program forfeited its scheduled October 23 Gloucester game and October 30 Swampscott game because of player availability and safety concerns. The roster fell from approximately 38 preseason players to around 20. Starting quarterback Eli Fialho suffered a season-ending injury in the September 25 Lynn Tech game; Gabriel De Souza subsequently took over at quarterback. Ferraro scored Saugus' touchdown against Winthrop (3-yard run) and against Salem (toss play). School officials hoped to resume play in non-playoff/consolation games in November. Thanksgiving against Peabody was scheduled for November 26; its result remains pending.",
+      "seasonNote": "Saugus forfeited the October 23 Gloucester and October 30 Swampscott games because of player availability and safety concerns.",
       "games": [
         {
           "date": "2026-09-10",
