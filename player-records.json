@@ -3523,7 +3523,12 @@
         "Rushing Yards": 1110,
         "Rushing Touchdowns": 9
       },
-      "row": 4
+      "row": 4,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3107.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3534,7 +3539,12 @@
         "Rushing Yards": 512,
         "Rushing Touchdowns": null
       },
-      "row": 5
+      "row": 5,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3100.jpg; IMG_3419.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3543,9 +3553,18 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1205,
-        "Rushing Touchdowns": 20
+        "Rushing Touchdowns": 20,
+        "Yards per Carry": 5.5
       },
-      "row": 6
+      "row": 6,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3097.jpg; IMG_3418.jpg"
+        },
+        "Yards per Carry": {
+          "clipping": "IMG_3097.jpg; IMG_3418.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3556,7 +3575,12 @@
         "Rushing Yards": 1395,
         "Rushing Touchdowns": 16
       },
-      "row": 7
+      "row": 7,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3385.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3599,9 +3623,18 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 583,
-        "Rushing Touchdowns": 8
+        "Rushing Touchdowns": 8,
+        "Carries": 125
       },
-      "row": 11
+      "row": 11,
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3398.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3398.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3610,9 +3643,18 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1365,
-        "Rushing Touchdowns": 20
+        "Rushing Touchdowns": 20,
+        "Carries": 233
       },
-      "row": 12
+      "row": 12,
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3333.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3624,7 +3666,18 @@
         "Rushing Touchdowns": 21,
         "Yards per Carry": 6.4
       },
-      "row": 13
+      "row": 13,
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Yards per Carry": {
+          "clipping": "IMG_3359.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3645,7 +3698,12 @@
         "Rushing Yards": 604,
         "Rushing Touchdowns": 9
       },
-      "row": 14
+      "row": 14,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3326.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3658,7 +3716,18 @@
         "Carries": 260,
         "Yards per Carry": 5.6
       },
-      "row": 15
+      "row": 15,
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3256.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3256.jpg"
+        },
+        "Yards per Carry": {
+          "clipping": "IMG_3256.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3669,7 +3738,12 @@
         "Rushing Yards": 797,
         "Rushing Touchdowns": 13
       },
-      "row": 16
+      "row": 16,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3375.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3689,9 +3763,23 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 800,
-        "Rushing Touchdowns": 12
+        "Rushing Touchdowns": 12,
+        "Carries": 96,
+        "Yards per Carry": 8.2
       },
-      "row": 18
+      "row": 18,
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3378.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3378.jpg"
+        },
+        "Yards per Carry": {
+          "clipping": "IMG_3378.jpg",
+          "note": "Average as printed. It differs from the average calculated from the listed yards and carries."
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3702,7 +3790,12 @@
         "Rushing Yards": 1678,
         "Rushing Touchdowns": 19
       },
-      "row": 19
+      "row": 19,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4142.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3713,7 +3806,12 @@
         "Rushing Yards": 1103,
         "Rushing Touchdowns": 19
       },
-      "row": 20
+      "row": 20,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4147.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3724,7 +3822,15 @@
         "Rushing Yards": 1467,
         "Rushing Touchdowns": 18
       },
-      "row": 21
+      "row": 21,
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4150.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_4150.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3735,18 +3841,31 @@
         "Rushing Yards": 1255,
         "Rushing Touchdowns": 22
       },
-      "row": 22
+      "row": 22,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4149.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
       "year": 2019,
-      "name": "Marvin Jean",
+      "name": "Marvens Jean",
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1074,
         "Rushing Touchdowns": 12
       },
-      "row": 23
+      "row": 23,
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4158.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_4158.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3757,7 +3876,13 @@
         "Rushing Yards": 700,
         "Rushing Touchdowns": 9
       },
-      "row": 24
+      "row": 24,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4164.jpg",
+          "qualifier": "More than"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3766,9 +3891,29 @@
       "schoolClass": "Sr.",
       "values": {
         "Passing Yards": 1052,
-        "Passing Touchdowns": 15
+        "Passing Touchdowns": 15,
+        "Completions": 81,
+        "Conversion Passes": 4,
+        "Passing Attempts": 157
       },
-      "row": 28
+      "row": 28,
+      "statSources": {
+        "Completions": {
+          "clipping": "IMG_3322.jpg"
+        },
+        "Conversion Passes": {
+          "clipping": "IMG_3322.jpg"
+        },
+        "Passing Attempts": {
+          "clipping": "IMG_3322.jpg"
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_3322.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3322.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3779,7 +3924,15 @@
         "Passing Yards": 1050,
         "Passing Touchdowns": 11
       },
-      "row": 29
+      "row": 29,
+      "statSources": {
+        "Passing Touchdowns": {
+          "clipping": "IMG_3387.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3387.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3788,9 +3941,25 @@
       "schoolClass": "Jr.",
       "values": {
         "Passing Yards": 1489,
-        "Passing Touchdowns": 14
+        "Passing Touchdowns": 14,
+        "Completions": 108,
+        "Passing Attempts": 206
       },
-      "row": 30
+      "row": 30,
+      "statSources": {
+        "Completions": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Passing Attempts": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3381.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3801,7 +3970,15 @@
         "Passing Yards": 1200,
         "Passing Touchdowns": 8
       },
-      "row": 31
+      "row": 31,
+      "statSources": {
+        "Passing Touchdowns": {
+          "clipping": "IMG_3389.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3389.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3823,7 +4000,12 @@
         "Passing Yards": 743,
         "Passing Touchdowns": null
       },
-      "row": 33
+      "row": 33,
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "IMG_3395.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3832,9 +4014,29 @@
       "schoolClass": "Sr.",
       "values": {
         "Passing Yards": 720,
-        "Passing Touchdowns": 6
+        "Passing Touchdowns": 6,
+        "Completions": 61,
+        "Conversion Passes": 4,
+        "Passing Attempts": 95
       },
-      "row": 34
+      "row": 34,
+      "statSources": {
+        "Completions": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Conversion Passes": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Attempts": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3843,9 +4045,18 @@
       "schoolClass": "Sr.",
       "values": {
         "Passing Yards": 1109,
-        "Passing Touchdowns": 14
+        "Passing Touchdowns": 14,
+        "Yards per Completion": 17
       },
-      "row": 35
+      "row": 35,
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "IMG_3357.jpg"
+        },
+        "Yards per Completion": {
+          "clipping": "IMG_3357.jpg"
+        }
+      }
     },
     {
       "category": "Passing",
@@ -3867,19 +4078,35 @@
         "Receiving Yards": null,
         "Receiving Touchdowns": 9
       },
-      "row": 39
+      "row": 39,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_3321.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
       "year": 1977,
-      "name": "John Coffee",
+      "name": "John Coffey",
       "schoolClass": "Sr.",
       "values": {
         "Receptions": 20,
         "Receiving Yards": 363,
         "Receiving Touchdowns": 6
       },
-      "row": 40
+      "row": 40,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_3324.jpg"
+        },
+        "Receiving Yards": {
+          "clipping": "IMG_3324.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_3324.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -3891,7 +4118,19 @@
         "Receiving Yards": 400,
         "Receiving Touchdowns": 7
       },
-      "row": 41
+      "row": 41,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_3386.jpg"
+        },
+        "Receiving Yards": {
+          "clipping": "IMG_3386.jpg",
+          "qualifier": "More than"
+        },
+        "Receptions": {
+          "clipping": "IMG_3386.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -3903,7 +4142,18 @@
         "Receiving Yards": 455,
         "Receiving Touchdowns": 5
       },
-      "row": 42
+      "row": 42,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_3382.jpg"
+        },
+        "Receiving Yards": {
+          "clipping": "IMG_3382.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_3382.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -3923,11 +4173,20 @@
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": null,
-        "Receiving Yards": 440,
+        "Receptions": 14,
+        "Receiving Yards": 424,
         "Receiving Touchdowns": null
       },
-      "row": 44
+      "row": 44,
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_3333.jpg",
+          "note": "The newspaper profile reported 424 yards. The workbook listed 440."
+        },
+        "Receptions": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -3961,7 +4220,18 @@
         "Receiving Yards": 148,
         "Receiving Touchdowns": 2
       },
-      "row": 45
+      "row": 45,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_3326.jpg"
+        },
+        "Receiving Yards": {
+          "clipping": "IMG_3326.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_3326.jpg"
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -3969,11 +4239,23 @@
       "name": "Ricky Martinez",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": 44,
+        "Receptions": 32,
         "Receiving Yards": 444,
         "Receiving Touchdowns": 4
       },
-      "row": 46
+      "row": 46,
+      "statSources": {
+        "Receiving Touchdowns": {
+          "clipping": "IMG_4156.jpg"
+        },
+        "Receiving Yards": {
+          "clipping": "IMG_4156.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_4156.jpg",
+          "note": "The newspaper profile reported 32 catches. The workbook listed 44."
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4012,7 +4294,12 @@
         "Interceptions": 3,
         "Sacks": null
       },
-      "row": 52
+      "row": 52,
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_3107.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4025,7 +4312,18 @@
         "Interceptions": null,
         "Sacks": 9
       },
-      "row": 53
+      "row": 53,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3321.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_3321.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3321.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4036,14 +4334,29 @@
         "Tackles": 55,
         "Fumble Recoveries": 6,
         "Interceptions": null,
-        "Sacks": 12
+        "Sacks": 12,
+        "Blocked Punts": 1
       },
-      "row": 54
+      "row": 54,
+      "statSources": {
+        "Blocked Punts": {
+          "clipping": "IMG_3323.jpg"
+        },
+        "Fumble Recoveries": {
+          "clipping": "IMG_3323.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_3323.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3323.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
       "year": 1977,
-      "name": "John Coffee",
+      "name": "John Coffey",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": null,
@@ -4051,7 +4364,12 @@
         "Interceptions": 8,
         "Sacks": null
       },
-      "row": 55
+      "row": 55,
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_3324.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4064,7 +4382,15 @@
         "Interceptions": 6,
         "Sacks": null
       },
-      "row": 56
+      "row": 56,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3386.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3386.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4077,7 +4403,12 @@
         "Interceptions": 4,
         "Sacks": null
       },
-      "row": 57
+      "row": 57,
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_3387.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4090,7 +4421,15 @@
         "Interceptions": 6,
         "Sacks": null
       },
-      "row": 58
+      "row": 58,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3381.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4103,7 +4442,15 @@
         "Interceptions": 5,
         "Sacks": null
       },
-      "row": 59
+      "row": 59,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3382.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3382.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4116,7 +4463,15 @@
         "Interceptions": null,
         "Sacks": 7
       },
-      "row": 60
+      "row": 60,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3383.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_3383.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4129,7 +4484,15 @@
         "Interceptions": null,
         "Sacks": 7
       },
-      "row": 61
+      "row": 61,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3391.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_3391.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4142,7 +4505,15 @@
         "Interceptions": null,
         "Sacks": 10
       },
-      "row": 62
+      "row": 62,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_4167.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_4167.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4192,9 +4563,18 @@
         "Tackles": 130,
         "Fumble Recoveries": null,
         "Interceptions": 5,
-        "Sacks": null
+        "Sacks": null,
+        "Tackles per Game": 13
       },
-      "row": 66
+      "row": 66,
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_3394.jpg"
+        },
+        "Tackles per Game": {
+          "clipping": "IMG_3394.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4205,9 +4585,18 @@
         "Tackles": 140,
         "Fumble Recoveries": 4,
         "Interceptions": 5,
-        "Sacks": null
+        "Sacks": null,
+        "Tackles per Game": 14
       },
-      "row": 67
+      "row": 67,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3395.jpg"
+        },
+        "Tackles per Game": {
+          "clipping": "IMG_3395.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4220,7 +4609,13 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 68
+      "row": 68,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_3398.jpg",
+          "qualifier": "More than"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4233,7 +4628,13 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 69
+      "row": 69,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_3399.jpg",
+          "qualifier": "More than"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4259,7 +4660,13 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 71
+      "row": 71,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_3331.jpg",
+          "qualifier": "More than"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4272,7 +4679,18 @@
         "Interceptions": 4,
         "Sacks": null
       },
-      "row": 72
+      "row": 72,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3328.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3328.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3328.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4285,7 +4703,15 @@
         "Interceptions": 6,
         "Sacks": null
       },
-      "row": 73
+      "row": 73,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4298,7 +4724,18 @@
         "Interceptions": 2,
         "Sacks": null
       },
-      "row": 74
+      "row": 74,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3333.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3333.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4306,12 +4743,27 @@
       "name": "Raphael Zammit",
       "schoolClass": "Sr.",
       "values": {
-        "Tackles": 43,
+        "Tackles": 52,
         "Fumble Recoveries": null,
-        "Interceptions": 2,
-        "Sacks": 7
+        "Interceptions": 3,
+        "Sacks": 8,
+        "Interception Return TDs": 1
       },
-      "row": 75
+      "row": 75,
+      "statSources": {
+        "Interception Return TDs": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3359.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4322,9 +4774,33 @@
         "Tackles": 123,
         "Fumble Recoveries": 4,
         "Interceptions": 4,
-        "Sacks": 2
+        "Sacks": 2,
+        "First Hits": 62,
+        "Forced Fumbles": 4,
+        "Solo Tackles": 38
       },
-      "row": 76
+      "row": 76,
+      "statSources": {
+        "First Hits": {
+          "clipping": "IMG_3360.jpg"
+        },
+        "Forced Fumbles": {
+          "clipping": "IMG_3360.jpg"
+        },
+        "Fumble Recoveries": {
+          "clipping": "IMG_3360.jpg",
+          "note": "The earlier preview reported 4. The end-of-season profile reported 6."
+        },
+        "Sacks": {
+          "clipping": "IMG_3360.jpg"
+        },
+        "Solo Tackles": {
+          "clipping": "IMG_3360.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3360.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4347,9 +4823,24 @@
         "Tackles": 72,
         "Fumble Recoveries": 2,
         "Interceptions": 4,
-        "Sacks": null
+        "Sacks": null,
+        "Solo Tackles": 27
       },
-      "row": 77
+      "row": 77,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3326.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3326.jpg"
+        },
+        "Solo Tackles": {
+          "clipping": "IMG_3326.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3326.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4390,20 +4881,50 @@
         "Forced Fumbles": 4,
         "Tackles for Loss": 8
       },
-      "row": 80
+      "row": 80,
+      "statSources": {
+        "Forced Fumbles": {
+          "clipping": "IMG_3371.jpg"
+        },
+        "Fumble Recoveries": {
+          "clipping": "IMG_3371.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3371.jpg"
+        },
+        "Tackles for Loss": {
+          "clipping": "IMG_3371.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
       "year": 2007,
-      "name": "Tyler Trainer",
+      "name": "Tyler Trainor",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 108,
         "Fumble Recoveries": 3,
         "Interceptions": 2,
-        "Sacks": null
+        "Sacks": null,
+        "Forced Fumbles": 3,
+        "Interception Return TDs": 1
       },
-      "row": 81
+      "row": 81,
+      "statSources": {
+        "Forced Fumbles": {
+          "clipping": "IMG_3376.jpg"
+        },
+        "Interception Return TDs": {
+          "clipping": "IMG_3376.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3376.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3376.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4421,15 +4942,28 @@
     {
       "category": "Defensive",
       "year": 2012,
-      "name": "Tom Trainer",
+      "name": "Tom Trainor",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 110,
         "Fumble Recoveries": null,
         "Interceptions": null,
-        "Sacks": null
+        "Sacks": null,
+        "Tackles for Loss": 7,
+        "Tackles per Game": 10.3
       },
-      "row": 83
+      "row": 83,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_4145.jpg"
+        },
+        "Tackles for Loss": {
+          "clipping": "IMG_4145.jpg"
+        },
+        "Tackles per Game": {
+          "clipping": "IMG_4145.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4440,14 +4974,23 @@
         "Tackles": 96,
         "Fumble Recoveries": null,
         "Interceptions": null,
-        "Sacks": 3
+        "Sacks": 3,
+        "Tackles per Game": 9.6
       },
-      "row": 84
+      "row": 84,
+      "statSources": {
+        "Sacks": {
+          "clipping": "IMG_4152.jpg"
+        },
+        "Tackles per Game": {
+          "clipping": "IMG_4152.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
       "year": 2017,
-      "name": "Rickey Martinez",
+      "name": "Ricky Martinez",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 117,
@@ -4455,7 +4998,12 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 85
+      "row": 85,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_4156.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4468,25 +5016,38 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 86
+      "row": 86,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_4159.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
       "year": 2019,
-      "name": "Marvin Jean",
+      "name": "Marvens Jean",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 87,
-        "Fumble Recoveries": 2,
         "Interceptions": null,
-        "Sacks": null
+        "Sacks": null,
+        "Forced Fumbles": 2
       },
-      "row": 87
+      "row": 87,
+      "statSources": {
+        "Forced Fumbles": {
+          "clipping": "IMG_4158.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_4158.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
-      "year": 2021,
-      "name": "Braden Fiaella",
+      "year": 2020,
+      "name": "Braden Faiella",
       "schoolClass": "Fr.",
       "values": {
         "Tackles": 60,
@@ -4498,8 +5059,8 @@
     },
     {
       "category": "Defensive",
-      "year": 2022,
-      "name": "Braden Fiaella",
+      "year": 2021,
+      "name": "Braden Faiella",
       "schoolClass": "So.",
       "values": {
         "Tackles": 100,
@@ -4511,8 +5072,8 @@
     },
     {
       "category": "Defensive",
-      "year": 2023,
-      "name": "Braden Fiaella",
+      "year": 2022,
+      "name": "Braden Faiella",
       "schoolClass": "Jr.",
       "values": {
         "Tackles": 184,
@@ -4520,20 +5081,40 @@
         "Interceptions": null,
         "Sacks": null
       },
-      "row": 90
+      "row": 90,
+      "statSources": {
+        "Tackles": {
+          "clipping": "IMG_4161.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
-      "year": 2024,
-      "name": "Braden Fiaella",
+      "year": 2023,
+      "name": "Braden Faiella",
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 140,
         "Fumble Recoveries": 4,
-        "Interceptions": 1,
-        "Sacks": null
+        "Sacks": null,
+        "Forced Fumbles": 5,
+        "Interception Return TDs": 1
       },
-      "row": 91
+      "row": 91,
+      "statSources": {
+        "Forced Fumbles": {
+          "clipping": "IMG_4162.jpg"
+        },
+        "Fumble Recoveries": {
+          "clipping": "IMG_4162.jpg"
+        },
+        "Interception Return TDs": {
+          "clipping": "IMG_4162.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_4162.jpg"
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -4542,11 +5123,26 @@
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 100,
-        "Fumble Recoveries": 2,
         "Interceptions": 1,
-        "Sacks": 4
+        "Sacks": 4,
+        "Forced Fumbles": 2
       },
-      "row": 92
+      "row": 92,
+      "statSources": {
+        "Forced Fumbles": {
+          "clipping": "IMG_4164.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_4164.jpg"
+        },
+        "Sacks": {
+          "clipping": "IMG_4164.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_4164.jpg",
+          "qualifier": "More than"
+        }
+      }
     },
     {
       "category": "Returns",
@@ -4555,6 +5151,815 @@
       "schoolClass": "Jr.",
       "values": {
         "Combined Return Yards": 378
+      },
+      "statSources": {
+        "Combined Return Yards": {
+          "clipping": "IMG_3107.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1974,
+      "name": "John Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Touchdowns (type unspecified)": 9
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3107.jpg"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1975,
+      "name": "John Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Touchdowns": 4
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "clipping": "IMG_3097.jpg; IMG_3418.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1975,
+      "name": "John Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 109
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "IMG_3097.jpg; IMG_3418.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "Frank Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Conversions (type unspecified)": 5,
+        "Points": 64
+      },
+      "statSources": {
+        "Conversions (type unspecified)": {
+          "clipping": "IMG_3321.jpg"
+        },
+        "Points": {
+          "clipping": "IMG_3321.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1977,
+      "name": "George Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3322.jpg"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1978,
+      "name": "Paul Nigro",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Yards": 360,
+        "Receptions": 25
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_3385.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_3385.jpg"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1978,
+      "name": "Paul Nigro",
+      "schoolClass": "Sr.",
+      "values": {
+        "Kickoff Return Yards": 207,
+        "Kickoff Returns": 14
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "clipping": "IMG_3385.jpg"
+        },
+        "Kickoff Returns": {
+          "clipping": "IMG_3385.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1978,
+      "name": "Paul Nigro",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 16
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3385.jpg"
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 1978,
+      "name": "Paul Nigro",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Offense Yards": 1962
+      },
+      "statSources": {
+        "Total Offense Yards": {
+          "clipping": "IMG_3385.jpg"
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Extra Points": 15,
+        "Field Goals": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "IMG_3387.jpg"
+        },
+        "Field Goals": {
+          "clipping": "IMG_3387.jpg"
+        }
+      }
+    },
+    {
+      "category": "Punting",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Yards per Punt": 34
+      },
+      "statSources": {
+        "Yards per Punt": {
+          "clipping": "IMG_3387.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3387.jpg"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1979,
+      "name": "Gary Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Combined Return Yards": 305
+      },
+      "statSources": {
+        "Combined Return Yards": {
+          "clipping": "IMG_3382.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1979,
+      "name": "Gary Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Carries": 21,
+        "Rushing Yards": 215
+      },
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3382.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3382.jpg"
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Extra Points": 13,
+        "Field Goals": 2,
+        "Longest Field Goal (yards)": 48
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Field Goals": {
+          "clipping": "IMG_3381.jpg"
+        },
+        "Longest Field Goal (yards)": {
+          "clipping": "IMG_3381.jpg"
+        }
+      }
+    },
+    {
+      "category": "Punting",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Yards per Punt": 39
+      },
+      "statSources": {
+        "Yards per Punt": {
+          "clipping": "IMG_3381.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3381.jpg"
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1980,
+      "name": "Steve Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 13,
+        "Field Goals": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "IMG_3389.jpg"
+        },
+        "Field Goals": {
+          "clipping": "IMG_3389.jpg"
+        }
+      }
+    },
+    {
+      "category": "Punting",
+      "year": 1980,
+      "name": "Steve Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Yards per Punt": 38
+      },
+      "statSources": {
+        "Yards per Punt": {
+          "clipping": "IMG_3389.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1980,
+      "name": "Steve Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 8
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3389.jpg"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1981,
+      "name": "Bob Lessard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Completions": 90,
+        "Passing Attempts": 198,
+        "Passing Touchdowns": 6,
+        "Passing Yards": 1210
+      },
+      "statSources": {
+        "Completions": {
+          "clipping": "IMG_4165.jpg"
+        },
+        "Passing Attempts": {
+          "clipping": "IMG_4165.jpg"
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_4165.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_4165.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1981,
+      "name": "Bob Lessard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4165.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1989,
+      "name": "Marc Fauci",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 757
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3395.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1990,
+      "name": "Ryan Magnasco",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 8
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3398.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Carries": 60,
+        "Rushing Touchdowns": 7,
+        "Rushing Yards": 360
+      },
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Kick Return Touchdowns": 2
+      },
+      "statSources": {
+        "Kick Return Touchdowns": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1996,
+      "name": "L.J. McKanas",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 20
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3333.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1997,
+      "name": "Ryan Lahey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Carries": 35,
+        "Rushing Yards": 294
+      },
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3357.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3357.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Mike Panzini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 1
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3360.jpg"
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "schoolClass": "Sr.",
+      "values": {
+        "All-Purpose Yards": 2452
+      },
+      "statSources": {
+        "All-Purpose Yards": {
+          "clipping": "IMG_3359.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 154,
+        "Total Touchdowns": 25,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Total Touchdowns": {
+          "clipping": "IMG_3359.jpg"
+        },
+        "Two-Point Conversions": {
+          "clipping": "IMG_3359.jpg"
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "All-Purpose Yards": 2197
+      },
+      "statSources": {
+        "All-Purpose Yards": {
+          "clipping": "IMG_3326.jpg",
+          "note": "Total as reported in the newspaper profile."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "Kick Return Yards": 405
+      },
+      "statSources": {
+        "Kick Return Yards": {
+          "clipping": "IMG_3326.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "George Lowe",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 9
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3326.jpg"
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 2001,
+      "name": "Patrick Eaton",
+      "schoolClass": "Sr.",
+      "values": {
+        "All-Purpose Yards": 1050
+      },
+      "statSources": {
+        "All-Purpose Yards": {
+          "clipping": "IMG_3365.jpg"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2001,
+      "name": "Patrick Eaton",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Yards": 505,
+        "Receptions": 30
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_3365.jpg"
+        },
+        "Receptions": {
+          "clipping": "IMG_3365.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "Patrick Eaton",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 545
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_3365.jpg"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 2003,
+      "name": "Anthony Barbanti",
+      "schoolClass": "Sr.",
+      "values": {
+        "Sacks": 3,
+        "Tackles": 75,
+        "Tackles for Loss": 11
+      },
+      "statSources": {
+        "Sacks": {
+          "clipping": "IMG_3760.jpg; IMG_3257.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3760.jpg; IMG_3257.jpg"
+        },
+        "Tackles for Loss": {
+          "clipping": "IMG_3760.jpg; IMG_3257.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Mike Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Touchdowns (type unspecified)": 11
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3256.jpg"
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 2006,
+      "name": "Rodney Lavoie",
+      "schoolClass": "Sr.",
+      "values": {
+        "All-Purpose Yards": 1000
+      },
+      "statSources": {
+        "All-Purpose Yards": {
+          "clipping": "IMG_3373.jpg",
+          "qualifier": "More than"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2007,
+      "name": "Brett Reid",
+      "schoolClass": "Jr.",
+      "values": {
+        "Touchdowns (type unspecified)": 13
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3375.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2007,
+      "name": "Tyler Trainor",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 5
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3376.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2008,
+      "name": "Brett Reid",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 12
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_3378.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2010,
+      "name": "Shamir Guillaume",
+      "schoolClass": "Sr.",
+      "values": {
+        "Conversions (type unspecified)": 2,
+        "Touchdowns (type unspecified)": 19
+      },
+      "statSources": {
+        "Conversions (type unspecified)": {
+          "clipping": "IMG_4142.jpg"
+        },
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_4142.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2013,
+      "name": "Justin Winn",
+      "schoolClass": "Jr.",
+      "values": {
+        "Touchdowns (type unspecified)": 19
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_4147.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2014,
+      "name": "Justin Winn",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 22
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_4149.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2016,
+      "name": "Cam Williamson",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 250
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4153.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2017,
+      "name": "Ricky Martinez",
+      "schoolClass": "Sr.",
+      "values": {
+        "Carries": 35,
+        "Rushing Touchdowns": 3,
+        "Rushing Yards": 243
+      },
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_4156.jpg"
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4156.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_4156.jpg"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 2019,
+      "name": "Marvens Jean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Kickoff Return Touchdowns": 1
+      },
+      "statSources": {
+        "Kickoff Return Touchdowns": {
+          "clipping": "IMG_4158.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2024,
+      "name": "Cody Munafo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Touchdowns (type unspecified)": 9
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_4164.jpg"
+        }
       }
     }
   ],
