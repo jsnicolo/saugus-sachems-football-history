@@ -3591,7 +3591,12 @@
         "Rushing Yards": 922,
         "Rushing Touchdowns": 10
       },
-      "row": 8
+      "row": 8,
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4167.jpg"
+        }
+      }
     },
     {
       "category": "Rushing",
@@ -3643,7 +3648,6 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1365,
-        "Rushing Touchdowns": 20,
         "Carries": 233
       },
       "row": 12,
@@ -3687,6 +3691,12 @@
       "values": {
         "Rushing Yards": null,
         "Rushing Touchdowns": 5
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        }
       }
     },
     {
@@ -3736,12 +3746,17 @@
       "schoolClass": "Jr.",
       "values": {
         "Rushing Yards": 797,
-        "Rushing Touchdowns": 13
+        "Rushing Touchdowns": 13,
+        "Yards per Carry": 8
       },
       "row": 16,
       "statSources": {
         "Rushing Yards": {
           "clipping": "IMG_3375.jpg"
+        },
+        "Yards per Carry": {
+          "clipping": "IMG_3375.jpg",
+          "qualifier": "More than"
         }
       }
     },
@@ -4066,6 +4081,16 @@
       "values": {
         "Passing Yards": 825,
         "Passing Touchdowns": 7
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        }
       }
     },
     {
@@ -4197,6 +4222,16 @@
         "Receptions": null,
         "Receiving Yards": 400,
         "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        }
       }
     },
     {
@@ -4208,6 +4243,16 @@
         "Receptions": 36,
         "Receiving Yards": null,
         "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        }
       }
     },
     {
@@ -4772,7 +4817,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 123,
-        "Fumble Recoveries": 4,
+        "Fumble Recoveries": 6,
         "Interceptions": 4,
         "Sacks": 2,
         "First Hits": 62,
@@ -4789,7 +4834,7 @@
         },
         "Fumble Recoveries": {
           "clipping": "IMG_3360.jpg",
-          "note": "The earlier preview reported 4. The end-of-season profile reported 6."
+          "note": "The pre-Thanksgiving preview reported four. The postseason Item profile reported six."
         },
         "Sacks": {
           "clipping": "IMG_3360.jpg"
@@ -4798,7 +4843,12 @@
           "clipping": "IMG_3360.jpg"
         },
         "Tackles": {
-          "clipping": "IMG_3360.jpg"
+          "clipping": "IMG_3360.jpg",
+          "note": "The postseason Item profile reported 123. The pre-Thanksgiving preview reported 130."
+        },
+        "Interceptions": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
         }
       }
     },
@@ -4812,6 +4862,12 @@
         "Fumble Recoveries": null,
         "Interceptions": 5,
         "Sacks": null
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_2671.jpeg",
+          "note": "Through the pre-Thanksgiving preview."
+        }
       }
     },
     {
@@ -4904,7 +4960,6 @@
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 108,
-        "Fumble Recoveries": 3,
         "Interceptions": 2,
         "Sacks": null,
         "Forced Fumbles": 3,
@@ -5483,16 +5538,20 @@
       },
       "statSources": {
         "Completions": {
-          "clipping": "IMG_4165.jpg"
+          "clipping": "IMG_4165.jpg",
+          "note": "The page headline identifies the 1981 Item All-Stars."
         },
         "Passing Attempts": {
-          "clipping": "IMG_4165.jpg"
+          "clipping": "IMG_4165.jpg",
+          "note": "The page headline identifies the 1981 Item All-Stars."
         },
         "Passing Touchdowns": {
-          "clipping": "IMG_4165.jpg"
+          "clipping": "IMG_4165.jpg",
+          "note": "The page headline identifies the 1981 Item All-Stars."
         },
         "Passing Yards": {
-          "clipping": "IMG_4165.jpg"
+          "clipping": "IMG_4165.jpg",
+          "note": "The page headline identifies the 1981 Item All-Stars."
         }
       }
     },
@@ -5506,7 +5565,8 @@
       },
       "statSources": {
         "Rushing Touchdowns": {
-          "clipping": "IMG_4165.jpg"
+          "clipping": "IMG_4165.jpg",
+          "note": "The page headline identifies the 1981 Item All-Stars."
         }
       }
     },
@@ -5594,11 +5654,12 @@
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 20
+        "Total Touchdowns": 20
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3333.jpg"
+        "Total Touchdowns": {
+          "clipping": "IMG_3333.jpg; IMG_2671.jpeg",
+          "note": "The 1998 Item preview identifies 20 as the previous school record for total touchdowns."
         }
       }
     },
@@ -5959,6 +6020,39 @@
       "statSources": {
         "Touchdowns (type unspecified)": {
           "clipping": "IMG_4164.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2007,
+      "name": "Tyler Trainor",
+      "schoolClass": "Sr.",
+      "values": {
+        "Yards per Carry": 8
+      },
+      "statSources": {
+        "Yards per Carry": {
+          "clipping": "IMG_3376.jpg",
+          "qualifier": "More than"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1983,
+      "name": "Kevin Pelley",
+      "schoolClass": "Sr.",
+      "values": {
+        "Conversions (type unspecified)": 2,
+        "Touchdowns (type unspecified)": 10
+      },
+      "statSources": {
+        "Conversions (type unspecified)": {
+          "clipping": "IMG_4167.jpg"
+        },
+        "Touchdowns (type unspecified)": {
+          "clipping": "IMG_4167.jpg"
         }
       }
     }
