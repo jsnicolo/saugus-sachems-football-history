@@ -733,7 +733,30 @@
     "category": "Players",
     "golden": true,
     "original": "IMG_4122.jpg",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
+    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
+    "images": [
+      {
+        "file": "photos/era-IMG_4122.webp",
+        "thumb": "photos/thumb-era-IMG_4122.webp",
+        "title": "Coach Toczylowski and his co-captains",
+        "caption": "Coach Henry Toczylowski with co-captains Dick MacDonald and Mike Harrington in 1941. Toczylowski led the Sachems to a 10–0–1 record and the Class C State Championship.",
+        "year": 1941,
+        "category": "Players",
+        "golden": true,
+        "original": "IMG_4122.jpg",
+        "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
+      },
+      {
+        "file": "photos/1941-saugus-eleven-title-drive.webp",
+        "thumb": "photos/thumb-1941-saugus-eleven-title-drive.webp",
+        "title": "Saugus Eleven Ready to Start Title Drive",
+        "caption": "Ernest Dalton’s 1941 preseason preview introduces new coaches Henry Toczylowski and Ted Galligan, names Dick MacDonald and Mike Harrington as co-captains, and looks ahead to the Sachems’ Class C title bid.",
+        "year": 1941,
+        "category": "Clippings",
+        "golden": true,
+        "original": "E741FACC-4448-4EE9-83A8-AFFEF0C84493.jpeg"
+      }
+    ]
   },
   {
     "file": "photos/contributed-2531.webp",
