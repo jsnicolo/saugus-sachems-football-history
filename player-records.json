@@ -3792,7 +3792,7 @@
         },
         "Yards per Carry": {
           "clipping": "IMG_3378.jpg",
-          "note": "Average as printed. It differs from the average calculated from the listed yards and carries."
+          "note": "Average as printed."
         }
       }
     },
@@ -4205,8 +4205,7 @@
       "row": 44,
       "statSources": {
         "Receiving Yards": {
-          "clipping": "IMG_3333.jpg",
-          "note": "The newspaper profile reported 424 yards. The workbook listed 440."
+          "clipping": "IMG_3333.jpg"
         },
         "Receptions": {
           "clipping": "IMG_3333.jpg"
@@ -4297,8 +4296,7 @@
           "clipping": "IMG_4156.jpg"
         },
         "Receptions": {
-          "clipping": "IMG_4156.jpg",
-          "note": "The newspaper profile reported 32 catches. The workbook listed 44."
+          "clipping": "IMG_4156.jpg"
         }
       }
     },
@@ -4834,7 +4832,7 @@
         },
         "Fumble Recoveries": {
           "clipping": "IMG_3360.jpg",
-          "note": "The pre-Thanksgiving preview reported four. The postseason Item profile reported six."
+          "note": "Postseason Item profile."
         },
         "Sacks": {
           "clipping": "IMG_3360.jpg"
@@ -4844,7 +4842,7 @@
         },
         "Tackles": {
           "clipping": "IMG_2671.jpeg",
-          "note": "The pre-Thanksgiving Daily Evening Item preview reported 130. The postseason Item profile (IMG_3360.jpg) reported 123."
+          "note": "Pre-Thanksgiving Daily Evening Item preview."
         },
         "Interceptions": {
           "clipping": "IMG_2671.jpeg",
