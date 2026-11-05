@@ -23,6 +23,17 @@
     "dateSource": "The clipping names the 1908 football team and Knight’s Class of 1909; publication date is not shown."
   },
   {
+    "file": "gallery-assets/globe-1966-1911/1911-globe-harry-saunders.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1911-globe-harry-saunders.webp",
+    "year": 1911,
+    "title": "Harry A. Saunders · Saugus athlete and Army football player, 1911",
+    "caption": "This 1911 Boston Globe profile recalls Harry A. Saunders as a standout in football, baseball and basketball at Saugus High. After three years of professional baseball, Saunders joined the U.S. Army and played fullback for his company’s football team at Fort Slocum, New York. The photograph and report preserve an early Saugus athlete’s sporting life beyond high school. His Saugus playing and graduation years are estimated by the contributor at approximately 1905–1906; the clipping does not establish those dates. Source: Boston Globe, 1911.",
+    "original": "IMG_3046.jpeg",
+    "category": "Clippings",
+    "source": "Boston Globe",
+    "dateSource": "Article year supplied by Sal Nicolo; estimated school years are not the photograph date."
+  },
+  {
     "file": "photos/contributed-IMG_2478.webp",
     "thumb": "photos/thumb-contributed-IMG_2478.webp",
     "title": "Saugus wins its first game in six years",
@@ -2469,16 +2480,58 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
-    "file": "photos/1966-boston-globe-saugus-season-preview.webp",
-    "thumb": "photos/thumb-1966-boston-globe-saugus-season-preview.webp",
-    "title": "The 1966 Sachems · Boston Globe preseason preview",
-    "caption": "In the September 12, 1966 Boston Globe, Frank Donovan previews Walter Sheridan’s Saugus team and features co-captains John Dancewicz, Ed Maguire, and Paul Uga. The page includes the roster, season schedule, and player portraits.",
+    "file": "gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1966-globe-preseason-roster.webp",
     "year": 1966,
-    "dateLabel": "September 12, 1966",
-    "original": "F55FB261-6763-437D-84CC-900731CAD291.jpeg",
+    "title": "Saugus Eleven Figures Victory Drought Over · 1966 preview",
+    "caption": "Frank Donovan’s September 12, 1966 Boston Globe preview captures the optimism surrounding Walter Sheridan’s third Saugus season. Co-captains John Dancewicz, Ed Maguire and Paul Uga lead a veteran group that includes quarterback Chris Serino and halfbacks Jim Paolini and Mike Kimball. The full page preserves the preseason story, named player portraits, roster and schedule. Source: Boston Globe, September 12, 1966.",
+    "original": "8292572B-739C-410C-91BC-EEA2A2946BF2.jpeg",
     "category": "Clippings",
-    "golden": false,
-    "dateSource": "Publication and date printed on the Boston Globe page."
+    "source": "Boston Globe",
+    "dateLabel": "September 12, 1966"
+  },
+  {
+    "file": "gallery-assets/globe-1966-1911/1966-globe-team-portrait.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1966-globe-team-portrait.webp",
+    "year": 1966,
+    "title": "The 1966 Sachems · Boston Globe team portrait",
+    "caption": "A Boston Globe team photograph of the 1966 Sachems. Front row, left to right: Pete Anganis, Chester Johnson, Rich Sarino, Harold Kingman, Paul Uga, Jim Mancuso and John Sands. Back row: John Ludwig, Joe Meuse, Jim Boyle, John Dancewicz, Jim Paolini, Christie Serino, Ed Maguire and Mike Kimball. Names follow the printed caption. Source: Boston Globe.",
+    "original": "IMG_2896(3).jpeg",
+    "category": "Teams",
+    "source": "Boston Globe",
+    "dateSource": "1966 season identified by Sal Nicolo."
+  },
+  {
+    "file": "gallery-assets/globe-1966-1911/1966-globe-serino-lynn-english-40-0.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1966-globe-serino-lynn-english-40-0.webp",
+    "year": 1966,
+    "title": "Saugus romps, two Serino TDs · 40–0 over Lynn English",
+    "caption": "Chris Serino scored twice as first-place Saugus defeated Lynn English, 40–0. Chuck Shipulski’s interception return to the English 9 set up Serino’s first touchdown; his second came on a 24-yard run after a lateral from Jim Paolini. The Boston Globe report places the unbeaten Sachems at 5–0 and atop the North Shore League at that point in the season. Source: Boston Globe, 1966.",
+    "original": "6C44BC14-FBEC-4B8A-9A92-E65D1B75C22C.png",
+    "category": "Clippings",
+    "source": "Boston Globe"
+  },
+  {
+    "file": "gallery-assets/globe-1966-1911/1966-globe-class-a-contender.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1966-globe-class-a-contender.webp",
+    "year": 1966,
+    "title": "Saugus, Once Doormat, Now Class A Contender · 1966",
+    "caption": "Neil Singelais’s October 3, 1966 Boston Globe feature charts Saugus’s resurgence under Walter Sheridan after opening wins over Boston College High, 33–6, and Beverly, 36–8. The veteran backfield of Chris Serino, Jim Paolini, Mike Kimball and Ed McGuire anchors the story. Sheridan credits a balanced offense and a quick line, highlighting tackle John Dancewicz and center John Hanson. The article captures the excitement of a 2–0 start and renewed Class A hopes. Source: Boston Globe, October 3, 1966.",
+    "original": "4BF56476-134E-4817-8F75-BD5CC46AA198.png",
+    "category": "Clippings",
+    "source": "Boston Globe",
+    "dateLabel": "October 3, 1966"
+  },
+  {
+    "file": "gallery-assets/globe-1966-1911/1966-globe-beverly-36-8.webp",
+    "thumb": "gallery-assets/globe-1966-1911/thumb-1966-globe-beverly-36-8.webp",
+    "year": 1966,
+    "title": "Saugus whips Beverly, 36–8 · October 1966",
+    "caption": "Chris Serino’s long passes and Jim Paolini’s finishing runs powered Saugus to a 36–8 North Shore League victory over Beverly. Paolini scored three touchdowns, while a fourth-quarter recovery of a Beverly fumble helped set up another score. Beverly’s touchdown came on Glen Randall’s 85-yard kickoff return. The October 2, 1966 Boston Sunday Globe report records Saugus’s second straight win. Source: Boston Globe.",
+    "original": "4BED4C9F-8538-41D0-89E7-8E5AF5BAD6B3.png",
+    "category": "Clippings",
+    "source": "Boston Globe",
+    "dateLabel": "October 2, 1966"
   },
   {
     "file": "photos/1966-boston-globe-saugus-winthrop-sixth-win.webp",
@@ -5218,16 +5271,6 @@
     "golden": false,
     "dateSource": "Season identified by Sal Nicolo from the Flynn/Garofano/Sprague cohort; printed issue date absent.",
     "dateLabel": "1915 · contributor identification"
-  },
-  {
-    "file": "photos/gallery-2896.webp",
-    "thumb": "photos/thumb-gallery-2896.webp",
-    "title": "Saugus High football team portrait",
-    "caption": "The newspaper photograph identifies Saugus players including John Sands, Jim Mancuso, John Dancewicz, Christie Serino and Mike Kimball. The roster places the photo in the mid-1960s.",
-    "year": null,
-    "original": "IMG_2896(2).jpeg",
-    "category": "Teams",
-    "dateLabel": "Mid-1960s · exact season to confirm"
   },
   {
     "file": "photos/gallery-2846.webp",
