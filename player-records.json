@@ -1,6 +1,50 @@
 {
   "honors": [
     {
+      "name": "Marc Fauci",
+      "position": "",
+      "schoolClass": "Class of 1990",
+      "year": 1990,
+      "publisher": "Shriners",
+      "award": "Shriners football All-Star · North squad",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1990-shriners-roster-marc-fauci.webp",
+      "sourceLabel": "1990 Shriners roster · Marc Fauci, Saugus",
+      "sourceNote": "Named on the North roster for the 12th annual Shriners All-Star Football Classic, scheduled for June 15 at Boston University’s Nickerson Field. Game year and Saugus Class of 1990 supplied by Sal Nicolo."
+    },
+    {
+      "name": "Darren McCullough",
+      "position": "B",
+      "schoolClass": "Sr",
+      "year": 1986,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Offense",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1986-northeastern-conference-all-stars-mccullough-furey.webp",
+      "sourceLabel": "1986 Northeastern All-Stars · offense",
+      "sourceNote": "Season identified as 1986 by Sal Nicolo."
+    },
+    {
+      "name": "Larry Furey",
+      "position": "DL",
+      "schoolClass": "Jr",
+      "year": 1986,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Defense",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1986-northeastern-conference-all-stars-mccullough-furey.webp",
+      "sourceLabel": "1986 Northeastern All-Stars · defense",
+      "sourceNote": "Season identified as 1986 by Sal Nicolo."
+    },
+    {
+      "name": "Darren McCullough",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1986,
+      "publisher": "Divisional All-Stars",
+      "award": "Division 2 All-Star · Defense",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1986-divisional-all-stars-darren-mccullough.webp",
+      "sourceLabel": "The Divisional All-Stars · Division 2 defensive backs",
+      "sourceNote": "The clipping names Darren McCullough of Saugus among Division 2 defensive backs. Season identified as 1986 by Sal Nicolo."
+    },
+    {
       "name": "Darren McCullough",
       "position": "",
       "schoolClass": "",

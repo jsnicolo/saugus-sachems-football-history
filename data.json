@@ -2517,8 +2517,8 @@
       "record": "3 - 6 - 1",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Blair Hatch (Captain), Fred Staples (Captain), Darren McCullough (Captain)",
-      "awards": "Darren McCullough - Lynn Item and NEC",
+      "players": "Blair Hatch (Captain), Fred Staples (Captain), Darren McCullough (Captain), Larry Furey",
+      "awards": "Darren McCullough - Lynn Item, NEC (Offensive Back), and Division 2 defensive All-Star (DB)\nLarry Furey - NEC (Defensive Line)",
       "nickname": "Sachems",
       "sourceRow": 91,
       "games": [
@@ -2538,6 +2538,14 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "1986 Northeastern Conference All-Stars · McCullough and Furey",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1986-northeastern-conference-all-stars-mccullough-furey.webp"
+        },
+        {
+          "label": "Darren McCullough · 1986 Division 2 defensive All-Star",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1986-divisional-all-stars-darren-mccullough.webp"
         }
       ]
     },

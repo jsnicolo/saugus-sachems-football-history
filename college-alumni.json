@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-03",
+  "updated": "2026-11-05",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -264,6 +264,25 @@
         {
           "label": "Steve Peach college career statistics",
           "url": "https://www.sports-reference.com/cfb/players/steve-peach-2.html"
+        }
+      ]
+    },
+    {
+      "name": "Darren McCullough",
+      "gradYear": 1987,
+      "college": "Springfield College",
+      "position": "RB",
+      "rosterYears": "1987 (confirmed)",
+      "professional": "",
+      "notes": "Named on Springfield’s 1987 Chiefs football team roster in the 1988 Massasoit yearbook. A contributed Springfield roster also lists him as a 5-foot-11, 180-pound running back from Saugus High School.",
+      "sources": [
+        {
+          "label": "Springfield College · 1988 Massasoit, 1987 Chiefs team roster (printed p. 103, digital p. 107)",
+          "url": "https://cdm16122.contentdm.oclc.org/digital/collection/p16122coll9/id/17462/"
+        },
+        {
+          "label": "Contributed Springfield football roster · Darren McCullough, Saugus HS",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/springfield-roster-darren-mccullough.webp"
         }
       ]
     },
