@@ -201,11 +201,15 @@
     },
     {
       "name": "Charlie Murphy",
-      "position": "OL",
+      "position": "Guard",
       "schoolClass": "Sr",
       "year": 1951,
       "publisher": "Boston Globe",
-      "row": 12
+      "row": 12,
+      "award": "Boston Globe All-Scholastic (All-Class team)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1951-12-02-boston-globe-all-scholastic-charlie-murphy.webp",
+      "sourceLabel": "Boston Sunday Globe · December 2, 1951, p. 55",
+      "sourceNote": "Listed as Charles Murphy in the All-Class roster and Charlie Murphy in the portrait panel. The page credits the selections to Ernest Dalton, Gene Mack Jr. and Fran Rosa."
     },
     {
       "name": "Brendan Grocki",
