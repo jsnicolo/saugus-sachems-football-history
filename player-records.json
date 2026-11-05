@@ -1,6 +1,30 @@
 {
   "honors": [
     {
+      "name": "James MacDougal",
+      "position": "E",
+      "schoolClass": "",
+      "year": 1943,
+      "publisher": "Boston Globe",
+      "publication": "Essex County All-Star squad · Boston Globe report",
+      "award": "Essex County All-Star selection",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1943-boston-globe-essex-county-all-stars.webp",
+      "sourceLabel": "Boston Globe · November 28, 1943 roster",
+      "sourceNote": "Listed as James McDougal in this clipping. The article describes the squad as the consensus of 225 first-string players across Essex County."
+    },
+    {
+      "name": "Doug Waybright",
+      "position": "B",
+      "schoolClass": "",
+      "year": 1943,
+      "publisher": "Boston Globe",
+      "publication": "Essex County All-Star squad · Boston Globe report",
+      "award": "Essex County All-Star selection",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1943-boston-globe-essex-county-all-stars.webp",
+      "sourceLabel": "Boston Globe · November 28, 1943 roster",
+      "sourceNote": "The article describes the squad as the consensus of 225 first-string players across Essex County."
+    },
+    {
       "name": "Koby Jette",
       "position": "OL",
       "schoolClass": "Sr",

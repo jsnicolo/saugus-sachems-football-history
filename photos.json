@@ -972,6 +972,17 @@
     "dateSource": "Boston Globe clipping datelined October 23. Season identified by Sal Nicolo."
   },
   {
+    "file": "photos/1943-boston-globe-essex-county-all-stars.webp",
+    "thumb": "photos/thumb-1943-boston-globe-essex-county-all-stars.webp",
+    "title": "James McDougal and Doug Waybright · 1943 Essex County All-Stars",
+    "caption": "The Boston Globe’s November 28 report lists Saugus end James McDougal and back Doug Waybright on the 1943 Essex County high-school All-Star squad. The team was scheduled to face Boston suburban All-Stars at Manning Bowl on December 5. The article describes the selections as the consensus of 225 first-string players from across the county, with 11 school systems represented and ten team captains among those chosen. McDougal appears elsewhere in this archive as James MacDougal.",
+    "year": 1943,
+    "original": "1BA6800C-275D-492B-BF0C-4AC2415695D8.jpeg",
+    "category": "All-Star & All-Scholastic",
+    "golden": false,
+    "dateSource": "Boston Globe clipping datelined November 28, explicitly identifying the 1943 All-Stars."
+  },
+  {
     "file": "photos/IMG_3718.webp",
     "thumb": "photos/thumb-IMG_3718.webp",
     "title": "The 1944 Globe All-Scholastic teams",
@@ -1064,6 +1075,17 @@
         "golden": true
       }
     ]
+  },
+  {
+    "file": "photos/1944-boston-globe-doug-waybright-notre-dame.webp",
+    "thumb": "photos/thumb-1944-boston-globe-doug-waybright-notre-dame.webp",
+    "title": "Doug Waybright with Notre Dame’s local “Irish” · 1944",
+    "caption": "This Boston Globe photograph features Doug Waybright of Saugus with Notre Dame players and Coach Ed McKeever before a game against Dartmouth. Under the heading “Local Irish,” the printed caption identifies, from left to right, Steve Toczylowski of Lynn; McKeever, formerly of Boston College; Ed Clasby of Natick; Boley Dancewicz of Lynn; John Corbisiero of Medford; Waybright; and George Sullivan of East Walpole.",
+    "year": 1944,
+    "original": "F5EBF8F3-57EC-476B-A0C3-07237F2BFC70.jpeg",
+    "category": "College & Beyond",
+    "golden": false,
+    "dateSource": "Boston Globe photograph and caption. Year identified as 1944 by Sal Nicolo."
   },
   {
     "file": "photos/contributed-2591.webp",

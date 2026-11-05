@@ -730,13 +730,17 @@
       "league": "Independent ",
       "title": null,
       "players": "Doug Waybright (Captain), Art Spinney, James MacDougal",
-      "awards": null,
+      "awards": "James MacDougal — Essex County All-Star (End)\nDoug Waybright — Essex County All-Star (Back)",
       "nickname": "Sachems",
       "sourceRow": 40,
       "seasonSources": [
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1943 Essex County All-Star roster",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1943-boston-globe-essex-county-all-stars.webp"
         }
       ]
     },
