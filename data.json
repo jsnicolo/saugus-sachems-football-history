@@ -246,7 +246,7 @@
       "record": "0 - 9",
       "league": "North Shore League",
       "title": null,
-      "players": "Reggie Goss (Captain), Gilman Cann, John Leahy, Carroll Freeman",
+      "players": "Reginald “Reggie” Goss (Captain), Gilman Cann, John Leahy, Carroll Freeman",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 21,
@@ -254,6 +254,10 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "Newspaper clipping · Reginald Goss’s 1928 captaincy",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1928-reginald-goss-captain-scholarship.webp"
         }
       ]
     },
