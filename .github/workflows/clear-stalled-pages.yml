@@ -13,4 +13,4 @@ jobs:
       - name: Check whether GitHub cleared the canceled deployment
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh api repos/jsnicolo/saugus-sachems-football-history/pages/deployments/d0292c01f66c988700619c7602fd7e278340cd73/status
+        run: gh api repos/jsnicolo/saugus-sachems-football-history/pages/deployments/d0292c01f66c988700619c7602fd7e278340cd73
