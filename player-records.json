@@ -2111,6 +2111,72 @@
       "sourceUrl": "sources/1970-globe-steve-nelson-all-class-b.txt",
       "sourceLabel": "1970 Boston Globe preview · source excerpt",
       "sourceNote": "Peter Gammons’s 1970 preview identifies Nelson as All-Class B the previous season (1969). Selecting organization is not specified."
+    },
+    {
+      "year": 2008,
+      "name": "Brett Reid",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Divisional All-Stars",
+      "publication": "Eastern Massachusetts Division 3",
+      "award": "Eastern Massachusetts Division 3 All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-eastern-mass-division3-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
+    },
+    {
+      "year": 2008,
+      "name": "Brett Reid",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "publication": "Northeastern Conference · Small Division",
+      "award": "NEC Small All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-nec-small-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
+    },
+    {
+      "year": 2008,
+      "name": "Mike Dean",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Divisional All-Stars",
+      "publication": "Eastern Massachusetts Division 3",
+      "award": "Eastern Massachusetts Division 3 All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-eastern-mass-division3-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
+    },
+    {
+      "year": 2008,
+      "name": "Mike Dean",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "publication": "Northeastern Conference · Small Division",
+      "award": "NEC Small All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-nec-small-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
+    },
+    {
+      "year": 2008,
+      "name": "Anthony Barrasso",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Divisional All-Stars",
+      "publication": "Eastern Massachusetts Division 3",
+      "award": "Eastern Massachusetts Division 3 All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-eastern-mass-division3-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
+    },
+    {
+      "year": 2008,
+      "name": "Anthony Barrasso",
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
+      "publication": "Northeastern Conference · Small Division",
+      "award": "NEC Small All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-nec-small-all-stars.png",
+      "sourceLabel": "2008 All-Star selections · supplied clipping"
     }
   ],
   "alumni": [
@@ -6024,11 +6090,19 @@
       "name": "Brett Reid",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 13
+        "Touchdowns (type unspecified)": 13,
+        "Points": 82
       },
       "statSources": {
         "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3375.jpg"
+          "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
+        },
+        "Points": {
+          "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
         }
       }
     },
@@ -6052,11 +6126,19 @@
       "name": "Brett Reid",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 12
+        "Touchdowns (type unspecified)": 13,
+        "Points": 78
       },
       "statSources": {
         "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3378.jpg"
+          "clipping": "1D991A0F-C2A7-47A0-B3E9-9BF8EA5EC883.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
+        },
+        "Points": {
+          "clipping": "1D991A0F-C2A7-47A0-B3E9-9BF8EA5EC883.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
         }
       }
     },
@@ -6200,6 +6282,28 @@
         },
         "Touchdowns (type unspecified)": {
           "clipping": "IMG_4167.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2007,
+      "name": "Mike Dean",
+      "schoolClass": "Jr.",
+      "values": {
+        "Touchdowns (type unspecified)": 10,
+        "Points": 64
+      },
+      "statSources": {
+        "Touchdowns (type unspecified)": {
+          "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
+        },
+        "Points": {
+          "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
+          "note": "Division 3 scoring leaderboard; season identified by contributor."
         }
       }
     }
