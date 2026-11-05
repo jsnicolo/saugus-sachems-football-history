@@ -2923,8 +2923,8 @@
       "record": "3 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "George Lowe (Captain), Brian Mirisolo (Captain), Jason Katsos, Chris Venn, Mike Navarro",
-      "awards": "George Lowe - NEC, Lynn Item, and Agganis",
+      "players": "George Lowe (Captain), Brian Mirasolo (Captain), Jason Katsos, Chris Venn, Mike Navarro",
+      "awards": "George Lowe - NEC, Lynn Item, and Agganis; Brian Mirasolo - NEC All-Star",
       "nickname": "Sachems",
       "sourceRow": 106,
       "games": [
@@ -2940,9 +2940,13 @@
         {
           "label": "Thanksgiving result · IMG_3610.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        },
+        {
+          "label": "Brian Mirasolo · captain and NEC All-Star source transcription",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1999-brian-mirasolo-clipping.txt"
         }
       ],
-      "captainsNote": "Captain names supplied by Sal Nicolo."
+      "captainsNote": "George Lowe captain designation supplied by Sal Nicolo. Brian Mirasolo captain designation confirmed by supplied newspaper clipping; 1999 season identified by Sal Nicolo."
     },
     {
       "year": 2000,
