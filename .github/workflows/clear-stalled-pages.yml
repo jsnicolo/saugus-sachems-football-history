@@ -1,0 +1,16 @@
+name: Clear stalled Pages deployment
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/clear-stalled-pages.yml']
+permissions:
+  contents: read
+  pages: write
+jobs:
+  cancel-stalled-deployment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel the stalled Pages publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST repos/jsnicolo/saugus-sachems-football-history/pages/deployments/d0292c01f66c988700619c7602fd7e278340cd73/cancel
