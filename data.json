@@ -503,6 +503,95 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Yearbook · printed 1939 schedule",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-team-2730.webp"
+        },
+        {
+          "label": "Yearbook · Medford through Amesbury results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/tribute-2752.webp"
+        },
+        {
+          "label": "Yearbook · Woburn and Wakefield results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/tribute-2753.webp"
+        },
+        {
+          "label": "Yearbook · Gloucester through Salem results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/tribute-2755.webp"
+        },
+        {
+          "label": "Yearbook · Salem and Thanksgiving results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/tribute-2756.webp"
+        }
+      ],
+      "scheduleNote": "Scores are listed with Saugus first. The yearbook gives the Wakefield final as 13–7, while the Thanksgiving newspaper roundup lists 12–7. The Salem date is inferred from the yearbook’s account that the game filled the open November 25 slot before Thanksgiving.",
+      "games": [
+        {
+          "date": "1939-09-23",
+          "opponent": "Medford",
+          "result": "L 0–12",
+          "status": "Played"
+        },
+        {
+          "date": "1939-09-30",
+          "opponent": "Cambridge Latin",
+          "result": "W 12–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-10-07",
+          "opponent": "Melrose",
+          "result": "T 6–6",
+          "status": "Played"
+        },
+        {
+          "date": "1939-10-14",
+          "opponent": "Amesbury",
+          "result": "W 21–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-10-21",
+          "opponent": "Woburn",
+          "result": "W 6–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-10-28",
+          "opponent": "Wakefield",
+          "result": "W 13–7",
+          "status": "Played"
+        },
+        {
+          "date": "1939-11-04",
+          "opponent": "Gloucester",
+          "result": "W 26–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-11-11",
+          "opponent": "Swampscott",
+          "result": "W 20–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-11-18",
+          "opponent": "Marblehead",
+          "result": "W 40–0",
+          "status": "Played"
+        },
+        {
+          "date": "1939-11-25",
+          "opponent": "Salem",
+          "result": "W 3–0",
+          "status": "Played · date inferred"
+        },
+        {
+          "date": "1939-11-30",
+          "opponent": "Danvers",
+          "result": "W 38–6",
+          "status": "Played · Thanksgiving"
         }
       ]
     },
