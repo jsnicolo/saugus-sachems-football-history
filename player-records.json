@@ -1236,36 +1236,36 @@
     },
     {
       "year": 1941,
-      "name": "Collette",
+      "name": "Claude Collette",
       "position": "End",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1941,
-      "name": "Goclowski",
+      "name": "Stanley Wladkowski",
       "position": "End",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1941,
-      "name": "MacDonald",
+      "name": "Dick Macdonald",
       "position": "Tackle",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1941,
@@ -1280,25 +1280,25 @@
     },
     {
       "year": 1941,
-      "name": "Daniels",
+      "name": "Larry Daniels",
       "position": "Guard",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1941,
-      "name": "Flaherty",
+      "name": "Lennie Flaherty",
       "position": "Guard",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1941,
@@ -1324,14 +1324,14 @@
     },
     {
       "year": 1941,
-      "name": "Goss",
+      "name": "Welcome Goss",
       "position": "Back",
       "schoolClass": "",
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2690.webp",
       "sourceLabel": "1941 Globe selection scan",
-      "sourceNote": "Surname-only entries retain the newspaper spelling; first names require verification."
+      "sourceNote": "Player’s full name confirmed by Sal Nicolo."
     },
     {
       "year": 1944,
@@ -2117,7 +2117,7 @@
       "name": "John \"Iron Mike\" Harrington",
       "position": "Halfback / Co-Captain",
       "schoolClass": "1942",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nJohn “Iron Mike” Harrington was a leading halfback and two-time co-captain during one of Saugus High’s strongest early eras. He contributed to the 1939 North Shore championship team and held the ball for Joe Bucherie’s decisive field goal in the 3–0 victory over Salem. The yearbooks identify him as a co-captain for both the 1940 and 1941 seasons.\n\nAs a senior in 1941, Harrington helped Henry Toczylowski’s Sachems win the Class C state championship. The season review pairs him with Ed Shipulski as the team’s “touchdown twins.” Harrington scored the tying touchdown in the closing minute against Leominster, broke scoring runs of 37 yards against Gloucester and 47 yards against Swampscott, and threw the late touchdown pass to Claudio Collette that secured a 6–0 victory over Marblehead. His recognition included the Boston Globe’s 1941 All-Scholastic second team at back and its North Shore All-Scholastic eleven.\n\nHis 1942 senior biography records four years of football alongside participation in baseball, basketball, hockey and track. A later Saugus Advocate retrospective reports that a serious automobile accident after graduation curtailed his playing career and that he subsequently returned to Saugus as an assistant football coach.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nJohn “Iron Mike” Harrington was a leading halfback and two-time co-captain during one of Saugus High’s strongest early eras. He contributed to the 1939 North Shore championship team and held the ball for Joe Bucherie’s decisive field goal in the 3–0 victory over Salem. The yearbooks identify him as a co-captain for both the 1940 and 1941 seasons.\n\nAs a senior in 1941, Harrington helped Henry Toczylowski’s Sachems win the Class C state championship. The season review pairs him with Ed Shipulski as the team’s “touchdown twins.” Harrington scored the tying touchdown in the closing minute against Leominster, broke scoring runs of 37 yards against Gloucester and 47 yards against Swampscott, and threw the late touchdown pass to Claude Collette that secured a 6–0 victory over Marblehead. His recognition included the Boston Globe’s 1941 All-Scholastic second team at back and its North Shore All-Scholastic eleven.\n\nHis 1942 senior biography records four years of football alongside participation in baseball, basketball, hockey and track. A later Saugus Advocate retrospective reports that a serious automobile accident after graduation curtailed his playing career and that he subsequently returned to Saugus as an assistant football coach.",
       "row": 4,
       "hallOfFameYear": 1987,
       "sources": [
@@ -6387,7 +6387,7 @@
         "note": ""
       },
       {
-        "name": "Richard MacDonald",
+        "name": "Richard Macdonald",
         "footballEvidence": "Richard MacDonald: 1942 senior biography, Football 1, 2, 3, 4",
         "footballSourceYear": 1942,
         "nameAsListed": "Richard MacDonald",
