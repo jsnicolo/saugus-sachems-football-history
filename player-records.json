@@ -6,10 +6,10 @@
       "schoolClass": "Class of 1990",
       "year": 1990,
       "publisher": "Harry Agganis All-Star game",
-      "award": "Harry Agganis All-Star game selection · East squad",
+      "award": "Harry Agganis football All-Star · East MVP",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1990-agganis-roster-marc-fauci.webp",
       "sourceLabel": "1990 Agganis All-Stars roster · East, Marc Fauci, Saugus",
-      "sourceNote": "The article names Marc Fauci of Saugus on the East roster for the Agganis All-Star Classic, scheduled for July 27 at Manning Bowl. Game year identified as 1990 by Sal Nicolo."
+      "sourceNote": "The article names Marc Fauci of Saugus on the East roster for the Agganis All-Star Classic, scheduled for July 27 at Manning Bowl. Game year identified as 1990 by Sal Nicolo. The contributed Agganis program game history also names him East MVP."
     },
     {
       "name": "Marc Fauci",
@@ -2027,7 +2027,7 @@
       "year": 1976,
       "position": "RB",
       "schoolClass": "",
-      "publisher": "Harry Agganis",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceLabel": "1976 Agganis North roster",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/agganis-roster-1976.webp"
@@ -2036,19 +2036,22 @@
       "name": "Mark Spadafora",
       "year": 2004,
       "position": "OL/DL",
-      "schoolClass": "",
-      "publisher": "Harry Agganis",
+      "schoolClass": "Class of 2004",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
-      "sourceLabel": "Saugus season archive and contributor confirmation"
+      "sourceLabel": "Boston Globe · A beautiful mind, with brawn to spare",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2691.webp",
+      "sourceNote": "Summer 2004 Agganis football selection following the fall 2003 season; the Globe feature describes his selection as an offensive and defensive lineman and his graduation that spring."
     },
     {
       "name": "Anthony Barbanti",
       "year": 2004,
       "position": "OL/DL",
       "schoolClass": "",
-      "publisher": "Harry Agganis",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
-      "sourceLabel": "Saugus season archive and contributor confirmation"
+      "sourceLabel": "Saugus season archive and contributor confirmation",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
     },
     {
       "name": "Anthony Barbanti",
@@ -2064,7 +2067,7 @@
       "year": 1976,
       "position": "DE",
       "schoolClass": "",
-      "publisher": "Harry Agganis",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/agganis-roster-1976.webp",
       "sourceLabel": "1976 Agganis North roster"
@@ -2074,7 +2077,7 @@
       "year": 1976,
       "position": "T",
       "schoolClass": "",
-      "publisher": "Harry Agganis",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/agganis-roster-1976.webp",
       "sourceLabel": "1976 Agganis North roster"
@@ -2084,7 +2087,7 @@
       "year": 2017,
       "position": "—",
       "schoolClass": "Class of 2017",
-      "publisher": "Harry Agganis",
+      "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceLabel": "Salve Regina · 2017 Nick Ferrari football bio",
       "sourceUrl": "https://salveathletics.com/sports/football/roster/nick-ferrari/2888"
@@ -2210,6 +2213,226 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/2013-cape-ann-league-all-stars.webp",
       "sourceLabel": "2013 Cape Ann All-Star newspaper clipping",
       "sourceNote": "Supplied clipping lists Saugus selections Dan Cacciola, Brandon Grocki, and Justin Winn. Season identified as 2013 by Sal Nicolo."
+    },
+    {
+      "name": "Joe Attubato",
+      "year": 1994,
+      "position": "OL/DL",
+      "schoolClass": "Class of 1994",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star · game captain",
+      "sourceLabel": "Lynn Item · 1994 Saugus preview, continuation",
+      "sourceNote": "Mike Ginolfi identifies Joe Attubato as a captain in the Agganis game. The preceding page names the graduating player; the preview is for fall 1994.",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1994-item-attubato-agganis-captain.webp"
+    },
+    {
+      "name": "Ted Stephanides",
+      "year": 1995,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 1994 season",
+      "sourceNote": "Agganis selection listed with the fall 1994 season in the supplied records; displayed under the following summer game year (1995).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Mike Mabee",
+      "year": 1996,
+      "position": "QB",
+      "schoolClass": "Class of 1996",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Lynn Item · Hank Collins, Repeat Performances",
+      "sourceNote": "The clipping identifies Mike Mabee of Saugus among five athletes selected for both the Agganis football and baseball classics. Football game year follows his fall 1995 senior season.",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1996-item-mabee-agganis-two-sport.webp"
+    },
+    {
+      "name": "Carlo Abate",
+      "year": 1996,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 1995 season",
+      "sourceNote": "Agganis selection listed with the fall 1995 season in the supplied records; displayed under the following summer game year (1996).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "George Lowe",
+      "year": 2000,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 1999 season",
+      "sourceNote": "Agganis selection listed with the fall 1999 season in the supplied records; displayed under the following summer game year (2000).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Ryan Gould",
+      "year": 2001,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2000 season",
+      "sourceNote": "Agganis selection listed with the fall 2000 season in the supplied records; displayed under the following summer game year (2001).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Patrick Eaton",
+      "year": 2002,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2001 season",
+      "sourceNote": "Agganis selection listed with the fall 2001 season in the supplied records; displayed under the following summer game year (2002).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Pat Quinlan",
+      "year": 2002,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2001 season",
+      "sourceNote": "Agganis selection listed with the fall 2001 season in the supplied records; displayed under the following summer game year (2002).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Chris Benson",
+      "year": 2004,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2003 season",
+      "sourceNote": "Agganis selection listed with the fall 2003 season in the supplied records; displayed under the following summer game year (2004).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Mike Nicolo",
+      "year": 2005,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2004 season",
+      "sourceNote": "Agganis selection listed with the fall 2004 season in the supplied records; displayed under the following summer game year (2005).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Brian Bianchi",
+      "year": 2005,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2004 season",
+      "sourceNote": "Agganis selection listed with the fall 2004 season in the supplied records; displayed under the following summer game year (2005).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Rob Gannon",
+      "year": 2005,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2004 season",
+      "sourceNote": "Agganis selection listed with the fall 2004 season in the supplied records; displayed under the following summer game year (2005).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Alex Klimarchuk",
+      "year": 2006,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2005 season",
+      "sourceNote": "Agganis selection listed with the fall 2005 season in the supplied records; displayed under the following summer game year (2006).",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "John Coffey",
+      "year": 1978,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9035.webp",
+      "sourceLabel": "Agganis Football Classic program · 1978 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "Paul Nigro",
+      "year": 1979,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9035.webp",
+      "sourceLabel": "Agganis Football Classic program · 1979 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "Steve Peach",
+      "year": 1981,
+      "position": "QB",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9035.webp",
+      "sourceLabel": "Agganis Football Classic program · 1981 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "Joe Barressi",
+      "year": 1988,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star · East co-MVP",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9036.webp",
+      "sourceLabel": "Agganis Football Classic program · 1988 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "Chris Mikulski",
+      "year": 1991,
+      "position": "",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star · East MVP",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9036.webp",
+      "sourceLabel": "Agganis Football Classic program · 1991 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "L.J. McKanas",
+      "year": 1997,
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9036.webp",
+      "sourceLabel": "Agganis Football Classic program · 1997 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
+    },
+    {
+      "name": "Raphael Zammit",
+      "year": 1999,
+      "position": "RB",
+      "schoolClass": "",
+      "publisher": "Harry Agganis All-Star game",
+      "award": "Harry Agganis football All-Star · South MVP",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9036.webp",
+      "sourceLabel": "Agganis Football Classic program · 1999 game history",
+      "sourceNote": "The contributed program history explicitly identifies the Saugus player in this game. Year is the All-Star game year."
     }
   ],
   "alumni": [

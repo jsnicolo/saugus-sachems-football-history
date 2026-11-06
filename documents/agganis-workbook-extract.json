@@ -1,0 +1,139 @@
+{
+  "source": "Saugus Sachems Football History(1).xlsx",
+  "sheet": "Season Records",
+  "note": "Fall season rows. Summer All-Star game selections are displayed under the following calendar year in Honors. Original contributor spellings are preserved in this source extract.",
+  "rows": [
+    {
+      "row": 93,
+      "cells": {
+        "A93": "1989",
+        "B93": "Kevin Ward",
+        "C93": "4 - 6",
+        "D93": "Northeastern Conference",
+        "F93": "Marc Fauci",
+        "G93": "Marc Fauci - NEC (MVP), Boston Globe, Lynn Item, Agganis",
+        "H93": "Sachems"
+      }
+    },
+    {
+      "row": 99,
+      "cells": {
+        "A99": "1993",
+        "B99": "Mike Bontempo",
+        "C99": "0 - 10",
+        "D99": "Northeastern Conference",
+        "F99": "Joe Attubato",
+        "G99": "Joe Attubato - NEC, Lynn Item, and Agganis",
+        "H99": "Sachems"
+      }
+    },
+    {
+      "row": 100,
+      "cells": {
+        "A100": "1994",
+        "B100": "Mike Ginolfi",
+        "C100": "0 - 10",
+        "D100": "Northeastern Conference",
+        "F100": "Ted Stephanidies, Carlos Abate",
+        "G100": "Ted Stephanidies - NEC and Agganis\nCarlos Abate - Lynn Item and NEC",
+        "H100": "Sachems"
+      }
+    },
+    {
+      "row": 101,
+      "cells": {
+        "A101": "1995",
+        "B101": "Mike Ginolfi",
+        "C101": "6 - 5",
+        "D101": "Northeastern Conference",
+        "F101": "Mike Mabee, Matt Nazzaro, LJ McKanas, Derek Bilton, Carlos Abate",
+        "G101": "Mike Mabee - NEC, Lynn Item, and Agganis\nCarlos Abate - NEC, Lynn Item, and Agganis\nLJ McKanas - NEC",
+        "H101": "Sachems"
+      }
+    },
+    {
+      "row": 105,
+      "cells": {
+        "A105": "1999",
+        "B105": "Dean Sacca",
+        "C105": "3 - 8",
+        "D105": "Northeastern Conference",
+        "F105": "George Lowe, Brian Mirasolo",
+        "G105": "George Lowe - NEC, Lynn Item, and Agganis",
+        "H105": "Sachems"
+      }
+    },
+    {
+      "row": 108,
+      "cells": {
+        "A108": "2000",
+        "B108": "Dean Sacca",
+        "C108": "2 - 8",
+        "D108": "Northeastern Conference",
+        "F108": "Ryan Gould, Adam Magnasco, Billy Robinson",
+        "G108": "Ryan Gould - NEC, Lynn Item, and Agganis",
+        "H108": "Sachems"
+      }
+    },
+    {
+      "row": 109,
+      "cells": {
+        "A109": "2001",
+        "B109": "John Nicolo",
+        "C109": "2 - 9",
+        "D109": "Northeastern Conference",
+        "F109": "Pat Quinlan, Pat Eaton, Kyle Sucharewicz",
+        "G109": "Pat Eaton - NEC, Lynn Item, Agganis \nPat Quinlan - Agganis",
+        "H109": "Sachems"
+      }
+    },
+    {
+      "row": 110,
+      "cells": {
+        "A110": "2002",
+        "B110": "John Nicolo",
+        "C110": "1 - 10",
+        "D110": "Northeastern Conference",
+        "F110": "Dan Landry, Sal Nicolo, Chris Finn, Anthony \"Beave\" Barbanti",
+        "G110": "Anthony Barbanti - Lynn Item and NEC \nSal Nicolo - Agganis",
+        "H110": "Sachems"
+      }
+    },
+    {
+      "row": 111,
+      "cells": {
+        "A111": "2003",
+        "B111": "John Nicolo",
+        "C111": "3 - 8",
+        "D111": "Northeastern Conference",
+        "F111": "Mark Spadafora, Anthony \"Beave\" Barbanti, Chris Benson, Mike Nicolo",
+        "G111": "Mike Nicolo - NEC, Lynn Item \nAnthony Barbanti - NEC, Lynn Item, Shriners, Agganis \nChris Benson - Agganis\nMark Spadafora - NEC and Agganis",
+        "H111": "Sachems"
+      }
+    },
+    {
+      "row": 112,
+      "cells": {
+        "A112": "2004",
+        "B112": "John Nicolo",
+        "C112": "0 - 11",
+        "D112": "Northeastern Conference",
+        "F112": "Mike Nicolo, Brian Bianchi, Rob Gannon",
+        "G112": "Mike Nicolo - NEC and Agganis\nBrian Bianchi - NEC, Lynn Item, Agganis\nRob Gannon - Agganis",
+        "H112": "Sachems"
+      }
+    },
+    {
+      "row": 113,
+      "cells": {
+        "A113": "2005",
+        "B113": "Michael Broderick",
+        "C113": "1 - 10",
+        "D113": "Northeastern Conference - Small",
+        "F113": "Alex Klimarchuk",
+        "G113": "Alex Klimarchuk - NEC and Agganis",
+        "H113": "Sachems"
+      }
+    }
+  ]
+}
