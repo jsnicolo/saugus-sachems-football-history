@@ -28,3 +28,12 @@ Excluded hometown-only matches who represented other schools: Michael DiChiara (
 The retrospective claim about Eddie Maguire/McGuire playing in a Shriners game appears with his Indiana career and does not identify a high-school game/year. Do not turn it into a 1967 Massachusetts high-school selection. The [MHSFCA](https://www.mhsfca.net/shriner-classic.html) describes the modern Massachusetts high-school classic separately from college Shrine games.
 
 The four currently documented Saugus High Shriners selections are Darren McCullough (1987), Marc Fauci (1990), Joe Attubato (1994), and Anthony Barbanti (2004). Existing contributor-supported entries are retained; this is not a complete all-time roster.
+
+## Newly supplied contemporary sources · November 6, 2026
+
+The earlier pre-1976 gap is now partially resolved by two user-supplied Globe clippings, retained as source documents only, with no gallery entries.
+
+- 1956: Dick Barrows, Saugus, Essex backfield. Boston Daily Globe, December 1, 1956, Sports page 5, “12,000 Expected At Agganis Fund Game Tomorrow.” First annual game, December 2, 1956, Manning Bowl, 1:45 p.m. Saugus was represented in the inaugural game.
+- 1957: Dick Rohrbacher, Saugus, right guard, North Shore probable starting lineup. Boston Globe, December 8, 1957, page 51, “All-Star Starting Lineups.” Game that day at Manning Bowl, 1:30 p.m.
+
+These early editions were played in December; summer-only archive searches would miss them. Graduation classes remain unassigned without separate evidence. Future supplied images default to sources only unless the user requests gallery inclusion.
