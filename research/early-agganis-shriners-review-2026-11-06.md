@@ -37,3 +37,8 @@ The earlier pre-1976 gap is now partially resolved by two user-supplied Globe cl
 - 1957: Dick Rohrbacher, Saugus, right guard, North Shore probable starting lineup. Boston Globe, December 8, 1957, page 51, “All-Star Starting Lineups.” Game that day at Manning Bowl, 1:30 p.m.
 
 These early editions were played in December; summer-only archive searches would miss them. Graduation classes remain unassigned without separate evidence. Future supplied images default to sources only unless the user requests gallery inclusion.
+
+## 1958 selections supplied November 6, 2026
+
+- Mike Light, end, and John Naples, guard: listed as Light and Naples in the Lynn–Swampscott roster in the Globe report of the December 7 third annual Agganis game. Full names and Saugus affiliation identified by Sal Nicolo. Lynn–Swampscott won 14–6 over Salem–Beverly at Manning Bowl.
+- Boston Globe, Monday, December 1, 1958, “2 All-Star School Games Sunday,” explicitly explains that the Greater Lynn side included Saugus and other communities, resolving the roster’s regional team label. Both clippings are source documents only. Graduation classes not inferred.
