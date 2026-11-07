@@ -365,7 +365,11 @@
       "schoolClass": "Sr",
       "year": 1945,
       "publisher": "Boston Globe",
-      "row": 17
+      "row": 17,
+      "award": "Class B All-Scholastic team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1945-globe-jim-blundell-class-b.txt",
+      "sourceLabel": "Boston Globe · December 10, 1945 · Class B team (source transcription)",
+      "sourceNote": "Listed as Blundell, Saugus, at end under All-Scholastic “Class” Teams — Class B. Full name confirmed by Sal Nicolo. This source verifies and specifies the award on the existing honors record."
     },
     {
       "name": "AJ Guthro",
