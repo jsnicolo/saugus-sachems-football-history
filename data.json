@@ -1238,8 +1238,97 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1942 Thanksgiving preview, lineups and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "Boston Globe · November 26, 1942 Thanksgiving victory, 7–0",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-boston-globe-wakefield-win.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Leominster",
+          "result": "L 6–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 20–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Melrose",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Revere",
+          "result": "W 13–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "T 6–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 0–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "1942-11-26",
+          "opponent": "Wakefield",
+          "result": "W 7–0",
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-boston-globe-wakefield-win.webp"
+        }
+      ],
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Chelsea 7–0; Leominster 6–19; Woburn 20–0; Gloucester 20–0; Beverly 20–6; Amesbury 6–0; Melrose 0–6; Revere 13–12; Swampscott 6–6; Marblehead 0–13. Thanksgiving opponent: Wakefield, away, scheduled for 10 a.m. The preview does not give the Thanksgiving final; a separate Boston Globe game report confirms Saugus’s 7–0 victory on November 26, 1942.",
+      "scheduleNote": "The ten pre-Thanksgiving results are transcribed from the Boston Globe preview in printed order; individual dates are not shown. The separately documented Thanksgiving win completes the 7–3–1 record."
     },
     {
       "year": 1943,
