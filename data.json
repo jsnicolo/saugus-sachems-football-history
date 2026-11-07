@@ -371,18 +371,86 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Winchester",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "L 0–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Angel Guardian",
+          "result": "L 6–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "T 13–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 6–25",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 2–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 2–33",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "St. John's",
+          "result": "W 31–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
           "opponent": "Danvers",
           "result": "T 0–0",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3294.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        },
+        {
+          "label": "Boston Globe · 1933 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
         }
-      ]
+      ],
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Winchester 0–6; Lynn English 0–12; Gloucester 6–0; Angel Guardian 6–19; Newburyport 13–13; Amesbury 6–25; Swampscott 2–6; Marblehead 2–33; St. John's 31–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score."
     },
     {
       "year": 1934,
@@ -397,18 +465,86 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Winchester",
+          "result": "L 0–6",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Ipswich",
+          "result": "W 19–0",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Malden Catholic",
+          "result": "T 0–0",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Concord",
+          "result": "T 6–6",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 7–17",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "T 0–0",
+          "status": "Forfeited · ineligible player; printed field score",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 6–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
           "opponent": "Danvers",
           "result": "W 14–0",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source. The first six games were forfeited for use of an ineligible player; displayed scores are those printed in the preview.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3294.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+        },
+        {
+          "label": "Boston Globe · 1934 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
         }
-      ]
+      ],
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Winchester 0–6*; Ipswich 19–0*; Malden Catholic 0–0*; Concord 6–6*; Amesbury 7–17*; Swampscott 0–0*; Newburyport 7–0; Marblehead 6–19; Gloucester 0–6. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. *The first six results are marked forfeited because of an ineligible player; these are the printed scores, not reconstructed official forfeit scores."
     },
     {
       "year": 1935,
@@ -419,7 +555,86 @@
       "players": "Gerard Brazis, Phillip Hallam, and Warren Vatcher, Burton Norton",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 30
+      "sourceRow": 30,
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Hudson 0–6; Ipswich 14–0; Gloucester 7–12; Concord 19–6; Stoneham 14–13; Amesbury 10–0; Swampscott 12–0; Newburyport 14–8; Marblehead 0–34. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.",
+      "seasonSources": [
+        {
+          "label": "Boston Globe · 1935 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Hudson",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Ipswich",
+          "result": "W 14–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 7–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Concord",
+          "result": "W 19–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Stoneham",
+          "result": "W 14–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "W 10–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 12–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "W 14–8",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 0–34",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 18–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source."
     },
     {
       "year": 1936,
@@ -430,7 +645,79 @@
       "players": "Will Norton, John Donnelly, Lew Fiske, Fran Oljey, Henry Wladowski",
       "awards": null,
       "nickname": "Sachems",
-      "sourceRow": 31
+      "sourceRow": 31,
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Thanksgiving tie score remains disputed (6–6 versus 0–0); a contemporary game report is needed.",
+      "seasonSources": [
+        {
+          "label": "Boston Globe · 1936 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        }
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Agawam",
+          "result": "L 13–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Barnstable",
+          "result": "W 18–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "St. John's",
+          "result": "L 2–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 0–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "L 0–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 6–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "T 6–6 / 0–0",
+          "status": "Thanksgiving · score conflict"
+        }
+      ],
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source. Thanksgiving score remains disputed."
     },
     {
       "year": 1937,
@@ -446,8 +733,85 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1937 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
         }
-      ]
+      ],
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Marblehead 13–6; Barnstable 32–0; Gloucester 13–7; Amesbury 13–0; Woburn 13–0; Newburyport 0–7; St. John's (Danvers) 21–0; Swampscott 0–19; Plymouth 33–7. Thanksgiving opponent: Danvers (listed as Holton in the clipping). The preview does not give the Thanksgiving final score.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 13–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Barnstable",
+          "result": "W 32–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 13–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "W 13–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 13–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "L 0–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "St. John's (Danvers)",
+          "result": "W 21–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 0–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Plymouth",
+          "result": "W 33–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "T 6–6",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source."
     },
     {
       "year": 1938,
@@ -459,7 +823,7 @@
       "awards": "Bob Burns - North Shore\nFrank DeMaso - North Shore",
       "nickname": "Sachems",
       "sourceRow": 33,
-      "seasonNote": "A contemporary “With the Schoolboys” report documents Saugus’s withdrawal from the Northeastern Conference effective June 30, 1938, approved by the athletic council and school committee. No official reason was stated.",
+      "seasonNote": "A contemporary “With the Schoolboys” report documents Saugus’s withdrawal from the Northeastern Conference effective June 30, 1938, approved by the athletic council and school committee. No official reason was stated.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Medford 0–13; Amesbury 0–12; Melrose 12–8; Marblehead 0–20; Woburn 26–0; Newburyport 26–0; Gloucester 8–20; Swampscott 8–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.",
       "seasonSources": [
         {
           "label": "Contemporary column · NEC withdrawal effective June 30, 1938",
@@ -468,8 +832,77 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1938 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Medford",
+          "result": "L 0–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 0–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Melrose",
+          "result": "W 12–8",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 0–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 26–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "W 26–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 8–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 8–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 6–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source."
     },
     {
       "year": 1939,
@@ -494,7 +927,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus finished the season as North Shore Champions.",
+      "seasonNote": "Saugus finished the season as North Shore Champions.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Wakefield 13–7; Swampscott 20–0; Marblehead 40–0; Medford 0–12; Melrose 6–6; Cambridge Latin 12–0; Amesbury 21–0; Gloucester 6–0; Woburn 6–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Globe preview prints Gloucester 6–0, while the yearbook gives 26–0; retain the yearbook result pending a game report. Its Wakefield 13–7 agrees with the yearbook.",
       "seasonSources": [
         {
           "label": "1942 yearbook · Class History, p. 39",
@@ -527,6 +960,10 @@
         {
           "label": "Yearbook · Salem and Thanksgiving results",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/tribute-2756.webp"
+        },
+        {
+          "label": "Boston Globe · 1939 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1939-globe-thanksgiving-preview.webp"
         }
       ],
       "scheduleNote": "Scores are listed with Saugus first. The yearbook gives the Wakefield final as 13–7, while the Thanksgiving newspaper roundup lists 12–7. The Salem date is inferred from the yearbook’s account that the game filled the open November 25 slot before Thanksgiving.",
@@ -613,8 +1050,85 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1940 Thanksgiving preview and season records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
         }
-      ]
+      ],
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Chelsea 7–13; Pawtucket 20–7; Melrose 13–13; Amesbury 0–6; Woburn 7–7; Wakefield 0–6; Revere 28–0; Swampscott 20–0; Marblehead 9–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "L 7–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Pawtucket",
+          "result": "W 20–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Melrose",
+          "result": "T 13–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "T 7–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Wakefield",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Revere",
+          "result": "W 28–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 9–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 13–0",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source."
     },
     {
       "year": 1941,

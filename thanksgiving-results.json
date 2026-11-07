@@ -184,72 +184,80 @@
     "opponent": "Danvers",
     "result": "T 0–0",
     "status": "Historical table, visually checked",
-    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome.",
+    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome. Boston Globe 1933 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_3294.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1934,
     "opponent": "Danvers",
     "result": "W 14–0",
     "status": "Historical table, visually checked",
-    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome.",
+    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome. Boston Globe 1934 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_3294.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1934-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1935,
     "opponent": "Danvers",
     "result": "W 18–12",
     "status": "Visually checked",
-    "note": "Yearbook explicitly labels 1935 season and Turkey-day classic, p. 44.",
+    "note": "Yearbook explicitly labels 1935 season and Turkey-day classic, p. 44. Boston Globe 1935 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_2721.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1935-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1936,
     "opponent": "Danvers",
     "result": "T 6–6 / 0–0",
     "status": "Score conflict",
-    "note": "Later historical table IMG_3294 lists 6–6. The contemporary 1938 withdrawal column recalls 6–6 and 0–0 in the preceding two years; the 1937 yearbook confirms 6–6 for 1937, suggesting 0–0 for 1936. Contemporary 1936 game report needed.",
+    "note": "Later historical table IMG_3294 lists 6–6. The contemporary 1938 withdrawal column recalls 6–6 and 0–0 in the preceding two years; the 1937 yearbook confirms 6–6 for 1937, suggesting 0–0 for 1936. Contemporary 1936 game report needed. Boston Globe 1936 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_3294.jpg; 1938 With the Schoolboys column",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1937,
     "opponent": "Danvers",
     "result": "T 6–6",
     "status": "Source supported",
-    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory.",
+    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory. Boston Globe 1937 preview independently confirms the Thanksgiving matchup under the name Holton; it does not report the final score.",
     "sourceFile": "IMG_2725.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1938,
     "opponent": "Danvers",
     "result": "W 6–0",
     "status": "Source supported",
-    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory.",
+    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory. Boston Globe 1938 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_2730.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1939,
     "opponent": "Danvers",
     "result": "W 38–6",
     "status": "Source supported",
-    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory.",
+    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory. Boston Globe 1939 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_2736.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1939-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1940,
     "opponent": "Danvers",
     "result": "W 13–0",
     "status": "Source supported",
-    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory.",
+    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory. Boston Globe 1940 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
     "sourceFile": "IMG_2741.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1940-globe-thanksgiving-preview.webp"
   },
   {
     "year": 1941,
