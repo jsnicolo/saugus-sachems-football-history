@@ -2826,6 +2826,28 @@
       "sourceNote": "Globe lists Babcock at back. Full name and familiar name verified in the 1943 Tontoquonian senior biography and football roster.",
       "identitySourceUrl": "https://archive.org/details/tontoquonian1943saug",
       "identitySourceLabel": "1943 Tontoquonian · senior biographies and 1942 football review"
+    },
+    {
+      "year": 1943,
+      "name": "James MacDougal",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1943-globe-honorable-mentions.txt",
+      "sourceLabel": "1943 Globe · honorable mentions clipping (source transcription)",
+      "sourceNote": "Listed as MacDougall under Ends; full name and preferred spelling confirmed by Sal Nicolo. Separate from his 1943 Essex County All-Star honor."
+    },
+    {
+      "year": 1943,
+      "name": "Art Spinney",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1943-globe-honorable-mentions.txt",
+      "sourceLabel": "1943 Globe · honorable mentions clipping (source transcription)",
+      "sourceNote": "Listed as Spinney under Ends; identified as Art Spinney by Sal Nicolo."
     }
   ],
   "alumni": [
