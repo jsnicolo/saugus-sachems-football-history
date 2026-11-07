@@ -2696,6 +2696,32 @@
       "sourceNote": "Globe lists Wendell Brooks; 1938 yearbook senior biography confirms his name and football participation.",
       "identitySourceUrl": "https://archive.org/details/tontoquonian1938saug",
       "identitySourceLabel": "1938 Tontoquonian · senior biographies and 1937 football review"
+    },
+    {
+      "year": 1938,
+      "name": "Robert “Bob” Burns",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1938-globe-honorable-mentions.txt",
+      "sourceLabel": "1938 Globe clipping · source transcription and identity notes",
+      "sourceNote": "Globe lists Burns among backs. The 1939 yearbook identifies Robert Burns, nicknamed Bob, and documents his football participation.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1939saug",
+      "identitySourceLabel": "Saugus yearbook · senior biography"
+    },
+    {
+      "year": 1938,
+      "name": "Frank DeMaso",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1938-globe-honorable-mentions.txt",
+      "sourceLabel": "1938 Globe clipping · source transcription and identity notes",
+      "sourceNote": "Globe lists De Maso among backs. The 1940 yearbook senior biography identifies Frank Demaso and documents his football participation; yearbook text also uses DeMaso.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1940saug",
+      "identitySourceLabel": "Saugus yearbook · senior biography"
     }
   ],
   "alumni": [
