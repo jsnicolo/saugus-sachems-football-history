@@ -2932,6 +2932,71 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-globe-saugus-selections.txt",
       "sourceLabel": "1949 Globe selections · source transcription",
       "sourceNote": "Listed as Quinlan, Saugus, under Honorable Mention — Backs. Full name confirmed by Sal Nicolo; separate from his Lynn Item honor."
+    },
+    {
+      "year": 1950,
+      "name": "Charles “Charlie” Woodell",
+      "position": "End",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1950-globe-saugus-honorable-mentions.txt",
+      "sourceLabel": "1950 Globe honorable mentions · source transcription and identity notes",
+      "sourceNote": "Listed as Woodell, Saugus, under Ends. Full name checked against the yearbook and existing archive records.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1951saug",
+      "identitySourceLabel": "1951 Tontoquonian · 1950 season and player identities"
+    },
+    {
+      "year": 1950,
+      "name": "Leo Kane",
+      "position": "Tackle",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1950-globe-saugus-honorable-mentions.txt",
+      "sourceLabel": "1950 Globe honorable mentions · source transcription and identity notes",
+      "sourceNote": "Listed as Kane, Saugus, under Tackles. Full name checked against the yearbook and existing archive records.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1951saug",
+      "identitySourceLabel": "1951 Tontoquonian · 1950 season and player identities"
+    },
+    {
+      "year": 1950,
+      "name": "Charles “Charlie” Murphy",
+      "position": "Guard",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1950-globe-saugus-honorable-mentions.txt",
+      "sourceLabel": "1950 Globe honorable mentions · source transcription and identity notes",
+      "sourceNote": "Listed as Murphy, Saugus, under Guards. Full name checked against the yearbook and existing archive records.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1951saug",
+      "identitySourceLabel": "1951 Tontoquonian · 1950 season and player identities"
+    },
+    {
+      "year": 1950,
+      "name": "Richard “Richie” Nicolo",
+      "position": "Quarterback",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1950-globe-saugus-honorable-mentions.txt",
+      "sourceLabel": "1950 Globe honorable mentions · source transcription and identity notes",
+      "sourceNote": "Listed as Nicolo, Saugus, under Quarterbacks. Full name checked against the yearbook and existing archive records.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1951saug",
+      "identitySourceLabel": "1951 Tontoquonian · 1950 season and player identities"
+    },
+    {
+      "year": 1950,
+      "name": "James “Jim” Driscoll",
+      "position": "Halfback",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1950-globe-saugus-honorable-mentions.txt",
+      "sourceLabel": "1950 Globe honorable mentions · source transcription and identity notes",
+      "sourceNote": "Listed as Driscoll, Saugus, under Halfbacks. Full name checked against the yearbook and existing archive records.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1951saug",
+      "identitySourceLabel": "1951 Tontoquonian · 1950 season and player identities"
     }
   ],
   "alumni": [
