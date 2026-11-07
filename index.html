@@ -40,6 +40,7 @@ function honorSeason(r){
  // Game-year selections follow the preceding fall season under these rules.
  if (/retrospective|all.time team/i.test(r.award||'')) return null;
  const year=Number(r.year);
+ if (Number.isInteger(r.seasonYear)) return r.seasonYear;
  return /shriner/i.test(r.publisher)||(/agganis/i.test(r.publisher)&&year>1970)?year-1:year;
 }
 function seasonHonors(year){
