@@ -853,7 +853,7 @@
       "record": "7 - 3",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ernie Anganis (Captain), Sardi Nicolo, Eugene Decereau, George Laskey",
+      "players": "Ernie Anganis (Captain), Sardi Nicolo, Eugene Decereau, George Laskey, Earl Dudman (QB)",
       "awards": "Eugene Decereau - Boston Globe, Lynn Item and North Shore\nGeorge Laskey -Boston Globe,  Lynn Item, and North Shore",
       "nickname": "Sachems",
       "sourceRow": 44,
@@ -878,6 +878,22 @@
         {
           "label": "Boston Globe · final School Grid Leaders standings: Saugus 7–3, fifth in Class B",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-boston-globe-final-class-b-standings.webp"
+        },
+        {
+          "label": "Boston Globe · 1947 Massachusetts All-Star selections · Laskey and Dudman",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-massachusetts-all-star-selections.webp"
+        },
+        {
+          "label": "Boston Globe · 1947 Massachusetts 40, New Hampshire 0 · Dudman game participation",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-massachusetts-new-hampshire-game.webp"
+        },
+        {
+          "label": "Boston Globe · 1947 Massachusetts All-Star game roster · Dudman at QB",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-massachusetts-game-roster.webp"
+        },
+        {
+          "label": "Boston Globe · 1947 Class B All-Stars · George Laskey (RB), Eugene Decereau (T)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-class-b-all-stars.webp"
         }
       ],
       "seasonNote": "Saugus finished 7–3 and ranked No. 5 in the final Class B standings. The Boston Globe’s School Grid Leaders table lists seven wins, three losses and no ties, with 54 rating points and a 5.40 average."

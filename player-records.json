@@ -321,11 +321,15 @@
     },
     {
       "name": "Eugene Decereau",
-      "position": "OL",
+      "position": "T",
       "schoolClass": "Sr",
       "year": 1947,
       "publisher": "Boston Globe",
-      "row": 15
+      "row": 15,
+      "award": "Class B All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-class-b-all-stars.webp",
+      "sourceLabel": "Boston Globe · 1947 Class All Star Teams",
+      "sourceNote": "The Class B team lists Laskey of Saugus at back and Decereau of Saugus at tackle. Year supplied by Sal Nicolo. This source specifies Class B All-Star honors."
     },
     {
       "name": "Justin Winn*",
@@ -341,7 +345,11 @@
       "schoolClass": "Sr",
       "year": 1947,
       "publisher": "Boston Globe",
-      "row": 16
+      "row": 16,
+      "award": "Class B All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-class-b-all-stars.webp",
+      "sourceLabel": "Boston Globe · 1947 Class All Star Teams",
+      "sourceNote": "The Class B team lists Laskey of Saugus at back and Decereau of Saugus at tackle. Year supplied by Sal Nicolo. This source specifies Class B All-Star honors."
     },
     {
       "name": "Tom Trainor",
@@ -2600,6 +2608,28 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1997-06-15-boston-globe-shriners-lj-mckanas.webp",
       "sourceLabel": "The Boston Sunday Globe · June 15, 1997 · Tom Wilcox · “Walker excels for North”",
       "sourceNote": "The report of the 19th annual Shriners Football Classic at Boston University’s Nickerson Field identifies L.J. McKanas of Saugus as scoring a two-point conversion run to give the North a 14–10 lead. North won 29–17. The game was played June 14, 1997, described as yesterday in the June 15 report."
+    },
+    {
+      "name": "Earl Dudman",
+      "position": "QB",
+      "year": 1947,
+      "publisher": "Massachusetts All-Stars",
+      "publication": "Massachusetts / Greater Boston All-Star team",
+      "award": "Massachusetts All-Star · played vs. New Hampshire",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-massachusetts-new-hampshire-game.webp",
+      "sourceLabel": "Boston Globe · Massachusetts defeats New Hampshire, 40–0, November 29, 1947",
+      "sourceNote": "Earl Dudman of Saugus is listed at quarterback in the Massachusetts roster; the game account also describes Dudman carrying the ball. Massachusetts won 40–0 at Bellamy Field in Dover, New Hampshire. The pregame selection article also names him. Year supplied by Sal Nicolo."
+    },
+    {
+      "name": "George Laskey",
+      "position": "RB",
+      "year": 1947,
+      "publisher": "Massachusetts All-Stars",
+      "publication": "Massachusetts / Greater Boston All-Star team",
+      "award": "Massachusetts All-Star · selected; did not play",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-massachusetts-all-star-selections.webp",
+      "sourceLabel": "Boston Globe · Greater Boston Group Overshadows Catholic, Hub All-Star Elevens",
+      "sourceNote": "Gene Mack Jr. names George Laskey of Saugus among players who accepted invitations for the November 29 game at Dover. Laskey does not appear in the supplied game roster; Sal Nicolo confirms he did not play. Selection is retained separately from participation. Year supplied by Sal Nicolo."
     }
   ],
   "alumni": [
