@@ -44,3 +44,16 @@ Selected image clues: `IMG_3109.jpg` (Doug Mackie 1975 All-Star capsule), `IMG_3
 3. Find early 1910s–1930s Saugus-to-college football roster evidence, particularly for 1922 and 1939 championship players.
 4. Verify roster-only professional affiliations separately from NFL game appearances and NFL tryouts.
 5. Recheck all 27 HEIC images when an image decoder is available.
+
+
+## November 7, 2026 — Class of 1967 follow-up
+
+- **Ed / Edward J. Maguire — Indiana: verified and added.** Indiana’s official record book lists letters in 1969 and 1970 (printed p. 55), defensive end (p. 49), 1970 second-team All-Big Ten (p. 102), and 34 career tackles for loss, 17 each in 1969 and 1970 (p. 79). The August 18, 1967 Globe Agganis preview identifies Ed Maguire of Saugus with Indiana; the school Hall of Fame roster identifies Edward J. MaGuire, SHS Class of 1967. Only verified letterwinner years are shown; no unsupported 1967–1968 roster years or professional affiliations were added.
+  - https://static.iuhoosiers.com/custompages/pdf/fb/2023/23-FB-Record_Book_Full.pdf
+  - documents/1967-08-18-globe-agganis-saugus.webp
+- **Jim / James Mancuso — Connecticut: not added; college football participation remains unconfirmed.** The same Globe preview identifies Jim Mancuso of Saugus with UConn, but this is a pre-enrollment affiliation rather than a college roster. UConn’s official historical letterwinner lists reviewed contain Nick Mancuso (1989–1991), not Jim/James; absence from a letterwinner list does not exclude freshman, reserve or non-lettering participation. An independently hosted football alumni list includes a James Mancuso without a year or hometown, which does not resolve identity. The university archives guide points to digitized 1950–1979 football press guides, but the collection returned a connection-verification challenge and was not accessible in this session. Check 1967 freshman and 1968–1970 varsity/reserve rosters or contemporary Connecticut Daily Campus reports before adding. Per contributor instruction, retain as pending until college football evidence is found.
+  - https://uconnhuskies.com/documents/download/2018/6/15/1644__datadump_MFootball_2005_MediaGuide_8__8-WholeSection.pdf (printed p. 180; PDF p. 14)
+  - https://uconnhuskies.com/documents/download/2018/6/15/1577__datadump_MFootball_2008_MediaGuide_7__Letterwinners.pdf
+  - https://guides.lib.uconn.edu/c.php?g=1403003&p=10382196
+  - https://hdl.handle.net/11134/20004:AthleticsPublications
+  - https://www.uconnbleedblue.com/playersAttending

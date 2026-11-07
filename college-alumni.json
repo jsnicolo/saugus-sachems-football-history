@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -142,6 +142,29 @@
         {
           "label": "Saugus Advocate retrospective",
           "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        }
+      ]
+    },
+    {
+      "name": "Ed Maguire",
+      "gradYear": 1967,
+      "college": "Indiana University",
+      "position": "DE",
+      "rosterYears": "1969–1970 (verified letterwinner years)",
+      "professional": "",
+      "notes": "Indiana’s official football record book lists Edward J. Maguire as a letterwinner in 1969 and 1970 and Ed Maguire as a defensive end. He earned second-team All-Big Ten recognition in 1970. The school credits him with 34 career tackles for loss, with 17 in each of those two seasons. Saugus Class of 1967; the August 18, 1967 Boston Globe Agganis preview identifies him as Ed Maguire of Saugus and lists Indiana as his intended college. Earlier college roster years have not been established.",
+      "sources": [
+        {
+          "label": "Indiana official football record book · letterwinners (printed p. 55); tackles for loss (p. 79); All-Big Ten second team (p. 102)",
+          "url": "https://static.iuhoosiers.com/custompages/pdf/fb/2023/23-FB-Record_Book_Full.pdf"
+        },
+        {
+          "label": "Boston Globe · August 18, 1967 · Agganis preview identifying Ed Maguire, Saugus (Indiana)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1967-08-18-globe-agganis-saugus.webp"
+        },
+        {
+          "label": "Saugus High Athletic Hall of Fame · Edward J. MaGuire, Class of 1967",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/shs-hall-of-fame-roster.pdf"
         }
       ]
     },
