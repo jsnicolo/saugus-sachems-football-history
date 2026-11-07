@@ -2068,7 +2068,7 @@
       "league": "Northeastern Conference",
       "title": null,
       "players": "Mike Light (Captain), John Naples (Captain)",
-      "awards": "John Naples - Lynn Item and North Shore\nMatt Light - Lynn Item and North Shore",
+      "awards": "John Naples — Lynn Item North Shore All-Star first team, guard; Mike Light — Lynn Item North Shore All-Star second team, end. Boston Globe All-Scholastic: William Banks — reserve, center; Thomas Paul Sullo — honorable mention, end; Edison Gerard Farrand — honorable mention, tackle; John James Naples — honorable mention, guard; Maher (first name unconfirmed) — honorable mention, back. Mike Light and John Naples — Harry Agganis All-Stars.",
       "nickname": "Sachems",
       "sourceRow": 57,
       "games": [
@@ -2088,6 +2088,10 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · 1958 All-Scholastic reserves and On the Bench",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp"
         }
       ]
     },
@@ -2151,7 +2155,7 @@
       "league": "Northeastern Conference",
       "title": null,
       "players": "Doc Williams (Captain), Vito Russo, John Matrona, Tim Churchard (Captain)",
-      "awards": "Vito Russo - Lynn Item and NEC\nJohn Matrona - Lynn Item and NEC",
+      "awards": "Vito Russo - Lynn Item and NEC\nJohn Matrona - Lynn Item and NEC\nJohn Matrona — Boston Globe All-Scholastic honorable mention, back (printed as Matrone).",
       "nickname": "Sachems",
       "sourceRow": 61,
       "games": [
@@ -2172,7 +2176,8 @@
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "honorsSourceNote": "Boston Globe 1960 All-Scholastic honorable mentions, backs: Matrone, Saugus. Correct name John Matrona cross-referenced to 1960 Item All-Star clipping and team records. Source-only image 5313CFA9-2450-4C18-80BD-D626B9B4AC01.jpeg."
     },
     {
       "year": 1961,

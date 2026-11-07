@@ -229,14 +229,15 @@
     },
     {
       "name": "William Banks",
-      "position": "OL",
+      "position": "Center",
       "schoolClass": "Sr",
       "year": 1958,
       "publisher": "Boston Globe",
       "row": 10,
-      "award": "All-Scholastic reserves · guard",
+      "award": "All-Scholastic reserve selection",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
-      "sourceLabel": "1958 Globe selection scan"
+      "sourceLabel": "1958 Globe selection scan",
+      "sourceNote": "Listed among reserve centers, and also repeated under On the Bench at center. Counted once at the higher reserve level. Confirmed by contributor-supplied 1958 Globe selection images, November 7, 2026."
     },
     {
       "name": "Ricky Martinez",
@@ -3110,6 +3111,56 @@
       "award": "All-Scholastic honorable mention (On the Bench)",
       "sourceLabel": "Boston Globe · 1957 All-Scholastic team · On the Bench, tackles",
       "sourceNote": "Contributor-supplied C7515AE0-116F-4B50-9E58-C3A3F4E6D619.jpeg, November 7, 2026 (source only). Listed under tackles in the “On the Bench” section with Saugus; surname printed as Rhorbacker. Correct name Dick Rohrbacher supplied by Sal Nicolo."
+    },
+    {
+      "name": "Thomas Paul Sullo",
+      "position": "End",
+      "year": 1958,
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention (On the Bench)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
+      "sourceLabel": "Boston Globe · 1958 All-Scholastic · On the Bench",
+      "sourceNote": "Surname listed in contributor-supplied 1958 Globe selection; full name confirmed by 1959 Tontoquonian senior biography. https://archive.org/details/tontoquonian1959saug"
+    },
+    {
+      "name": "Edison Gerard Farrand",
+      "position": "Tackle",
+      "year": 1958,
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention (On the Bench)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
+      "sourceLabel": "Boston Globe · 1958 All-Scholastic · On the Bench",
+      "sourceNote": "Surname listed in contributor-supplied 1958 Globe selection; full name confirmed by 1959 Tontoquonian senior biography. https://archive.org/details/tontoquonian1959saug"
+    },
+    {
+      "name": "John James Naples",
+      "position": "Guard",
+      "year": 1958,
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention (On the Bench)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
+      "sourceLabel": "Boston Globe · 1958 All-Scholastic · On the Bench",
+      "sourceNote": "Surname listed in contributor-supplied 1958 Globe selection; full name confirmed by 1959 Tontoquonian senior biography. https://archive.org/details/tontoquonian1959saug"
+    },
+    {
+      "name": "Maher (first name unconfirmed)",
+      "position": "Back",
+      "year": 1958,
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention (On the Bench)",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2683.webp",
+      "sourceLabel": "Boston Globe · 1958 All-Scholastic · On the Bench",
+      "sourceNote": "Listed at back for Saugus in the contributor-supplied 1958 Globe On the Bench list. The 1959 yearbook includes Thomas Maher and Patrick Maher; available evidence does not yet establish which player this is. Source-only images 8EADEEB0-6AAB-4F3F-8401-DAA3E8CE5BD5.jpeg and D8EA85B9-0BE0-449E-8215-645344A831ED.jpeg."
+    },
+    {
+      "name": "John Matrona",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "year": 1960,
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceLabel": "Boston Globe · 1960 All-Scholastic · Honorable Mention, backs",
+      "sourceNote": "Printed as Matrone, Saugus. Identified as John Matrona by the 1960 Lynn Item All-Star second-team clipping (photos/honors-IMG_3353.webp), the 1960 season roster, and the 1959 yearbook football team caption. Contributor-supplied source-only image 5313CFA9-2450-4C18-80BD-D626B9B4AC01.jpeg, November 7, 2026."
     }
   ],
   "alumni": [
@@ -4406,9 +4457,9 @@
     },
     {
       "name": "William Banks",
-      "position": "Guard",
+      "position": "Center",
       "schoolClass": "1959",
-      "bio": "William Banks earned Boston Globe recognition for his line play at Saugus High in 1958. The newspaper's December 7 All-Scholastic feature named him among its reserves at guard. His inclusion documents the Sachems' contribution to the region's accomplished linemen.",
+      "bio": "William Banks earned Boston Globe recognition for his line play at Saugus High in 1958. The newspaper's December 7 All-Scholastic feature named him among its reserves at center. His inclusion documents the Sachems' contribution to the region's accomplished linemen.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
         {
@@ -4416,7 +4467,7 @@
           "url": "https://archive.org/details/tontoquonian1959saug"
         },
         {
-          "label": "Globe, December 7, 1958 — reserves, guards",
+          "label": "Globe, December 7, 1958 — reserves, centers",
           "url": "photos/contributed-2683.webp"
         }
       ],
