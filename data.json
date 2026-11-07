@@ -1929,7 +1929,7 @@
     {
       "year": 1955,
       "coach": "John Janusas",
-      "record": "1 - 6",
+      "record": "1 - 7",
       "league": "Northeastern Conference",
       "title": null,
       "players": "Ned Orlando (Captain), Vinny Perillo (Captain)",
@@ -1939,12 +1939,54 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 0–34",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "L 7–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 13–25",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "L 0–39",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "L 0–25",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "L 7–12",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Revere",
+          "result": "W 19–6",
+          "status": "Played"
+        },
+        {
+          "date": "—",
           "opponent": "Peabody",
           "result": "L 6–14",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Results transcribed from the contributor-supplied 1955 Thanksgiving preview (Saugus column); game dates are not printed. The separately sourced Thanksgiving result is retained.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -1954,7 +1996,9 @@
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
         }
-      ]
+      ],
+      "seasonNote": "1955 results (Saugus score first): Gloucester 0–34; Lynn Classical 7–14; Marblehead 13–25; Lynn English 0–39; Chelsea 0–25; Winthrop 7–12; Revere 19–6. Thanksgiving: Peabody 6–14. Final record: 1–7.",
+      "scheduleSource": "Contributor-supplied 1955 Thanksgiving preview, “At Saugus (10),” Season Records, Saugus column. Source-only image: 84F676F9-2745-462B-BD9D-ED53FD25A821.jpeg; supplied November 7, 2026. Publication/date not visible in this crop."
     },
     {
       "year": 1956,
