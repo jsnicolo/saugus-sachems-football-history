@@ -2657,6 +2657,45 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1933-globe-red-doherty.txt",
       "sourceLabel": "Boston Globe · Dec. 4, 1933, p. 8 · source transcription",
       "sourceNote": "Listed at R.G. under Second Team in the Globe All-Interscholastic Team. Contributor-supplied clipping; full given name and graduation year not established."
+    },
+    {
+      "year": 1937,
+      "name": "Russell “Russ” Collamore",
+      "position": "Center",
+      "schoolClass": "Class of 1938",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1937-globe-honorable-mentions.txt",
+      "sourceLabel": "1937 Globe clipping · source transcription and identity notes",
+      "sourceNote": "Globe lists Russ Collomore; 1938 yearbook senior biography identifies Russell Collamore, nicknamed Russ, and records football participation.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1938saug",
+      "identitySourceLabel": "1938 Tontoquonian · senior biographies and 1937 football review"
+    },
+    {
+      "year": 1937,
+      "name": "George “Bud” McKay",
+      "position": "Back",
+      "schoolClass": "Class of 1938",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1937-globe-honorable-mentions.txt",
+      "sourceLabel": "1937 Globe clipping · source transcription and identity notes",
+      "sourceNote": "Globe lists Bud McKay; 1938 yearbook senior biography explicitly identifies George McKay as Bud and records football participation.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1938saug",
+      "identitySourceLabel": "1938 Tontoquonian · senior biographies and 1937 football review"
+    },
+    {
+      "year": 1937,
+      "name": "Wendell Brooks",
+      "position": "Back",
+      "schoolClass": "Class of 1938",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1937-globe-honorable-mentions.txt",
+      "sourceLabel": "1937 Globe clipping · source transcription and identity notes",
+      "sourceNote": "Globe lists Wendell Brooks; 1938 yearbook senior biography confirms his name and football participation.",
+      "identitySourceUrl": "https://archive.org/details/tontoquonian1938saug",
+      "identitySourceLabel": "1938 Tontoquonian · senior biographies and 1937 football review"
     }
   ],
   "alumni": [
