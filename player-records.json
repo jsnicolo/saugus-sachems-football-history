@@ -287,11 +287,15 @@
     },
     {
       "name": "Dan Murphy",
-      "position": "OL",
+      "position": "Guard",
       "schoolClass": "Sr",
       "year": 1949,
       "publisher": "Boston Globe",
-      "row": 13
+      "row": 13,
+      "award": "All-Scholastic reserve selection",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-globe-saugus-selections.txt",
+      "sourceLabel": "1949 Globe selections · source transcription",
+      "sourceNote": "Listed as Dan Murphy, Saugus, under Reserves — Guards."
     },
     {
       "name": "Justin Winn**",
@@ -303,11 +307,15 @@
     },
     {
       "name": "Salvatore 'Sardi' Nicolo",
-      "position": "RB",
+      "position": "Back",
       "schoolClass": "Sr",
       "year": 1949,
       "publisher": "Boston Globe",
-      "row": 14
+      "row": 14,
+      "award": "All-Scholastic first team",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-globe-saugus-selections.txt",
+      "sourceLabel": "1949 Globe selections · source transcription",
+      "sourceNote": "Listed as Sardi Nicolo, Saugus, at back on the main All-Scholastic team."
     },
     {
       "name": "Dan Cacciola",
@@ -2913,6 +2921,17 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1948-globe-ed-falasca.txt",
       "sourceLabel": "1948 Globe selections · reserves, guards (source transcription)",
       "sourceNote": "The clipping explicitly lists Ed Falasca, Saugus, under Reserves — Guards, above the separate Honorable Mention section. Season identified by Sal Nicolo."
+    },
+    {
+      "year": 1949,
+      "name": "Fred Quinlan",
+      "position": "Back",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-globe-saugus-selections.txt",
+      "sourceLabel": "1949 Globe selections · source transcription",
+      "sourceNote": "Listed as Quinlan, Saugus, under Honorable Mention — Backs. Full name confirmed by Sal Nicolo; separate from his Lynn Item honor."
     }
   ],
   "alumni": [
