@@ -364,8 +364,8 @@
       "record": "2 - 6 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Vincent Pendleton, Dizzy Pierce",
-      "awards": null,
+      "players": "Vincent Pendleton, Dizzy Pierce, “Red” Doherty (RG)",
+      "awards": "“Red” Doherty — Boston Globe All-Scholastic second team, right guard (1933).",
       "nickname": "Eagles",
       "sourceRow": 28,
       "games": [
@@ -448,6 +448,10 @@
         {
           "label": "Boston Globe · 1933 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "Boston Globe · December 4, 1933, p. 8 · Doherty second-team selection (source transcription)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1933-globe-red-doherty.txt"
         }
       ],
       "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Winchester 0–6; Lynn English 0–12; Gloucester 6–0; Angel Guardian 6–19; Newburyport 13–13; Amesbury 6–25; Swampscott 2–6; Marblehead 2–33; St. John's 31–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score."
