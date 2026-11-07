@@ -2186,7 +2186,7 @@
       "league": "Northeastern Conference",
       "title": null,
       "players": "Eric Wormstead (Captain), Tom Carr, Dick Allen (Captain)",
-      "awards": "Tom Carr - Lynn Item and NEC",
+      "awards": "Tom Carr - Lynn Item and NEC\nJohn Charles Woods — Boston Globe All-Scholastic honorable mention, guard (“On the Bench”).",
       "nickname": "Sachems",
       "sourceRow": 62,
       "games": [
@@ -2206,8 +2206,13 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "1962 Tontoquonian · John Charles Woods senior biography and football participation",
+          "url": "https://archive.org/details/tontoquonian1962saug"
         }
-      ]
+      ],
+      "honorsSourceNote": "Boston Globe 1961 On the Bench lists Woods, Saugus, under guards. Full name confirmed in 1962 Tontoquonian senior biography. Contributor image 5FD1FCA4-53BE-41CB-846C-F8A6C0888EBE.jpeg is source only."
     },
     {
       "year": 1962,
