@@ -4848,6 +4848,36 @@
         }
       ],
       "row": "Archive research, October 2026"
+    },
+    {
+      "name": "Robert “Bob” Osgood",
+      "position": "QB",
+      "schoolClass": "1970",
+      "hallOfFameYear": 1990,
+      "bio": "Bob Osgood, Saugus High Class of 1970, quarterbacked the Sachems before continuing his football career at the University of New Hampshire. The Saugus Advocate’s retrospective describes him as heavily recruited and identifies him as a starting quarterback at UNH. The university’s own archives confirm his membership on the 1973 football team under head coach Bill Bowes, identifying him by name in the team photograph. His complete college football seasons, individual statistics and starting assignments remain to be established from contemporary records.\n\nOsgood was also an accomplished basketball and baseball player at Saugus. He played three years of high-school basketball and was a right-handed pitcher on Saugus’s 1970 state-tournament baseball team. His two-sport college career is supported by UNH’s archives, which identify him in both the 1971 and 1972 baseball team photographs. The Advocate remembers him as an outstanding pitcher at UNH as well as a college quarterback.\n\nHe was inducted into the Saugus High School Athletic Hall of Fame in 1990. The Saugus Advocate later included him among its “Terrific Twenty-Five” Saugus Hall of Famers.",
+      "source": "UNH archival football and baseball team photographs; Saugus Advocate retrospective; Saugus High Athletic Hall of Fame roster.",
+      "sources": [
+        {
+          "label": "UNH · 1973 football team, Bob Osgood identified",
+          "url": "https://scholars.unh.edu/team_photos/506/"
+        },
+        {
+          "label": "UNH · 1971 baseball team",
+          "url": "https://scholars.unh.edu/team_photos/478/"
+        },
+        {
+          "label": "UNH · 1972 baseball team",
+          "url": "https://scholars.unh.edu/team_photos/491/"
+        },
+        {
+          "label": "Saugus Advocate · football, basketball, baseball and college career",
+          "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 1990",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ]
     }
   ],
   "stats": [
