@@ -4,16 +4,17 @@
 .brand{display:inline-flex;align-items:center;gap:12px}.brand-emblem{width:58px;height:58px;object-fit:contain;background:#fff;flex:none}@media(max-width:600px){.brand{font-size:13px}.brand-emblem{width:46px;height:46px}.hero-mark{width:88px;height:88px}.heroaside>.eyebrow{padding-right:92px}}.heritage-heading{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}.heritage-spear{display:block;width:260px;max-width:55vw;height:auto;mix-blend-mode:multiply}@media(max-width:600px){.heritage-heading{gap:0}.heritage-spear{width:180px;margin:0 0 16px}}.hero-aside-top{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;min-height:100px}.hero-mark{position:static;flex:none;width:88px;height:88px}.hero-aside-top .eyebrow{padding:0;min-width:0}.years{font-size:clamp(34px,9vw,52px);line-height:1.1;white-space:nowrap}.hero{align-items:center}.hero-art{margin:0;overflow:hidden;border:1px solid #a81525;background:#a81525;box-shadow:0 16px 40px #20232114}.hero-art img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover;object-position:center}.hero-art figcaption{padding:18px 22px;color:#fff;border-top:1px solid #ffffff35}.hero-art strong{display:block;font:700 24px Georgia,serif}.hero-art p{margin:7px 0 0;font-size:13px;line-height:1.5;color:#ffe3e5}@media(max-width:760px){.hero-art{width:100%;max-width:480px;justify-self:center}}
 /* Keep exit controls reachable in the installed app and at mobile safe areas. */
 dialog .close{position:sticky;top:0;z-index:20;min-width:64px;min-height:48px;font-size:17px;font-weight:700;touch-action:manipulation;border:2px solid var(--red);border-radius:6px;color:var(--red);background:#fff}
-#fullImageClose,#sourceClose{min-width:96px!important;min-height:50px!important;font-size:18px!important;font-weight:700;border:2px solid var(--red);border-radius:6px;background:#fff;color:var(--red);touch-action:manipulation;flex:none}
+#sourceClose{min-width:96px!important;min-height:50px!important;font-size:18px!important;font-weight:700;border:2px solid var(--red);border-radius:6px;background:#fff;color:var(--red);touch-action:manipulation;flex:none}
 #sourceDialog{padding:0;margin:0;border:0;width:100vw;max-width:100vw;height:100vh;height:100dvh;max-height:100dvh;background:#fff;color:var(--ink);overflow:hidden;box-sizing:border-box}
 #sourceDialog[open]{display:grid;grid-template-rows:auto minmax(0,1fr)}
 .source-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px;padding-top:max(12px,env(safe-area-inset-top));padding-left:max(12px,env(safe-area-inset-left));padding-right:max(12px,env(safe-area-inset-right));background:#fff;border-bottom:1px solid var(--line);z-index:20}
-.source-toolbar strong{font-size:16px;line-height:1.3}.source-toolbar a{display:inline-block;font-size:13px;margin-top:3px}
+.source-toolbar>div{min-width:0;overflow-wrap:anywhere}.source-toolbar strong{font-size:16px;line-height:1.3}.source-toolbar a:not([hidden]){display:inline-block;margin-right:12px;font-size:13px;margin-top:3px}
 #sourceBody{min-height:0;overflow:auto;overscroll-behavior:contain;padding-bottom:env(safe-area-inset-bottom)}
-#sourceFrame{display:block;width:100%;height:100%;min-height:0;border:0;background:#fff}
+#sourceImage:not([hidden]){display:block;margin:0 auto;max-width:100%;height:auto}
+#sourceFrame:not([hidden]){display:block;width:100%;height:100%;min-height:0;border:0;background:#fff}
 #sourceNote{padding:24px;max-width:800px;margin:0 auto;white-space:pre-line;font-size:18px;line-height:1.65}
 .source-note-button{min-height:48px;margin-top:8px;border:1px solid var(--line);background:#fff;color:var(--red);padding:10px 14px;border-radius:6px;font:inherit;font-weight:700;cursor:pointer;touch-action:manipulation}
-@media(max-width:600px){dialog:not(#fullImageDialog):not(#sourceDialog){padding:18px;max-height:90dvh;width:calc(100% - 20px)}dialog .close{top:0;margin-bottom:12px}#sourceNote{padding:20px}}
+@media(max-width:600px){dialog:not(#sourceDialog){padding:18px;max-height:90dvh;width:calc(100% - 20px)}dialog .close{top:0;margin-bottom:12px}#sourceNote{padding:20px}}
 </style></head><body><header><a class="brand" href="#"><img class="brand-emblem" src="logos/sachems-headdress-red-white.webp" alt="">SAUGUS FOOTBALL ARCHIVE</a><nav aria-label="Main navigation"><a href="#seasons">Seasons</a><a href="#thanksgiving">Thanksgiving</a><a href="#championships">Championships</a><a href="#players">Players</a><a href="#honors">Honors</a><a href="#alumni">Alumni</a><a href="#college-alumni">College & Beyond</a><a href="#hall-of-fame">Hall of Fame</a><a href="#head-coaches">Head Coaches</a><a href="#player-stats">Stats</a><a href="#gallery">Gallery</a><a href="#history">The history</a><a href="#sources">Sources</a></nav></header><main><div class="hero"><div><div class="eyebrow">Saugus, Massachusetts · Independent historical archive</div><h1>A small town.<br>A lasting <em>legacy.</em></h1><p class="lede">The teams, the players, and the stories behind more than a century of Saugus High School football.</p><a class="button" href="#seasons">Explore the seasons ↗</a></div><figure class="hero-art"><img src="logos/sachems-homepage.webp" alt="Saugus Sachems artwork in red and white" width="709" height="709" fetchpriority="high"><figcaption><strong>1901 — 2025</strong><p>Generations of Sachem pride. Every era has a story.</p></figcaption></figure></div><div class="app-promo" id="install"><img src="icons/sachems-headdress-192.png" alt="Sachems app icon"><div class="app-copy"><strong>Sachems history. On your home screen.</strong><p>Install the free app for quick access to the archive, photos, and records.</p></div><button class="button" id="appGuideButton" aria-haspopup="dialog">Get the free app ↗</button></div><div class="stats"><div class="stat"><strong id="count">—</strong><span>season entries in the collection</span></div><div class="stat"><strong>1914</strong><span>start of the regular season chronology</span></div><div class="stat"><strong>Red & white</strong><span>a community tradition</span></div></div>
 <section id="seasons"><div class="sectiontop"><div><div class="eyebrow">01 / The record book</div><h2>Season by season.</h2></div><span class="muted">Select a year for players, awards, and source details.</span></div><div class="tools"><input id="search" aria-label="Search seasons" placeholder="Search year, coach, player, or championship…"><select id="decade" aria-label="Filter decade"><option value="">Every decade</option></select><select id="sort" aria-label="Sort seasons"><option value="desc">Newest first</option><option value="asc">Oldest first</option></select></div><p class="muted" id="result" aria-live="polite"></p><div class="tablewrap"><table><thead><tr><th>Season</th><th>W–L–T</th><th>Head coach</th><th>Championship / distinction</th><th>Details</th></tr></thead><tbody id="rows"></tbody></table></div><p class="muted">Records are transcribed from the supplied workbook. “—” means not recorded, rather than zero. No season is inferred from a missing entry.</p></section>
 <section id="championships"><div class="eyebrow">02 / Teams to remember</div><div class="heritage-heading"><h2>Championship seasons.</h2><img src="logos/sachems-spear-right-red-white.webp" alt="" class="heritage-spear" width="260" height="98"></div><p class="muted">Source-supported historical class, regional, league and bowl honors. Each entry links to its evidence. Unverified claims and the unresolved 1959 title designation appear separately below.</p><div id="titles" class="grid"></div><details style="margin-top:28px"><summary>Titles under review · 1966, 1969 & 1987</summary><p>These claims are not included in the confirmed championship list. The school district recognizes the 1959 team as a championship team; a contemporary source confirming the exact North Shore League designation is still being sought.</p><div id="titleQuestions" class="grid"></div></details><p class="muted" id="rankingNote"></p></section>
@@ -68,7 +69,7 @@ const sourceFoot=s.seasonSources?.length?'See the linked sources for game result
 $('#detailbody').innerHTML=`<div class="eyebrow">Season archive</div><h2>${s.year} Saugus football</h2><span class="badge">${sourceLabel}</span><h3>${esc(s.record||'Record not recorded')}</h3>${s.recordNote?`<p><strong>Record status:</strong> ${esc(s.recordNote)}</p>`:''}<p><b>Head coach:</b> ${esc(s.coach||'Not recorded')}<br><b>League:</b> ${esc(s.league||'Not recorded')}<br><b>Nickname:</b> ${esc(s.nickname||'Not recorded')}</p><h3>Championships</h3><p>${esc(s.title||(s.championshipClaim?'Unverified claim: '+s.championshipClaim:'No title listed in source.'))}</p>${s.championshipNote?`<p>${esc(s.championshipNote)}</p>${championshipSources(s)}`:''}<h3>Notable players / captains</h3><p>${esc(s.players||'Not recorded')}</p>${s.captainsNote?`<p class="muted">${esc(s.captainsNote)}</p>`:''}<h3>Player Honors</h3><div id="season-player-honors">${seasonHonors(s)}</div><h3>Season Notes</h3>${s.seasonNote?`<p style="white-space:pre-line">${esc(s.seasonNote)}</p>`:''}${s.scheduleNote?`<p class="muted">${esc(s.scheduleNote)}</p>`: ''}${gameDetails}${sourceDetails}<p class="muted">Source: ${esc(sourceFoot)}</p>`;if(!$('#detail').open)$('#detail').showModal()}
 function render(){let a=data.seasons.filter(s=>(!$('#decade').value||Math.floor(s.year/10)*10===Number($('#decade').value))&&Object.values(s).join(' ').toLowerCase().includes($('#search').value.toLowerCase()));a.sort((a,b)=>$('#sort').value==='desc'?b.year-a.year:a.year-b.year);$('#rows').innerHTML=a.map(s=>`<tr><td><button class="link" onclick="showSeason(${s.year})">${s.year}</button></td><td style="white-space:nowrap">${esc(s.record||'—')}</td><td>${esc(s.coach||'—')}</td><td>${esc(s.title||'—')}</td><td><button class="link" onclick="showSeason(${s.year})" aria-label="Open ${s.year} details">View ↗</button></td></tr>`).join('');$('#result').textContent=a.length+' seasons shown';}
 function players(){const q=$('#playerSearch').value.toLowerCase(),type=$('#playerType').value;let a=data.seasons.filter(s=>(s.players||'').toLowerCase().includes(q)&&s.players).sort((a,b)=>a.year-b.year);let stories=data.history.filter(t=>t.length>180&&t.toLowerCase().includes(q)&&(!type||(type==='college'?/college|collegiat|profession|NFL|university/i.test(t):/hall of fame/i.test(t))));$('#playerResults').innerHTML=(type?'':`<div class="tablewrap" style="max-height:330px"><table><thead><tr><th>Season</th><th>Notable players / captains · workbook</th></tr></thead><tbody>${a.map(s=>`<tr><td><button class="link" onclick="showSeason(${s.year})">${s.year}</button></td><td>${esc(s.players)}</td></tr>`).join('')}</tbody></table></div>`)+`<p class="muted">${stories.length} matching historical passages · source supplied, verification pending</p>`+stories.map(t=>`<details><summary>${esc(t.slice(0,105))}…</summary><p>${esc(t)}</p><span class="badge">WRITTEN HISTORY</span></details>`).join('');}
-fetch('data.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{data=d;$('#count').textContent=data.seasons.length;[...new Set(data.seasons.map(s=>Math.floor(s.year/10)*10))].sort().forEach(n=>$('#decade').add(new Option(n+'s',n)));render();players();$('#titles').innerHTML=data.seasons.filter(s=>s.championshipStatus==='supported').map(s=>`<article class="card"><div class="year">${s.year}</div><span class="badge">${esc(s.championshipCategory)}</span><h3>${esc(s.title)}</h3><p>${esc(s.championshipNote)}</p>${championshipSources(s)}<button class="link" onclick="showSeason(${s.year})">Explore this team ↗</button></article>`).join('');$('#titleQuestions').innerHTML=data.seasons.filter(s=>s.championshipStatus==='unverified').map(s=>`<article class="card"><div class="year">${s.year}</div><h3>${esc(s.championshipClaim)}</h3><p>${esc(s.championshipNote)}</p>${championshipSources(s)}</article>`).join('');$('#rankingNote').textContent=data.championshipAudit.statewideRankingNote;let nav='';$('#historybody').innerHTML=data.history.slice(1).map((t,i)=>{if(t.length<100&&!/[.!?]$/.test(t)){let era=/^\d{4}.*[–—-]/.test(t)||t==='Introduction'||t==='Conclusion';if(era)nav+=`<a href="#h${i}">${esc(t)}</a>`;return `<${era?'h3':'h4'} id="h${i}">${esc(t)}</${era?'h3':'h4'}>`}return t.startsWith('Championship spotlight — ')?(()=>{const year=t.match(/^Championship spotlight — (\d{4}):/)[1],src=data.championshipHistorySources?.[year]||[];return `<p>${esc(t.replace(/^Championship spotlight — \d{4}: /,''))}</p><details><summary>${year} championship sources</summary>${src.map(x=>`<p><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.label)}</a></p>`).join('')}<p class="muted">Sources open in a separate tab. Close that tab to return to the history.</p></details>`})(): `<p>${esc(t)}</p>${t.startsWith('Charles T. Senay guided')?"<details><summary>1915–1916 historical sources</summary><p><strong>Season records:</strong> Saugus Sachems archive, 1915 (6–0) and 1916 (7–1).</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1915-part-15.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1915 Saugus Town Annual Report</a> — discusses the preceding fall.</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1916-part-13.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1916 Saugus Town Annual Report</a> — school spirit and Athletic Council.</p><p class=\"muted\">Links open in a separate tab; close the tab to return to this page.</p></details>":''}`}).join('');$('#historynav').innerHTML=nav;}).catch(()=>{$('#result').textContent='The archive could not load. Please refresh the page.'});
+fetch('data.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{data=d;$('#count').textContent=data.seasons.length;[...new Set(data.seasons.map(s=>Math.floor(s.year/10)*10))].sort().forEach(n=>$('#decade').add(new Option(n+'s',n)));render();players();$('#titles').innerHTML=data.seasons.filter(s=>s.championshipStatus==='supported').map(s=>`<article class="card"><div class="year">${s.year}</div><span class="badge">${esc(s.championshipCategory)}</span><h3>${esc(s.title)}</h3><p>${esc(s.championshipNote)}</p>${championshipSources(s)}<button class="link" onclick="showSeason(${s.year})">Explore this team ↗</button></article>`).join('');$('#titleQuestions').innerHTML=data.seasons.filter(s=>s.championshipStatus==='unverified').map(s=>`<article class="card"><div class="year">${s.year}</div><h3>${esc(s.championshipClaim)}</h3><p>${esc(s.championshipNote)}</p>${championshipSources(s)}</article>`).join('');$('#rankingNote').textContent=data.championshipAudit.statewideRankingNote;let nav='';$('#historybody').innerHTML=data.history.slice(1).map((t,i)=>{if(t.length<100&&!/[.!?]$/.test(t)){let era=/^\d{4}.*[–—-]/.test(t)||t==='Introduction'||t==='Conclusion';if(era)nav+=`<a href="#h${i}">${esc(t)}</a>`;return `<${era?'h3':'h4'} id="h${i}">${esc(t)}</${era?'h3':'h4'}>`}return t.startsWith('Championship spotlight — ')?(()=>{const year=t.match(/^Championship spotlight — (\d{4}):/)[1],src=data.championshipHistorySources?.[year]||[];return `<p>${esc(t.replace(/^Championship spotlight — \d{4}: /,''))}</p><details><summary>${year} championship sources</summary>${src.map(x=>`<p><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.label)}</a></p>`).join('')}<p class="muted">Choose Close × to return to the history.</p></details>`})(): `<p>${esc(t)}</p>${t.startsWith('Charles T. Senay guided')?"<details><summary>1915–1916 historical sources</summary><p><strong>Season records:</strong> Saugus Sachems archive, 1915 (6–0) and 1916 (7–1).</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1915-part-15.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1915 Saugus Town Annual Report</a> — discusses the preceding fall.</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1916-part-13.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1916 Saugus Town Annual Report</a> — school spirit and Athletic Council.</p><p class=\"muted\">Choose Close × to return to this page.</p></details>":''}`}).join('');$('#historynav').innerHTML=nav;}).catch(()=>{$('#result').textContent='The archive could not load. Please refresh the page.'});
 ['search','decade','sort'].forEach(id=>$('#'+id).addEventListener('input',render));['playerSearch','playerType'].forEach(id=>$('#'+id).addEventListener('input',players));$('#csv').onclick=()=>{const keys=['year','coach','record','league','title','players','awards','nickname'];const csv=[keys,...data.seasons.map(s=>keys.map(k=>s[k]||''))].map(row=>row.map(v=>'"'+String(v).replace(/"/g,'""')+'"').join(',')).join('\r\n');const u=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));const a=document.createElement('a');a.href=u;a.download='saugus-season-records.csv';a.click();URL.revokeObjectURL(u)};
 
 let playerRecords;
@@ -101,35 +102,100 @@ fetch('college-alumni.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)
 document.getElementById('collegeSearch').addEventListener('input',renderCollegeAlumni);
 fetch('player-records.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{playerRecords=d;refreshSeasonHonors();renderHonors();renderAlumni();hallOfFameOptions();statsOptions()}).catch(()=>{$('#honorCount').textContent='Player records could not load. Please refresh.';if(playerRecords===undefined){playerRecords=null;refreshSeasonHonors()}});
 ['honorSearch','honorPublisher'].forEach(id=>$('#'+id).addEventListener('input',renderHonors));$('#alumniSearch').addEventListener('input',renderAlumni);['hofSearch','hofInduction','hofSort'].forEach(id=>$('#'+id).addEventListener('input',renderHallOfFame));$('#statsCategory').addEventListener('change',statsOptions);['statsSearch','statsSort'].forEach(id=>$('#'+id).addEventListener('input',renderStats));
-</script><dialog class="install-dialog" id="appInstallDialog" aria-labelledby="appInstallTitle"><button class="close" id="appGuideClose" aria-label="Close installation instructions">Close ×</button><img src="icons/sachems-headdress-192.png" alt=""><h2 id="appInstallTitle">Take the Sachems with you.</h2><p>Free to install. The same growing archive, in its own app window. An internet connection is needed to browse the collection.</p><button class="button" id="appInstallButton" hidden>Install Sachems</button><p id="appInstallStatus" class="app-status" role="status"></p><h3>iPhone or iPad · Safari</h3><ol><li>Open this website in <strong>Safari</strong>. If you’re viewing it inside another app, open the link in Safari first.</li><li>Tap <strong>Share</strong> (the square with an up arrow), then <strong>Add to Home Screen</strong>. You may need to scroll through the actions.</li><li>Leave <strong>Open as Web App</strong> on if shown, then tap <strong>Add</strong>.</li></ol><h3>Android · Chrome</h3><ol><li>Open this website in <strong>Chrome</strong>.</li><li>Tap <strong>Install Sachems</strong> above when available, or open the <strong>⋮ menu</strong> and choose <strong>Add to Home screen</strong> or <strong>Install app</strong>.</li><li>Confirm <strong>Install</strong> or <strong>Add</strong>.</li></ol><p class="app-status">On a computer, use Chrome or Edge’s install option in the address bar or browser menu. Future website updates also appear in the app.</p></dialog><dialog id="fullImageDialog" aria-label="Full image viewer" style="padding:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;margin:0;border:0;box-sizing:border-box;overflow:auto;background:#fff;color:#202321"><div style="position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px;padding-top:max(12px,env(safe-area-inset-top));padding-right:max(12px,env(safe-area-inset-right));padding-left:max(12px,env(safe-area-inset-left));background:#fff;border-bottom:1px solid #ddd"><span>Full image</span><button type="button" id="fullImageClose" aria-label="Close full image" style="min-width:48px;min-height:48px;padding:10px 16px;font-size:18px;cursor:pointer">Close ×</button></div><img id="fullImageContent" alt="" style="display:block;max-width:100%;height:auto;margin:0 auto"></dialog><script>
+</script><dialog class="install-dialog" id="appInstallDialog" aria-labelledby="appInstallTitle"><button class="close" id="appGuideClose" aria-label="Close installation instructions">Close ×</button><img src="icons/sachems-headdress-192.png" alt=""><h2 id="appInstallTitle">Take the Sachems with you.</h2><p>Free to install. The same growing archive, in its own app window. An internet connection is needed to browse the collection.</p><button class="button" id="appInstallButton" hidden>Install Sachems</button><p id="appInstallStatus" class="app-status" role="status"></p><h3>iPhone or iPad · Safari</h3><ol><li>Open this website in <strong>Safari</strong>. If you’re viewing it inside another app, open the link in Safari first.</li><li>Tap <strong>Share</strong> (the square with an up arrow), then <strong>Add to Home Screen</strong>. You may need to scroll through the actions.</li><li>Leave <strong>Open as Web App</strong> on if shown, then tap <strong>Add</strong>.</li></ol><h3>Android · Chrome</h3><ol><li>Open this website in <strong>Chrome</strong>.</li><li>Tap <strong>Install Sachems</strong> above when available, or open the <strong>⋮ menu</strong> and choose <strong>Add to Home screen</strong> or <strong>Install app</strong>.</li><li>Confirm <strong>Install</strong> or <strong>Add</strong>.</li></ol><p class="app-status">On a computer, use Chrome or Edge’s install option in the address bar or browser menu. Future website updates also appear in the app.</p></dialog><dialog id="sourceDialog" aria-labelledby="sourceTitle">
+<div class="source-toolbar">
+ <div><strong id="sourceTitle">Archive source</strong><br><a id="sourceOriginal" target="_blank" rel="noopener noreferrer" hidden>Open original in browser ↗</a><a id="sourceDownload" download hidden>Download source ↓</a></div>
+ <button id="sourceClose" type="button" aria-label="Close source" autofocus>Close ×</button>
+</div>
+<div id="sourceBody">
+ <img id="sourceImage" alt="" hidden>
+ <p id="sourceNote" hidden></p>
+ <iframe id="sourceFrame" title="Archive source preview" referrerpolicy="no-referrer" hidden></iframe>
+</div>
+</dialog><script>
 (function(){
-const viewer=document.getElementById('fullImageDialog'), picture=document.getElementById('fullImageContent');
-document.getElementById('fullImageClose').addEventListener('click',()=>viewer.close());
-document.addEventListener('click',event=>{
-const link=event.target.closest('a[href]');if(!link)return;
-const url=new URL(link.href,location.href);
-if(!/\.(?:webp|jpe?g|png|gif)$/i.test(url.pathname))return;
-if(url.origin!==location.origin)return;
-event.preventDefault();picture.src=url.href;picture.alt=link.closest('figure')?.querySelector('strong')?.textContent||link.textContent.trim()||'Archive image';viewer.showModal();viewer.scrollTop=0;
-});
-viewer.addEventListener('close',()=>picture.removeAttribute('src'));
-})();
-</script><dialog id="sourceDialog" aria-labelledby="sourceTitle"><div class="source-toolbar"><div><strong id="sourceTitle">Archive source</strong><br><a id="sourceDownload" href="#" download hidden>Download PDF ↓</a></div><button id="sourceClose" type="button" aria-label="Close source or note">Close ×</button></div><div id="sourceBody"><iframe id="sourceFrame" title="Archive source document" hidden></iframe><p id="sourceNote" hidden></p></div></dialog><script>
-(function(){
-const dialog=document.getElementById('sourceDialog'),frame=document.getElementById('sourceFrame'),note=document.getElementById('sourceNote'),title=document.getElementById('sourceTitle'),download=document.getElementById('sourceDownload'),close=document.getElementById('sourceClose');
-function openSource(){dialog.showModal();document.getElementById('sourceBody').scrollTop=0;close.focus({preventScroll:true});}
-close.addEventListener('click',()=>dialog.close());
-dialog.addEventListener('close',()=>{frame.removeAttribute('src');frame.hidden=true;note.textContent='';note.hidden=true;download.hidden=true;});
-document.addEventListener('click',event=>{
-const button=event.target.closest('[data-source-note]');
-if(button){event.preventDefault();frame.hidden=true;note.hidden=false;note.textContent=button.dataset.sourceNote;title.textContent=button.dataset.sourceTitle||'Source note';download.hidden=true;openSource();return;}
-const link=event.target.closest('a[href]');if(!link||link.hasAttribute('download'))return;
-const url=new URL(link.href,location.href);if(url.origin!==location.origin||!/\.pdf$/i.test(url.pathname))return;
-event.preventDefault();title.textContent='Archive source · PDF';note.hidden=true;frame.hidden=false;frame.src=url.href;download.href=url.href.split('#')[0];download.hidden=false;openSource();
-});
+ const dialog=$('#sourceDialog'), body=$('#sourceBody'), frame=$('#sourceFrame'), image=$('#sourceImage'), note=$('#sourceNote');
+ const title=$('#sourceTitle'), original=$('#sourceOriginal'), download=$('#sourceDownload'), close=$('#sourceClose');
+ const imageFile=/\.(?:webp|jpe?g|png|gif|avif|svg)$/i;
+ const documentFile=/\.(?:pdf|txt|docx?|xlsx?|csv|zip)$/i;
+ const downloadFile=/\.(?:docx?|xlsx?|csv|zip)$/i;
+
+ function resetSource(){
+  frame.removeAttribute('src');
+  image.removeAttribute('src');
+  note.textContent='';
+  for(const item of [frame,image,note,original,download]) item.hidden=true;
+ }
+ function openSource(label){
+  title.textContent=label||'Archive source';
+  dialog.showModal();
+  body.scrollTop=0;
+ }
+ function showNote(text){
+  note.textContent=text;
+  note.hidden=false;
+ }
+ close.addEventListener('click',()=>{resetSource();dialog.close();});
+ dialog.addEventListener('cancel',resetSource);
+ image.addEventListener('error',()=>{
+  if(!dialog.open||image.hidden)return;
+  image.hidden=true;
+  original.href=image.src;
+  original.hidden=false;
+  showNote('The clipping could not load. Try opening the original in your browser.');
+ });
+
+ document.addEventListener('click',event=>{
+  if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+  const noteButton=event.target.closest('[data-source-note]');
+  if(noteButton){
+   event.preventDefault();
+   resetSource();
+   showNote(noteButton.dataset.sourceNote);
+   openSource(noteButton.dataset.sourceTitle||'Source note');
+   return;
+  }
+
+  const link=event.target.closest('a[href]');
+  if(!link||dialog.contains(link)||link.hasAttribute('download')||link.getAttribute('href').startsWith('#'))return;
+  const url=new URL(link.href);
+  if(!['http:','https:'].includes(url.protocol))return;
+  const isImage=imageFile.test(url.pathname);
+  if(!isImage&&!documentFile.test(url.pathname)&&link.target!=='_blank')return;
+
+  event.preventDefault();
+  resetSource();
+  const label=link.closest('figure')?.querySelector('strong')?.textContent||link.dataset.sourceTitle||link.textContent.trim().replace(/\s*↗$/,'');
+  const external=url.origin!==location.origin;
+  if(isImage){
+   image.alt=label||'Archive clipping';
+   image.hidden=false;
+   image.src=url.href;
+  }else{
+   original.href=url.href;
+   original.hidden=false;
+   if(!external&&/\.pdf$/i.test(url.pathname)){
+    download.href=url.pathname;
+    download.hidden=false;
+   }
+   if(downloadFile.test(url.pathname)){
+    showNote('Open the original file to view or download it.');
+   }else{
+    if(external){
+     frame.setAttribute('sandbox','allow-scripts');
+     showNote('If the publisher blocks the preview, use “Open original in browser” above.');
+    }else{
+     frame.removeAttribute('sandbox');
+    }
+    frame.hidden=false;
+    frame.src=url.href;
+   }
+  }
+  openSource(label);
+ });
 })();
 </script><script>
-fetch('thanksgiving-results.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(items=>{function showThanksgiving(){const q=document.getElementById('thanksgivingSearch').value.toLowerCase();document.getElementById('thanksgivingRows').innerHTML=items.filter(a=>[a.year,a.opponent,a.result,a.status,a.note].join(' ').toLowerCase().includes(q)).map(a=>`<tr><td>${esc(a.year)}</td><td>${esc(a.opponent)}</td><td>${esc(a.result)}</td><td><strong>${esc(a.status)}</strong><p>${esc(a.note)}</p>${a.sourceUrl?`<button class="link thanksgiving-source" data-url="${esc(a.sourceUrl)}" data-label="${esc(a.sourceFile)}">View source ↗</button>`:esc(a.sourceFile)}</td></tr>`).join('');document.querySelectorAll('.thanksgiving-source').forEach(b=>b.addEventListener('click',()=>{if(/\.(webp|jpg|jpeg|png)$/i.test(b.dataset.url)){document.getElementById('detailbody').innerHTML=`<h2>Thanksgiving source</h2><p>${esc(b.dataset.label)}</p><img src="${esc(b.dataset.url)}" alt="Historical Thanksgiving football source" style="max-width:100%;height:auto">`;document.getElementById('detail').showModal()}else{window.open(b.dataset.url,'_blank','noopener')}}))}document.getElementById('thanksgivingSearch').addEventListener('input',showThanksgiving);showThanksgiving()}).catch(()=>{document.getElementById('thanksgivingRows').innerHTML='<tr><td colspan="4">The Thanksgiving register could not load. Please refresh.</td></tr>'});
+fetch('thanksgiving-results.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(items=>{function showThanksgiving(){const q=document.getElementById('thanksgivingSearch').value.toLowerCase();document.getElementById('thanksgivingRows').innerHTML=items.filter(a=>[a.year,a.opponent,a.result,a.status,a.note].join(' ').toLowerCase().includes(q)).map(a=>`<tr><td>${esc(a.year)}</td><td>${esc(a.opponent)}</td><td>${esc(a.result)}</td><td><strong>${esc(a.status)}</strong><p>${esc(a.note)}</p>${a.sourceUrl?`<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener noreferrer" data-source-title="${esc(a.sourceFile)}">View source ↗</a>`:esc(a.sourceFile)}</td></tr>`).join('')}document.getElementById('thanksgivingSearch').addEventListener('input',showThanksgiving);showThanksgiving()}).catch(()=>{document.getElementById('thanksgivingRows').innerHTML='<tr><td colspan="4">The Thanksgiving register could not load. Please refresh.</td></tr>'});
 </script></body></html>
 
 
