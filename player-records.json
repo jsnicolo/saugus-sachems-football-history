@@ -534,7 +534,7 @@
       "row": 31
     },
     {
-      "name": "Ralphael Zammit",
+      "name": "Raphael Zammit",
       "position": "RB",
       "schoolClass": "Sr",
       "year": 1998,
@@ -3253,6 +3253,16 @@
           "url": "https://archive.org/details/tontoquonian1969saug"
         }
       ]
+    },
+    {
+      "year": 1998,
+      "name": "Raphael Zammit",
+      "position": "Tailback / Strong Safety",
+      "schoolClass": "Sr",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic first team",
+      "sourceUrl": "photos/1998-boston-globe-all-scholastic-football.webp",
+      "sourceLabel": "Boston Globe · 1998 All-Scholastic football team"
     }
   ],
   "alumni": [
@@ -5365,6 +5375,35 @@
         {
           "label": "Boston Evening Globe · August 6, 1970 · Agganis preview",
           "url": "documents/1970-08-06-boston-globe-agganis-bob-osgood.webp"
+        }
+      ]
+    },
+    {
+      "name": "Raphael Zammit",
+      "position": "RB / DB",
+      "schoolClass": "1999",
+      "source": "Newspaper clippings and college records.",
+      "bio": "Senior captain Raphael Zammit earned Boston Globe All-Scholastic honors at tailback and strong safety in 1998, along with Lynn Item and Northeastern Conference All-Star honors. He rushed for 1,481 yards and a school-record 21 rushing touchdowns, scored 25 total touchdowns and led Division 3 with 154 points. The Item reports 2,452 all-purpose yards and the Globe reports 2,453. On defense, he had 52 tackles, eight sacks and three interceptions, returning one for a touchdown. The Globe credited him with 2,891 rushing yards, 4,653 all-purpose yards and 41 touchdowns over his Saugus career.\n\nAt Curry College from 2000 through 2003, Zammit rushed for 4,353 career yards and 44 touchdowns. He earned second-team all-conference honors in 2000 and 2001, then first-team honors and conference Offensive Player of the Year in 2002 and 2003. As a junior in 2002, he was named a third-team running back on the Hewlett Packard Division III All-America team. Curry’s records also list third-team All-America honors in 2003. He rushed for 1,479 yards in 2002 and 1,587 in 2003.",
+      "sources": [
+        {
+          "label": "Daily Evening Item · 1998 senior profile",
+          "url": "photos/IMG_3359.webp"
+        },
+        {
+          "label": "Boston Globe · 1998 All-Scholastic football team",
+          "url": "photos/1998-boston-globe-all-scholastic-football.webp"
+        },
+        {
+          "label": "2002 Hewlett Packard Division III All-America team · third-team offense",
+          "url": "documents/2002-hewlett-packard-division-iii-all-america-football.pdf"
+        },
+        {
+          "label": "Curry College football records",
+          "url": "https://www.curryathletics.com/sports/fball/index"
+        },
+        {
+          "label": "NCAA Division III record book · career all-purpose yards",
+          "url": "https://fs.ncaa.org/Docs/stats/football_records/D2/2008/Division%20III.pdf"
         }
       ]
     }
@@ -7570,7 +7609,8 @@
       },
       "statSources": {
         "All-Purpose Yards": {
-          "clipping": "IMG_3359.jpg"
+          "clipping": "IMG_3359.jpg",
+          "note": "The Item reports 2,452 all-purpose yards and the Globe reports 2,453."
         }
       }
     },
