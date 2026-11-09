@@ -1603,9 +1603,30 @@
       "position": "RB",
       "schoolClass": "",
       "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Defense (Linebacker)",
+      "sourceUrl": "documents/1999-nec-all-stars-by-position.jpeg",
+      "sourceLabel": "Bob Monahan · 1999 NEC All-Stars by position",
+      "sourceNote": "The position-by-position list names Lowe at linebacker. He also played running back for Saugus."
+    },
+    {
+      "year": 1999,
+      "name": "Kyle Sucharewicz",
+      "position": "QB",
+      "schoolClass": "",
+      "publisher": "Northeastern Conference",
       "award": "NEC All-Star",
-      "sourceUrl": "https://archive.org/details/tontoquonian2000saug",
-      "sourceLabel": "2000 Tontoquonian · 1999 football review"
+      "sourceUrl": "documents/1999-northeastern-conference-all-stars.webp",
+      "sourceLabel": "1999 Northeastern Conference All-Stars · newspaper clipping"
+    },
+    {
+      "year": 1999,
+      "name": "Kyle Sucharewicz",
+      "position": "QB",
+      "schoolClass": "",
+      "publisher": "Boston Globe",
+      "award": "Division 3 All-Star",
+      "sourceUrl": "documents/1999-boston-globe-division-3-all-stars.jpeg",
+      "sourceLabel": "Boston Globe · 1999 Division 3 All-Stars"
     },
     {
       "year": 2000,
@@ -2149,13 +2170,13 @@
     {
       "year": 1999,
       "name": "Brian Mirasolo",
-      "position": "OG / NG",
+      "position": "OL / NG",
       "schoolClass": "",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
-      "sourceUrl": "documents/1999-brian-mirasolo-clipping.webp",
-      "sourceLabel": "Supplied newspaper clipping · original clipping",
-      "sourceNote": "Clipping identifies Mirasolo as a team captain and all-Northeastern Conference selection."
+      "award": "NEC All-Star · Defense (Defensive Tackle)",
+      "sourceUrl": "documents/1999-nec-all-stars-by-position.jpeg",
+      "sourceLabel": "Bob Monahan · 1999 NEC All-Stars by position",
+      "sourceNote": "The position-by-position list names Mirasolo at defensive tackle and prints his surname as Minasolo. The separate captain profile identifies Brian Mirasolo as an offensive guard and nose guard."
     },
     {
       "year": 1969,
