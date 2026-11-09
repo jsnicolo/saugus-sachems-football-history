@@ -687,7 +687,22 @@
       "schoolClass": "Jr",
       "year": 1985,
       "publisher": "Lynn Item",
-      "row": 50
+      "row": 50,
+      "sourceUrl": "photos/honors-IMG_4169.webp",
+      "sourceLabel": "The 1985 Item Football All-Stars · Darren McCullough"
+    },
+    {
+      "name": "Darren McCullough",
+      "position": "",
+      "schoolClass": "Jr. in 1985",
+      "year": 1986,
+      "seasonYear": 1985,
+      "publisher": "Harry Agganis All-Star game",
+      "publication": "Boston Globe · School Notebook",
+      "award": "Harry Agganis All-Star game selection · East squad",
+      "sourceUrl": "documents/1986-boston-globe-agganis-east-roster.webp",
+      "sourceLabel": "Boston Globe, School Notebook (1986) · Harry Agganis East roster",
+      "sourceNote": "Larry Ames lists McCullough as Saugus’s representative on the East roster for the 25th Harry Agganis All-Star football game, scheduled for August 1 at Manning Bowl in Lynn."
     },
     {
       "name": "Tim January",
@@ -4076,7 +4091,7 @@
       "name": "Darren McCullough",
       "position": "LB",
       "schoolClass": "1987",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1997.\n\nDarren McCullough ranks among the best all-around players in Sachems history and is one of the few Saugus players to earn Lynn Item All-Scholastic honors twice.\n\nAs a junior in 1985, he recorded 123 tackles and four interceptions while playing linebacker and defensive back. On offense, he rushed for 442 yards and added 232 receiving yards, finishing with six total touchdowns.\n\nAs a senior in 1986, McCullough again led the team in tackles and rushed for 1,081 yards and 11 touchdowns. His standout performance came against Danvers, when he rushed for 225 yards and four touchdowns while also making 16 tackles. That effort earned him the Item/Coca-Cola Gold Helmet Award.\n\nHis senior honors also included Northeastern Conference All-Star recognition at back and selection to the North squad for the 1987 Shriners Football Classic. He continued in college football at Springfield, whose 1987 roster lists him as a running back from Saugus.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1997.\n\nDarren McCullough ranks among the best all-around players in Sachems history and is one of the few Saugus players to earn Lynn Item All-Scholastic honors twice.\n\nAs a junior in 1985, he recorded 123 tackles and four interceptions while playing linebacker and defensive back. On offense, he rushed for 442 yards and added 232 receiving yards, finishing with six total touchdowns. He earned Northeastern Conference All-Star honors that season, and the Boston Globe listed him on the East roster for the 1986 Harry Agganis All-Star game.\n\nAs a senior in 1986, McCullough again led the team in tackles and rushed for 1,081 yards and 11 touchdowns. His standout performance came against Danvers, when he rushed for 225 yards and four touchdowns while also making 16 tackles. That effort earned him the Item/Coca-Cola Gold Helmet Award.\n\nHis senior honors also included Northeastern Conference All-Star recognition at back and selection to the North squad for the 1987 Shriners Football Classic. He continued in college football at Springfield, whose 1987 roster lists him as a running back from Saugus.",
       "row": 17,
       "hallOfFameYear": 1997,
       "sources": [
@@ -4087,6 +4102,10 @@
         {
           "label": "The 1985 Item Football All-Stars · Darren McCullough",
           "url": "photos/honors-IMG_4169.webp"
+        },
+        {
+          "label": "Boston Globe, School Notebook (1986) · Harry Agganis East roster",
+          "url": "documents/1986-boston-globe-agganis-east-roster.webp"
         },
         {
           "label": "The 1986 Item Football All-Stars · Darren McCullough",
