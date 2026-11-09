@@ -151,7 +151,7 @@
       ],
       "championshipStatus": "supported",
       "championshipCategory": "League · historical designation",
-      "seasonNote": "Saugus finished the season as Greater Lynn League Champions.",
+      "seasonNote": "Fred Beresford’s Warriors finished 9–0–2, the first Saugus High eleven reported to complete a season unbeaten. The opening 7–7 tie with Swampscott was followed by six consecutive wins in the contemporary score roundup. The Boston Globe singled out the 32–0 win over Somersworth, New Hampshire, and the scoreless tie against Coburn Classical Institute of Waterville, Maine.\n\nThe Globe reported that Saugus closed with a 20–9 victory over Woburn at Stackpole Field. Franklin “Ooze” Pike scored twice, including a first-quarter touchdown pictured in the paper. Captain Googie Amery passed, received and punted, Lester Pool was a speedy back, and Forrest Kenerson played quarterback.\n\nThe season is listed under Greater Lynn League champions in the archive. An in-season account quotes Beresford saying the team was claiming no title at that point, while the 1942 yearbook retrospectively refers to a 1922 Class C title.",
       "seasonSources": [
         {
           "label": "1922 clipping · no title claimed at that point",
@@ -164,8 +164,90 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "Boston Globe · standout school teams and the Coburn tie",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-globe-some-great-school-teams.webp"
+        },
+        {
+          "label": "Boston Globe · Woburn finale at Stackpole Field",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-boston-globe-saugus-woburn.jpeg"
+        },
+        {
+          "label": "Daily Evening Item · Franklin Pike and the 1922 lineup",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2750-1.webp"
+        },
+        {
+          "label": "Contemporary season review · first unbeaten Saugus High team",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "T 7–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Methuen",
+          "result": "W 14–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Wellesley",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Concord",
+          "result": "W 21–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly Trade",
+          "result": "W 39–3",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Somersworth (NH)",
+          "result": "W 32–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Coburn Classical Institute (ME)",
+          "result": "T 0–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-globe-some-great-school-teams.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 20–9",
+          "status": "Season finale",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-boston-globe-saugus-woburn.jpeg"
+        }
+      ],
+      "scheduleNote": "Nine of the eleven games are documented here. The opening seven follow the newspaper roundup. The Coburn game date and two other wins remain unverified."
     },
     {
       "year": 1923,
@@ -237,8 +319,13 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "1928 newspaper profile · Reginald Goss, returning starter and captain",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1928-reginald-goss-captain-scholarship.webp"
         }
-      ]
+      ],
+      "seasonNote": "Albion Rice’s Warriors won seven of eleven games. Captain John Leahy headed the postseason letter list. That same account identifies Reginald “Reggie” Goss as a 1927 regular and records his election as captain for the following season. Wally Gautreau, Arthur Martin and Stuart Kidder also appear in the season records."
     },
     {
       "year": 1928,
@@ -314,7 +401,7 @@
       "sourceRow": 26,
       "games": [
         {
-          "date": "—",
+          "date": "1931-11-26",
           "opponent": "Mission High (Roxbury)",
           "result": "W 19–6",
           "status": "Thanksgiving"
@@ -330,7 +417,8 @@
           "label": "Newspaper clipping · team captain",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2737.webp"
         }
-      ]
+      ],
+      "seasonNote": "Albion Rice’s Eagles finished 7–2 behind captain George Riley. The newspaper account of his election identifies James Muzzey as the outgoing 1930 captain. Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty and Joe Scarozza appear in the season roster. A retrospective Thanksgiving table credits Saugus with a 19–6 win over Mission High of Roxbury."
     },
     {
       "year": 1932,
@@ -932,7 +1020,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus finished the season as North Shore Champions.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Wakefield 13–7; Swampscott 20–0; Marblehead 40–0; Medford 0–12; Melrose 6–6; Cambridge Latin 12–0; Amesbury 21–0; Gloucester 6–0; Woburn 6–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Globe preview prints Gloucester 6–0, while the yearbook gives 26–0; retain the yearbook result pending a game report. Its Wakefield 13–7 agrees with the yearbook.",
+      "seasonNote": "Charles “Buzz” Harvey’s team won the North Shore championship and placed second in the state Class C standings, according to the town report. Co-captains Stan Green and Jim Duffy led a team that recovered from a 12–0 opening loss to Medford and went unbeaten over its final ten games. The yearbook results include seven shutouts, a 3–0 win over Salem and a 38–6 Thanksgiving win over Danvers.",
       "seasonSources": [
         {
           "label": "1942 yearbook · Class History, p. 39",
@@ -971,7 +1059,7 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1939-globe-thanksgiving-preview.webp"
         }
       ],
-      "scheduleNote": "Scores are listed with Saugus first. The yearbook gives the Wakefield final as 13–7, while the Thanksgiving newspaper roundup lists 12–7. The Salem date is inferred from the yearbook’s account that the game filled the open November 25 slot before Thanksgiving.",
+      "scheduleNote": "Scores are listed with Saugus first. The yearbook gives the Wakefield final as 13–7, while the Thanksgiving newspaper roundup lists 12–7. The Salem date is inferred from the yearbook’s account that the game filled the open November 25 slot before Thanksgiving. For Gloucester, the yearbook gives 26–0 and the Globe Thanksgiving preview gives 6–0. The table uses the yearbook score.",
       "games": [
         {
           "date": "1939-09-23",
@@ -1162,7 +1250,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Thanksgiving: Saugus beat Wakefield. The contemporary yearbook reports 12–6 and describes twelve Sachem points; a later historical table prints 13–6. The yearbook reading is preferred provisionally.",
+      "seasonNote": "Hank Toczylowski and assistant Edward Galligan installed a new system and guided the Sachems to the Class C state championship. Ed Shipulski scored twice in the 32–0 opener against Chelsea. Co-captain Mike Harrington scored in the final minute to earn the 6–6 tie with Leominster. Against Swampscott, Shipulski and Harrington broke early touchdown runs of 87 and 47 yards in a 34–13 win.\n\nHarrington threw to Claude Collette for the only touchdown in a 6–0 win over Marblehead. Welcome Goss scored both Saugus touchdowns in the 12–6 Thanksgiving win over Wakefield before a reported 10,000 at Stackpole Field. The Boston Globe and the yearbook agree on 12–6. A later rivalry table lists 13–6.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_2748.jpg",
@@ -1183,47 +1271,98 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · roster and printed schedule",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2586.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · closing games",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        },
+        {
+          "label": "Boston Globe · Welcome Goss scores twice against Wakefield",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
+        },
+        {
+          "label": "Boston Globe · ten-game preseason schedule and new coaches",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-saugus-eleven-title-drive.webp"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1941-09-12",
           "opponent": "Chelsea",
           "result": "W 32–0",
-          "status": "Played"
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
         },
         {
-          "date": "—",
+          "date": "1941-09-20",
           "opponent": "Woburn",
           "result": "W 13–0",
-          "status": "Played"
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
         },
         {
-          "date": "—",
+          "date": "1941-09-27",
           "opponent": "Leominster",
           "result": "T 6–6",
-          "status": "Played"
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
         },
         {
-          "date": "—",
+          "date": "1941-10-04",
           "opponent": "Gloucester",
           "result": "W 14–7",
-          "status": "Played"
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
         },
         {
-          "date": "—",
+          "date": "1941-10-11",
           "opponent": "Amesbury",
           "result": "W 34–0",
-          "status": "Played"
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2587.webp"
         },
         {
-          "date": "—",
+          "date": "1941-10-18",
+          "opponent": "Melrose",
+          "result": "W 13–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        },
+        {
+          "date": "1941-11-01",
+          "opponent": "Revere",
+          "result": "W 26–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        },
+        {
+          "date": "1941-11-08",
+          "opponent": "Swampscott",
+          "result": "W 34–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        },
+        {
+          "date": "1941-11-15",
+          "opponent": "Marblehead",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        },
+        {
+          "date": "1941-11-20",
           "opponent": "Wakefield",
           "result": "W 12–6",
-          "status": "Thanksgiving · score varies by source"
+          "status": "Thanksgiving · later table differs",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "The first nine dates follow the yearbook’s printed schedule. The Globe game report dates the Wakefield game November 20, while the yearbook schedule lists November 27.",
+      "recordNote": "The season register lists 10–0–1. The yearbook accounts document 9–0–1, and the contemporary final Class C standings count ten games. An additional win remains unverified."
     },
     {
       "year": 1942,
@@ -1328,7 +1467,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-boston-globe-wakefield-win.webp"
         }
       ],
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Chelsea 7–0; Leominster 6–19; Woburn 20–0; Gloucester 20–0; Beverly 20–6; Amesbury 6–0; Melrose 0–6; Revere 13–12; Swampscott 6–6; Marblehead 0–13. Thanksgiving opponent: Wakefield, away, scheduled for 10 a.m. The preview does not give the Thanksgiving final; a separate Boston Globe game report confirms Saugus’s 7–0 victory on November 26, 1942.",
+      "seasonNote": "Co-captains Doo Pendlebury and Lennie Flaherty led Toczylowski’s second Saugus team to 7–3–1. The Sachems shut out five opponents and edged Revere 13–12. At Wakefield’s Walton Field on Thanksgiving, Ed Godett found Russ Babcock for a third-quarter touchdown and Bob Connell kicked the extra point. That was the only scoring in the 7–0 win, played before about 2,000 fans.",
       "scheduleNote": "The ten pre-Thanksgiving results are transcribed from the Boston Globe preview in printed order; individual dates are not shown. The separately documented Thanksgiving win completes the 7–3–1 record."
     },
     {
@@ -1337,7 +1476,7 @@
       "record": "5 -4 - 1",
       "league": "Independent ",
       "title": null,
-      "players": "Doug Waybright (Captain), Art Spinney, James MacDougal",
+      "players": "Doug Waybright (Captain), James MacDougal (Captain), Art Spinney",
       "awards": "James MacDougal — Essex County All-Star (End)\nDoug Waybright — Essex County All-Star (Back)",
       "nickname": "Sachems",
       "sourceRow": 40,
@@ -1349,8 +1488,94 @@
         {
           "label": "Boston Globe · 1943 Essex County All-Star roster",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1943-boston-globe-essex-county-all-stars.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · complete 1943 results",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "label": "Boston Globe · Waybright scores three against Newburyport",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1943-boston-globe-saugus-newburyport-waybright.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · 1943 co-captains",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_1247.webp"
         }
-      ]
+      ],
+      "seasonNote": "Dave Lucey’s first Saugus team opened with three shutout wins and finished 5–4–1. Co-captain Doug Waybright scored three touchdowns in a 32–7 win over Newburyport after the Sachems led 20–0 at halftime. Saugus edged Marblehead 7–6 and played Wakefield to a scoreless Thanksgiving tie.\n\nWaybright (back) and fellow co-captain James MacDougal (end) made the Essex County All-Star roster for the December game scheduled at Manning Bowl. The Globe reported that the selections reflected voting by 225 first-string players.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Melrose",
+          "result": "L 0–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "1943-10-23",
+          "opponent": "Newburyport",
+          "result": "W 32–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "L 0–9",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 0–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 7–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        },
+        {
+          "date": "1943-11-25",
+          "opponent": "Wakefield",
+          "result": "T 0–0",
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
+        }
+      ],
+      "scheduleNote": "The yearbook supplies the ten results in order. Individual dates are shown where documented."
     },
     {
       "year": 1944,
@@ -1379,7 +1604,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus finished the season as Class B State Champions.",
+      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season. Art Spinney captained a defense that posted eight shutouts in ten games. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game.",
       "seasonSources": [
         {
           "label": "1945 yearbook · Class B championship",
@@ -1392,8 +1617,108 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · regular-season schedule and score table",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · opening victories",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2763.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · midseason recaps",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2765.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · closing wins and title clincher",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2766.webp"
+        },
+        {
+          "label": "1945 Tontoquonian · Class B title and Peabody postseason account",
+          "url": "https://archive.org/details/tontoquonian1945saug"
         }
-      ]
+      ],
+      "games": [
+        {
+          "date": "1944-09-23",
+          "opponent": "Watertown",
+          "result": "W 13–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-09-29",
+          "opponent": "Beverly",
+          "result": "W 31–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-10-06",
+          "opponent": "Chelsea",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-10-14",
+          "opponent": "Amesbury",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-10-23",
+          "opponent": "Melrose",
+          "result": "W 13–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-10-27",
+          "opponent": "Newburyport",
+          "result": "W 31–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-11-03",
+          "opponent": "Lynn Classical",
+          "result": "W 24–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-11-11",
+          "opponent": "Swampscott",
+          "result": "W 32–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-11-18",
+          "opponent": "Marblehead",
+          "result": "W 25–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "1944-11-23",
+          "opponent": "Wakefield",
+          "result": "W 26–0",
+          "status": "Thanksgiving · Class B title clinched",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/folio-IMG_2761-copy.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Peabody",
+          "result": "L 7–19",
+          "status": "Postseason",
+          "sourceUrl": "https://archive.org/details/tontoquonian1945saug"
+        }
+      ],
+      "scheduleNote": "Scores follow the yearbook’s schedule table, which gives the Swampscott win as 32–0. The same yearbook’s game recap says 31–0. The Peabody postseason game is separate from the 10–0 championship record."
     },
     {
       "year": 1945,
@@ -1407,13 +1732,76 @@
       "sourceRow": 42,
       "games": [
         {
-          "date": "—",
+          "date": "1945-09-22",
+          "opponent": "Watertown",
+          "result": "W 34–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-09-29",
+          "opponent": "Beverly",
+          "result": "L 6–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-10-06",
+          "opponent": "Chelsea",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-10-13",
+          "opponent": "Amesbury",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-10-20",
+          "opponent": "Revere",
+          "result": "W 21–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-10-27",
+          "opponent": "Lynn English",
+          "result": "T 0–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-11-03",
+          "opponent": "Lynn Classical",
+          "result": "W 14–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-11-10",
+          "opponent": "Swampscott",
+          "result": "W 34–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-11-17",
+          "opponent": "Marblehead",
+          "result": "L 0–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "date": "1945-11-24",
           "opponent": "Peabody",
           "result": "L 0–6",
-          "status": "Thanksgiving"
+          "status": "Manning Bowl · holiday series",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -1422,8 +1810,17 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · dated schedule and scores",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2591.webp"
+        },
+        {
+          "label": "Boston Globe · Jim Blundell All-Scholastic selection",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2660-hall.webp"
         }
-      ]
+      ],
+      "seasonNote": "Captain Bruce Waybright led the defending Class B champions. Saugus opened 34–0 against Watertown, shut out Chelsea, Amesbury and Revere, then tied Lynn English 0–0. The Sachems edged Lynn Classical 14–12 and beat Swampscott 34–13. Jim Blundell earned Class B All-Scholastic recognition.\n\nSaugus was 6–2–1 through Marblehead. The yearbook also lists a 6–0 loss to Peabody at Manning Bowl on November 24, which brings the ten listed results to 6–3–1. A later Item rivalry table groups that game with the Thanksgiving series."
     },
     {
       "year": 1946,
@@ -1467,13 +1864,76 @@
       "sourceRow": 44,
       "games": [
         {
-          "date": "—",
+          "date": "1947-09-20",
+          "opponent": "Brookline",
+          "result": "L 6–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-09-27",
+          "opponent": "Beverly",
+          "result": "W 7–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-10-04",
+          "opponent": "Chelsea",
+          "result": "W 21–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-10-11",
+          "opponent": "Amesbury",
+          "result": "W 14–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-10-18",
+          "opponent": "Revere",
+          "result": "W 13–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-10-24",
+          "opponent": "Lynn English",
+          "result": "W 14–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-11-01",
+          "opponent": "Lynn Classical",
+          "result": "L 7–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-11-08",
+          "opponent": "Swampscott",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-11-15",
+          "opponent": "Marblehead",
+          "result": "W 14–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "date": "1947-11-27",
           "opponent": "Peabody",
           "result": "L 0–13",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -1502,9 +1962,37 @@
         {
           "label": "Boston Globe · 1947 Class B All-Stars · George Laskey (RB), Eugene Decereau (T)",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1947-globe-class-b-all-stars.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · full ten-game schedule",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+        },
+        {
+          "label": "Boston Globe · comeback over Chelsea",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp"
+        },
+        {
+          "label": "Boston Globe · Laskey’s two scores against Amesbury",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp"
+        },
+        {
+          "label": "Boston Globe · shutout ends Lynn English’s streak",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-lynn-english.webp"
+        },
+        {
+          "label": "Boston Globe · midseason Class B ratings",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-class-b-lead.webp"
+        },
+        {
+          "label": "Boston Globe · Dudman’s punt return and Swampscott shutout",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp"
+        },
+        {
+          "label": "Boston Globe · Quinlan’s 66-yard touchdown",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp"
         }
       ],
-      "seasonNote": "Saugus finished 7–3 and ranked No. 5 in the final Class B standings. The Boston Globe’s School Grid Leaders table lists seven wins, three losses and no ties, with 54 rating points and a 5.40 average."
+      "seasonNote": "John Janusas’s first Saugus team finished 7–3 and No. 5 in the final Class B standings with 54 rating points and a 5.40 average. After falling one foot short of the goal line in a 12–6 opening loss to Brookline, the Sachems won five straight. They erased a 13–0 deficit to beat Chelsea 21–13, and George Laskey ran for 102 yards and scored twice against Amesbury, including a 60-yard pass play from Sardi Nicolo.\n\nSaugus beat Lynn English 14–0 in front of a reported 12,000 at Manning Bowl, ending English’s 11-game unbeaten run and moving Saugus to No. 1 in the midseason Class B ratings. Earl Dudman’s 86-yard punt return set up his sneak in the 20–0 Swampscott win, and Fred Quinlan ran 66 yards for a touchdown against Marblehead. Dudman played in the Massachusetts All-Star game. Laskey was selected for that game, did not play, and made the Class B team with tackle Eugene Decereau."
     },
     {
       "year": 1948,
@@ -1652,9 +2140,17 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Newspaper · Marblehead win and North Shore title report",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2725.webp"
+        },
+        {
+          "label": "Daily Evening Item · Sardi Nicolo All-Scholastic profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/nicolo-IMG_2525.webp"
         }
       ],
-      "seasonNote": "Saugus shared the North Shore title and won the Exchange Bowl 7–6 over Weymouth. Richie Nicolo threw the tying touchdown pass to his brother Sardi, and Leo Kane kicked the winning extra point."
+      "seasonNote": "After its only loss, 20–15 to Beverly, Saugus won nine straight games. The defense posted five consecutive shutouts from Amesbury through Swampscott. The 25–7 Marblehead win helped secure a share of the North Shore title with Gloucester, and Saugus beat Peabody 26–6 on Thanksgiving.\n\nIn the Exchange Bowl, Weymouth led 6–0 in the closing moments before Richie Nicolo found his brother Sardi for a 50-yard tying touchdown. Leo Kane kicked the extra point for the 7–6 win. Sardi led the North Shore in regular-season scoring with 99 points on 16 touchdowns and three extra points and earned All-Scholastic selections from the Item, Boston Globe and Boston Post."
     },
     {
       "year": 1950,
@@ -1679,7 +2175,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "The Sachems won their second straight Exchange Bowl, beating Brockton 30–12.",
+      "seasonNote": "After one-point and six-point losses to Lynn Classical and Beverly, Saugus won its last seven games played, including the Exchange Bowl. The yearbook credits Saugus with a 47–12 Thanksgiving win over Peabody, while a later Item table gives 47–14. The scheduled Swampscott game was canceled.\n\nQuarterback Richie Nicolo and co-captains Leo Kane and Ted Fredericks helped Saugus repeat as Exchange Bowl champions with a 30–12 win over Brockton. Charlie Murphy and Jim Driscoll were among the returning contributors from the bowl era.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_8924.JPG",
@@ -1704,6 +2200,10 @@
         {
           "url": "photos/1950-globe-brookline-preview.webp",
           "label": "1950 Boston Globe preview · Saugus vs. Brookline"
+        },
+        {
+          "label": "Daily Evening Item · Richie Nicolo All-Scholastic profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/nicolo-IMG_2524.webp"
         }
       ],
       "games": [
@@ -1788,13 +2288,77 @@
       "sourceRow": 50,
       "games": [
         {
+          "date": "1951-09-15",
+          "opponent": "Revere",
+          "result": "W 24–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-09-22",
+          "opponent": "Cambridge Latin",
+          "result": "W 20–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
           "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 14–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-10-06",
+          "opponent": "Marblehead",
+          "result": "L 7–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-10-13",
+          "opponent": "Brookline",
+          "result": "T 0–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-10-20",
+          "opponent": "Lynn English",
+          "result": "L 0–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-10-27",
+          "opponent": "Chelsea",
+          "result": "T 0–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-11-03",
+          "opponent": "Swampscott",
+          "result": "W 26–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-11-10",
+          "opponent": "Salem",
+          "result": "T 0–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "date": "1951-11-22",
           "opponent": "Peabody",
           "result": "W 15–0",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The Lynn Classical date is left open because the yearbook prints September 14 out of sequence.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -1807,8 +2371,25 @@
         {
           "label": "Charlie Murphy · Boston Globe All-Scholastic, December 2, 1951, p. 55",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1951-12-02-boston-globe-all-scholastic-charlie-murphy.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · dated results and roster",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2592.webp"
+        },
+        {
+          "label": "Boston Globe · Janusas returns two veterans",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1951-boston-globe-saugus-two-veterans.webp"
+        },
+        {
+          "label": "Boston Globe · Revere opener",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1951-boston-globe-saugus-revere-24-6.webp"
+        },
+        {
+          "label": "Boston Globe · Charlie Murphy Schoolboy Stars profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1951-boston-globe-charlie-murphy-schoolboy-stars.webp"
         }
-      ]
+      ],
+      "seasonNote": "After back-to-back Exchange Bowl titles, John Janusas returned only guard Charlie Murphy and Tony Serino, a fullback who moved to quarterback. Saugus spotted Revere six points in its opener and scored the next 24. Tony Serino found Bob Meagher for a 58-yard touchdown, and Charlie Murphy blocked a punt and returned it 32 yards for a score. Murphy earned All-Scholastic recognition in his senior season. The Sachems shut out Peabody 15–0 on Thanksgiving.\n\nThe ten results on the yearbook schedule page add up to 5–2–3. The season register lists 6–2–3, leaving one win to reconcile."
     },
     {
       "year": 1952,
@@ -1863,7 +2444,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus finished the season as North Shore League Champions.",
+      "seasonNote": "John Janusas returned nearly his entire lineup from the previous fall. Co-captains John Leahy and Doug MacNeill led the Sachems to 6–1–1 and the North Shore League title. Saugus opened with two shutouts, rallied for a 12–12 tie with Marblehead and edged Beverly 14–13 in a game that included a safety and a Charlie Lawrence touchdown pass to Mal Rice.\n\nChelsea handed Saugus its only regular-season loss. The Sachems rebounded with a 27–0 Dads’ Day win over Salem before 2,500, then beat Peabody 33–6 on Thanksgiving to clinch the title. The 18–6 Joyce Jamboree loss to Haverhill preceded the regular season.",
       "seasonSources": [
         {
           "label": "1954 yearbook · championship and season total",
@@ -1884,17 +2465,82 @@
         {
           "label": "Boston Globe · December 6, 1953 · All-Scholastic reserves and honorable mentions",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2661-hall.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · Lynn Classical through Chelsea",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "label": "Boston Globe · veteran roster and preseason outlook",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-globe-preseason-outlook.webp"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1953-09-18",
+          "opponent": "Haverhill",
+          "result": "L 6–18",
+          "status": "Preseason · Joyce Jamboree",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp"
+        },
+        {
+          "date": "1953-09-26",
+          "opponent": "Revere",
+          "result": "W 28–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp"
+        },
+        {
+          "date": "1953-10-02",
+          "opponent": "Lynn Classical",
+          "result": "W 21–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "date": "1953-10-10",
+          "opponent": "Marblehead",
+          "result": "T 12–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "date": "1953-10-17",
+          "opponent": "Beverly",
+          "result": "W 14–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "date": "1953-10-24",
+          "opponent": "Lynn English",
+          "result": "W 26–18",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "date": "1953-10-31",
+          "opponent": "Chelsea",
+          "result": "L 0–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp"
+        },
+        {
+          "date": "1953-11-14",
+          "opponent": "Salem",
+          "result": "W 27–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp"
+        },
+        {
+          "date": "1953-11-26",
           "opponent": "Peabody",
           "result": "W 33–6",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving · league title clinched",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "The 6–1–1 regular-season record excludes the preseason jamboree."
     },
     {
       "year": 1954,
@@ -2119,7 +2765,7 @@
       ],
       "championshipStatus": "supported",
       "championshipCategory": "League · historical designation",
-      "seasonNote": "Saugus finished the season as North Shore League Champions.",
+      "seasonNote": "John Janusas’s Sachems went 6–2–1 behind co-captains Dave Matthews and Jim Kelleher. Kelleher ran for touchdowns of 90 and seven yards in the 20–0 shutout of Lynn Classical, and Tim Churchard added a five-yard touchdown.\n\nAt Stackpole Field on Thanksgiving, Matthews threw a touchdown pass to Frank Bucchiere and ran in the extra points. Kelleher led the defense and Dick Burt scored from the one in the fourth quarter to close out a 14–6 win that ended Peabody’s Class A title bid. The school district recognizes the 1959 team on its championship banners.",
       "seasonSources": [
         {
           "label": "School championship-banner announcement",
@@ -2136,11 +2782,30 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · Kelleher’s 90-yard touchdown against Lynn Classical",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-kelleher-lynn-classical.png"
+        },
+        {
+          "label": "Boston Globe · Peabody Thanksgiving game report",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp"
+        },
+        {
+          "label": "Daily Evening Item · Matthews and Burt All-Star selections",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3351.webp"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1959-10-03",
+          "opponent": "Lynn Classical",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-kelleher-lynn-classical.png"
+        },
+        {
+          "date": "1959-11-26",
           "opponent": "Peabody",
           "result": "W 14–6",
           "status": "Thanksgiving"
@@ -2360,13 +3025,69 @@
       "championshipStatus": "unverified",
       "games": [
         {
-          "date": "—",
+          "date": "1966-09-24",
+          "opponent": "Boston College High",
+          "result": "W 33–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-class-a-contender.webp"
+        },
+        {
+          "date": "1966-10-01",
+          "opponent": "Beverly",
+          "result": "W 36–8",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-class-a-contender.webp"
+        },
+        {
+          "date": "1966-10-07",
+          "opponent": "Lynn Classical",
+          "result": "—",
+          "status": "Listed on schedule · score unverified",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp"
+        },
+        {
+          "date": "1966-10-15",
+          "opponent": "Marblehead",
+          "result": "—",
+          "status": "Listed on schedule · score unverified",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp"
+        },
+        {
+          "date": "1966-10-22",
+          "opponent": "Lynn English",
+          "result": "W 40–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-serino-lynn-english-40-0.webp"
+        },
+        {
+          "date": "1966-10-29",
+          "opponent": "Swampscott",
+          "result": "—",
+          "status": "Listed on schedule · score unverified",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp"
+        },
+        {
+          "date": "1966-11-05",
+          "opponent": "Winthrop",
+          "result": "W 35–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1966-boston-globe-saugus-winthrop-sixth-win.webp"
+        },
+        {
+          "date": "1966-11-11",
+          "opponent": "Salem",
+          "result": "—",
+          "status": "Listed on schedule · score unverified",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp"
+        },
+        {
+          "date": "1966-11-24",
           "opponent": "Peabody",
           "result": "W 48–0",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The dates follow the Globe’s preseason schedule. Five final scores are documented. Four opponents are shown as scheduled while their game reports are being located.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -2379,8 +3100,33 @@
         {
           "label": "Boston Globe · 1966 All-Scholastic honorable mentions · source only",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1966-globe-all-scholastic-honorable-mentions.webp"
+        },
+        {
+          "label": "Boston Globe · 2–0 start and Class A contention",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-class-a-contender.webp"
+        },
+        {
+          "label": "Boston Globe · 40–0 win over Lynn English",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-serino-lynn-english-40-0.webp"
+        },
+        {
+          "label": "Boston Globe · Winthrop win and Serino’s three touchdowns",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1966-boston-globe-saugus-winthrop-sixth-win.webp"
+        },
+        {
+          "label": "Boston Globe · unbeaten Swampscott matchup preview",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1966-10-28-globe-saugus-swampscott.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · squad, captains and game photos",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1966-2798.webp"
+        },
+        {
+          "label": "Boston Globe · printed nine-game schedule and roster",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/gallery-assets/globe-1966-1911/1966-globe-preseason-roster.webp"
         }
-      ]
+      ],
+      "seasonNote": "Walter Sheridan’s third Saugus team opened 5–0 and finished 7–2. Jim Paolini scored three times in the 36–8 Beverly win. Against Lynn English, Christie Serino scored twice in a 40–0 victory that put Saugus atop the North Shore League at that point. The Globe previewed a matchup with Swampscott with both teams unbeaten.\n\nSerino ran for touchdowns of 22 and 20 yards and passed 25 yards to Chuck Bilton for another. Saugus led Winthrop 29–0 at halftime and won 35–14, its sixth win in seven games. The Sachems closed with a 48–0 Thanksgiving shutout of Peabody. The Item named six Saugus players to its regional All-Star team, including tackle and co-captain John Dancewicz."
     },
     {
       "year": 1967,
@@ -2468,12 +3214,69 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Boston College High",
+          "result": "W 29–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 28–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 3–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 12–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "W 28–26",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 6–27",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 30–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Watertown",
+          "result": "W 29–12",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "date": "1969-11-27",
           "opponent": "Peabody",
           "result": "L 6–30",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The yearbook gives all nine scores in order. The Thanksgiving finale is the dated game shown here.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -2482,8 +3285,17 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · nine-game score table",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2797.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · season review and NEC honors",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season1969-2796.webp"
         }
-      ]
+      ],
+      "seasonNote": "Paul Maguire’s Sachems won seven games for only the second time in 19 years, according to the yearbook. Saugus won its first five, including a 3–0 shutout of Woburn and a 28–26 win over Newburyport. Its two losses came against state class champions Swampscott (Class B) and Peabody (Class A).\n\nBob Osgood and Bill Eichel made the Northeastern Conference first team on offense, and Steve Nelson made the first team on defense. Rich DeSisto and captains Bill Babcock, Rich Conti and John Richard received honorable mentions."
     },
     {
       "year": 1970,
@@ -2724,7 +3536,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus shared the Northeastern Conference title. Doug Mackie earned Parade All-American honors and All-Scholastic selections from the Boston Globe and the Herald American/Herald Advertiser. John Nicolo rushed for 134 yards on 29 carries and kicked the winning extra point in the 15–14 comeback over Salem. Jay LeBranti threw the 25-yard touchdown pass to Frank Scuzzarella with 47 seconds left (Item game report preserved in the gallery).",
+      "seasonNote": "Mike Ginolfi’s Sachems went 9–1 and shared the Northeastern Conference title. They posted six shutouts and won their last six games after losing to Swampscott. Against Salem, Saugus trailed 14–0 at halftime. An 80-yard, 18-play drive ended with Jay LeBranti’s 25-yard touchdown pass to Frank Scuzzarella on third-and-19 with 47 seconds left. John Nicolo ran for 134 yards on 29 carries and kicked the extra point for the 15–14 win.\n\nIn the Thanksgiving Mud Bowl, Steve Gannon blocked a Peabody field goal and Nicolo returned it for the only touchdown in a 6–0 win. The Item named Nicolo its football Player of the Year. Doug Mackie earned Parade All-American honors and All-Scholastic recognition from the Boston Globe and the Herald American/Herald Advertiser.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_3850.jpg",
@@ -2753,6 +3565,18 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Thanksgiving photograph · the blocked field goal and winning touchdown",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2552.webp"
+        },
+        {
+          "label": "Daily Evening Item · John Nicolo’s Player of the Year award",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3102.webp"
+        },
+        {
+          "label": "Advocate News · 1975 and 1977 team history",
+          "url": "https://advocatenews.net/saugus/news/the-old-sachem-saugus-high-sports-1975-to-1979/"
         }
       ],
       "games": [
@@ -2814,7 +3638,7 @@
           "date": "1975-11-27",
           "opponent": "Peabody",
           "result": "W 6–0",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ]
     },
@@ -2871,7 +3695,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus won the Northeastern Conference championship at 9–1. Frank Serino caught six passes for 116 yards in the 12–10 Thanksgiving win over Peabody.",
+      "seasonNote": "Saugus went 9–1 and won the Northeastern Conference outright. A 7–6 loss to Salem was its only defeat. Co-captains Dan Hashem and Frank Doyle led the Sachems. Quarterback George Nicolo threw for 1,052 yards and 15 touchdowns, and the Item named Ginolfi Coach of the Year.\n\nPeabody led 10–6 in the fourth quarter on Thanksgiving before George Nicolo found Frank Serino for a 28-yard touchdown. Serino caught six passes for 116 yards in the 12–10 win. The victory reversed a 62–6 Thanksgiving loss to the Tanners the previous year.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_4138.jpg",
@@ -2892,6 +3716,18 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Boston Globe · Thanksgiving game and winning touchdown",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1977-globe-saugus-peabody-12-10.webp"
+        },
+        {
+          "label": "Daily Evening Item · George Nicolo season statistics",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/update-IMG_3322.webp"
+        },
+        {
+          "label": "Daily Evening Item · Coach of the Year Mike Ginolfi",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/item-add-IMG_4027.webp"
         }
       ],
       "games": [
@@ -2953,7 +3789,7 @@
           "date": "1977-11-24",
           "opponent": "Peabody",
           "result": "W 12–10",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ]
     },
@@ -2967,7 +3803,7 @@
       "awards": "Steve Peach - Lynn Item and NEC\nBill Peach - Lynn Item and NEC\nPhil Nigro - Lynn Item and NEC\nDon Trainor - NEC\nMike Allen - NEC",
       "nickname": "Sachems",
       "sourceRow": 81,
-      "seasonNote": "The November 22, 1983 rivalry retrospective reports that Saugus outgained Peabody 188–11 in the second half of its 30–14 Thanksgiving win.",
+      "seasonNote": "With four starters back from the NEC title team, the Sachems finished 6–3–1. They scored 40 points in the first quarter of a 46–14 win over Lynn English. Paul Nigro ran for 271 yards on eight carries, scored on runs of 85 and 86 yards and caught an 83-yard touchdown pass. Sophomore quarterback Steve Peach went 5-for-5 for 241 yards and four touchdowns and kicked four extra points.\n\nAfter a 10–10 tie with Swampscott, Saugus beat Peabody 30–14 on Thanksgiving. The Item’s 1983 rivalry retrospective credits Saugus with a 188–11 yardage advantage in the second half.",
       "seasonSources": [
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
@@ -2980,17 +3816,93 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · ten-game score table",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · returning starters and season review",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-1-oct29.webp"
+        },
+        {
+          "label": "Boston Globe · 40-point first quarter against Lynn English",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1978-globe-nigro-peach-lynn-english.webp"
         }
       ],
       "games": [
         {
           "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 25–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 29–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "W 14–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "W 12–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 12–13",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 18–26",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "W 46–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "T 10–10",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
+        },
+        {
+          "date": "1978-11-23",
           "opponent": "Peabody",
           "result": "W 30–14",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1978-2-oct29.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "The yearbook supplies all ten results in order. Individual dates are shown where documented."
     },
     {
       "year": 1979,
@@ -3005,6 +3917,13 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "W 25–24",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1979-saugus-upsets-lynn-classical.webp"
+        },
+        {
+          "date": "1979-11-22",
           "opponent": "Peabody",
           "result": "L 14–35",
           "status": "Thanksgiving"
@@ -3019,8 +3938,21 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Boston Globe · upset of unbeaten Lynn Classical",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1979-saugus-upsets-lynn-classical.webp"
+        },
+        {
+          "label": "Daily Evening Item · Gary Quinlan’s two-way season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3382.webp"
+        },
+        {
+          "label": "Daily Evening Item · Eric Taylor’s All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3383.webp"
         }
-      ]
+      ],
+      "seasonNote": "The highlight of a 5–5 season was a 25–24 upset of unbeaten Lynn Classical. Steve Peach completed 14 of 27 passes for 245 yards and two touchdowns, ran for two more and kicked the extra point that made the difference. After Classical pulled within a point with 11 seconds left, Peach knocked down Tony Thurman’s two-point pass.\n\nGary Quinlan caught 26 passes for 455 yards and five touchdowns and picked off five passes. Eric Taylor recorded seven sacks and four fumble recoveries. The Item selected Peach, Quinlan and Taylor to its All-Star team. Saugus lost 35–14 to Peabody on Thanksgiving."
     },
     {
       "year": 1980,
@@ -3032,7 +3964,7 @@
       "awards": "Steve Peach - Lynn Item and NEC\nArt Polimeno - Lynn Item and NEC\nBob Cordeau - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 85,
-      "seasonNote": "Coach Mike Ginolfi, quoted in Dave Rattigan’s November 22, 1983 retrospective, recalled Steve Peach completing five of nine passes for 100 yards and two touchdowns and returning an interception 40 yards for a touchdown in the 40–6 Thanksgiving win over Peabody.",
+      "seasonNote": "Saugus recovered from a slow start with wins over Gloucester, Marblehead, Swampscott and Lynn English and finished 5–5. In the 40–6 Thanksgiving win over Peabody, Steve Peach completed five of nine passes for 100 yards and two touchdowns and returned an interception 40 yards for another score, according to Ginolfi’s account in the Item’s rivalry retrospective.\n\nPeach, linebacker Art Polimeno and lineman Bob Cordeau made the Item All-Star team. Peach was also selected for the 1981 Agganis and Shriners games following his senior season.",
       "seasonSources": [
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
@@ -3045,11 +3977,23 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · season review and game photos",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/upload-season-IMG_2632-2.webp"
+        },
+        {
+          "label": "Daily Evening Item · Peach, Polimeno and Cordeau All-Star selections",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3388.webp"
+        },
+        {
+          "label": "Agganis Football Classic program · Steve Peach in the 1981 game",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-program-history-9035.webp"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1980-11-27",
           "opponent": "Peabody",
           "result": "W 40–6",
           "status": "Thanksgiving"
@@ -3262,7 +4206,7 @@
       "championshipStatus": "unverified",
       "games": [
         {
-          "date": "—",
+          "date": "1987-11-26",
           "opponent": "Peabody",
           "result": "W 21–20",
           "status": "Thanksgiving"
@@ -3277,8 +4221,17 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Daily Evening Item · Joe Barressi and Larry Furey All-Star profiles",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3392.webp"
+        },
+        {
+          "label": "1988 Shriners roster · Larry Furey",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1988-shriners-north-roster-larry-furey.webp"
         }
-      ]
+      ],
+      "seasonNote": "Kevin Ward’s Sachems finished 7–3 and edged Peabody 21–20 on Thanksgiving. Captains Dave Fauci, Joe Barressi and Larry Furey led the team. The Item selected Barressi at defensive back and Furey on the offensive line. Furey also made nine tackles and a sack against Gloucester and was selected for the following summer’s Shriners game."
     },
     {
       "year": 1988,
@@ -3355,7 +4308,7 @@
       "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Hefferman - NEC\nTodd Leccese - NEC\nChris Miuriski - NEC",
       "nickname": "Sachems",
       "sourceRow": 97,
-      "seasonNote": "Bob Sacco’s illustrated account of the November 11 Beverly game records a 29–6 Saugus win, credits Ryan Magnasco with three touchdowns and names John Cinelli as quarterback. This was a regular-season game, not Thanksgiving.",
+      "seasonNote": "Kevin Ward’s final team went 8–2. Tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski led Saugus to an 8–1 start and an outside chance at a Division 3 Super Bowl berth entering Thanksgiving. The Sachems beat Beverly 29–6, then lost 39–8 to unbeaten Peabody in the holiday finale.\n\nThe Item credited Magnasco with 583 rushing yards, eight rushing touchdowns and more than 100 tackles. It reported 182 rushing yards and four touchdowns in his Gold Helmet performance against Beverly. Bob Sacco’s account of the Beverly game credits him with three touchdowns and identifies John Cinelli as quarterback.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_1257.heic",
@@ -3368,11 +4321,30 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Daily Evening Item · Magnasco and Schena All-Star profiles",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3398.webp"
+        },
+        {
+          "label": "Boston Globe · 8–1 Saugus enters Thanksgiving",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1990-boston-globe-saugus-peabody-thanksgiving-preview.webp"
+        },
+        {
+          "label": "Tontoquonian yearbook · Kevin Ward’s final team",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1990-1-oct29.webp"
         }
       ],
       "games": [
         {
           "date": "—",
+          "opponent": "Beverly",
+          "result": "W 29–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_1257.webp"
+        },
+        {
+          "date": "1990-11-22",
           "opponent": "Peabody",
           "result": "L 8–39",
           "status": "Thanksgiving"
@@ -3506,13 +4478,39 @@
       "record": "6 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Mike Mabee (Captain), Matt Nazzaro (Captain), LJ McKanas, Derek Bilton, Carlos Abate, Colt Meredith",
-      "awards": "Mike Mabee - NEC, Lynn Item, and Agganis\nCarlos Abate - NEC, Lynn Item, and Agganis\nLJ McKanas - NEC",
+      "players": "Mike Mabee (Captain), Matt Nazzaro (Captain), LJ McKanas, Derek Bilton, Carlo Abate",
+      "awards": "Mike Mabee - NEC, Lynn Item, and Agganis\nCarlo Abate - NEC, Lynn Item, and Agganis\nLJ McKanas - NEC",
       "nickname": "Sachems",
       "sourceRow": 102,
       "games": [
         {
           "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 25–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_4046.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "W · score unverified",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "W · score unverified",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "W 50–20",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2547.webp"
+        },
+        {
+          "date": "1995-11-23",
           "opponent": "Peabody",
           "result": "L 14–34",
           "status": "Thanksgiving"
@@ -3527,8 +4525,33 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1239.webp"
+        },
+        {
+          "label": "Daily Evening Item · 34-game losing streak ends",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_4046.webp"
+        },
+        {
+          "label": "Daily Evening Item · 50–20 Lynn English win",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2547.webp"
+        },
+        {
+          "label": "Boston Herald · Saugus reaches No. 16 after 3–0 start",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1269.webp"
+        },
+        {
+          "label": "Daily Evening Item · Mike Mabee’s season totals",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3329.webp"
+        },
+        {
+          "label": "Daily Evening Item · Carlo Abate’s two All-Scholastic seasons",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3328.webp"
+        },
+        {
+          "label": "Hank Collins illustration · wins over Winthrop and Danvers",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2546.webp"
         }
-      ]
+      ],
+      "seasonNote": "Saugus opened with a 25–0 shutout of Winthrop to end a 34-game losing streak. L.J. McKanas rushed for 178 yards and two touchdowns. John Plunkett ran for 169 yards and two scores against Danvers the following week. A win over Salem, Saugus’s first in that matchup in 20 years, made the Sachems 3–0 and earned them No. 16 in the Herald’s Sweet 16.\n\nA 50–20 win over Lynn English at Manning Bowl clinched the program’s first winning season since 1990. Mike Mabee threw two touchdown passes, ran for another and picked off two passes. McKanas added 149 yards and three touchdowns. The team finished 6–5. Mabee’s All-Scholastic profile credited him with 720 passing yards, six passing touchdowns, seven rushing touchdowns and six interceptions."
     },
     {
       "year": 1996,
@@ -3572,7 +4595,7 @@
       "sourceRow": 104,
       "games": [
         {
-          "date": "—",
+          "date": "1997-11-27",
           "opponent": "Peabody",
           "result": "L 31–35",
           "status": "Thanksgiving"
@@ -3583,8 +4606,17 @@
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        },
+        {
+          "label": "Daily Evening Item · Leahy and McColgan All-Star selections",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3356.webp"
+        },
+        {
+          "label": "Daily Evening Item · Leahy’s junior season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3357.webp"
         }
-      ]
+      ],
+      "seasonNote": "John Fauci’s team went 6–4–1, the program’s last winning season until 2007. Junior quarterback Ryan Leahy passed for 1,109 yards and 14 touchdowns and ran for 294 yards and four touchdowns. Senior co-captain Chris McColgan protected Leahy at guard, called out blocking schemes and made 46 tackles at nose guard. Both made the Item and Northeastern Conference All-Star teams. Peabody won the Thanksgiving finale 35–31."
     },
     {
       "year": 1998,
@@ -3598,7 +4630,7 @@
       "sourceRow": 105,
       "games": [
         {
-          "date": "—",
+          "date": "1998-11-26",
           "opponent": "Peabody",
           "result": "L 32–39",
           "status": "Thanksgiving"
@@ -3609,9 +4641,22 @@
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
+        },
+        {
+          "label": "Daily Evening Item · Zammit’s final season totals and scoring records",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/IMG_3359.webp"
+        },
+        {
+          "label": "Daily Evening Item · Panzini’s senior All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3360.webp"
+        },
+        {
+          "label": "Daily Evening Item · Thanksgiving preview and season-to-date statistics",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2671.webp"
         }
       ],
-      "captainsNote": "Captain names supplied by Sal Nicolo."
+      "captainsNote": "Captain names supplied by Sal Nicolo.",
+      "seasonNote": "Captain Raphael Zammit ran for 1,481 yards and a school-record 21 rushing touchdowns. His season-ending Item profile credits him with 2,452 all-purpose yards, 25 total touchdowns and 154 points to lead Division 3 in scoring. He scored five touchdowns against Winthrop and finished his high school career with 41 touchdowns.\n\nThe Thanksgiving preview credited quarterback Ryan Leahy with 825 passing yards, seven touchdown passes and five rushing scores. Matt Wass had 36 catches, two touchdown receptions and five interceptions entering the finale. Linebacker and captain Mike Panzini earned a Gold Helmet and was credited with six fumble recoveries and 123 tackles in his season-ending All-Star profile. The earlier preview lists 130 tackles, four interceptions and four recoveries. Saugus finished 5–6 after a 39–32 loss to Peabody."
     },
     {
       "year": 1999,
@@ -4073,7 +5118,7 @@
           "date": "2007-11-22",
           "opponent": "Chelsea",
           "result": "W 49–14",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ],
       "seasonSources": [
@@ -4084,8 +5129,21 @@
         {
           "label": "Thanksgiving results · newspaper source audit",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/#thanksgiving"
+        },
+        {
+          "label": "Tontoquonian yearbook · 7–3 squad and roster",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/upload-season-IMG_2622-5.webp"
+        },
+        {
+          "label": "Daily Evening Item · captain Tyler Trainor profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3376.webp"
+        },
+        {
+          "label": "Daily Evening Item · Bret Reid option offense profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3375.webp"
         }
-      ]
+      ],
+      "seasonNote": "Mike Broderick’s team won four straight after an opening loss and closed with victories over Danvers, Marblehead and Chelsea. The 49–14 Thanksgiving win over Chelsea secured a 7–3 record, the program’s first winning season since 1997.\n\nSenior captain Tyler Trainor led the defense with 108 tackles and returned one of his two interceptions for a touchdown. Junior quarterback Bret Reid ran for 797 yards and 13 touchdowns in the option offense and earned Northeastern Conference and Item All-Star recognition."
     },
     {
       "year": 2008,
@@ -4156,15 +5214,28 @@
           "date": "2008-11-27",
           "opponent": "Chelsea",
           "result": "W 35–6",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ],
       "seasonSources": [
         {
           "label": "MaxPreps · 2008 varsity schedule",
           "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/08-09/schedule/"
+        },
+        {
+          "label": "Daily Evening Item · captain Mike Dean’s season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3379.webp"
+        },
+        {
+          "label": "Daily Evening Item · captain Bret Reid’s season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3378.webp"
+        },
+        {
+          "label": "Massachusetts Prep Football · Chelsea Thanksgiving score",
+          "url": "https://massachusettsprepfootball.com/schools/chelsea-red-devils/"
         }
-      ]
+      ],
+      "seasonNote": "Saugus went 7–3 for the second straight year. A 35–32 win over Newburyport opened a four-game winning streak. After three straight losses, the Sachems closed with a 16–0 shutout of Danvers, a 41–7 win over Marblehead and a 35–6 Thanksgiving win over Chelsea.\n\nCaptain Mike Dean rushed for 1,242 yards on 130 carries and scored 17 touchdowns, with two interceptions returned for scores. Senior captain Bret Reid ran for 800 yards and 12 touchdowns while directing the option offense. Both were two-time NEC and Item All-Stars."
     },
     {
       "year": 2009,
@@ -4484,15 +5555,24 @@
           "date": "2012-11-22",
           "opponent": "Peabody Veterans Memorial",
           "result": "W 43–0",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ],
       "seasonSources": [
         {
           "label": "MaxPreps · 2012 varsity schedule",
           "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/12-13/schedule/"
+        },
+        {
+          "label": "Boston Globe · Tommy Trainor and the Sachems’ option offense",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/2012-boston-globe-trainor-family.webp"
+        },
+        {
+          "label": "Daily Evening Item · Trainor’s 110-tackle season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4145.webp"
         }
-      ]
+      ],
+      "seasonNote": "Saugus won four straight after its opener, then lost three close games to Winthrop in overtime, Newburyport and Pentucket by a combined 14 points. A 35–27 win over Triton and a 43–0 Thanksgiving shutout of Peabody gave the Sachems a 6–5 finish. Senior quarterback C.J. Randolph ran the option offense with Nick Benoit and Ismael Minaya.\n\nSenior linebacker Tommy Trainor recorded 110 tackles, seven for loss, and earned the Saugus Heisman Trophy at the pre-Thanksgiving dinner. His father and uncle, both former Sachems, coached on the staff."
     },
     {
       "year": 2013,
@@ -4585,8 +5665,8 @@
       "record": "6 - 5",
       "league": "Cape Ann League - Large",
       "title": null,
-      "players": "Justin Winn, Seth Roy, Brendan Grocki, and Dan Cicciola",
-      "awards": "Justin Winn - CAL and Lynn Item\nDan Cicciola - CAL and Lynn Item\nBrendan Grocki - CAL ",
+      "players": "Justin Winn, Seth Roy, Brendan Grocki, and Dan Cacciola",
+      "awards": "Justin Winn - CAL and Lynn Item\nDan Cacciola - CAL and Lynn Item\nBrendan Grocki - CAL ",
       "nickname": "Sachems",
       "sourceRow": 125,
       "games": [
@@ -4654,7 +5734,7 @@
           "date": "2014-11-27",
           "opponent": "Peabody Veterans Memorial",
           "result": "L 0–33",
-          "status": "Played"
+          "status": "Thanksgiving"
         }
       ],
       "seasonSources": [
@@ -4665,9 +5745,13 @@
         {
           "label": "Winthrop Transcript · rushing record",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/cacciola-2014-rushing-record.webp"
+        },
+        {
+          "label": "Boston Globe · Cacciola’s rushing record and 183-yard follow-up",
+          "url": "https://www.bostonglobe.com/metro/regionals/north/2014/09/17/senior-captain-dan-cacciola-gets-saugus-off-and-running/5NJPiOx4s8mqufOEIUMlUM/story.html"
         }
       ],
-      "seasonNote": "Dan Cacciola rushed for a school-record 375 yards and four touchdowns against Winthrop, which won 44–41."
+      "seasonNote": "Senior captain Dan Cacciola set the Saugus single-game rushing record with 375 yards and four touchdowns in a 44–41 loss to Winthrop. He followed it with 183 yards and three touchdowns in a 36–16 win over Northeast Metro Tech, sealing the game with a 64-yard run. Quarterback Justin Winn added 120 rushing yards and two touchdowns in that win. Cacciola totaled 558 rushing yards and seven touchdowns through two games.\n\nThe Sachems reached 5–2 with three consecutive wins over Cape Cod Tech, North Reading and Pentucket and finished 6–5. The final win was 33–7 over Hamilton-Wenham. Peabody won the Thanksgiving finale 33–0."
     },
     {
       "year": 2015,
@@ -5333,8 +6417,8 @@
       "record": "5 - 6",
       "league": "Northeastern Conference - South",
       "title": null,
-      "players": "Braden Faiella, Tommy DeSimmone, and Dylan Clark",
-      "awards": "Braden Faiella - NEC, Lynn Item (DPOY)\nDylan Clark - NEC\nTommy DeSimmone - Lynn Item and NEC",
+      "players": "Braden Faiella, Tommy DeSimone, and Dylan Clark",
+      "awards": "Braden Faiella - NEC, Lynn Item (DPOY)\nDylan Clark - NEC\nTommy DeSimone - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 136,
       "games": [
@@ -5412,7 +6496,7 @@
           "date": "2023-11-23",
           "opponent": "Peabody Veterans Memorial",
           "result": "L 6–27",
-          "status": "Played",
+          "status": "Thanksgiving",
           "venue": "Away"
         }
       ],
@@ -5424,8 +6508,17 @@
         {
           "label": "User-provided varsity schedule screenshots · 2023 opponents, dates, and final scores",
           "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/23-24/schedule/"
+        },
+        {
+          "label": "Advocate News · 3–0 start, injuries and Thanksgiving recap",
+          "url": "https://advocatenews.net/saugus/sports/despite-thanksgiving-loss-saugus-football-sees-season-of-growth/"
+        },
+        {
+          "label": "Daily Evening Item · Braden Faiella’s senior All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4162.webp"
         }
-      ]
+      ],
+      "seasonNote": "Steve Cummings’s Sachems opened 3–0 and finished 5–6 after winning one game across the previous two seasons. Sophomore Jordan Rodriguez took over at quarterback after a season-ending injury to Cam Preston in the opening three games. Saugus was 4–4 at the playoff cutoff and narrowly missed the postseason. The fifth win came against Georgetown/Pentucket, 20–8.\n\nCaptain Tommy DeSimone rushed for more than 1,000 yards and scored on a 13-yard run in the 27–6 Thanksgiving loss to Peabody. Captain Braden Faiella made 140 tackles, forced five fumbles, recovered four and returned an interception for a touchdown against Lynn Tech. The Item reported 482 career tackles. Coach Cummings suggested that might be a state record, which remains unverified."
     },
     {
       "year": 2024,
