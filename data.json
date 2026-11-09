@@ -6710,15 +6710,15 @@
     {
       "year": 2026,
       "coach": "Greg Bluestein",
-      "record": "0 - 8",
+      "record": "0 - 9",
       "league": "Northeastern Conference - South",
       "title": null,
       "players": "Paxton Ferraro (Captain), Pharoah Brandenburg (Captain)",
       "awards": "2026 postseason All-Star / All-Scholastic selections not yet announced as of Nov. 2, 2026.",
       "nickname": "Sachems",
-      "recordAsOf": "2026-10-30",
-      "recordNote": "0–8 through October 30: six on-field losses and two forfeits. This is not a final season record. Some score aggregators list the forfeits as 0–14; neither game was played.",
-      "seasonNote": "Saugus forfeited the October 23 Gloucester and October 30 Swampscott games because of player availability and safety concerns.",
+      "recordAsOf": "2026-11-06",
+      "recordNote": "0–9 through November 6: seven on-field losses and two forfeits. Not a final season record. Gloucester (October 23) and Swampscott (October 30) were forfeited and not played; some score aggregators display 0–14 for each.",
+      "seasonNote": "Saugus forfeited the October 23 Gloucester and October 30 Swampscott games because of player availability and safety concerns. The Sachems returned to the field November 6 in a consolation-round game at Arlington Catholic, losing 30–6. Thanksgiving against Peabody remains scheduled for November 26.",
       "games": [
         {
           "date": "2026-09-10",
@@ -6769,6 +6769,12 @@
           "status": "Forfeit — not played"
         },
         {
+          "date": "2026-11-06",
+          "opponent": "Arlington Catholic",
+          "result": "L 6–30",
+          "status": "Played"
+        },
+        {
           "date": "2026-11-26",
           "opponent": "Peabody (Thanksgiving)",
           "result": "Scheduled; result pending",
@@ -6807,6 +6813,14 @@
         {
           "label": "Saugus Advocate · Bluestein named head coach",
           "url": "https://advocatenews.net/saugus/sports/bluestein-named-new-head-coach-for-saugus-high-football/"
+        },
+        {
+          "label": "Saugus Advocate · Nov. 5, 2026 return to play against Arlington Catholic",
+          "url": "https://advocatenews.net/saugus/sports/shs-sports-roundup-sachems-football-returns-to-action-in-consolation-round-boys-soccer-wraps-up-difficult-season-young-golfers-win-tour-titles/"
+        },
+        {
+          "label": "MaxPreps · Nov. 6, 2026 Arlington Catholic 30, Saugus 6",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
         }
       ]
     }
