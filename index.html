@@ -44,18 +44,170 @@ function honorSeason(r){
  if (Number.isInteger(r.seasonYear)) return r.seasonYear;
  return /shriner/i.test(r.publisher)||(/agganis/i.test(r.publisher)&&year>1970)?year-1:year;
 }
-function seasonHonors({year, awards}){
- const summary=awards?`<p style="white-space:pre-line">${esc(awards)}</p>`:'';
- if(playerRecords===undefined) return summary+'<p class="muted">Loading season honors…</p>';
+// Keep known historical spelling variants together without guessing from surnames.
+const seasonHonorNames={
+ 1937:{'Russ Collomore':'Russell “Russ” Collamore','Bud McKay':'George “Bud” McKay','Wendall Brooks':'Wendell Brooks'},
+ 1938:{'Robert “Bob” Burns':'Bob Burns'},
+ 1941:{Collette:'Claude Collette',Goclowski:'Stanley Wladkowski',MacDonald:'Dick Macdonald',Pendlebury:'Doo Pendlebury','Robert “Doo” Pendlebury':'Doo Pendlebury',Daniels:'Larry Daniels','Lawrence “Larry” Daniels':'Larry Daniels',Flaherty:'Lennie Flaherty','Leonard “Lennie” Flaherty':'Lennie Flaherty',Goss:'Welcome Goss','Edward “Eddie” Shipulski':'Eddie Shipulski','Arthur “Art” Statuto':'Art Statuto'},
+ 1944:{Thurrell:'Bob Thurell','Richard “Dick” Allen':'Dick Allen','Donald “Don” Reiniger':'Don Reiniger'},
+ 1949:{"Salvatore 'Sard' Nicolo":'Sardi Nicolo',"Salvatore 'Sardi' Nicolo":'Sardi Nicolo'},
+ 1950:{'Charles “Charlie” Murphy':'Charlie Murphy',Woodell:'Charles “Charlie” Woodell','James “Jim” Driscoll':'Jim Driscoll','Richard “Richie” Nicolo':'Richie Nicolo'},
+ 1951:{'Charles Murphy':'Charlie Murphy','Charles “Charlie” Murphy':'Charlie Murphy'},
+ 1953:{'Robert “Bob” Belyea':'Bob Belyea'},
+ 1957:{'Dick Rohrbacker':'Dick Rohrbacher'},
+ 1958:{'Matt Light':'Mike Light','John James Naples':'John Naples'},
+ 1959:{'Dave Matthews':'David Russell “Dave” Mathews','Dave Mathews':'David Russell “Dave” Mathews'},
+ 1964:{'Ronnie Barressi':'Ron Barressi'},
+ 1966:{'Eddie Maguire':'Eddie McGuire'},
+ 1969:{'Richie DeSisito':'Richie DeSisto','Rich DeSisto':'Richie DeSisto'},
+ 1970:{'Steven Nelson':'Steve Nelson'},
+ 1973:{'Richard Serino':'Richie Serino'},
+ 1975:{'Stephen Gannon':'Steve Gannon'},
+ 1978:{'Phil Nigro':'Paul Nigro'},
+ 1982:{'Mark Strange':'Mark Strangie'},
+ 1990:{'Chris Muniski':'Chris Mikulski','Bill Hefferman':'Bill Heffernan','Chris Miuriski':'Chris Mikulski'},
+ 1993:{'Joe Attubato':'Joseph Attubato'},
+ 1994:{'Carlos Abate':'Carlo Abate','Ted Stephanidies':'Ted Stephanides'},
+ 1995:{'Carlos Abate':'Carlo Abate','LJ McKanas':'L.J. McKanas'},
+ 1996:{'LJ McKanas':'L.J. McKanas'},
+ 1998:{'Ralphael Zammit':'Raphael Zammit'},
+ 2014:{'Dan Cicciola':'Dan Cacciola'},
+ 2022:{'Tommy DeSimmone':'Tommy DeSimone'},
+ 2023:{'Tommy DeSimmone':'Tommy DeSimone'}
+};
+
+function seasonHonorAward(r){
+ const {publisher,publication,award}=r;
+ if(publisher==='Lynn Item'&&/^North Shore All-Star/i.test(award)){
+  return {family:'north shore',label:'Lynn Item '+award.split(' · ')[0],key:award.split(' · ')[0].toLowerCase()};
+ }
+ if(publisher==='Northeastern Conference'){
+  const label=award.replace(/^Northeastern Conference /i,'NEC ').replace(/^League All-Star$/i,'NEC All-Star').replace(/^All-Conference/i,'NEC All-Conference');
+  if(/player of the year|most valuable player/i.test(label)) return {family:label,key:label,label};
+  const generic=/^(NEC All-Star|NEC All-Conference(?: team)?)$/i.test(label);
+  return {family:'nec',key:generic?'all-star':label.toLowerCase(),label:generic?'NEC All-Star':label,generic};
+ }
+ if(/agganis|shriner/i.test(publisher)){
+  const family=/agganis/i.test(publisher)?'agganis':'shriners';
+  const base=family==='agganis'?'Harry Agganis All-Star':'Shriners All-Star';
+  const detail=award.split(' · ')[1];
+  return {family,key:detail?.toLowerCase()||base,label:detail?base+' · '+detail:base,generic:!detail};
+ }
+ if(publisher==='North Shore All-Star game'){
+  return {family:'north shore',key:'game selection',label:award};
+ }
+ if(publisher==='All-American') return {family:'all-american',key:'all-american',label:publication?publication.replace(/\s*\n\s*/g,' / ')+' honors':'All-American'};
+ if(/^Essex County All-Star/i.test(award)) return {family:'essex county',key:'all-star',label:'Essex County All-Star'};
+ const label=award.toLowerCase().includes(publisher.toLowerCase())?award:publisher+' '+award;
+ const key=label.toLowerCase().replace(/\s*\((?:on the bench|not first team)\)$/,'');
+ return {family:publisher.toLowerCase(),key,label,generic:award==='All-Scholastic'};
+}
+
+const legacyHonorLabels={
+ 'lynn item':['lynn item','Lynn Item All-Scholastic'],
+ 'item all star':['lynn item','Lynn Item All-Scholastic'],
+ 'nec':['nec','NEC All-Star'],
+ 'nec all-star':['nec','NEC All-Star'],
+ 'northeastern all-star':['nec','NEC All-Star'],
+ 'nec (mvp)':['NEC Most Valuable Player','NEC Most Valuable Player'],
+ 'nec (opoy)':['NEC Offensive Player of the Year','NEC Offensive Player of the Year'],
+ 'nec (offensive back)':['nec','NEC All-Star · Offense (Back)'],
+ 'nec (defensive line)':['nec','NEC All-Star · Defense (Defensive Line)'],
+ 'lynn item (poy)':['item poy','Lynn Item Player of the Year'],
+ 'lynn item (dpoy)':['item dpoy','Lynn Item Defensive Player of the Year'],
+ 'cal':['cape ann league','Cape Ann League All-Star'],
+ 'cal/nec':['cal/nec','CAL/NEC All-Star'],
+ 'agganis':['agganis','Harry Agganis All-Star'],
+ 'shriners':['shriners','Shriners All-Star'],
+ 'north shore':['north shore','North Shore All-Star'],
+ 'all american':['all-american','All-American'],
+ 'raa':['r.a.a.','R.A.A. All-Scholastic'],
+ 'boston globe d3':['boston globe','Boston Globe Division 3 All-Star'],
+ 'division 2 defensive all-star (db)':['divisional all-stars','Division 2 All-Star · Defense (DB)'],
+ 'all-star, as described in the supplied narrative':['league all-star','All-Star (season narrative)']
+};
+
+function seasonHonors({year,awards,sourceRow}){
+ const summary=awards?'<p style="white-space:pre-line">'+esc(awards)+'</p>':'';
+ if(playerRecords===undefined) return '<p class="muted">Loading season honors…</p>';
  if(playerRecords===null) return summary+'<p class="muted">Detailed honors could not load. Please refresh.</p>';
- const rows=playerRecords.honors.filter(r=>honorSeason(r)===year).sort((a,b)=>a.name.localeCompare(b.name)||a.publisher.localeCompare(b.publisher));
- if(!rows.length) return summary||'<p class="muted">Not recorded</p>';
- return summary+'<ul>'+rows.map(r=>{
-  const shifted=Number(r.year)!==year;
-  const award=r.award||(/all-american/i.test(r.publisher)?'All-American':'All-Scholastic');
-  const source=r.sourceUrl?` <a href="${esc(r.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(r.sourceLabel||'Honor source')} ↗</a>`:r.row?` <span class="muted">Source: honors workbook, row ${esc(r.row)}.</span>`:'';
-  return `<li><strong>${esc(r.name.replace(/\*+$/,''))}</strong> — ${esc(r.publication||r.publisher)}: ${esc(award)}${r.position&&r.position!=='—'?` · ${esc(r.position)}`:''}${shifted?` (${esc(r.year)} selection following the ${year} fall season)`:''}.${source}</li>`;
- }).join('')+'</ul>';
+ const players=new Map(), notes=[];
+ function playerFor(rawName){
+  const clean=rawName.replace(/\*+$/,'').trim();
+  const name=seasonHonorNames[year]?.[clean]||clean;
+  const key=name.toLowerCase().replace(/[.]/g,'');
+  if(!players.has(key)) players.set(key,{name,honors:[]});
+  return players.get(key);
+ }
+ function addHonor(player,honor,r={}){
+  const existing=player.honors.find(a=>a.family===honor.family&&a.key===honor.key);
+  const entry=existing||{...honor,positions:new Set(),years:new Set(),sources:new Set()};
+  if(!existing) player.honors.push(entry);
+  if(r.position&&r.position!=='—') entry.positions.add(r.position);
+  if(r.year&&Number(r.year)!==year) entry.years.add(r.year);
+  if(r.sourceUrl) entry.sources.add(`<a href="${esc(r.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(r.sourceLabel||'Honor source')} ↗</a>`);
+  else if(r.sourceLabel) entry.sources.add(`<span class="muted">${esc(r.sourceLabel)}</span>`);
+  if(r.row) entry.sources.add(`<span class="muted">Honors workbook, row ${esc(r.row)}</span>`);
+ }
+ for(const r of playerRecords.honors.filter(r=>honorSeason(r)===year)){
+  addHonor(playerFor(r.name),seasonHonorAward({...r,award:r.award||'All-Scholastic'}),r);
+ }
+ for(const player of players.values()){
+  // A generic listing and one specific selection from the same selector are one honor.
+  for(const generic of player.honors.filter(a=>a.generic)){
+   const specific=player.honors.filter(a=>!a.generic&&(a.family===generic.family||
+    (generic.family==='lynn item'&&a.family==='north shore'&&a.label.startsWith('Lynn Item '))));
+   if(specific.length!==1) continue;
+   for(const field of ['positions','years','sources']){
+    for(const value of generic[field]) specific[0][field].add(value);
+   }
+   player.honors.splice(player.honors.indexOf(generic),1);
+  }
+ }
+ // The expanded 1953, 1957 and 1958 prose summaries repeat the detailed rows.
+ const legacy=awards||'';
+ const repeatedProse=/; William “Bill” MacNeill|North Shore All-Star first team, tackle;|Boston Globe All-Scholastic: William Banks/.test(legacy);
+ for(const line of repeatedProse?[]:legacy.split(/\n|;\s*(?=[^;]+\s[-—]\s)/)){
+  if(!line.trim()) continue;
+  const match=line.match(/^(.+?)\s+[-—]\s*(.+)$/);
+  if(!match){notes.push(line.trim());continue;}
+  const [,name,summaryAwards]=match;
+  const player=playerFor(name.replace(/ \(also recorded as [^)]+\)$/,''));
+  const cleaned=summaryAwards.replace(/\(1944 season and All Time team\)/i,'').replace(/\.$/,'');
+  const parts=/^(?:Essex County|All-Star, as described)|^Boston Globe All-Scholastic/i.test(cleaned)?[cleaned]:cleaned.split(/,\s*(?:and\s+)?|\s+and\s+|\s+-\s+/);
+  for(const part of parts){
+   const value=part.trim(), lower=value.toLowerCase();
+   if(!value) continue;
+   let [family,label]=legacyHonorLabels[lower]||[lower,value];
+   if(/^boston (globe|herald|post)/i.test(value)){
+    family=value.match(/^Boston (Globe|Herald|Post)/i)[0].toLowerCase();
+    if(!/all-scholastic|all-star/i.test(label)) label+=' All-Scholastic';
+   }
+   if(/^essex county all-star/i.test(value)) [family,label]=['essex county','Essex County All-Star'];
+   if(lower==='class b') label='Class B All-Star';
+   if(lower==='suburban') label='Suburban All-Star';
+   if(lower==='lynn item'&&player.honors.some(a=>a.family==='north shore'&&a.label.startsWith('Lynn Item '))) continue;
+   if(family==='league all-star'&&player.honors.some(a=>a.family==='nec'||a.family==='cape ann league')) continue;
+   if(family==='class b'&&player.honors.some(a=>/class b/i.test(a.label))) continue;
+   const detailed=player.honors.filter(a=>a.family===family);
+   if(detailed.length){
+    // A divisional label from the workbook can clarify a generic Globe entry.
+    if(lower==='boston globe d3'&&detailed.length===1&&detailed[0].generic) detailed[0].label=label;
+    continue;
+   }
+   addHonor(player,{family,key:label.toLowerCase(),label},{
+    sourceLabel:sourceRow?'Season records workbook, row '+sourceRow:'Season archive'
+   });
+  }
+ }
+ const groups=[...players.values()].filter(p=>p.honors.length).sort((a,b)=>a.name.localeCompare(b.name));
+ const list=groups.length?'<ul>'+groups.map(({name,honors})=>`<li><strong>${esc(name)}</strong><ul>${honors.map(a=>{
+  const position=a.positions.size?' · '+[...a.positions].map(esc).join(' / '):'';
+  const timing=a.years.size?' ('+[...a.years].map(esc).join(', ')+' selection)':'';
+  const sources=a.sources.size?' · '+[...a.sources].join(' · '):'';
+  return `<li>${esc(a.label)}${position}${timing}${sources}</li>`;
+ }).join('')}</ul></li>`).join('')+'</ul>':'';
+ return list+notes.map(note=>`<p class="muted">${esc(note)}</p>`).join('')||'<p class="muted">Not recorded</p>';
 }
 function refreshSeasonHonors(){
  const section=$('#season-player-honors');
