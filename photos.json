@@ -1949,28 +1949,77 @@
   {
     "file": "photos/contributed-2558.webp",
     "thumb": "photos/thumb-contributed-2558.webp",
-    "title": "Sardi Nicolo with LSU linemen · 1951–1952",
-    "caption": "Sal “Sardi” Nicolo stands between LSU linemen Jim Sanford, left, and Paul Miller, right, in this fall-practice clipping. Its caption contrasts the Saugus back with two of the biggest linemen on coach Gus Tinsley’s squad.",
-    "year": 1951,
+    "title": "Sal “Sardi” Nicolo · LSU college football, 1950–1953",
+    "caption": "A four-clipping collection documenting Saugus High alumnus Salvatore “Sardi” (“Pepsi”) Nicolo’s Louisiana State University football years. Early coverage pictures Nicolo alongside LSU linemen Jim Sanford and Paul Miller and recounts how his scrimmage performances attracted coach Gus Tinsley’s attention. Two 1952 reports commemorate his 94-yard touchdown run against Rice on October 4, when LSU won 27–7. The collection is labeled 1950–1953 as the requested college-era range; individual clippings retain their more specific dates where documented.",
+    "year": 1950,
     "original": "IMG_2558.jpeg",
     "category": "College & pro",
     "golden": false,
     "dateSource": "Date range supplied by Sal Nicolo; exact publication date is not shown.",
-    "yearEnd": 1952,
-    "dateLabel": "1951–1952"
-  },
-  {
-    "file": "photos/contributed-2560.webp",
-    "thumb": "photos/thumb-contributed-2560.webp",
-    "title": "Sal “Pepsi” Nicolo earns notice at LSU · 1951–1952",
-    "caption": "This newspaper column introduces Saugus’ Sal Nicolo, nicknamed “Pepsi,” as a promising LSU back. It recalls how his performance in a scrimmage caught coach Gus Tinsley’s attention after Nicolo’s arrival from Massachusetts and a brief earlier stay at Wake Forest.",
-    "year": 1951,
-    "original": "IMG_2560.jpeg",
-    "category": "College & pro",
-    "golden": false,
-    "dateSource": "Date range supplied by Sal Nicolo; exact publication date is not shown.",
-    "yearEnd": 1952,
-    "dateLabel": "1951–1952"
+    "yearEnd": 1953,
+    "dateLabel": "1950–1953",
+    "images": [
+      {
+        "file": "photos/contributed-2558.webp",
+        "thumb": "photos/thumb-contributed-2558.webp",
+        "title": "Sardi Nicolo with LSU linemen · 1951–1952",
+        "caption": "Sal “Sardi” Nicolo stands between LSU linemen Jim Sanford, left, and Paul Miller, right, in this fall-practice clipping. Its caption contrasts the Saugus back with two of the biggest linemen on coach Gus Tinsley’s squad.",
+        "year": 1951,
+        "original": "IMG_2558.jpeg",
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Date range supplied by Sal Nicolo; exact publication date is not shown.",
+        "yearEnd": 1952,
+        "dateLabel": "1951–1952"
+      },
+      {
+        "file": "photos/contributed-2560.webp",
+        "thumb": "photos/thumb-contributed-2560.webp",
+        "title": "Sal “Pepsi” Nicolo earns notice at LSU · 1951–1952",
+        "caption": "This newspaper column introduces Saugus’ Sal Nicolo, nicknamed “Pepsi,” as a promising LSU back. It recalls how his performance in a scrimmage caught coach Gus Tinsley’s attention after Nicolo’s arrival from Massachusetts and a brief earlier stay at Wake Forest.",
+        "year": 1951,
+        "original": "IMG_2560.jpeg",
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Date range supplied by Sal Nicolo; exact publication date is not shown.",
+        "yearEnd": 1952,
+        "dateLabel": "1951–1952"
+      },
+      {
+        "file": "photos/sal-nicolo-1952-lsu-rice.webp",
+        "thumb": "photos/thumb-sal-nicolo-1952-lsu-rice.webp",
+        "title": "Sal Nicolo’s 94-yard touchdown · LSU, 1952",
+        "caption": "Former Sachem Sal “Sardi” Nicolo broke free for a 94-yard rushing touchdown for LSU against Rice on October 4, 1952. LSU won the game 27–7 at Rice Stadium. His remarkable run became a lasting entry in LSU’s football record book.",
+        "year": 1952,
+        "dateLabel": "October 4, 1952",
+        "original": "IMG_2523.jpeg",
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Game date retained from the existing researched feature and confirmed by Sal Nicolo. The clipping publication date is not shown.",
+        "sourceNote": "LSU recalled the run in its 2003 SEC Championship game report; Rice’s official series history confirms the date, venue, and score",
+        "sources": [
+          {
+            "label": "LSU’s 2003 SEC Championship game report",
+            "url": "https://lsusports.net/news/2003/12/06/164590"
+          },
+          {
+            "label": "Rice’s official LSU series history",
+            "url": "https://riceowls.com/sports/football/opponent-history/lsu/291"
+          }
+        ]
+      },
+      {
+        "file": "photos/contributed-2566.webp",
+        "thumb": "photos/thumb-contributed-2566.webp",
+        "title": "Sardi Nicolo gives LSU a bounce · 1952",
+        "caption": "This Item feature profiles former Sachem Sal “Sardi” Nicolo after his 94-yard touchdown run helped LSU defeat Rice 27–7 on October 4, 1952. The article celebrates his elusive running and recounts his path from Saugus to LSU. It also notes that his brother Richie had joined LSU as a freshman.",
+        "year": 1952,
+        "original": "IMG_2566.jpeg",
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "1952 identified from the article’s account of LSU’s October 4, 1952 victory over Rice."
+      }
+    ]
   },
   {
     "file": "photos/contributed-2592.webp",
@@ -2139,40 +2188,6 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
-  },
-  {
-    "file": "photos/sal-nicolo-1952-lsu-rice.webp",
-    "thumb": "photos/thumb-sal-nicolo-1952-lsu-rice.webp",
-    "title": "Sal Nicolo’s 94-yard touchdown · LSU, 1952",
-    "caption": "Former Sachem Sal “Sardi” Nicolo broke free for a 94-yard rushing touchdown for LSU against Rice on October 4, 1952. LSU won the game 27–7 at Rice Stadium. His remarkable run became a lasting entry in LSU’s football record book.",
-    "year": 1952,
-    "dateLabel": "October 4, 1952",
-    "original": "IMG_2523.jpeg",
-    "category": "College & pro",
-    "golden": false,
-    "dateSource": "Game date retained from the existing researched feature and confirmed by Sal Nicolo. The clipping publication date is not shown.",
-    "sourceNote": "LSU recalled the run in its 2003 SEC Championship game report; Rice’s official series history confirms the date, venue, and score",
-    "sources": [
-      {
-        "label": "LSU’s 2003 SEC Championship game report",
-        "url": "https://lsusports.net/news/2003/12/06/164590"
-      },
-      {
-        "label": "Rice’s official LSU series history",
-        "url": "https://riceowls.com/sports/football/opponent-history/lsu/291"
-      }
-    ]
-  },
-  {
-    "file": "photos/contributed-2566.webp",
-    "thumb": "photos/thumb-contributed-2566.webp",
-    "title": "Sardi Nicolo gives LSU a bounce · 1952",
-    "caption": "This Item feature profiles former Sachem Sal “Sardi” Nicolo after his 94-yard touchdown run helped LSU defeat Rice 27–7 on October 4, 1952. The article celebrates his elusive running and recounts his path from Saugus to LSU. It also notes that his brother Richie had joined LSU as a freshman.",
-    "year": 1952,
-    "original": "IMG_2566.jpeg",
-    "category": "College & pro",
-    "golden": false,
-    "dateSource": "1952 identified from the article’s account of LSU’s October 4, 1952 victory over Rice."
   },
   {
     "file": "photos/contributed-2593.webp",
