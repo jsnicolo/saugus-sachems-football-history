@@ -21,7 +21,7 @@ dialog .close{position:sticky;top:0;z-index:20;min-width:64px;min-height:48px;fo
 <section id="players"><div class="eyebrow">03 / Beyond the scoreboard</div><h2>The people behind the program.</h2><p>Player summaries follow the current season, gallery and championship records. Where supplied sources disagree, the uncertainty is noted. Discover notable players and captains through their seasons. Explore college and professional connections, and Hall of Fame mentions in the written history.</p><div class="tools"><input id="playerSearch" aria-label="Search player directory" placeholder="Find a player, such as Art Spinney or Mike Nicolo…"><select id="playerType" aria-label="Filter player stories"><option value="">All player stories</option><option value="college">College & professional</option><option value="hall">Hall of Fame mentions</option></select></div><div id="playerResults" aria-live="polite"></div><details><summary>About Hall of Fame listings and player comments</summary><p class="muted">Hall of Fame mentions are taken from the supplied history and may refer to a college, a team induction, or the Saugus Hall of Fame. See the <a href="#hall-of-fame">football Hall of Fame directory</a> for documented Saugus inductees and their induction years. Player commentary appears in the historical narrative; public comments are not enabled.</p></details></section>
 <section id="captains">
   <h2>Captains</h2>
-  <p>Saugus High varsity football captains by fall season. Sources are linked where available. Some seasons may have additional co-captains still to verify.</p>
+  <p>Saugus High varsity football captains by fall season. Class reflects the player’s year in school during that season. Some seasons may have additional co-captains still to verify.</p>
   <div class="tools">
     <input id="captainSearch" type="search" aria-label="Search captains" placeholder="Find a captain or season…">
     <select id="captainDecade" aria-label="Filter captain records by decade"><option value="">Every decade</option></select>
@@ -29,7 +29,7 @@ dialog .close{position:sticky;top:0;z-index:20;min-width:64px;min-height:48px;fo
   <p class="muted" id="captainCount" role="status">Loading captain records…</p>
   <div class="tablewrap">
     <table aria-label="Saugus High football captains">
-      <thead><tr><th scope="col">Season</th><th scope="col">Captain</th><th scope="col">Position</th><th scope="col">Saugus class</th><th scope="col">Sources</th></tr></thead>
+      <thead><tr><th scope="col">Season</th><th scope="col">Captain</th><th scope="col">Class</th><th scope="col">Graduation year</th></tr></thead>
       <tbody id="captainRows"></tbody>
     </table>
   </div>
@@ -237,6 +237,10 @@ $('#detailbody').innerHTML=`<div class="eyebrow">Season archive</div><h2>${s.yea
 function render(){let a=data.seasons.filter(s=>(!$('#decade').value||Math.floor(s.year/10)*10===Number($('#decade').value))&&Object.values(s).join(' ').toLowerCase().includes($('#search').value.toLowerCase()));a.sort((a,b)=>$('#sort').value==='desc'?b.year-a.year:a.year-b.year);$('#rows').innerHTML=a.map(s=>`<tr><td><button class="link" onclick="showSeason(${s.year})">${s.year}</button></td><td style="white-space:nowrap">${esc(s.record||'—')}</td><td>${esc(s.coach||'—')}</td><td>${esc(s.title||'—')}</td><td><button class="link" onclick="showSeason(${s.year})" aria-label="Open ${s.year} details">View ↗</button></td></tr>`).join('');$('#result').textContent=a.length+' seasons shown';}
 function players(){const q=$('#playerSearch').value.toLowerCase(),type=$('#playerType').value;let a=data.seasons.filter(s=>(s.players||'').toLowerCase().includes(q)&&s.players).sort((a,b)=>a.year-b.year);let stories=data.history.filter(t=>t.length>180&&t.toLowerCase().includes(q)&&(!type||(type==='college'?/college|collegiat|profession|NFL|university/i.test(t):/hall of fame/i.test(t))));$('#playerResults').innerHTML=(type?'':`<div class="tablewrap" style="max-height:330px"><table><thead><tr><th>Season</th><th>Notable players / captains · workbook</th></tr></thead><tbody>${a.map(s=>`<tr><td><button class="link" onclick="showSeason(${s.year})">${s.year}</button></td><td>${esc(s.players)}</td></tr>`).join('')}</tbody></table></div>`)+`<p class="muted">${stories.length} matching historical passages · source supplied, verification pending</p>`+stories.map(t=>`<details><summary>${esc(t.slice(0,105))}…</summary><p>${esc(t)}</p><span class="badge">WRITTEN HISTORY</span></details>`).join('');}
 let captainSeasons = [];
+const captainClasses = ['Senior', 'Junior', 'Sophomore', 'Freshman'];
+function captainClass(seasonYear, graduationYear) {
+  return captainClasses[graduationYear - seasonYear - 1] || '—';
+}
 function renderCaptains() {
   const query = $('#captainSearch').value.trim().toLowerCase();
   const decade = $('#captainDecade').value;
@@ -245,16 +249,13 @@ function renderCaptains() {
     if (decade && Math.floor(year / 10) * 10 !== Number(decade)) return [];
     if (!captains.length) {
       return !query || String(year).includes(query)
-        ? [`<tr><th scope="row">${year}</th><td colspan="4" class="muted">Captain names still to verify</td></tr>`]
+        ? [`<tr><th scope="row">${year}</th><td colspan="3" class="muted">Captain names still to verify</td></tr>`]
         : [];
     }
-    return captains.filter(captain => [year, captain.name, captain.position, captain.schoolClass]
+    return captains.filter(captain => [year, captain.name, captainClass(year, captain.schoolClass), captain.schoolClass]
       .join(' ').toLowerCase().includes(query)).map(captain => {
       count++;
-      const sources = captain.sources.map(({label, url}) => url
-        ? `<a href="${esc(url)}"${url.startsWith('#') ? '' : ' target="_blank" rel="noopener"'}>${esc(label)}</a>`
-        : esc(label)).join(' · ');
-      return `<tr><th scope="row">${year}</th><td><strong>${esc(captain.name)}</strong>${captain.note ? `<br><small class="muted">${esc(captain.note)}</small>` : ''}</td><td>${esc(captain.position || '—')}</td><td>${esc(captain.schoolClass || '—')}</td><td>${sources}</td></tr>`;
+      return `<tr><th scope="row">${year}</th><td><strong>${esc(captain.name)}</strong></td><td>${captainClass(year, captain.schoolClass)}</td><td>${esc(captain.schoolClass || '—')}</td></tr>`;
     });
   });
   $('#captainRows').innerHTML = rows.join('');

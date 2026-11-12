@@ -179,7 +179,8 @@
             "label": "Gallery clipping or yearbook",
             "url": "photos/zip-IMG_2712.webp"
           }
-        ]
+        ],
+        "schoolClass": 1929
       }
     ]
   },
@@ -447,7 +448,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1948
       }
     ]
   },
@@ -461,7 +463,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1947
       },
       {
         "name": "Cushie Harris",
@@ -484,7 +487,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1948
       }
     ]
   },
@@ -498,7 +502,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1949
       }
     ]
   },
@@ -547,7 +552,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1951
       },
       {
         "name": "Ted Fredericks",
@@ -690,7 +696,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1956
       },
       {
         "name": "Vinny Perillo",
@@ -821,7 +828,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1961
       }
     ]
   },
@@ -1046,7 +1054,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1970
       },
       {
         "name": "Richard Conti",
@@ -1266,7 +1275,8 @@
             "label": "Historical captains list, 1937–1975",
             "url": "photos/contributed-1238.webp"
           }
-        ]
+        ],
+        "schoolClass": 1976
       }
     ]
   },
@@ -1307,7 +1317,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1978
       },
       {
         "name": "Frank Doyle",
@@ -1320,7 +1331,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1978
       }
     ]
   },
@@ -1334,7 +1346,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1979
       },
       {
         "name": "Mike Allan",
@@ -1377,7 +1390,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1980
       },
       {
         "name": "Mike Furey",
@@ -1576,7 +1590,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1987
       },
       {
         "name": "Fred Staples",
@@ -1608,7 +1623,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1988
       },
       {
         "name": "Larry Furey",
@@ -1617,7 +1633,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1988
       }
     ]
   },
@@ -1821,7 +1838,8 @@
             "label": "Historical captains list, 1976–1995",
             "url": "photos/contributed-1239.webp"
           }
-        ]
+        ],
+        "schoolClass": 1994
       }
     ]
   },
@@ -2502,7 +2520,8 @@
             "url": "https://advocatenews.net/saugus/sports/saugus-football-set-to-open-2025-season-with-depth-experience-and-senior-leadership/"
           }
         ],
-        "schoolClass": 2026
+        "schoolClass": 2026,
+        "position": "OLB / SS"
       },
       {
         "name": "Jordan Rodriguez",
@@ -2534,7 +2553,8 @@
             "url": "https://advocatenews.net/saugus/sports/saugus-football-set-to-open-2025-season-with-depth-experience-and-senior-leadership/"
           }
         ],
-        "schoolClass": 2026
+        "schoolClass": 2026,
+        "position": "RB / MLB"
       },
       {
         "name": "Ryan Shea",
@@ -2544,7 +2564,8 @@
             "url": "https://advocatenews.net/saugus/sports/saugus-football-set-to-open-2025-season-with-depth-experience-and-senior-leadership/"
           }
         ],
-        "schoolClass": 2026
+        "schoolClass": 2026,
+        "position": "WR / SS"
       }
     ]
   },
@@ -2570,7 +2591,8 @@
             "url": "https://advocatenews.net/saugus/sports/saugus-football-team-drops-thanksgiving-heartbreaker-to-peabody/"
           }
         ],
-        "note": "Announced captain"
+        "position": "CB / WR",
+        "schoolClass": 2027
       }
     ]
   }
