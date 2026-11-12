@@ -3362,7 +3362,7 @@
     "file": "photos/era-IMG_3097.webp",
     "thumb": "photos/thumb-era-IMG_3097.webp",
     "title": "John Nicolo · scoring champion profile",
-    "caption": "John Nicolo’s portrait and Item All-Star profiles from 1974 and 1975, together with coverage of his college career. After high school, John played at Ithaca College, where he led the football team to a national championship in 1979 and was named an All-American.",
+    "caption": "John Nicolo’s Saugus High School player portrait and Item All-Star profiles from the 1974 and 1975 seasons. His Ithaca College newspaper clippings are now grouped separately in the John Nicolo — Ithaca College (1976–1987) collection.",
     "year": 1975,
     "category": "All-Star & All-Scholastic",
     "golden": false,
@@ -3394,27 +3394,6 @@
         "category": "All-Star & All-Scholastic",
         "original": "IMG_3423(1).jpeg",
         "golden": false
-      },
-      {
-        "file": "photos/update-IMG_3885.webp",
-        "thumb": "photos/thumb-update-IMG_3885.webp",
-        "title": "John Nicolo · Ithaca All-American",
-        "caption": "The newspaper reports John Nicolo’s second-team All-American recognition after Ithaca’s 1979 national championship season.",
-        "year": 1979,
-        "category": "College & pro",
-        "golden": false,
-        "original": "IMG_3885.jpg"
-      },
-      {
-        "file": "photos/honors-IMG_3164.webp",
-        "thumb": "photos/thumb-honors-IMG_3164.webp",
-        "title": "John Nicolo · 1979 college All-Star",
-        "caption": "The clipping reports John Nicolo’s selection to the Division III Upstate New York All-Star football team during Ithaca’s national-championship season.",
-        "year": 1979,
-        "original": "IMG_3164.jpg",
-        "category": "All-Star & All-Scholastic",
-        "golden": false,
-        "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
       }
     ]
   },
@@ -3622,13 +3601,84 @@
   {
     "file": "photos/contributed-2556.webp",
     "thumb": "photos/thumb-contributed-2556.webp",
-    "title": "John Nicolo · Ithaca College, 1977",
-    "caption": "Ithaca College football, 1977: A contemporary feature follows Saugus High alumnus John Nicolo as he establishes himself at halfback for the Bombers. The article also describes his work as an Ithaca firefighter, his experience at Saugus under coach Mike Ginolfi, and his contributions as a runner, receiver and all-around athlete. Part of the John Nicolo · Ithaca College (1976–1980) collection.",
+    "title": "John Nicolo — Ithaca College (1976–1987)",
+    "caption": "Original college-era newspaper clippings and related coverage of Saugus alumnus John Nicolo at Ithaca College, including his 1977 halfback feature, 1979 NCAA Division III national football championship, second-team All-American and Upstate New York All-Star honors, his 1980 professional baseball opportunity following his Ithaca career, and his 1986 Ithaca Athletic Hall of Fame induction. College material formerly embedded in the 1975 Saugus profile has been moved into this single collection. Dates indicate the events or seasons documented, not necessarily the clipping publication date.",
     "year": 1977,
-    "original": "IMG_2556.jpeg",
     "category": "College & pro",
     "golden": false,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+    "dateSource": "Original contributed clippings; event years 1977–1986.",
+    "images": [
+      {
+        "file": "photos/contributed-2556.webp",
+        "thumb": "photos/thumb-contributed-2556.webp",
+        "title": "John Nicolo · Ithaca College, 1977",
+        "caption": "Ithaca College football, 1977: A contemporary feature follows Saugus High alumnus John Nicolo as he establishes himself at halfback for the Bombers. The article also describes his work as an Ithaca firefighter, his experience at Saugus under coach Mike Ginolfi, and his contributions as a runner, receiver and all-around athlete. Part of the John Nicolo · Ithaca College (1976–1980) collection.",
+        "year": 1977,
+        "original": "IMG_2556.jpeg",
+        "category": "College & pro",
+        "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+      },
+      {
+        "file": "photos/contributed-2557.webp",
+        "thumb": "photos/thumb-contributed-2557.webp",
+        "title": "John Nicolo · 1979 Stagg Bowl champion",
+        "caption": "John Nicolo takes a handoff from quarterback Doug Bencsko in the 1979 Stagg Bowl, the NCAA Division III national championship game. Nicolo helped Ithaca College defeat Wittenberg 14–10 to win the national title.",
+        "year": 1979,
+        "original": "IMG_2557.jpeg",
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+      },
+      {
+        "file": "photos/zip-IMG_3933.webp",
+        "thumb": "photos/thumb-zip-IMG_3933.webp",
+        "title": "Ithaca wins the 1979 national championship",
+        "caption": "The championship recap reports Ithaca’s 14–10 win over Wittenberg. John Nicolo, the Bombers’ leading rusher that season, carried 15 times for 37 yards and helped set up the opening score.",
+        "original": "IMG_3933.jpg",
+        "year": 1979
+      },
+      {
+        "file": "photos/update-IMG_3885.webp",
+        "thumb": "photos/thumb-update-IMG_3885.webp",
+        "title": "John Nicolo · Ithaca All-American",
+        "caption": "The newspaper reports John Nicolo’s second-team All-American recognition after Ithaca’s 1979 national championship season.",
+        "year": 1979,
+        "category": "College & pro",
+        "golden": false,
+        "original": "IMG_3885.jpg"
+      },
+      {
+        "file": "photos/honors-IMG_3164.webp",
+        "thumb": "photos/thumb-honors-IMG_3164.webp",
+        "title": "John Nicolo · 1979 college All-Star",
+        "caption": "The clipping reports John Nicolo’s selection to the Division III Upstate New York All-Star football team during Ithaca’s national-championship season.",
+        "year": 1979,
+        "original": "IMG_3164.jpg",
+        "category": "All-Star & All-Scholastic",
+        "golden": false,
+        "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
+      },
+      {
+        "file": "photos/1980-john-nicolo-pro-shot.webp",
+        "thumb": "photos/thumb-1980-john-nicolo-pro-shot.webp",
+        "title": "John Nicolo gets a pro shot · Auburn, 1980",
+        "caption": "“Saugus’ Nicolo gets a pro shot” reports that Auburn of the New York–Penn League called John Nicolo back after an earlier tryout. He played second base against Elmira and went 2-for-4. The clipping describes the former Saugus and Ithaca standout as a two-sport Division III All-American and identifies Auburn’s Cleveland and Los Angeles affiliations.",
+        "year": 1980,
+        "original": "A3106AB4-9E34-4286-A1C8-59F031D408F2.jpeg",
+        "category": "College & pro",
+        "dateSource": "Year supplied by Sal Nicolo; exact date and newspaper masthead are not visible in the clipping."
+      },
+      {
+        "file": "photos/contributed-4081.webp",
+        "thumb": "photos/thumb-contributed-4081.webp",
+        "title": "John Nicolo · Ithaca Athletic Hall of Fame",
+        "caption": "This clipping announces John Nicolo’s induction into Ithaca College’s Athletic Hall of Fame. It recalls his achievements as an All-American running back and as the shortstop and Most Valuable Player of Ithaca’s 1980 NCAA championship baseball team. The archive’s alumni records date his individual induction to 1986.",
+        "year": 1986,
+        "original": "IMG_4081.jpeg",
+        "category": "College & pro",
+        "dateSource": "1986 induction year from the supplied John Nicolo alumni profile; publication date not visible."
+      }
+    ]
   },
   {
     "file": "photos/contributed-2659-hall.webp",
@@ -3925,38 +3975,6 @@
     "dateSource": "Season and context supplied by Sal Nicolo; caption based on the contributed newspaper clipping."
   },
   {
-    "file": "photos/contributed-2557.webp",
-    "thumb": "photos/thumb-contributed-2557.webp",
-    "title": "John Nicolo · 1979 Stagg Bowl champion",
-    "caption": "1979 NCAA Division III Stagg Bowl: Ithaca College quarterback Doug Bencsko hands off to Saugus alumnus John Nicolo in the national championship game. Ithaca defeated Wittenberg 14–10 in Phenix City, Alabama. Nicolo, Ithaca’s leading rusher that season, carried 15 times for 37 yards in the championship game and finished the season with 880 rushing yards and nine touchdowns. A three-year starting halfback, he earned NCAA Division III second-team All-America and Upstate New York All-Star recognition. Part of the John Nicolo · Ithaca College (1976–1980) collection.",
-    "year": 1979,
-    "original": "IMG_2557.jpeg",
-    "category": "College & pro",
-    "golden": false,
-    "dateSource": "Season and identification supplied by Sal Nicolo, October 2026.",
-    "images": [
-      {
-        "file": "photos/contributed-2557.webp",
-        "thumb": "photos/thumb-contributed-2557.webp",
-        "title": "John Nicolo · 1979 Stagg Bowl champion",
-        "caption": "John Nicolo takes a handoff from quarterback Doug Bencsko in the 1979 Stagg Bowl, the NCAA Division III national championship game. Nicolo helped Ithaca College defeat Wittenberg 14–10 to win the national title.",
-        "year": 1979,
-        "original": "IMG_2557.jpeg",
-        "category": "College & pro",
-        "golden": false,
-        "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
-      },
-      {
-        "file": "photos/zip-IMG_3933.webp",
-        "thumb": "photos/thumb-zip-IMG_3933.webp",
-        "title": "Ithaca wins the 1979 national championship",
-        "caption": "The championship recap reports Ithaca’s 14–10 win over Wittenberg. John Nicolo, the Bombers’ leading rusher that season, carried 15 times for 37 yards and helped set up the opening score.",
-        "original": "IMG_3933.jpg",
-        "year": 1979
-      }
-    ]
-  },
-  {
     "file": "photos/1979-saugus-upsets-lynn-classical.webp",
     "thumb": "photos/1979-saugus-upsets-lynn-classical.webp",
     "title": "1979 · Steve Peach leads Saugus past unbeaten Lynn Classical",
@@ -4023,16 +4041,6 @@
         "dateSource": "Season identified by Sal Nicolo and yearbook context."
       }
     ]
-  },
-  {
-    "file": "photos/1980-john-nicolo-pro-shot.webp",
-    "thumb": "photos/thumb-1980-john-nicolo-pro-shot.webp",
-    "title": "John Nicolo gets a pro shot · Auburn, 1980",
-    "caption": "“Saugus’ Nicolo gets a pro shot” reports that Auburn of the New York–Penn League called John Nicolo back after an earlier tryout. He played second base against Elmira and went 2-for-4. The clipping describes the former Saugus and Ithaca standout as a two-sport Division III All-American and identifies Auburn’s Cleveland and Los Angeles affiliations.",
-    "year": 1980,
-    "category": "College & pro",
-    "original": "A3106AB4-9E34-4286-A1C8-59F031D408F2.jpeg",
-    "dateSource": "Year supplied by Sal Nicolo; exact date and newspaper masthead are not visible in the clipping."
   },
   {
     "file": "photos/honors-IMG_4165.webp",
@@ -4186,17 +4194,6 @@
     "category": "All-Star & All-Scholastic",
     "golden": false,
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
-  },
-  {
-    "file": "photos/contributed-4081.webp",
-    "thumb": "photos/thumb-contributed-4081.webp",
-    "title": "John Nicolo · Ithaca Athletic Hall of Fame",
-    "caption": "This clipping announces John Nicolo’s induction into Ithaca College’s Athletic Hall of Fame. It recalls his achievements as an All-American running back and as the shortstop and Most Valuable Player of Ithaca’s 1980 NCAA championship baseball team. The archive’s alumni records date his individual induction to 1986.",
-    "year": 1986,
-    "original": "IMG_4081.jpeg",
-    "category": "College & pro",
-    "golden": false,
-    "dateSource": "1986 induction year from the supplied John Nicolo alumni profile; publication date not visible."
   },
   {
     "file": "photos/honors-IMG_3392.webp",
