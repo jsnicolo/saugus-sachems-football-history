@@ -266,7 +266,10 @@ function loadCaptains(seasons) {
     if (!response.ok) throw new Error('Captain records unavailable');
     return response.json();
   }).then(records => {
-    const byYear = new Map(records.map(({year, captains}) => [year, captains]));
+    const byYear = new Map(records.map(({year, captains}) => [
+      year,
+      captains.map(captain => ({...captain, schoolClass: captain.schoolClass ?? year + 1})),
+    ]));
     const years = [...new Set([...seasons.map(({year}) => year), ...byYear.keys()])].sort((a,b) => b-a);
     captainSeasons = years.map(year => ({year, captains:byYear.get(year) || []}));
     for (const decade of new Set(years.map(year => Math.floor(year / 10) * 10))) {
