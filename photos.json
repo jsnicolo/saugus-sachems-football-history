@@ -3362,7 +3362,7 @@
     "file": "photos/era-IMG_3097.webp",
     "thumb": "photos/thumb-era-IMG_3097.webp",
     "title": "John Nicolo · scoring champion profile",
-    "caption": "John Nicolo’s Saugus High School player portrait and Item All-Star profiles from the 1974 and 1975 seasons. His Ithaca College newspaper clippings are now grouped separately in the John Nicolo — Ithaca College (1976–1987) collection.",
+    "caption": "John Nicolo’s Saugus High School player portrait and Item All-Star profiles from the 1974 and 1975 seasons. His Ithaca College newspaper clippings are now grouped separately in the John Nicolo — Ithaca College (1976–1980) collection.",
     "year": 1975,
     "category": "All-Star & All-Scholastic",
     "golden": false,
@@ -3602,8 +3602,8 @@
     "file": "photos/contributed-2556.webp",
     "thumb": "photos/thumb-contributed-2556.webp",
     "title": "John Nicolo — Ithaca College (1976–1980)",
-    "caption": "Original college-era newspaper clippings and related coverage of Saugus alumnus John Nicolo during his 1976–1980 years at Ithaca College, including his 1977 halfback feature, 1979 NCAA Division III national football championship, second-team All-American and Upstate New York All-Star honors, his 1980 professional baseball opportunity following his Ithaca career, and retrospective coverage of his 1986 Ithaca Athletic Hall of Fame induction. College material formerly embedded in the 1975 Saugus profile has been moved into this single collection. Dates indicate the events or seasons documented, not necessarily the clipping publication date. Football coverage appears first, followed by later Hall of Fame recognition and baseball coverage at the end of the collection.",
-    "year": 1977,
+    "caption": "Follow Saugus alumnus John Nicolo through his Ithaca College football and baseball years. The collection includes game coverage, his work as a firefighter, the 1979 Division III football national championship, his All-America and Upstate New York honors, and his 1986 Ithaca Athletic Hall of Fame induction. The final clippings cover the 1980 national championship baseball team and his opportunity in professional baseball.",
+    "year": 1976,
     "category": "College & pro",
     "golden": false,
     "dateSource": "Ithaca College attendance years: 1976–1980. Original contributed clippings also include later retrospective coverage.",
@@ -3611,12 +3611,42 @@
       {
         "file": "photos/contributed-2556.webp",
         "thumb": "photos/thumb-contributed-2556.webp",
-        "title": "John Nicolo · Ithaca College, 1977",
-        "caption": "Ithaca College football, 1977: A contemporary feature follows Saugus High alumnus John Nicolo as he establishes himself at halfback for the Bombers. The article also describes his work as an Ithaca firefighter, his experience at Saugus under coach Mike Ginolfi, and his contributions as a runner, receiver and all-around athlete. Part of the John Nicolo · Ithaca College (1976–1980) collection.",
+        "title": "John Nicolo · Ithaca football preview, 1977",
+        "caption": "An Ithaca football preview discusses the Bombers’ matchup with C.W. Post and John Nicolo’s role at halfback.",
         "year": 1977,
         "original": "IMG_2556.jpeg",
         "category": "College & pro",
         "dateSource": "Season and identification supplied by Sal Nicolo, October 2026."
+      },
+      {
+        "file": "photos/ithaca-john-nicolo-alfred.webp",
+        "thumb": "photos/thumb-ithaca-john-nicolo-alfred.webp",
+        "title": "John Nicolo against Alfred",
+        "caption": "John Meteger’s photograph shows an Alfred defender bringing down Ithaca halfback John Nicolo at South Hill.",
+        "year": null,
+        "original": "D15E3F72-DA1B-4425-BEA5-82862B127DC8.png",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/ithaca-john-nicolo-st-lawrence.webp",
+        "thumb": "photos/thumb-ithaca-john-nicolo-st-lawrence.webp",
+        "title": "John Nicolo rushes for 101 yards against St. Lawrence",
+        "caption": "Ithaca halfback John Nicolo (22) breaks through the middle on his way to 101 rushing yards in the Bombers’ 15–13 win at South Hill Field.",
+        "year": null,
+        "original": "9F0BFE04-253A-4441-A4C3-951ED46C718A.png",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/ithaca-john-nicolo-firefighter.webp",
+        "thumb": "photos/thumb-ithaca-john-nicolo-firefighter.webp",
+        "title": "Nicolo a runner on his way to a fire",
+        "caption": "The feature follows the former Saugus standout as he balances football, classes and work as an Ithaca firefighter. He lived at a city firehouse and responded to calls while playing for the Bombers.",
+        "year": 1977,
+        "original": "0F41A907-9786-4EBC-AD39-C9BBD48F190F.png",
+        "category": "College & pro",
+        "golden": false
       },
       {
         "file": "photos/contributed-2557.webp",
@@ -3677,8 +3707,30 @@
         "original": "A3106AB4-9E34-4286-A1C8-59F031D408F2.jpeg",
         "category": "College & pro",
         "dateSource": "Year supplied by Sal Nicolo; exact date and newspaper masthead are not visible in the clipping."
+      },
+      {
+        "file": "photos/ithaca-john-nicolo-baseball-mvp.webp",
+        "thumb": "photos/thumb-ithaca-john-nicolo-baseball-mvp.webp",
+        "title": "John Nicolo named MVP as Ithaca wins the baseball title",
+        "caption": "The Item reports from Marietta, Ohio, on Ithaca’s 1980 national baseball championship and John Nicolo’s tournament MVP award, his second national team title of the school year.",
+        "year": 1980,
+        "original": "IMG_3869.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/ithaca-1980-baseball-champions.webp",
+        "thumb": "photos/thumb-ithaca-1980-baseball-champions.webp",
+        "title": "Ithaca’s 1980 national champion baseball team",
+        "caption": "The team photo accompanies a recap of Ithaca’s four straight College World Series wins after an opening loss to Upsala. The Bombers led Division III with a .363 team batting average and a 2.15 earned run average.",
+        "year": 1980,
+        "original": "23419ED3-6D2D-47E0-A793-FD454B384AB2.jpeg",
+        "category": "College & pro",
+        "golden": false
       }
-    ]
+    ],
+    "yearEnd": 1980,
+    "dateLabel": "1976–1980"
   },
   {
     "file": "photos/contributed-2659-hall.webp",
@@ -4414,6 +4466,79 @@
     "dateSource": "The Boston Globe, Tuesday, November 20, 1990, page 48. Date and page number printed on the supplied page."
   },
   {
+    "file": "photos/marc-fauci-bu-ap-all-america.webp",
+    "thumb": "photos/thumb-marc-fauci-bu-ap-all-america.webp",
+    "title": "Marc Fauci — Boston University (1990–1993)",
+    "caption": "Boston Globe clippings follow the Saugus graduate from his freshman season at strong safety to two years as a captain and his senior move to middle linebacker. In 1993, Fauci helped BU win the Yankee Conference title and finish the regular season 11–0. He earned first-team All-Yankee, second-team All-ECAC and third-team AP Division I-AA All-America honors.",
+    "year": 1990,
+    "yearEnd": 1993,
+    "dateLabel": "1990–1993",
+    "category": "College & pro",
+    "golden": false,
+    "images": [
+      {
+        "file": "photos/marc-fauci-bu-ap-all-america.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-ap-all-america.webp",
+        "title": "Marc Fauci · 1993 AP Division I-AA All-America",
+        "caption": "The Boston Globe reports that the Associated Press selected BU linebacker Marc Fauci to its Division I-AA third team.",
+        "year": 1993,
+        "original": "0935ACC0-3E20-4FCA-9DF5-195429E9F76C.png",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/marc-fauci-bu-ap-team-list.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-ap-team-list.webp",
+        "title": "1993 AP Division I-AA All-America team list",
+        "caption": "The full Associated Press selections list Fauci at linebacker on the third team.",
+        "year": 1993,
+        "original": "6D1E9164-CDCD-4641-AD19-CEE81AF7E2CC.png",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/marc-fauci-bu-freshman.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-freshman.webp",
+        "title": "BU’s Fauci is always in position",
+        "caption": "Joe Burris profiles freshman strong safety Marc Fauci. He earned Yankee Conference Rookie of the Week after recording 11 tackles, an interception and two pass breakups against Rhode Island.",
+        "year": 1990,
+        "original": "87A3148B-D193-4C1E-956D-B6CC58EF37E1.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/marc-fauci-bu-captain.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-captain.webp",
+        "title": "Fauci majors in leadership",
+        "caption": "Marvin Pave profiles Fauci as a junior strong safety and newly elected Boston University tri-captain.",
+        "year": 1992,
+        "original": "A186D7B3-20CA-4562-ACDB-5ED59E50F7C5.png",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/marc-fauci-bu-linebacker.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-linebacker.webp",
+        "title": "At linebacker, he’ll be in the middle for BU",
+        "caption": "The Globe previews Fauci’s fourth season as a starter as he moves from strong safety to middle linebacker.",
+        "year": 1993,
+        "original": "CC8D1B6B-B345-42A8-AB7A-308823416FCF.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/marc-fauci-bu-undefeated.webp",
+        "thumb": "photos/thumb-marc-fauci-bu-undefeated.webp",
+        "title": "Terrier LB Fauci fattens up on foes",
+        "caption": "Marvin Pave profiles the senior captain after his move to middle linebacker for the undefeated, playoff-bound Terriers.",
+        "year": 1993,
+        "original": "BCB653EE-A467-46F0-9873-FF538A0C9CD9.jpeg",
+        "category": "College & pro",
+        "golden": false
+      }
+    ]
+  },
+  {
     "file": "photos/honors-IMG_4171.webp",
     "thumb": "photos/thumb-honors-IMG_4171.webp",
     "title": "The 1991 Item Football All-Stars",
@@ -4718,6 +4843,17 @@
     "dateSource": "Year printed in the clipping or matched to the supplied player workbook."
   },
   {
+    "file": "photos/joe-attubato-plymouth-state-1997.webp",
+    "thumb": "photos/thumb-joe-attubato-plymouth-state-1997.webp",
+    "title": "Joe Attubato and football: He’s seen both sides now",
+    "caption": "Bob Monahan’s November 9, 1997 Boston Sunday Globe feature profiles the former Sachem as a senior defensive tackle and co-captain at Plymouth State.",
+    "year": 1997,
+    "original": "B692707E-6B01-4AFA-92FF-F277E63DAD8F.jpeg",
+    "category": "College & pro",
+    "golden": false,
+    "dateLabel": "November 9, 1997"
+  },
+  {
     "file": "photos/IMG_3359.webp",
     "thumb": "photos/thumb-IMG_3359.webp",
     "title": "Raphael Zammit · 1998 profile",
@@ -4847,15 +4983,197 @@
     "dateSource": "Season and identification supplied by Sal Nicolo."
   },
   {
-    "file": "photos/zip-IMG_3363.webp",
-    "thumb": "photos/thumb-zip-IMG_3363.webp",
+    "file": "photos/mckanas-college-02.webp",
+    "thumb": "photos/thumb-mckanas-college-02.webp",
     "title": "L.J. McKanas beyond Saugus",
-    "caption": "Original clipping connecting Saugus High alumnus L.J. McKanas to his Northeastern University football career. McKanas redshirted in 1997 and played from 1998–2001. His 2001 senior season produced 1,756 rushing yards, 14 touchdowns and 159.6 rushing yards per game, second nationally in Division I and first in the Atlantic 10. He finished with a Northeastern-record 3,692 career rushing yards and received first-team Hanson All-America and the Harry Agganis/Harold Zimman Award. Among his notable games were 225 yards on 47 carries against UConn, 223 yards and three touchdowns against Saint Mary’s, and 172 yards and three touchdowns against James Madison. An April 28, 2002 Boston Sunday Globe article followed his pursuit of an NFL opportunity; no NFL roster affiliation is confirmed. Additional original Boston Globe clippings supplied by the archive contributor are awaiting image upload to this same gallery collection.",
-    "year": 2001,
-    "original": "IMG_3363.jpg",
+    "caption": "Boston Globe and Item coverage of the former Sachem’s Northeastern career. McKanas redshirted in 1997 and played from 1998 through 2001. He rushed for 1,756 yards and 14 touchdowns as a senior and finished with a Northeastern-record 3,692 career rushing yards. The collection includes game reports, All-Star selections and the Harry Agganis/Harold Zimman Award.",
+    "year": 1998,
+    "yearEnd": 2001,
+    "dateLabel": "1998–2001",
     "category": "College & pro",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "golden": false
+    "golden": false,
+    "images": [
+      {
+        "file": "photos/mckanas-college-02.webp",
+        "thumb": "photos/thumb-mckanas-college-02.webp",
+        "title": "McKanas named Atlantic 10 All-Star",
+        "caption": "Atlantic 10 All-Stars listing names Northeastern running back L.J. McKanas to the offensive All-Star team alongside Villanova’s Brian Westbrook. Publication date not visible.",
+        "year": 2001,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping."
+      },
+      {
+        "file": "photos/mckanas-college-03.webp",
+        "thumb": "photos/thumb-mckanas-college-03.webp",
+        "title": "McKanas rushes for 242 yards against UMass",
+        "caption": "Boston Globe game report by Jim Greenidge: McKanas ran for 242 yards on 36 carries in a 17–10 loss to UMass, then the second-highest single-game rushing total in Northeastern history. Exact publication date not visible.",
+        "year": 2001,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "November 3, 2001"
+      },
+      {
+        "file": "photos/mckanas-college-04.webp",
+        "thumb": "photos/thumb-mckanas-college-04.webp",
+        "title": "McKanas chases Northeastern rushing records",
+        "caption": "Globe correspondent Cary Shuman profiles senior running back L.J. McKanas, his Saugus High roots, college rushing record, and aspirations beyond football. Exact publication date not visible.",
+        "year": 2001,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping."
+      },
+      {
+        "file": "photos/mckanas-college-05.webp",
+        "thumb": "photos/thumb-mckanas-college-05.webp",
+        "title": "McKanas breaks Northeastern career rushing record",
+        "caption": "Boston Globe report by Tony Chamberlain: McKanas reached 2,641 career rushing yards against Maine, passing Brian Vaughan’s former school mark of 2,481, despite a 21–9 defeat. Exact publication date not visible.",
+        "year": 2001,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "October 13, 2001"
+      },
+      {
+        "file": "photos/mckanas-college-06.webp",
+        "thumb": "photos/thumb-mckanas-college-06.webp",
+        "title": "Northeastern falls to Harvard",
+        "caption": "Boston Globe report by Marvin Pave: McKanas rushed for 220 yards and scored on a 32-yard run in Northeastern’s 35–20 loss at Harvard. Exact publication date not visible.",
+        "year": 2001,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "October 6, 2001"
+      },
+      {
+        "file": "photos/mckanas-college-07.webp",
+        "thumb": "photos/thumb-mckanas-college-07.webp",
+        "title": "McKanas scores three touchdowns against James Madison",
+        "caption": "Boston Globe report by Jim Greenidge: McKanas rushed for 172 yards on 37 carries and scored three touchdowns as Northeastern defeated James Madison 34–30. Exact publication date not visible.",
+        "year": 2000,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "November 18, 2000"
+      },
+      {
+        "file": "photos/mckanas-college-08.webp",
+        "thumb": "photos/thumb-mckanas-college-08.webp",
+        "title": "McKanas leads Northeastern past UConn",
+        "caption": "Boston Globe report by Bob Monahan: McKanas carried 47 times for 225 yards and scored in Northeastern’s 35–27 victory over Connecticut. Exact publication date not visible.",
+        "year": 2000,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "September 23, 2000"
+      },
+      {
+        "file": "photos/mckanas-college-09.webp",
+        "thumb": "photos/thumb-mckanas-college-09.webp",
+        "title": "McKanas in Northeastern preseason practice",
+        "caption": "Boston Sunday Globe, August 15, 1999. Photo shows Northeastern quarterback Jason Quinlan handing the ball to L.J. McKanas during practice.",
+        "year": 1999,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "August 15, 1999"
+      },
+      {
+        "file": "photos/mckanas-college-10.webp",
+        "thumb": "photos/thumb-mckanas-college-10.webp",
+        "title": "Four North players fueling Northeastern",
+        "caption": "Bob Monahan profiles Northeastern’s North Shore contingent, including Saugus alumnus L.J. McKanas, Tim Gale, Jason Farrell and Andy Alsup.",
+        "year": 1999,
+        "category": "College & pro",
+        "golden": false,
+        "dateSource": "Contributor-supplied Boston Globe clipping.",
+        "dateLabel": "September 26, 1999"
+      },
+      {
+        "file": "photos/mckanas-northeastern-saint-marys.webp",
+        "thumb": "photos/thumb-mckanas-northeastern-saint-marys.webp",
+        "title": "McKanas runs for 223 yards against Saint Mary’s",
+        "caption": "Tony Chamberlain’s Boston Globe report covers Northeastern’s homecoming win. McKanas ran for 223 yards and three touchdowns.",
+        "year": 2001,
+        "original": "C7B50616-3659-47E1-9518-11BB8440E044.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/mckanas-northeastern-season-touchdown-record.webp",
+        "thumb": "photos/thumb-mckanas-northeastern-season-touchdown-record.webp",
+        "title": "McKanas breaks Northeastern’s season rushing touchdown record",
+        "caption": "The Associated Press reports that McKanas rushed for 155 yards in a 24–17 win over James Madison. His 12th rushing touchdown of the season broke Jim Connolly’s school record of 11, set in 1936.",
+        "year": 2001,
+        "original": "IMG_3558.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/mckanas-new-england-football-writers.webp",
+        "thumb": "photos/thumb-mckanas-new-england-football-writers.webp",
+        "title": "New England Football Writers Division I-AA All-Stars",
+        "caption": "The New England Football Writers list McKanas among their Division I-AA All-Star running backs.",
+        "year": 2001,
+        "original": "IMG_3561.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/mckanas-agganis-zimman-award.webp",
+        "thumb": "photos/thumb-mckanas-agganis-zimman-award.webp",
+        "title": "McKanas wins the Harry Agganis/Harold Zimman Award",
+        "caption": "The award recognizes McKanas as the outstanding senior collegiate football player in New England after his record-setting final season at Northeastern.",
+        "year": 2001,
+        "original": "IMG_3562(1).jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/mckanas-ecac-all-stars.webp",
+        "thumb": "photos/thumb-mckanas-ecac-all-stars.webp",
+        "title": "ECAC Division I-AA All-Stars",
+        "caption": "The ECAC selects McKanas and Villanova’s Brian Westbrook at running back.",
+        "year": 2001,
+        "original": "IMG_3564.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/mckanas-northeastern-rhode-island-preview.webp",
+        "thumb": "photos/thumb-mckanas-northeastern-rhode-island-preview.webp",
+        "title": "McKanas leads Northeastern into Rhode Island finale",
+        "caption": "Quentin Bowler’s November 23, 2001 Boston Globe preview reports that McKanas averaged 219 yards over his previous three games and ranked second in Division I-AA in rushing yards per game entering the finale.",
+        "year": 2001,
+        "dateLabel": "November 23, 2001",
+        "original": "E01D11FA-11AD-46C3-AF3A-6BD61DD683EA.jpeg",
+        "category": "College & pro",
+        "golden": false
+      },
+      {
+        "file": "photos/zip-IMG_3363.webp",
+        "thumb": "photos/thumb-zip-IMG_3363.webp",
+        "title": "McKanas and Don Brown at The Item’s All-Star dinner",
+        "caption": "The Item announces that Northeastern coach Don Brown and former Saugus standout L.J. McKanas will appear at its December 13 All-Star dinner.",
+        "year": 2001,
+        "original": "IMG_3363.jpg",
+        "category": "College & pro",
+        "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
+        "golden": false
+      }
+    ]
+  },
+  {
+    "file": "photos/mckanas-college-01.webp",
+    "thumb": "photos/thumb-mckanas-college-01.webp",
+    "title": "McKanas takes first steps toward NFL",
+    "caption": "Jeff Sullivan’s April 28, 2002 Boston Sunday Globe feature follows L.J. McKanas as he pursues an NFL opportunity after Northeastern.",
+    "year": 2002,
+    "category": "College & pro",
+    "golden": false,
+    "dateSource": "Contributor-supplied Boston Globe clipping; dates are printed where visible.",
+    "dateLabel": "April 28, 2002"
   },
   {
     "file": "photos/honors-IMG_3364.webp",
