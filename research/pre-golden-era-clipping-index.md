@@ -41,3 +41,5 @@ Updated with contributor corrections; only the 1915 Needham preview added to gal
 ## Research log — November 2 correction
 
 Status: partial. Sal Nicolo identifies Watertown (IMG_2869), Needham preview (IMG_2868), and Ipswich 20–13 (IMG_2871) as 1915. Needham moved from provisional 1914 to contributor-dated 1915; preview only, result absent. Only IMG_2868 added to gallery under this request. Swampscott 0–0 (IMG_2877) proposed 1911 remains unconfirmed: adjoining funeral notice is Lydia A., wife of Joseph F. Plummer, while supplied memorial establishes Joseph’s death in 1911. Watertown lineup prints J. Flynn; Sal clarified that Leahy was a typo and confirms John Flynn. Ipswich 1914 14–0 retained; separate 14–6 clipping remains unresolved. All 32 ZIP files accounted for; no other gallery additions.
+
+November 13, 2026 update. The newly supplied Watertown roundup is assigned to 1914 by Sal Nicolo. It matches the earlier account’s 6–3 score and disputed ending. The 1914 season log now carries the game with its official disposition unverified. The Nov. 27, 1914 score roundup and the game report confirm the Nov. 26 Thanksgiving result at Needham, 38–6.

@@ -11,11 +11,27 @@
   {
     "year": 1914,
     "opponent": "Needham",
-    "result": "—",
-    "status": "Scheduled only",
-    "note": "The Boston Globe lists Saugus at Needham at 10 a.m. on Thanksgiving Day, Nov. 26, 1914. No final score has been located.",
-    "sourceFile": "The Boston Globe · Nov. 25, 1914 · Thanksgiving Day Sports",
-    "sourceUrl": "documents/1914-needham-thanksgiving-schedule.webp"
+    "result": "L 6–38",
+    "status": "Confirmed newspaper result",
+    "note": "Thanksgiving morning, Nov. 26, 1914, at Needham. Michael Garofano scored Saugus’s touchdown. The game report and the Nov. 27 score roundup both give the final as Needham 38, Saugus 6.",
+    "sources": [
+      {
+        "label": "Nov. 27, 1914 · School Football Results",
+        "url": "documents/1914-needham-thanksgiving-roundup.webp"
+      },
+      {
+        "label": "Needham game report · Nov. 26 dateline",
+        "url": "documents/1914-needham-thanksgiving-report.webp"
+      },
+      {
+        "label": "Needham game report · lineup and scoring summary",
+        "url": "documents/1914-needham-thanksgiving-lineup.webp"
+      },
+      {
+        "label": "The Boston Globe · Nov. 25, 1914 · Thanksgiving Day Sports",
+        "url": "documents/1914-needham-thanksgiving-schedule.webp"
+      }
+    ]
   },
   {
     "year": 1915,

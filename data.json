@@ -147,6 +147,32 @@
       ]
     },
     {
+      "year": 1907,
+      "coach": null,
+      "record": null,
+      "league": null,
+      "title": null,
+      "players": "Gibson, Knox, Downey, Flaherty, Gill, Forestall, Knight, Evans, Whittredge, Weeks, Dinsmore",
+      "awards": null,
+      "nickname": null,
+      "seasonNote": "The Gloucester box score lists Saugus’s eleven by surname: Gibson (left end), Knox (left tackle), Downey (left guard), Flaherty (center), Gill (right guard), Forestall (right tackle), Knight (right end), Evans (quarterback), Whittredge (right halfback), Weeks (left halfback) and Dinsmore (fullback). Gloucester won 53–0 at Stage Fort.",
+      "scheduleNote": "One game documented. The Oct. 9 dateline appears in the clipping, and Sal Nicolo identified the season as 1907.",
+      "games": [
+        {
+          "date": "Oct. 9",
+          "opponent": "at Gloucester",
+          "result": "L 0–53",
+          "status": "Newspaper result"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Gloucester 53, Saugus 0 · game report and lineup",
+          "url": "documents/1907-gloucester-result-lineup.webp"
+        }
+      ]
+    },
+    {
       "year": 1914,
       "coach": "Arthur L. William",
       "record": "2 - 7",
@@ -160,6 +186,52 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2482.webp"
+        },
+        {
+          "label": "Daily Evening Item · Oct. 29, 1914 · Ipswich win",
+          "url": "photos/contributed-IMG_2478.webp"
+        },
+        {
+          "label": "School Football roundup · Watertown dispute",
+          "url": "documents/1914-watertown-disputed-game.webp"
+        },
+        {
+          "label": "Nov. 27, 1914 · School Football Results",
+          "url": "documents/1914-needham-thanksgiving-roundup.webp"
+        },
+        {
+          "label": "Needham game report · Nov. 26 dateline",
+          "url": "documents/1914-needham-thanksgiving-report.webp"
+        },
+        {
+          "label": "Needham game report · lineup and scoring summary",
+          "url": "documents/1914-needham-thanksgiving-lineup.webp"
+        },
+        {
+          "label": "The Boston Globe · Nov. 25, 1914 · Thanksgiving Day Sports",
+          "url": "documents/1914-needham-thanksgiving-schedule.webp"
+        }
+      ],
+      "seasonNote": "Saugus led Watertown 6–3 in the fourth quarter when the game ended in a dispute. At Needham on Thanksgiving morning, Saugus lost 38–6. Michael Garofano scored Saugus’s touchdown, and the report describes both teams making frequent use of the forward pass.",
+      "scheduleNote": "Partial game log. The Watertown score reflects the last reported score when play stopped. The official disposition remains unverified.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Ipswich Manning High",
+          "result": "W 14–0",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "—",
+          "opponent": "Watertown",
+          "result": "6–3 Saugus lead",
+          "status": "Game ended in dispute"
+        },
+        {
+          "date": "Nov. 26",
+          "opponent": "at Needham (Thanksgiving)",
+          "result": "L 6–38",
+          "status": "Confirmed newspaper result"
         }
       ]
     },
@@ -175,6 +247,12 @@
       "sourceRow": 6,
       "games": [
         {
+          "date": "Sept. 25",
+          "opponent": "Revere",
+          "result": "0–7 when stopped",
+          "status": "Called off in the first period"
+        },
+        {
           "date": "—",
           "opponent": "Ipswich",
           "result": "W 20–13",
@@ -186,6 +264,10 @@
         {
           "label": "Early newspaper clipping · IMG_2871",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "Football Game Ends in Fight · Sept. 25 dateline",
+          "url": "photos/1915-saugus-revere-game-called-off.webp"
         }
       ]
     },

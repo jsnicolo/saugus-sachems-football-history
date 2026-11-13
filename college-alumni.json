@@ -1,9 +1,48 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-07",
+  "updated": "2026-11-13",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
+    {
+      "name": "Laurence “Larry” Templeman",
+      "gradYear": 1931,
+      "college": "Northeastern University",
+      "position": "HB",
+      "rosterYears": "1932 (freshman); 1933–1935 (varsity)",
+      "professional": "",
+      "notes": "Known as Laurie in the Saugus yearbook. The freshman lineup lists him at halfback ahead of the Nichols Junior College game. Northeastern credits him with three varsity letters. A 1935 preseason report named him among four returning lettermen expected to start most games, and he closed his career on the Huskies’ unbeaten 5–0–3 team.",
+      "sources": [
+        {
+          "label": "1931 Tontoquonian · senior entry and athletics",
+          "url": "https://archive.org/stream/tontoquonian1931saug/tontoquonian1931saug_djvu.txt"
+        },
+        {
+          "label": "Freshman lineup for the Nichols Junior College game",
+          "url": "documents/templeman-northeastern-freshman-lineup.webp"
+        },
+        {
+          "label": "Report after the varsity opener against American International",
+          "url": "documents/templeman-northeastern-aic-report.webp"
+        },
+        {
+          "label": "1935 preseason varsity report · returning lettermen",
+          "url": "documents/templeman-northeastern-varsity-lettermen.webp"
+        },
+        {
+          "label": "1935 newspaper photo · Northeastern varsity players after the finale",
+          "url": "photos/1935-templeman-northeastern-varsity-finale.webp"
+        },
+        {
+          "label": "Northeastern Athletics · all-time football lettermen",
+          "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133622.aspx"
+        },
+        {
+          "label": "Northeastern Athletics · 1935 football results",
+          "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133257.aspx"
+        }
+      ]
+    },
     {
       "name": "Art Statuto",
       "gradYear": 1943,

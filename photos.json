@@ -56,6 +56,18 @@
     "dateSource": "Season / year confirmed by Sal Nicolo, October 2026"
   },
   {
+    "file": "photos/1915-saugus-revere-game-called-off.webp",
+    "thumb": "photos/thumb-1915-saugus-revere-game-called-off.webp",
+    "title": "Saugus–Revere game called off in the first period",
+    "caption": "Revere had scored a touchdown and kicked the extra point when a dispute over rough play escalated into a fight involving players and spectators. The Sept. 25 report says the game was called off before the first period ended after Revere declined to continue.",
+    "year": 1915,
+    "dateLabel": "September 25, 1915",
+    "original": "IMG_3476.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Sept. 25 dateline in the report; season identified by Sal Nicolo."
+  },
+  {
     "file": "photos/contributed-2747.webp",
     "thumb": "photos/thumb-contributed-2747.webp",
     "title": "The 1917 season · a captain serving in the Great War",
@@ -478,6 +490,28 @@
     "category": "Clippings",
     "golden": false,
     "dateSource": "Boston Globe clipping supplied by Sal Nicolo, who identified the 1935 season."
+  },
+  {
+    "file": "photos/1935-templeman-northeastern-varsity-finale.webp",
+    "thumb": "photos/thumb-1935-templeman-northeastern-varsity-finale.webp",
+    "title": "Larry Templeman and Northeastern’s departing varsity players",
+    "caption": "Laurence “Larry” Templeman, a Saugus High halfback from the Class of 1931, stands third from the left in the back row. The clipping pictures the Northeastern players who finished their college football careers against Massachusetts State at Huntington Field. The Huskies won 13–12 on Nov. 9 to complete a 5–0–3 season. Templeman played freshman football in 1932 and earned varsity letters from 1933 through 1935.",
+    "year": 1935,
+    "dateLabel": "November 1935",
+    "original": "IMG_3481(1).jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Dated by the Massachusetts State finale in Northeastern Athletics’ season results.",
+    "sources": [
+      {
+        "label": "Northeastern Athletics · all-time football lettermen",
+        "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133622.aspx"
+      },
+      {
+        "label": "Northeastern Athletics · 1935 football results",
+        "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133257.aspx"
+      }
+    ]
   },
   {
     "file": "photos/contributed-2749.webp",
