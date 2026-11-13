@@ -6340,5 +6340,116 @@
     "original": "IMG_3714.jpeg",
     "category": "Clippings",
     "golden": false
+  },
+  {
+    "file": "photos/1959-brockton-weymouth-class-a-title.webp",
+    "thumb": "photos/thumb-1959-brockton-weymouth-class-a-title.webp",
+    "year": 1959,
+    "title": "Saugus ends Peabody’s Class A title bid on Thanksgiving",
+    "caption": "The Brockton–Weymouth game report explains the Thanksgiving championship race. Peabody needed to beat Saugus and have Brockton tie or lose. Brockton tied Weymouth 8–8, but the Sachems beat Peabody 14–6 at Stackpole Field, giving Brockton the Class A championship. Saugus shared the North Shore League title with Salem.",
+    "category": "Clippings",
+    "original": "0F0BAB60-ACEC-47C3-9876-2F426E287E2F.jpeg",
+    "dateLabel": "November 26, 1959 · game date"
+  },
+  {
+    "file": "photos/1966-boston-globe-saugus-season-preview.webp",
+    "thumb": "photos/thumb-1966-boston-globe-saugus-season-preview.webp",
+    "title": "The 1966 Sachems · Boston Globe preseason preview",
+    "caption": "In the September 12, 1966 Boston Globe, Frank Donovan previews Walter Sheridan’s Saugus team and features co-captains John Dancewicz, Ed Maguire, and Paul Uga. The page includes the roster, season schedule, and player portraits.",
+    "year": 1966,
+    "dateLabel": "September 12, 1966",
+    "original": "F55FB261-6763-437D-84CC-900731CAD291.jpeg",
+    "category": "Clippings",
+    "golden": false,
+    "dateSource": "Publication and date printed on the Boston Globe page."
+  },
+  {
+    "file": "photos/1966-sachems-complete-squad-player-portraits.webp",
+    "thumb": "photos/thumb-1966-sachems-complete-squad-player-portraits.webp",
+    "title": "The 1966 Sachems · squad & player portraits",
+    "caption": "Walter Sheridan’s 1966 Sachems finished 7–2. This collection from the 1967 yearbook brings together a combined two-page squad portrait and named player studies, followed by two pages of game action, with the pep squad, cheerleaders and spectators sharing in the season’s story. Co-captains Edward Maguire, John Dancewicz and Paul Uga appear among their teammates, alongside Christie Serino, James Mancuso, Donald Murray and Richard Lombardo. The printed portraits preserve players across the backfield, line and receiving positions, while the action photographs capture running, blocking, tackling and scoring in front of crowded sidelines. These pages document the team and its school spirit; a conference championship remains unverified.",
+    "year": 1966,
+    "original": "F3023920-3EA4-4893-8533-39B9C2213C2C.png",
+    "category": "Teams",
+    "golden": false,
+    "dateSource": "Season identified by Sal Nicolo and checked against the yearbook page and archive season records.",
+    "images": [
+      {
+        "file": "photos/1966-sachems-complete-squad-player-portraits.webp",
+        "thumb": "photos/thumb-1966-sachems-complete-squad-player-portraits.webp",
+        "title": "1966 Sachems · complete squad portrait & player studies",
+        "caption": "This combined yearbook spread brings together the complete squad photograph and named player portraits, including co-captains Edward Maguire, John Dancewicz and Paul Uga.",
+        "year": 1966,
+        "original": "F3023920-3EA4-4893-8533-39B9C2213C2C.png",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      },
+      {
+        "file": "photos/season1966-2800.webp",
+        "thumb": "photos/thumb-season1966-2800.webp",
+        "title": "1966 season · game action & school spirit",
+        "caption": "Yearbook page 130 preserves running plays, tackles and close work at the line of scrimmage, alongside part of the football pep squad and cheerleading photographs. The original captions emphasize the physical contests on the field; the action photographs do not individually identify every player.",
+        "year": 1966,
+        "original": "IMG_2800.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      },
+      {
+        "file": "photos/season1966-2801.webp",
+        "thumb": "photos/thumb-season1966-2801.webp",
+        "title": "1966 season · scoring plays, pep squad & cheerleaders",
+        "caption": "Yearbook page 131 continues the action collection with a touchdown photograph, a point-after attempt, a leaping player and open-field running. The football pep squad and cheerleaders share the page, preserving the student support and crowded game-day atmosphere around the Sachems.",
+        "year": 1966,
+        "original": "IMG_2801.jpeg",
+        "category": "Teams",
+        "golden": false,
+        "dateSource": "1967 Tontoquonian yearbook, fall 1966 football section; scans supplied by Sal Nicolo."
+      }
+    ]
+  },
+  {
+    "file": "photos/1972-boston-globe-art-spinney-bc-hall-of-fame.webp",
+    "thumb": "photos/thumb-1972-boston-globe-art-spinney-bc-hall-of-fame.webp",
+    "title": "Art Spinney named to Boston College Hall of Fame",
+    "caption": "Boston Globe, 1972: “7 will join Hall of Fame at BC” announces Art Spinney among seven former Boston College athletes to be inducted on November 3. The article identifies Spinney as a member of BC’s Class of 1950, recalls his college career at tight end, and highlights his professional career as an All-Pro guard with the Baltimore Colts.",
+    "year": 1972,
+    "original": "37F4C982-A8C5-4F6B-9F3E-55DBF3B1AD35.png",
+    "source": "Boston Globe",
+    "dateSource": "Year and publication supplied by the contributor."
+  },
+  {
+    "file": "photos/1997-boston-globe-zammit-brothers-greater-lawrence.webp",
+    "thumb": "photos/thumb-1997-boston-globe-zammit-brothers-greater-lawrence.webp",
+    "title": "The Zammit brothers combine for 251 yards",
+    "caption": "The Boston Globe reported that Saugus running backs Dominic and Raphael Zammit combined for 251 yards in a 34–6 win over Greater Lawrence. The clipping was digitally enhanced for readability.",
+    "year": 1997,
+    "original": "A9D8814C-E765-4D0B-AA06-2EC957A19B18.png",
+    "category": "Clippings",
+    "dateSource": "Boston Globe clipping. Season identified by Sal Nicolo.",
+    "golden": false
+  },
+  {
+    "file": "photos/1998-boston-globe-raphael-zammit-star-of-the-week.webp",
+    "thumb": "photos/thumb-1998-boston-globe-raphael-zammit-star-of-the-week.webp",
+    "title": "Raphael Zammit · Boston Globe Star of the Week",
+    "caption": "Globe correspondent Anthony P. Di Fonso profiled Saugus senior tailback Raphael Zammit, who had already gained 680 yards and scored 12 touchdowns when the feature appeared. Photo by Jonathan Wiggs for the Boston Globe.",
+    "year": 1998,
+    "original": "EC22D1A8-3DEA-41C4-8213-0A8ECC9069BF.png",
+    "category": "Clippings",
+    "dateSource": "Boston Globe clipping. Season identified by Sal Nicolo.",
+    "golden": false
+  },
+  {
+    "file": "photos/1999-boston-globe-agganis-raphael-zammit.webp",
+    "thumb": "photos/thumb-1999-boston-globe-agganis-raphael-zammit.webp",
+    "title": "Raphael Zammit · 1999 Agganis All-Star Game",
+    "caption": "Fred O’Connor’s Boston Globe recap singled out Saugus running back Raphael Zammit for the South. He rushed for 114 yards and completed a 44-yard pass to Rocky Silva in the North’s 20–2 win at Manning Bowl.",
+    "year": 1999,
+    "original": "4F5E0613-1EA3-4AD2-8906-B5E4407504D5.png",
+    "category": "All-Star & All-Scholastic",
+    "dateSource": "Boston Globe game recap. Gallery year identified by Sal Nicolo.",
+    "golden": false
   }
 ]
