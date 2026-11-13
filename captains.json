@@ -2231,6 +2231,29 @@
     ]
   },
   {
+    "year": 2009,
+    "captains": [
+      {
+        "name": "John Moore",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2010
+      },
+      {
+        "name": "Andrew White",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2010
+      }
+    ]
+  },
+  {
     "year": 2010,
     "captains": [
       {
@@ -2239,6 +2262,33 @@
           {
             "label": "Saint Anselm College football bio · Saugus senior captain",
             "url": "https://saintanselmhawks.com/sports/football/roster/james-hyde/1080"
+          }
+        ],
+        "schoolClass": 2011
+      },
+      {
+        "name": "Steve Spinney",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2011
+      },
+      {
+        "name": "Ryan Kennedy",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2011
+      },
+      {
+        "name": "Shamir Guillaume",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
           }
         ],
         "schoolClass": 2011
@@ -2269,6 +2319,20 @@
         ],
         "position": "Linebacker",
         "schoolClass": 2013
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "captains": [
+      {
+        "name": "Justin Winn",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2015
       }
     ]
   },
@@ -2419,6 +2483,38 @@
     ]
   },
   {
+    "year": 2020,
+    "captains": [
+      {
+        "name": "Sal Franco",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2021
+      },
+      {
+        "name": "Kyle Surette",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2021
+      },
+      {
+        "name": "Dougie Clark",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2021
+      }
+    ]
+  },
+  {
     "year": 2021,
     "captains": [
       {
@@ -2431,6 +2527,33 @@
           {
             "label": "Hudl · Saugus Class of 2022",
             "url": "https://www.hudl.com/video/3/10634199/5da147d6478e3914ec021bfc"
+          }
+        ],
+        "schoolClass": 2022
+      },
+      {
+        "name": "Mekhi Coburn",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2022
+      },
+      {
+        "name": "Sean O’Rourke",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
+          }
+        ],
+        "schoolClass": 2022
+      },
+      {
+        "name": "Tre Sanders",
+        "sources": [
+          {
+            "label": "Captain information supplied by Sal Nicolo"
           }
         ],
         "schoolClass": 2022
