@@ -6,10 +6,145 @@
       "record": "1 - 4",
       "league": null,
       "title": null,
-      "players": "Chas Bennett",
+      "players": "Chas Bennett, MacKenzie, Harriman",
       "awards": null,
       "nickname": null,
-      "sourceRow": 3
+      "sourceRow": 3,
+      "seasonNote": "The Winchester report singled out halfback MacKenzie and a player it called Harrison in the write-up. The same report lists Harriman at fullback, and the Tufts lineup also gives Harriman. The Everett report says Saugus fielded substitutes at all but two positions. The surviving lineups name Bennett and MacKenzie at halfback and Chadwick at quarterback. Other names include Bryer, Edmonds (also printed as Edmunds), Graves, Harriman, Hitchings, Hudson, Libby, Lyons, McCollough, Norris and Richardson.",
+      "scheduleNote": "Partial game log. The Tufts report identifies its freshmen as the Class of 1905, placing the game in fall 1901. The Everett report announced a Nov. 22 rematch at Saugus, with no result found in these sources.",
+      "games": [
+        {
+          "date": "Oct. 19",
+          "opponent": "at Winchester",
+          "result": "L 0–11",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Oct. 25",
+          "opponent": "at Everett",
+          "result": "L 0–46",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Nov. 14",
+          "opponent": "at Tufts freshmen",
+          "result": "L 0–23",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Nov. 22",
+          "opponent": "Everett",
+          "result": "—",
+          "status": "Scheduled only"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Winchester game report and lineup",
+          "url": "documents/1901-winchester.webp"
+        },
+        {
+          "label": "Everett game report and lineup",
+          "url": "documents/1901-everett.webp"
+        },
+        {
+          "label": "Tufts Class of 1905 freshmen game report and lineup",
+          "url": "documents/1901-tufts-freshmen.webp"
+        }
+      ]
+    },
+    {
+      "year": 1906,
+      "coach": null,
+      "record": "1–3–1 (partial)",
+      "league": null,
+      "title": null,
+      "players": "Brady (Captain), Parker, Gibson",
+      "recordNote": "The surviving reports identify one win, three losses and one tie. The Burdett win comes from a later newspaper account. The Stoneham tie is attributed to 1906 based on the matching lineup and Thanksgiving date. The complete season record is unknown.",
+      "seasonNote": "Captain Brady and Parker stood out against Revere. Gibson and Parker were singled out against Winthrop. Across the surviving lineups, Brady played left end and left halfback, Parker played fullback and left halfback, and Gibson played right end and fullback. Other names include Burnham, Gammons, Hatch, Hulen, Kinley, Libby, Russell, Weeks and Whittredge. First names remain unverified.",
+      "scheduleNote": "The Winthrop game report and score roundup both give 15–0 and are counted as one game. An earlier archival index notes that an Oct. 25 retrospective appears to give a different score for the earlier meeting. The Malden game and proposed Thanksgiving game against Revere appear in schedule notices. The Stoneham game report records the Thanksgiving result.",
+      "games": [
+        {
+          "date": "Oct. 3",
+          "opponent": "at Winthrop",
+          "result": "L 0–15",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Oct. 10",
+          "opponent": "at Beverly",
+          "result": "L 0–16",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Oct. 15",
+          "opponent": "at Revere",
+          "result": "L 0–18",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Before Nov. 29",
+          "opponent": "Burdett",
+          "result": "W 5–0",
+          "status": "Reported in a later newspaper account"
+        },
+        {
+          "date": "Nov. 29",
+          "opponent": "at Stoneham",
+          "result": "T 0–0",
+          "status": "Thanksgiving · year supported by lineup and date"
+        },
+        {
+          "date": "Nov. 29",
+          "opponent": "Revere",
+          "result": "—",
+          "status": "Originally scheduled for Thanksgiving"
+        },
+        {
+          "date": "Date unavailable",
+          "opponent": "at Malden",
+          "result": "—",
+          "status": "Scheduled only"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Winthrop game report and lineup",
+          "url": "documents/1906-winthrop.webp"
+        },
+        {
+          "label": "Winthrop score roundup",
+          "url": "documents/1906-winthrop-roundup.webp"
+        },
+        {
+          "label": "Beverly game report and lineup",
+          "url": "documents/1906-beverly.webp"
+        },
+        {
+          "label": "Revere game report and lineup",
+          "url": "documents/1906-revere.webp"
+        },
+        {
+          "label": "Revere schedule announcement",
+          "url": "documents/1906-revere-schedule.webp"
+        },
+        {
+          "label": "Malden game announcement",
+          "url": "documents/1906-malden-schedule.webp"
+        },
+        {
+          "label": "Stoneham score roundup",
+          "url": "documents/1906-stoneham-roundup.webp"
+        },
+        {
+          "label": "Stoneham Thanksgiving game report",
+          "url": "documents/1906-stoneham-thanksgiving-result.webp"
+        },
+        {
+          "label": "Earlier newspaper research · Burdett and Winthrop",
+          "url": "research/pre-golden-era-clipping-index.md"
+        }
+      ]
     },
     {
       "year": 1914,
@@ -6915,7 +7050,7 @@
     "Saugus High School’s football program boasts over a century of tradition marked by unforgettable triumphs, legendary players, and the unyielding spirit of a small-town community in Massachusetts. From its humble beginnings in the early 1900s to its golden era of state championships, the Sachems have woven a rich tapestry of history that continues to inspire “Sachem Pride” to this day. This overview traces the program’s key eras, coaches, stars, and milestones, celebrating its enduring legacy despite recent challenges.",
     "1900–1919 (The Early Years):",
     "J.W. Stanley (1901)",
-    "The season archive’s earliest listed Saugus High team is the 1901 squad, coached by J. W. Stanley and featuring Chas Bennett. A separate 1896 gallery clipping reports a Saugus football team without explicitly identifying it as Saugus High School. The archive resumes its regular season chronology in 1914; gaps in the surviving material should not be treated as proof that no football was played.",
+    "The season archive’s earliest listed Saugus High team is the 1901 squad, coached by J. W. Stanley and featuring Chas Bennett. A separate 1896 gallery clipping reports a Saugus football team without explicitly identifying it as Saugus High School. Surviving 1906 reports document a partial schedule and identify Brady as captain. The archive resumes its regular season chronology in 1914; gaps in the surviving material should not be treated as proof that no football was played.",
     "Arthur L. William (1914)",
     "Saugus High has fielded a football team in most seasons since 1914. The 1914 team was coached by Arthur L. William. Saugus went 2-7 during Coach Williams’ lone season as Head Coach. The team was led by players John Fox and George Sprague.",
     "Charles T. Senay (1915-1916)",
