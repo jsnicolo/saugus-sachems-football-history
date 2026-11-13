@@ -470,15 +470,42 @@
     "dateSource": "Yearbook scan supplied and season identified by Sal Nicolo; publication-year differences noted in the caption."
   },
   {
-    "file": "photos/zip-IMG_2721.webp",
-    "thumb": "photos/thumb-zip-IMG_2721.webp",
-    "title": "An early football squad",
-    "caption": "The 1935 Saugus football squad, pictured with its yearbook roster.",
+    "file": "photos/1935-yearbook-team.webp",
+    "thumb": "photos/thumb-1935-yearbook-team.webp",
+    "title": "1935 Saugus football squad and roster",
+    "caption": "Two yearbook pages show the squad, the season results, and the football roster. Saugus closed the fall season with an 18–12 Thanksgiving victory over Danvers.",
     "year": 1935,
-    "original": "IMG_2721.jpg",
+    "original": "IMG_3728.jpeg",
     "category": "Teams",
-    "dateSource": "Season / year confirmed by Sal Nicolo, October 2026",
-    "golden": true
+    "golden": true,
+    "source": "Tontoquonian",
+    "dateSource": "1936 Saugus High School yearbook, covering fall 1935.",
+    "images": [
+      {
+        "file": "photos/1935-yearbook-team.webp",
+        "thumb": "photos/thumb-1935-yearbook-team.webp",
+        "title": "1935 Saugus football squad",
+        "caption": "The squad portrait and yearbook season summary include the 18–12 Thanksgiving win over Danvers.",
+        "year": 1935,
+        "original": "IMG_3728.jpeg",
+        "category": "Teams",
+        "golden": true,
+        "source": "Tontoquonian",
+        "dateSource": "1936 Saugus High School yearbook, covering fall 1935."
+      },
+      {
+        "file": "photos/1935-yearbook-roster.webp",
+        "thumb": "photos/thumb-1935-yearbook-roster.webp",
+        "title": "1935 Saugus football roster",
+        "caption": "The football roster in the 1935–36 athletics section lists coach Leahy, assistant coach Friberg, and manager Trefry.",
+        "year": 1935,
+        "original": "IMG_3729.jpeg",
+        "category": "Teams",
+        "golden": true,
+        "source": "Tontoquonian",
+        "dateSource": "1936 Saugus High School yearbook, covering fall 1935."
+      }
+    ]
   },
   {
     "file": "photos/1935-boston-globe-saugus-ready-to-go-places.webp",
@@ -512,6 +539,18 @@
         "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133257.aspx"
       }
     ]
+  },
+  {
+    "file": "photos/1936-yearbook-team-roster.webp",
+    "thumb": "photos/thumb-1936-yearbook-team-roster.webp",
+    "title": "1936 Saugus football squad and roster",
+    "caption": "The yearbook pairs the team photo with its roster and season recap, including the 20–0 win over Amesbury and the 6–6 Thanksgiving tie with Danvers.",
+    "year": 1936,
+    "original": "IMG_3730.jpeg",
+    "category": "Teams",
+    "golden": true,
+    "source": "Tontoquonian",
+    "dateSource": "1937 Saugus High School yearbook, covering fall 1936."
   },
   {
     "file": "photos/contributed-2749.webp",
