@@ -1234,7 +1234,7 @@
       "nickname": "Sachems",
       "sourceRow": 38,
       "championshipCategory": "Historical state class",
-      "championshipNote": "The contemporary final standings place Saugus first in Class C. The 1942 yearbook Football Folio and 1941 town report explicitly recognize the class championship. This is a historical class title; no separate all-class statewide No. 1 ranking is established.",
+      "championshipNote": "The contemporary final standings place Saugus first in Class C. The 1942 yearbook Football Folio and 1941 town report explicitly recognize the class championship. This is a historical class title; no separate all-class statewide No. 1 ranking is established. The newspaper retrospective “Grid Champions Down the Years” also names Saugus as the 1941 Class C champion.",
       "championshipSources": [
         {
           "label": "Contemporary clipping · final Class C standings",
@@ -1247,10 +1247,14 @@
         {
           "label": "1941 town report",
           "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1941-part-14.htm"
+        },
+        {
+          "label": "Newspaper retrospective · Grid Champions Down the Years (1936–1959)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-1959-grid-champions.webp"
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Hank Toczylowski and assistant Edward Galligan installed a new system and guided the Sachems to the Class C state championship. Ed Shipulski scored twice in the 32–0 opener against Chelsea. Co-captain Mike Harrington scored in the final minute to earn the 6–6 tie with Leominster. Against Swampscott, Shipulski and Harrington broke early touchdown runs of 87 and 47 yards in a 34–13 win.\n\nHarrington threw to Claude Collette for the only touchdown in a 6–0 win over Marblehead. Welcome Goss scored both Saugus touchdowns in the 12–6 Thanksgiving win over Wakefield before a reported 10,000 at Stackpole Field. The Boston Globe and the yearbook agree on 12–6. A later rivalry table lists 13–6.",
+      "seasonNote": "Hank Toczylowski and assistant Edward Galligan installed a new system and guided the Sachems to the Class C state championship. Ed Shipulski scored twice in the 32–0 opener against Chelsea. Co-captain Mike Harrington scored in the final minute to earn the 6–6 tie with Leominster. Against Swampscott, Shipulski and Harrington broke early touchdown runs of 87 and 47 yards in a 34–13 win.\n\nHarrington threw to Claude Collette for the only touchdown in a 6–0 win over Marblehead. Welcome Goss scored both Saugus touchdowns in the 12–6 Thanksgiving win over Wakefield before a reported 10,000 at Stackpole Field. The Boston Globe and the yearbook agree on 12–6. A later rivalry table lists 13–6. The newspaper retrospective “Grid Champions Down the Years” also names Saugus as the 1941 Class C champion.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_2748.jpg",
@@ -1287,6 +1291,10 @@
         {
           "label": "Boston Globe · ten-game preseason schedule and new coaches",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-saugus-eleven-title-drive.webp"
+        },
+        {
+          "label": "Newspaper retrospective · Grid Champions Down the Years (1936–1959)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-1959-grid-champions.webp"
         }
       ],
       "games": [
@@ -1588,7 +1596,7 @@
       "nickname": "Sachems",
       "sourceRow": 41,
       "championshipCategory": "Historical state class",
-      "championshipNote": "The 1945 yearbook explicitly awards the Massachusetts State Class B championship for 1944, corroborated by the 1944 town report. The yearbook records ten straight regular-season wins and separately describes a 19–7 postseason loss to Class A champion Peabody; the class title remains valid.",
+      "championshipNote": "The 1945 yearbook explicitly awards the Massachusetts State Class B championship for 1944, corroborated by the 1944 town report. The yearbook records ten straight regular-season wins and separately describes a 19–7 postseason loss to Class A champion Peabody; the class title remains valid. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.",
       "championshipSources": [
         {
           "label": "1945 yearbook · Class B championship",
@@ -1601,10 +1609,14 @@
         {
           "label": "1945 yearbook · postseason account",
           "url": "https://archive.org/details/tontoquonian1945saug"
+        },
+        {
+          "label": "Newspaper retrospective · Grid Champions Down the Years (1936–1959)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-1959-grid-champions.webp"
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season. Art Spinney captained a defense that posted eight shutouts in ten games. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game.",
+      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season. Art Spinney captained a defense that posted eight shutouts in ten games. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.",
       "seasonSources": [
         {
           "label": "1945 yearbook · Class B championship",
@@ -1637,6 +1649,10 @@
         {
           "label": "1945 Tontoquonian · Class B title and Peabody postseason account",
           "url": "https://archive.org/details/tontoquonian1945saug"
+        },
+        {
+          "label": "Newspaper retrospective · Grid Champions Down the Years (1936–1959)",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-1959-grid-champions.webp"
         }
       ],
       "games": [
