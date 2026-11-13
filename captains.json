@@ -1,5 +1,24 @@
 [
   {
+    "year": 1906,
+    "captains": [
+      {
+        "name": "John Thomas Brady",
+        "schoolClass": 1907,
+        "sources": [
+          {
+            "label": "Revere game report · Captain Brady",
+            "url": "documents/1906-revere.webp"
+          },
+          {
+            "label": "1907 commencement program · John Thomas Brady",
+            "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1907-part-17.htm"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "year": 1908,
     "captains": [
       {
@@ -323,7 +342,7 @@
         ]
       },
       {
-        "name": "Mike “Iron Mike” Harrington",
+        "name": "John “Iron Mike” Harrington",
         "sources": [
           {
             "label": "Historical captains list, 1937–1975",
@@ -353,7 +372,7 @@
         "schoolClass": 1942
       },
       {
-        "name": "Mike “Iron Mike” Harrington",
+        "name": "John “Iron Mike” Harrington",
         "sources": [
           {
             "label": "Boston Globe · 1941 preview",

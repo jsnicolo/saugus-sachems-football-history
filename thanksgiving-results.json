@@ -3,10 +3,22 @@
     "year": 1906,
     "opponent": "Stoneham",
     "result": "T 0–0",
-    "status": "Provisional year; strong roster match",
-    "note": "Thanksgiving morning at Stoneham. The newspaper report is datelined Nov. 29 and records a 0–0 tie on the local grounds. The lineup matches the dated Oct. 25, 1906 Daily Item report against Winthrop. The Thanksgiving clipping does not show the publication name or issue year.",
-    "sourceFile": "Stoneham H. S. 0, Saugus H. S. 0 · newspaper clipping datelined Nov. 29",
-    "sourceUrl": "documents/1906-stoneham-thanksgiving-result.webp"
+    "status": "Newspaper result · year supported by roster and date",
+    "note": "Saugus and Stoneham tied 0–0 at Stoneham on Thanksgiving morning. The Nov. 29 dateline falls on Thanksgiving in 1906, and the Saugus lineup matches the Oct. 25, 1906 Daily Item report against Winthrop. A separate preseason notice had listed Revere.",
+    "sources": [
+      {
+        "label": "Stoneham H. S. 0, Saugus H. S. 0 · newspaper clipping datelined Nov. 29",
+        "url": "documents/1906-stoneham-thanksgiving-result.webp"
+      },
+      {
+        "label": "Thanksgiving score roundup",
+        "url": "documents/1906-stoneham-roundup.webp"
+      },
+      {
+        "label": "Daily Item · Oct. 25, 1906 · matching lineup",
+        "url": "documents/early-1906-anchor.webp"
+      }
+    ]
   },
   {
     "year": 1914,

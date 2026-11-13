@@ -6,7 +6,7 @@ At the October 30 audit, the honors database contained **177 award records**, up
 
 ## Primary evidence consulted
 
-- **1941 Boston Globe All-Scholastic** original scan: `photos/contributed-2690.webp`. Mike Harrington is **second team**, not first. The scan lists nine Saugus **honorable mentions**: ends Collette and Goclowski; tackles MacDonald and Pendlebury; guards Daniels and Flaherty; center Art Statuto; backs Eddie Shipulski and Goss. Surname-only entries need first-name identification.
+- **1941 Boston Globe All-Scholastic** original scan: `photos/contributed-2690.webp`. John “Iron Mike” Harrington is **second team**, not first. The scan lists nine Saugus **honorable mentions**: ends Collette and Goclowski; tackles MacDonald and Pendlebury; guards Daniels and Flaherty; center Art Statuto; backs Eddie Shipulski and Goss. Surname-only entries need first-name identification.
 - **1944 Boston Globe** original scan: `photos/IMG_3718.webp`. Art Spinney is first-team end; Frank Pyzsko is second-team back.
 - **1945 Tontoquonian**, 1944 season post-season review: https://archive.org/details/tontoquonian1945saug . Original supplied ZIP scan `IMG_2767.jpg` names **eight** Saugus selections to the North Shore All-Star game: Art Spinney (captain), Dick Allen, Don Reiniger, John Quinlan, Bob Thurell, Bruce Waybright, Frank Pyzsko and **Bob Kane**, who was unable to play because of an ankle injury. This is a **game selection**, not a newspaper All-Scholastic or All-State honor.
 - **1969 football yearbook review**, `photos/season1969-2796.webp`: NEC first offense Bob Osgood and Bill Eichel; first defense Steve Nelson; honorable mention Rich DeSisto, Bill Babcock, Rich Conti and John Richard. Do not conflate NEC honorable mention with first-team selection.

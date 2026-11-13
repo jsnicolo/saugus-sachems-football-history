@@ -4,7 +4,7 @@ Updated with contributor corrections; only the 1915 Needham preview added to gal
 
 | File | Season | Confidence | Evidence | Question |
 |---|---|---|---|---|
-| IMG_2861.jpg | 1941 | Strong inference | Hank Toczylowski, Iron Mike Harrington, Shipwreck Shipulski; upcoming Wakefield Thanksgiving game and Class C title. This is later than the intended ZIP era. | Publication date would establish exact day; no final score here. |
+| IMG_2861.jpg | 1941 | Strong inference | Hank Toczylowski, John “Iron Mike” Harrington, Shipwreck Shipulski; upcoming Wakefield Thanksgiving game and Class C title. This is later than the intended ZIP era. | Publication date would establish exact day; no final score here. |
 | IMG_2862.jpg | 1906 | Strong roster match | Gibson, Waterman/Waters, Hatch, Russell, Whittredge, Libby, Brady, Hulen, Kinley, Gammons, Parker match the explicitly dated Oct. 25, 1906 clipping IMG_2882. Reports one 20-minute half and prior 5–0 Burdett win. | Same text as IMG_2883. Thanksgiving preview says Stackpole Field; actual Stoneham report says at Stoneham. |
 | IMG_2863.jpg | 1906 | Strong roster match | Opening of same game report as IMG_2864. Opponent Stoneham; kickoff 10:15; about 100 traveling supporters. Roster in continuation matches 1906 anchor. | Publication date missing; year inferred from repeated full roster, not printed. |
 | IMG_2864.jpg | 1906 | Strong roster match | Final summary explicitly Stoneham 0, Saugus 0; Gibson, Waterman, Hatch, Russell, Whittredge, Libby, Brady, Hulen, Kinley, Gammons and Parker match IMG_2882. | Pair with IMG_2863; final venue differs from preseason preview. |

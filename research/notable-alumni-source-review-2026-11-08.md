@@ -24,7 +24,7 @@ Individual biographies link the evidence for their additions. No projected colle
 | Profile | Result |
 |---|---|
 | Stan Green | Expanded / corrected |
-| John "Iron Mike" Harrington | Expanded / corrected |
+| John “Iron Mike” Harrington | Expanded / corrected |
 | Art Statuto | Expanded / corrected |
 | Doug Waybright | Expanded / corrected |
 | Art Spinney | Expanded / corrected |
