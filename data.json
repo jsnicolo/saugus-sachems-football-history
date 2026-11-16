@@ -3818,7 +3818,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Mike Ginolfi’s Sachems went 9–1 and shared the Northeastern Conference title. They posted six shutouts and won their last six games after losing to Swampscott. Against Salem, Saugus trailed 14–0 at halftime. An 80-yard, 18-play drive ended with Jay LeBranti’s 25-yard touchdown pass to Frank Scuzzarella on third-and-19 with 47 seconds left. John Nicolo ran for 134 yards on 29 carries and kicked the extra point for the 15–14 win.\n\nIn the Thanksgiving Mud Bowl, Steve Gannon blocked a Peabody field goal and Nicolo returned it for the only touchdown in a 6–0 win. The Item named Nicolo its football Player of the Year. Doug Mackie earned Parade All-American honors and All-Scholastic recognition from the Boston Globe and the Herald American/Herald Advertiser.",
+      "seasonNote": "Mike Ginolfi’s Sachems finished 9–1 and shared the Northeastern Conference title. They posted six shutouts and won their final six games after the 42–6 loss to Swampscott, when Tom Heaney scored Saugus’ only touchdown on a 30-yard run.\n\nSaugus opened with a 35–0 win over Winthrop. John Nicolo threw touchdown passes to Dan Hashem and Frank Scuzzarella, ran 23 yards for another score and kicked three extra points. Nicolo scored both touchdowns in the 14–0 win over Marblehead. At Lynn English, Nicolo, Heaney and Steve Gannon each ran for two touchdowns in a 42–16 win, highlighted by Nicolo’s 66-yard run and Gannon’s 85-yarder.\n\nIn the 28–0 shutout at Lynn Classical, Jay LeBranti threw 32- and 85-yard touchdown passes to Scuzzarella, Nicolo scored on a 70-yard run, and Gannon and Mark Calhoun each tackled the punter in the end zone for a safety. Against Danvers, Nicolo scored twice on the ground, threw an 18-yard touchdown to Scuzzarella and kicked a 24-yard field goal in a 30–0 win. The cropped box score’s final-score line is unclear, but its scoring plays add to 30.\n\nAt Salem, Saugus trailed 14–0 at halftime. On the winning 80-yard, 18-play drive, LeBranti found Scuzzarella on third-and-19 with 47 seconds left. The full Daily Item game report gives the touchdown as 25 yards, while the scoring summary lists 20. Nicolo ran for 134 yards on 29 carries and kicked the winning extra point in the 15–14 comeback.\n\nScuzzarella caught a 31-yard touchdown at Beverly, and Nicolo added scoring runs of 69 and 12 yards in the 29–15 win. Nicolo scored three rushing touchdowns in a 43–0 shutout at Gloucester. On Thanksgiving, Gannon blocked a Peabody field goal and Nicolo returned it 80 yards for the only touchdown in the 6–0 Mud Bowl win.\n\nThe Item named Nicolo its football Player of the Year. Doug Mackie earned Parade All-American honors and All-Scholastic recognition from the Boston Globe and the Herald American/Herald Advertiser. The scoring summaries document six touchdown catches for Scuzzarella and six rushing touchdowns for Heaney. Stats marks incomplete figures as partial.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_3850.jpg",
@@ -3859,6 +3859,46 @@
         {
           "label": "Advocate News · 1975 and 1977 team history",
           "url": "https://advocatenews.net/saugus/news/the-old-sachem-saugus-high-sports-1975-to-1979/"
+        },
+        {
+          "label": "Scoring summary · Winthrop, 35–0",
+          "url": "sources/1975-winthrop-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Marblehead, 14–0",
+          "url": "sources/1975-marblehead-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Lynn English, 42–16",
+          "url": "sources/1975-lynn-english-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Swampscott, 6–42",
+          "url": "sources/1975-swampscott-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Danvers, 30–0",
+          "url": "sources/1975-danvers-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Lynn Classical, 28–0",
+          "url": "sources/1975-lynn-classical-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Salem, 15–14",
+          "url": "sources/1975-salem-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Beverly, 29–15",
+          "url": "sources/1975-beverly-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Gloucester, 43–0",
+          "url": "sources/1975-gloucester-scoring.webp"
+        },
+        {
+          "label": "Scoring summary · Peabody, 6–0",
+          "url": "sources/1975-peabody-scoring.webp"
         }
       ],
       "games": [
