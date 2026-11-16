@@ -6339,14 +6339,24 @@
       "name": "Frank Serino",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": null,
-        "Receiving Yards": null,
+        "Receptions": 14,
+        "Receiving Yards": 222,
         "Receiving Touchdowns": 9
       },
       "row": 39,
       "statSources": {
         "Receiving Touchdowns": {
           "clipping": "IMG_3321.jpg"
+        },
+        "Receptions": {
+          "clipping": "1977 scoring summaries · Beverly, Salem, Danvers, Lynn Classical and Swampscott, plus the Boston Globe Thanksgiving game report",
+          "partial": true,
+          "note": "Six catches for 116 yards against Peabody, plus eight touchdown catches for 106 yards in the other games."
+        },
+        "Receiving Yards": {
+          "clipping": "1977 scoring summaries · Beverly, Salem, Danvers, Lynn Classical and Swampscott, plus the Boston Globe Thanksgiving game report",
+          "partial": true,
+          "note": "Six catches for 116 yards against Peabody, plus eight touchdown catches for 106 yards in the other games."
         }
       }
     },
@@ -7517,11 +7527,16 @@
       "name": "George Nicolo",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Touchdowns": 2
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 2
       },
       "statSources": {
         "Rushing Touchdowns": {
           "clipping": "IMG_3322.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "1977 scoring summaries · Gloucester and Lynn Classical",
+          "partial": true
         }
       }
     },
@@ -8330,6 +8345,286 @@
           "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1977,
+      "name": "John Coffey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 46,
+        "Passing Touchdowns": 2,
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "1977 scoring summaries · Salem and Danvers",
+          "partial": true
+        },
+        "Passing Touchdowns": {
+          "clipping": "1977 scoring summaries · Salem and Danvers"
+        },
+        "Conversion Passes": {
+          "clipping": "1977 scoring summaries · Danvers"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1977,
+      "name": "John Coffey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 34,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1977 scoring summaries · Lynn English",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1977 scoring summaries · Lynn English"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1977,
+      "name": "John Coffey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Punt Return Yards": 51,
+        "Punt Return Touchdowns": 1
+      },
+      "statSources": {
+        "Punt Return Yards": {
+          "clipping": "1977 scoring summaries · Gloucester",
+          "partial": true
+        },
+        "Punt Return Touchdowns": {
+          "clipping": "1977 scoring summaries · Gloucester"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1977,
+      "name": "Paul Nigro",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 21,
+        "Rushing Touchdowns": 5
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1977 scoring summaries · Winthrop, Danvers, Gloucester and Peabody",
+          "partial": true,
+          "note": "Yardage from touchdown runs."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1977 scoring summaries · Winthrop, Danvers, Gloucester and Peabody",
+          "note": "Yardage from touchdown runs."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1977,
+      "name": "Paul Nigro",
+      "schoolClass": "Jr.",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 22,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "partial": true
+        },
+        "Receiving Yards": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "1977 scoring summaries · Danvers"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1977,
+      "name": "Paul Nigro",
+      "schoolClass": "Jr.",
+      "values": {
+        "Kickoff Return Yards": 86,
+        "Kickoff Return Touchdowns": 1
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "clipping": "1977 scoring summaries · Lynn English",
+          "partial": true
+        },
+        "Kickoff Return Touchdowns": {
+          "clipping": "1977 scoring summaries · Lynn English"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "Paul Nigro",
+      "schoolClass": "Jr.",
+      "values": {
+        "Points": 42
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "1977 scoring summaries · all ten games"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1977,
+      "name": "Dan Hashem",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 20,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1977 scoring summaries · Gloucester and Swampscott",
+          "partial": true,
+          "note": "Winthrop box score credits a separate one-yard touchdown to “Don Hashem.”"
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1977 scoring summaries · Gloucester and Swampscott",
+          "partial": true,
+          "note": "Winthrop box score credits a separate one-yard touchdown to “Don Hashem.”"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1977,
+      "name": "Tim Fawcett",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 18,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "partial": true
+        },
+        "Receiving Yards": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "1977 scoring summaries · Danvers"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1977,
+      "name": "Mike Furey",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Yards": 15,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1977 scoring summaries · Danvers"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "Mike Furey",
+      "schoolClass": "So.",
+      "values": {
+        "Points": 8
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "1977 scoring summaries · Danvers",
+          "note": "One rushing touchdown and a two-point run."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1977,
+      "name": "Dan Hashem",
+      "schoolClass": "Sr.",
+      "values": {
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Conversion Passes": {
+          "clipping": "1977 scoring summaries · Beverly",
+          "note": "Printed as Dan Hasham in the Beverly summary."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "John Coffey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 48
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "1977 scoring summaries · Gloucester, Marblehead, Beverly and Lynn English",
+          "partial": true,
+          "note": "Eight touchdowns. The Winthrop summary credits a two-point run to “Jack Coffey.”"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "Dan Hashem",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 12
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "1977 scoring summaries · Gloucester and Swampscott",
+          "partial": true,
+          "note": "The Winthrop summary lists “Don Hashem” on a separate touchdown."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1977,
+      "name": "Paul Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "1977 scoring summaries · Gloucester, Lynn English, Danvers and Swampscott"
         }
       }
     }
