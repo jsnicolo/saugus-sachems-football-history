@@ -307,7 +307,7 @@ function statValue(row,key){
   const text=value.toLocaleString('en-US');
   if(!source)return text;
   const label=[source.qualifier==='More than'?'More than '+text:'',source.note,source.clipping].filter(Boolean).join(' · ');
-  return `<span title="${esc(label)}">${text}${source.qualifier==='More than'?'+':''}</span>`;
+  return `<span title="${esc(label)}">${text}${source.qualifier==='More than'?'+':''}${source.partial?' (partial)':''}</span>`;
 }
 function renderStats(){const cat=$('#statsCategory').value,q=$('#statsSearch').value.toLowerCase(),sort=$('#statsSort').value,all=playerRecords.stats.filter(r=>r.category===cat),keys=[...new Set(all.flatMap(r=>Object.keys(r.values)))];const rows=all.filter(r=>[r.name,r.year,r.schoolClass].join(' ').toLowerCase().includes(q)).sort((a,b)=>sort==='year'?b.year-a.year||a.name.localeCompare(b.name):(b.values[sort]??-1)-(a.values[sort]??-1)||b.year-a.year);$('#statsCount').textContent=rows.length+' '+cat.toLowerCase()+' entries · '+playerRecords.stats.length+' across all categories';$('#statsHead').innerHTML='<tr>'+['Season','Player','Class',...keys].map(k=>`<th>${esc(k)}</th>`).join('')+'</tr>';$('#statsRows').innerHTML=rows.map(r=>`<tr><td>${r.year}</td><td>${esc(r.name)}</td><td>${esc(r.schoolClass)}</td>${keys.map(k=>`<td>${statValue(r,k)}</td>`).join('')}</tr>`).join('')||`<tr><td colspan="${keys.length+3}">No matching statistics.</td></tr>`}
 let collegeAlumniData=[];
