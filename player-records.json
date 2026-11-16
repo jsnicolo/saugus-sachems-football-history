@@ -10685,19 +10685,19 @@
       "name": "John “Iron Mike” Harrington",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": 84,
-        "Rushing Touchdowns": 2
+        "Rushing Yards": 102,
+        "Rushing Touchdowns": 3
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
-          "note": "Documented touchdown runs of 37 yards against Gloucester and 47 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 55 yards."
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Documented touchdown runs of 37 yards against Gloucester and 47 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 55 yards. Also includes an 18-yard touchdown against Chelsea."
         },
         "Rushing Touchdowns": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
-          "note": "Documented touchdown runs against Gloucester and Swampscott."
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Documented touchdown runs against Gloucester and Swampscott. Also includes an 18-yard touchdown against Chelsea."
         }
       }
     },
@@ -10707,19 +10707,19 @@
       "name": "Edward “Eddie” Shipulski",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": 214,
-        "Rushing Touchdowns": 3
+        "Rushing Yards": 274,
+        "Rushing Touchdowns": 5
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
-          "note": "Documented touchdown runs of 70 yards against Gloucester, 57 against Amesbury and 87 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 88 yards."
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Documented touchdown runs of 70 yards against Gloucester, 57 against Amesbury and 87 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 88 yards. Also includes 49- and 11-yard touchdowns against Chelsea."
         },
         "Rushing Touchdowns": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
-          "note": "Documented touchdown runs against Gloucester, Amesbury and Swampscott."
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Documented touchdown runs against Gloucester, Amesbury and Swampscott. Also includes 49- and 11-yard touchdowns against Chelsea."
         }
       }
     },
@@ -10753,14 +10753,35 @@
       "name": "John “Iron Mike” Harrington",
       "schoolClass": "Sr.",
       "values": {
+        "Passing Yards": 35,
+        "Passing Touchdowns": 2
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "35-yard touchdown pass to Tommy Atkins against Chelsea."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report) and 1942 Tontoquonian Football Folio",
+          "note": "Touchdown passes to Tommy Atkins against Chelsea and Claude Collette against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1941,
+      "name": "Edward “Eddie” Shipulski",
+      "schoolClass": "Sr.",
+      "values": {
         "Passing Touchdowns": 1
       },
       "statSources": {
         "Passing Touchdowns": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio",
-          "note": "Harrington’s touchdown pass to Collette accounted for the only score against Marblehead.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown pass to Bob Nadeau against Chelsea."
         }
       }
     },
@@ -10778,6 +10799,44 @@
           "clipping": "1942 Tontoquonian Football Folio",
           "note": "Harrington’s touchdown pass to Collette accounted for the only score against Marblehead.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1941,
+      "name": "Tommy Atkins",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 35,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "35-yard touchdown reception from Harrington against Chelsea."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "35-yard touchdown reception from Harrington against Chelsea."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1941,
+      "name": "Bob Nadeau",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown reception from Shipulski against Chelsea."
         }
       }
     },
@@ -10810,19 +10869,19 @@
       "name": "John “Iron Mike” Harrington",
       "schoolClass": "Sr.",
       "values": {
-        "Total Touchdowns": 5,
-        "Points": 30
+        "Total Touchdowns": 6,
+        "Points": 36
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
-          "note": "One touchdown each against Leominster, Gloucester and Swampscott, and two against Revere. The touchdown pass to Collette counts toward passing."
+          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report) and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "One touchdown each against Chelsea, Leominster, Gloucester and Swampscott, and two against Revere. Touchdown passes are counted under Passing."
         },
         "Points": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
-          "note": "One touchdown each against Leominster, Gloucester and Swampscott, and two against Revere. The touchdown pass to Collette counts toward passing."
+          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report) and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "One touchdown each against Chelsea, Leominster, Gloucester and Swampscott, and two against Revere. Touchdown passes are counted under Passing."
         }
       }
     },
@@ -10856,13 +10915,57 @@
       "name": "Bob Connell",
       "schoolClass": "",
       "values": {
-        "Points": 2
+        "Points": 4
       },
       "statSources": {
         "Points": {
           "partial": true,
-          "clipping": "“Saugus Swamps Revere, 26 to 0” (November 3 game report)",
-          "note": "Two extra points against Revere."
+          "clipping": "“Saugus Swamps Revere, 26 to 0” (November 3 game report) and “Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Two extra points each against Chelsea and Revere."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Tommy Atkins",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown catch against Chelsea."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown catch against Chelsea."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Bob Nadeau",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown catch against Chelsea."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "“Saugus Eleven Routs Chelsea” (September 12 game report)",
+          "note": "Touchdown catch against Chelsea."
         }
       }
     }
