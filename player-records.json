@@ -3991,7 +3991,7 @@
       "name": "Steve Gannon",
       "position": "End",
       "schoolClass": "1976",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nSteve Gannon’s varsity emergence included three sacks of Danvers quarterback Bobby Sheridan as a sophomore in 1973. He later shared the captaincy of the 1975 Sachems, who finished 9–1 and shared the Northeastern Conference title, and was selected for the 1976 Agganis All-Star game.\n\nHis Saugus contributions included both defense and fullback play. His 1975 Item All-Star capsule credits him with 512 rushing yards, blocking for John Nicolo and four team defensive-player-of-the-week honors in eight games.\n\nAt Holy Cross, Gannon developed into a leading defensive lineman. He earned first-team All-ECAC honors and the Davitt Award as the team’s top defensive lineman as a senior in 1979, when he led the Crusaders with 143 tackles—the most in recorded school history at the time. During his junior year in 1978, he helped lead the Crusaders to an overall record of 7-4, including victories over Air Force, Army and Boston College. Holy Cross inducted him into its Athletic Hall of Fame in 2020. After college he had two NFL tryouts, one with the New York Giants and one with the Cincinnati Bengals both in 1980. After his playing days ended he got involved in coaching youth and high school football, being an assistant coach on John Nicolo's Sachems teams (2001-2004).\n\nThe Gannon family’s Sachems football tradition continued with Steve’s sons, Rob Gannon and John Gannon. Rob started at wide receiver and defensive back in 2002, then at quarterback and defensive back in 2003 and 2004. John played on the Saugus offensive and defensive lines during the 2001 and 2002 seasons.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1988.\n\nSteve Gannon’s varsity emergence included three sacks of Danvers quarterback Bobby Sheridan as a sophomore in 1973. He later shared the captaincy of the 1975 Sachems, who finished 9–1 and shared the Northeastern Conference title, and was selected for the 1976 Agganis All-Star game.\n\nHis Saugus contributions included both defense and fullback play. His 1975 Item All-Star capsule credits him with 512 rushing yards, blocking for John Nicolo and four team defensive-player-of-the-week honors in eight games. He scored on an 85-yard run at Lynn English and blocked the Peabody field goal that John Nicolo returned 80 yards for the only touchdown on Thanksgiving.\n\nAt Holy Cross, Gannon developed into a leading defensive lineman. He earned first-team All-ECAC honors and the Davitt Award as the team’s top defensive lineman as a senior in 1979, when he led the Crusaders with 143 tackles—the most in recorded school history at the time. During his junior year in 1978, he helped lead the Crusaders to an overall record of 7-4, including victories over Air Force, Army and Boston College. Holy Cross inducted him into its Athletic Hall of Fame in 2020. After college he had two NFL tryouts, one with the New York Giants and one with the Cincinnati Bengals both in 1980. After his playing days ended he got involved in coaching youth and high school football, being an assistant coach on John Nicolo's Sachems teams (2001-2004).\n\nThe Gannon family’s Sachems football tradition continued with Steve’s sons, Rob Gannon and John Gannon. Rob started at wide receiver and defensive back in 2002, then at quarterback and defensive back in 2003 and 2004. John played on the Saugus offensive and defensive lines during the 2001 and 2002 seasons.",
       "row": 14,
       "hallOfFameYear": 1988,
       "sources": [
@@ -8757,7 +8757,8 @@
         },
         "Rushing Touchdowns": {
           "clipping": "1975 newspaper scoring summaries · Danvers and Gloucester",
-          "partial": true
+          "partial": true,
+          "note": "The Beverly summary lists Joe LeBranti on a 31-yard touchdown pass and gives only the surname on a nine-yard touchdown run. Both Beverly plays await confirmation of the player’s identity."
         }
       }
     },
@@ -8801,7 +8802,7 @@
         "Passing Touchdowns": {
           "clipping": "1975 newspaper scoring summaries · Lynn Classical and Salem",
           "partial": true,
-          "note": "The Beverly summary names Joe LeBranti."
+          "note": "The Beverly summary lists Joe LeBranti on a 31-yard touchdown pass and gives only the surname on a nine-yard touchdown run. Both Beverly plays await confirmation of the player’s identity."
         },
         "Conversion Passes": {
           "clipping": "1975 newspaper scoring summaries · Marblehead and Salem",
@@ -8900,7 +8901,8 @@
       "schoolClass": "Sr.",
       "values": {
         "Extra Points": 7,
-        "Field Goals": 1
+        "Field Goals": 1,
+        "Longest Field Goal (yards)": 24
       },
       "statSources": {
         "Extra Points": {
@@ -8911,6 +8913,10 @@
           "clipping": "1975 newspaper scoring summaries · Danvers",
           "partial": true,
           "note": "A 24-yard field goal."
+        },
+        "Longest Field Goal (yards)": {
+          "clipping": "1975 newspaper scoring summary · Danvers (IMG_3810.jpeg)",
+          "partial": true
         }
       }
     },
