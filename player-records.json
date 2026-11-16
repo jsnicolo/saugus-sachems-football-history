@@ -458,6 +458,16 @@
       "sourceLabel": "1941 Globe selection scan"
     },
     {
+      "year": 1941,
+      "name": "John “Iron Mike” Harrington",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "publisher": "Boston Globe",
+      "award": "North Shore All-Scholastic eleven",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2679.webp",
+      "sourceLabel": "Boston Daily Globe team photograph, December 10, 1941"
+    },
+    {
       "name": "Mike Dean",
       "position": "RB",
       "schoolClass": "Sr",
@@ -10666,6 +10676,125 @@
           "clipping": "1950 contemporary game reports and 1951 Tontoquonian Football Folio",
           "partial": true,
           "note": "Brookline 1, Marblehead 2, Lynn English 3, Revere 2, Salem 5, Peabody 5 and Brockton 4. Chelsea’s five conversions are unattributed in the yearbook recap. The Lynn English and Revere box scores list Kane with Lally in parentheses."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1941,
+      "name": "John “Iron Mike” Harrington",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 84,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
+          "note": "Documented touchdown runs of 37 yards against Gloucester and 47 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 55 yards."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
+          "note": "Documented touchdown runs against Gloucester and Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1941,
+      "name": "Edward “Eddie” Shipulski",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 214,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
+          "note": "Documented touchdown runs of 70 yards against Gloucester, 57 against Amesbury and 87 against Swampscott. The yearbook figure is used for Swampscott, which Holbrook reported as 88 yards."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and Robert Holbrook’s November 24 interview",
+          "note": "Documented touchdown runs against Gloucester, Amesbury and Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1941,
+      "name": "Welcome Goss",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 4,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe Wakefield game report",
+          "note": "One- and three-yard touchdown runs against Wakefield.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe Wakefield game report",
+          "note": "One- and three-yard touchdown runs against Wakefield.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1941,
+      "name": "John “Iron Mike” Harrington",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio",
+          "note": "Harrington’s touchdown pass to Collette accounted for the only score against Marblehead.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1941,
+      "name": "Claude Collette",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio",
+          "note": "Harrington’s touchdown pass to Collette accounted for the only score against Marblehead.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2588.webp"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Edward “Eddie” Shipulski",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 84
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Newspaper preview of the Wakefield game",
+          "note": "Team-leading points total entering Thanksgiving.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2480.webp"
         }
       }
     }
