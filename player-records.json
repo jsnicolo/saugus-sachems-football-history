@@ -3299,6 +3299,70 @@
       "award": "All-Scholastic first team",
       "sourceUrl": "photos/1998-boston-globe-all-scholastic-football.webp",
       "sourceLabel": "Boston Globe · 1998 All-Scholastic football team"
+    },
+    {
+      "name": "Frank Doyle",
+      "position": "Offense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Offense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "George Nicolo",
+      "position": "Offense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Offense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "John Coffey",
+      "position": "Offense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Offense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "Frank Serino",
+      "position": "Offense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Offense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "Tim Fawcett",
+      "position": "Defense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Defense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "Paul Serino",
+      "position": "Defense",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Northeastern Conference",
+      "award": "NEC All-Star · Defense",
+      "sourceLabel": "1977 Northeastern Conference All-Star list"
+    },
+    {
+      "name": "Frank Serino",
+      "position": "End",
+      "schoolClass": "Sr",
+      "year": 1977,
+      "publisher": "Boston Globe",
+      "award": "Division 2 Weekly Offensive Honorable Mention",
+      "sourceLabel": "Boston Globe · Division 2 weekly honors after the Swampscott game",
+      "sourceNote": "Five receptions for 58 yards and three touchdowns in the 25–7 win over Swampscott."
     }
   ],
   "alumni": [
@@ -6163,7 +6227,8 @@
           "clipping": "IMG_3322.jpg"
         },
         "Passing Touchdowns": {
-          "clipping": "IMG_3322.jpg"
+          "clipping": "IMG_3322.jpg; 1977 Division 2 season leaders chart",
+          "note": "Led Division 2."
         },
         "Passing Yards": {
           "clipping": "IMG_3322.jpg"
@@ -6339,24 +6404,25 @@
       "name": "Frank Serino",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": 14,
-        "Receiving Yards": 222,
+        "Receptions": 16,
+        "Receiving Yards": 249,
         "Receiving Touchdowns": 9
       },
       "row": 39,
       "statSources": {
         "Receiving Touchdowns": {
-          "clipping": "IMG_3321.jpg"
+          "clipping": "IMG_3321.jpg; 1977 Division 2 season leaders chart",
+          "note": "Led Division 2."
         },
         "Receptions": {
-          "clipping": "1977 scoring summaries · Beverly, Salem, Danvers, Lynn Classical and Swampscott, plus the Boston Globe Thanksgiving game report",
+          "clipping": "Boston Globe reports vs. Swampscott and Peabody; scoring summaries vs. Beverly, Salem, Danvers and Lynn Classical",
           "partial": true,
-          "note": "Six catches for 116 yards against Peabody, plus eight touchdown catches for 106 yards in the other games."
+          "note": "Five catches for 58 yards vs. Swampscott and six for 116 vs. Peabody, plus five verified touchdown catches for 75 yards in four other games."
         },
         "Receiving Yards": {
-          "clipping": "1977 scoring summaries · Beverly, Salem, Danvers, Lynn Classical and Swampscott, plus the Boston Globe Thanksgiving game report",
+          "clipping": "Boston Globe reports vs. Swampscott and Peabody; scoring summaries vs. Beverly, Salem, Danvers and Lynn Classical",
           "partial": true,
-          "note": "Six catches for 116 yards against Peabody, plus eight touchdown catches for 106 yards in the other games."
+          "note": "Five catches for 58 yards vs. Swampscott and six for 116 vs. Peabody, plus five verified touchdown catches for 75 yards in four other games."
         }
       }
     },
@@ -6373,7 +6439,8 @@
       "row": 40,
       "statSources": {
         "Receiving Touchdowns": {
-          "clipping": "IMG_3324.jpg"
+          "clipping": "IMG_3324.jpg; 1977 Division 2 season leaders chart",
+          "note": "Third in Division 2."
         },
         "Receiving Yards": {
           "clipping": "IMG_3324.jpg"
@@ -7509,15 +7576,15 @@
       "name": "Frank Serino",
       "schoolClass": "Sr.",
       "values": {
-        "Conversions (type unspecified)": 5,
+        "Two-Point Conversions": 5,
         "Points": 64
       },
       "statSources": {
-        "Conversions (type unspecified)": {
-          "clipping": "IMG_3321.jpg"
+        "Two-Point Conversions": {
+          "clipping": "1977 Division 2 season leaders chart"
         },
         "Points": {
-          "clipping": "IMG_3321.jpg"
+          "clipping": "IMG_3321.jpg; 1977 Division 2 season leaders chart"
         }
       }
     },

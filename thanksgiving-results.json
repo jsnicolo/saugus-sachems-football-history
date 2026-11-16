@@ -615,10 +615,20 @@
     "year": 1977,
     "opponent": "Peabody",
     "result": "W 12–10",
-    "status": "Historical table, visually checked",
-    "note": "1995 newspaper historical series table; individual game date not independently checked. Yearbook p. 165, IMG_2783, also gives 12–10.",
+    "status": "Contemporary game report",
+    "note": "November 24, 1977. George Nicolo threw the winning 28-yard touchdown pass to Frank Serino in the fourth quarter. The victory reversed the previous Thanksgiving’s 62–6 loss and closed Saugus’s 9–1 championship season. Also confirmed by the Boston Evening Globe roundup (Nov. 25, 1977, p. 44) and the 1978 Tontoquonian (p. 165).",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Boston Globe · 1977 Thanksgiving game report",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1977-globe-saugus-peabody-12-10.webp"
+      },
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      }
+    ]
   },
   {
     "year": 1978,

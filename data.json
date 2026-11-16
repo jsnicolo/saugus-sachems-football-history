@@ -3960,7 +3960,7 @@
       "record": "9 - 1",
       "league": "Northeastern Conference",
       "title": "Northeastern Conference Champions",
-      "players": "Frank Serino, George Nicolo, Dan Hashem (Captain), Frank Doyle (Captain)",
+      "players": "Dan Hashem (Captain), Frank Doyle (Captain), George Nicolo, Frank Serino, John Coffey, Tim Fawcett, Paul Serino, Paul Nigro",
       "awards": "Paul Serino - NEC and Boston Globe\nFrank Doyle - Lynn Item and NEC\nFrank Serino - Lynn Item and NEC\nGeorge Nicolo - Lynn Item and NEC\nJohn Coffey - Lynn Item and NEC\nTim Fawcett - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 80,
@@ -3977,7 +3977,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Saugus went 9–1 and won the Northeastern Conference outright under Mike Ginolfi, whom the Daily Evening Item named Coach of the Year. Co-captains Dan Hashem and Frank Doyle led the Sachems. The 7–6 loss at Salem was their only defeat. The ten game scoring summaries account for 204 Saugus points and 88 allowed.\n\nSaugus scored twice in the second quarter and converted both two-point tries to beat Winthrop 16–12. Frank Serino caught three George Nicolo touchdown passes in a 25–7 win over Swampscott, and Dan Hashem added an 18-yard scoring run. In the 12–0 shutout at Lynn Classical, Nicolo ran for one score and threw to Serino for the other. Paul Nigro scored three times against Danvers, twice on the ground and once on a pass from Nicolo. John Coffey threw an 18-yard touchdown to Tim Fawcett in that 41–6 win. Coffey also threw a 28-yard touchdown to Serino in the loss at Salem.\n\nNicolo threw four touchdown passes at Beverly, two each to Coffey and Serino, in a 28–14 win. Coffey returned a punt 51 yards for a touchdown in the 27–6 win at Gloucester, caught all three Saugus touchdowns in an 18–12 win over Marblehead, and scored on a 34-yard run and a 39-yard catch at Lynn English. Nigro opened the scoring at Lynn English with an 86-yard kickoff return for a touchdown in the 19–14 win.\n\nNigro scored from the 1 on Thanksgiving before Peabody took a 10–6 lead. Nicolo found Serino for the winning 28-yard touchdown in the fourth quarter. Serino caught six passes for 116 yards in the 12–10 win, which reversed a 62–6 loss to the Tanners the previous Thanksgiving.\n\nThe Item credited Nicolo with 81 completions in 157 attempts for 1,052 yards and 15 touchdowns. Serino caught nine touchdown passes, and Coffey caught 20 passes for 363 yards and six touchdowns. The game summaries also document five Nigro rushing touchdowns, one receiving touchdown and one kickoff return touchdown. Yardage reconstructed from scoring plays is marked partial in Stats.",
+      "seasonNote": "Saugus went 9–1 and won the Northeastern Conference outright under Mike Ginolfi, whom the Daily Evening Item named Coach of the Year. Co-captains Dan Hashem and Frank Doyle led the Sachems. Salem handed them their only loss, 7–6 on October 15, with the deciding point coming late in the game. The ten game summaries account for 204 Saugus points and 88 allowed.\n\nSaugus scored twice in the second quarter and converted both two-point tries to beat Winthrop 16–12. Frank Serino caught five George Nicolo passes for 58 yards and three touchdowns in the 25–7 win over Swampscott, earning Boston Globe Division 2 weekly offensive honorable mention. Dan Hashem added an 18-yard scoring run. In the 12–0 shutout of defending Super Bowl champion Lynn Classical, the Sachems held Greg Meehan and the Classical running game in check. Nicolo ran for one score and threw to Serino for the other. Paul Nigro scored three times against Danvers, twice on the ground and once on a pass from Nicolo. John Coffey threw an 18-yard touchdown to Tim Fawcett in the 41–6 win and a 28-yard touchdown to Serino in the loss at Salem.\n\nNicolo threw four touchdown passes at Beverly, two each to Coffey and Serino, in a 28–14 win. Coffey returned a punt 51 yards for a touchdown in the 27–6 win at Gloucester, caught all three Saugus touchdowns in an 18–12 win over Marblehead, and scored on a 34-yard run and a 39-yard catch at Lynn English. Nigro opened the scoring at Lynn English with an 86-yard kickoff return for a touchdown in the 19–14 win.\n\nNigro scored from the 1 on Thanksgiving before Peabody took a 10–6 lead. Nicolo, playing with a bruised shoulder, found Serino for the winning 28-yard touchdown in the fourth quarter. Serino caught six passes for 116 yards in the 12–10 win, reversing the previous Thanksgiving’s 62–6 loss. The November 25 Boston Evening Globe reported that Saugus finished third in Division 2, behind Super Bowl qualifiers Dartmouth and Boston College High.\n\nThe Item credited Nicolo with 81 completions in 157 attempts for 1,052 yards. He led the Globe’s Division 2 chart with 15 touchdown passes. Serino led the division with nine touchdown catches and scored 64 points, including five two-point conversions. Coffey was third on the chart with six touchdown catches. The Item credited Coffey with 20 catches for 363 yards. The game summaries document five Nigro rushing touchdowns, one receiving touchdown and one kickoff return touchdown. Reconstructed receiving and rushing totals are marked partial in Stats.\n\nThe schedule uses contemporary game summaries. The 1978 Tontoquonian (p. 165) gives four different scores: 16–14 over Winthrop, 27–15 over Beverly, 28–6 over Gloucester and 19–15 over Lynn English.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_4138.jpg",
@@ -4010,6 +4010,21 @@
         {
           "label": "Daily Evening Item · Coach of the Year Mike Ginolfi",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/item-add-IMG_4027.webp"
+        },
+        {
+          "label": "Boston Evening Globe · Division 2 playoff field and Thanksgiving roundup, Nov. 25, 1977, p. 44"
+        },
+        {
+          "label": "Boston Globe · Swampscott game report and Division 2 weekly offensive honorable mention"
+        },
+        {
+          "label": "Boston Globe · “Saugus jolts L. Classical”"
+        },
+        {
+          "label": "1977 Division 2 scoring, touchdown passing and touchdown receiving charts"
+        },
+        {
+          "label": "1977 Northeastern Conference All-Star offense and defense lists"
         }
       ],
       "games": [
@@ -4038,7 +4053,7 @@
           "status": "Played"
         },
         {
-          "date": "—",
+          "date": "1977-10-15",
           "opponent": "Salem",
           "result": "L 6–7",
           "status": "Played"
@@ -7199,7 +7214,7 @@
     "Doug Mackie earned high-school All-American recognition in 1975 and continued his football career at Ohio State. He later played in the USFL for the Tampa Bay Bandits and New Jersey Generals and appeared in the NFL for Atlanta. His alumni profile records additional time with the Giants and Saints. The gallery and alumni collection preserve his professional career; claims that he was the nation’s top recruit or that combine his 1984 All-Pro honor with Herschel Walker’s later rushing-record season require separate documentation.",
     "Nicolo would go on to play college football at Ithaca College where in 1979 during his senior season, he would go on to be named a Division III All American and helped lead the Ithaca Bombers to a National Championship. Nicolo, who was also an excellent baseball player, led Ithaca’s Baseball team to the 1980 National Championship where he was named MVP. Nicolo would go on to play one year of minor league baseball in 1980 in the New York-Penn League for the Auburn Americans (who were affiliated with the Los Angeles Dodgers and Cleveland Indians). Nicolo would go on to be inducted into the Ithaca College Athletic Hall of Fame as a player in 1986 and twice more with both National Championship Teams. This led to Saugus creating their own Athletic Hall of Fame in 1987, by his father-in-law, Dr. John Mangini, which included the following Sachems Football players in their Inaugural Class: John Nicolo, Sardi Nicolo, Christie Serino, Doug Mackie, George Laskey, Stan Green, John “Iron Mike” Harrington, and Art Spinney.",
     "The Sachems followed a 2–8 season in 1976 with a 9–1 Northeastern Conference championship in 1977. The yearbook identifies co-captains Dan Hashem and Frank Doyle and senior contributors including George Nicolo, Frank Serino, Paul Serino, John Coffey and Tim Fawcett. A 12–10 Thanksgiving win over Peabody closed the season. The gallery also preserves Mike Ginolfi’s 1977 Item Coach of the Year recognition.",
-    "Championship spotlight — 1977: Two years after sharing the conference crown, Mike Ginolfi's 1977 Sachems won the Northeastern Conference outright with a 9–1 record. Captains Dan Hashem and Frank Doyle led a talented squad that included George Nicolo, Frank Serino, Paul Serino, John Coffey and Tim Fawcett. A 12–10 Thanksgiving victory over Peabody provided a memorable finish, and the gallery preserves Ginolfi's 1977 Lynn Item Coach of the Year recognition. Contemporary yearbook material and later local reporting distinguish this outright title from the 1975 co-championship.",
+    "Championship spotlight — 1977: Two years after sharing the conference crown, Mike Ginolfi's 1977 Sachems won the Northeastern Conference outright with a 9–1 record. Captains Dan Hashem and Frank Doyle led a talented squad that included George Nicolo, Frank Serino, Paul Serino, John Coffey and Tim Fawcett. A 12–10 Thanksgiving victory over Peabody provided a memorable finish. The Sachems placed third in Division 2, with Dartmouth and Boston College High qualifying for the Super Bowl. The gallery preserves Ginolfi's 1977 Lynn Item Coach of the Year recognition. Contemporary yearbook material and later local reporting distinguish this outright title from the 1975 co-championship.",
     "Saugus finished 6–3–1 in 1978 and 5–5 in both 1979 and 1980. The 1978 yearbook identifies returning starters Paul Nigro, Don Trainor, Bill Peach and Mike Allen. Steve Peach became a three-time Lynn Item All-Star and later played at Syracuse and Boston College, where he also punted. The gallery’s 1980 review recalls a 40–6 Thanksgiving victory over Peabody. These season summaries should be distinguished from individual alumni achievements.",
     "The 1981 Sachems season was the worst season for Ginolfi during his first tenure as they went 1-9. Saugus bounced back in 1982 going 5-4-1. That season Saugus was led by Steve Fauci, Anthony Cogliano, Mark Strange, and Anthony Guthro. 1983 Saugus fell back to below .500 going 4-6. The team was led by Tom Trainor, Kevin Pelley, and Bob Cinelli.",
     "Ginolfi would step down after the 1983 season and moved into athletic administration. His coaching tree shaped Saugus football for decades through assistants and former players who followed him into the head coaching role.",
