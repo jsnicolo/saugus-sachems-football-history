@@ -2149,7 +2149,7 @@
       "year": 1947,
       "coach": "John Janusas",
       "record": "7 - 3",
-      "league": "Northeastern Conference",
+      "league": "Independent",
       "title": null,
       "players": "Ernie Anganis (Captain), Sardi Nicolo, Eugene Decereau, George Laskey, Earl Dudman (QB)",
       "awards": "Eugene Decereau - Boston Globe, Lynn Item and North Shore\nGeorge Laskey -Boston Globe,  Lynn Item, and North Shore",
@@ -2161,42 +2161,42 @@
           "opponent": "Brookline",
           "result": "L 6–12",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-saugus-brookline.webp"
         },
         {
           "date": "1947-09-27",
           "opponent": "Beverly",
           "result": "W 7–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-beverly.webp"
         },
         {
           "date": "1947-10-04",
           "opponent": "Chelsea",
           "result": "W 21–13",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp"
         },
         {
           "date": "1947-10-11",
           "opponent": "Amesbury",
           "result": "W 14–6",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp"
         },
         {
           "date": "1947-10-18",
           "opponent": "Revere",
           "result": "W 13–7",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp"
         },
         {
           "date": "1947-10-24",
           "opponent": "Lynn English",
           "result": "W 14–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-lynn-english.webp"
         },
         {
           "date": "1947-11-01",
@@ -2210,14 +2210,14 @@
           "opponent": "Swampscott",
           "result": "W 20–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp"
         },
         {
           "date": "1947-11-15",
           "opponent": "Marblehead",
           "result": "W 14–6",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_8933.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp"
         },
         {
           "date": "1947-11-27",
@@ -2287,9 +2287,57 @@
         {
           "label": "Ernest Dalton · Thanksgiving Class B title scenarios",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-saugus-class-b-title-race.webp"
+        },
+        {
+          "label": "Boston Globe · Janusas and the 3–1 start",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-janusas-3-1-start.webp"
+        },
+        {
+          "label": "Spring scrimmage against Lowell",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-laskey-lowell-scrimmage.jpeg"
+        },
+        {
+          "label": "Boston Globe · opener at Brookline",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-saugus-brookline.webp"
+        },
+        {
+          "label": "Boston Globe · Beverly shutout",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-beverly.webp"
+        },
+        {
+          "label": "Boston Globe · winning drive against Revere",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp"
+        },
+        {
+          "label": "Boston Globe · Ernie Anganis and Harry Agganis",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-anganis-cousins.webp"
+        },
+        {
+          "label": "Lynn Item · All-Scholastic selections",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/era-IMG_3339.webp"
+        },
+        {
+          "label": "Boston Post · Laskey’s All-Scholastic selection and All-Star touchdown",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2667-hall.webp"
+        },
+        {
+          "label": "Boston Globe · North Shore All-Star game",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-north-shore-all-stars-laskey.jpeg"
+        },
+        {
+          "label": "Memorial trophies · Laskey and Decereau",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2669-hall.webp"
+        },
+        {
+          "label": "Boston Globe · George Bullard on Laskey",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-george-bullard-praises-laskey.jpeg"
+        },
+        {
+          "label": "Boston Globe · Northeastern Conference readmission in 1948",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-schoolboy-sidelights-laskey.jpeg"
         }
       ],
-      "seasonNote": "John Janusas’s first Saugus team finished 7–3 and No. 5 in the final Class B standings with 54 rating points and a 5.40 average. After falling one foot short of the goal line in a 12–6 opening loss to Brookline, the Sachems won five straight. They erased a 13–0 deficit to beat Chelsea 21–13, and George Laskey ran for 102 yards and scored twice against Amesbury, including a 60-yard pass play from Sardi Nicolo.\n\nSaugus beat Lynn English 14–0 in front of a reported 12,000 at Manning Bowl, ending English’s 11-game unbeaten run and moving Saugus to No. 1 in the midseason Class B ratings. Earl Dudman’s 86-yard punt return set up his sneak in the 20–0 Swampscott win, and Fred Quinlan ran 66 yards for a touchdown against Marblehead. Dudman played in the Massachusetts All-Star game. Laskey was selected for that game, did not play, and made the Class B team with tackle Eugene Decereau.\n\nOn Thanksgiving, Saugus needed to beat Peabody and have Brookline and Gloucester both lose to win Class B. Peabody won 13–0."
+      "seasonNote": "John Janusas, a former Boston College tackle, took over from Dave Lucey in the spring. George Laskey’s running stood out in a spring scrimmage against Lowell, and the report credited center Alan Speak and guard Dan Murphy for controlling the middle. Art Spinney and John Quinlan were among those helping with spring practice. Captain Ernie Anganis, quarterback Earl Dudman and tackle Eugene Decereau gave Janusas experienced players around Laskey. Saugus played independently in 1947. The Globe reported the school’s readmission to the Northeastern Conference the following October.\n\nBrookline won its 17th straight game in the 12–6 opener. Anganis recovered a fumble in the end zone for Saugus’s touchdown. Laskey intercepted a pass and returned it 12 yards, then had an 80-yard kickoff-return touchdown called back for clipping. His 27-yard reception helped get Saugus to the three, and the Sachems were a foot from the goal line when time expired. Janusas earned his first win the next week, 7–0 before a reported 7,000 at Beverly’s Hurd Stadium. Laskey’s 16-yard catch and four-yard run set up Anganis’s two-yard touchdown, and Decereau kicked the extra point.\n\nTrailing Chelsea 13–0 in the third quarter, Saugus got a spark from Laskey’s 45-yard kickoff return and 30-yard reverse. Anganis threw to Frank Forti for the first Sachem touchdown. Decereau recovered a fumble at the nine, and Laskey scored on the next play to help put Saugus ahead. Anganis added the final touchdown, and Decereau kicked all three extra points in the 21–13 win. Against Amesbury, Laskey ran for 102 yards on 13 carries before a reported 5,000 at Stackpole Field. He caught a pass from Salvatore “Sardi” Nicolo and ran the final 30 yards of the 60-yard scoring play, then added an eight-yard touchdown run in the 14–6 win.\n\nSaugus trailed Revere 7–6 at halftime. Dudman found Laskey for a first down and Anganis for 27 yards before Forti finished the 57-yard winning drive from the one. The 13–7 win was followed by a 14–0 shutout of Lynn English before a reported 12,000 at Manning Bowl. Saugus led 16–3 in first downs. Dudman scored on a sneak and Anganis found Laskey for a 20-yard touchdown. The win ended English’s 11-game unbeaten run, gave Saugus five straight wins and lifted the Sachems from fifth to first in the Class B ratings at 6.67.\n\nThe streak ended in a 20–7 loss to Lynn Classical at Manning Bowl, a matchup the Globe previewed around cousins Ernie Anganis and Harry Agganis. Against Swampscott, Anganis left with a recurring knee injury, and Laskey scored on runs of three and 15 yards in a 20–0 shutout. Dudman returned a punt 86 yards to the two and scored on the next play. In the 14–6 win over Marblehead, Ed Ayers blocked a punt, Nicolo hit Decereau to the one, and Frank Dudman scored. Fred Quinlan added a 66-yard touchdown run.\n\nSaugus entered Thanksgiving needing a win over Peabody and losses by both Brookline and Gloucester to take Class B. Peabody won 13–0. The Sachems finished 7–3, fifth in Class B at 5.40, with 116 points scored, 77 allowed and three shutouts.\n\nLaskey and Decereau made both the Boston Globe Class B All-Star team and the Lynn Item All-Scholastic team. The Boston Post also identified Laskey as one of its All-Scholastic selections. Laskey won the Thomas R. Atkins Memorial Trophy, and Decereau won the Lawrence P. Daniels Memorial Trophy. Lynn Classical’s George Bullard later called Laskey the best individual player he faced.\n\nDudman played in the November 29 Massachusetts All-Star team’s 40–0 win over New Hampshire. Laskey was selected for that game and did not play. On December 7 at Manning Bowl, Laskey scored on a two-yard plunge and Decereau kicked an extra point in the North Shore All-Stars’ 19–6 win over Suburban Boston. The all-star game falls outside the Saugus season statistics."
     },
     {
       "year": 1948,
