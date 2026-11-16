@@ -10787,14 +10787,82 @@
       "name": "Edward “Eddie” Shipulski",
       "schoolClass": "Sr.",
       "values": {
+        "Total Touchdowns": 7,
         "Points": 84
       },
       "statSources": {
         "Points": {
           "partial": true,
           "clipping": "Newspaper preview of the Wakefield game",
-          "note": "Team-leading points total entering Thanksgiving.",
+          "note": "Team-leading points total entering Thanksgiving. Shipulski did not score against Wakefield.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-IMG_2480.webp"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
+          "note": "Two touchdowns each against Chelsea and Revere and one each against Gloucester, Amesbury and Swampscott. The count covers individually identified touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "John “Iron Mike” Harrington",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 5,
+        "Points": 30
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
+          "note": "One touchdown each against Leominster, Gloucester and Swampscott, and two against Revere. The touchdown pass to Collette counts toward passing."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
+          "note": "One touchdown each against Leominster, Gloucester and Swampscott, and two against Revere. The touchdown pass to Collette counts toward passing."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Welcome Goss",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe Wakefield game report",
+          "note": "One- and three-yard touchdowns against Wakefield.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe Wakefield game report",
+          "note": "One- and three-yard touchdowns against Wakefield.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1941-globe-wakefield-finale.webp"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Bob Connell",
+      "schoolClass": "",
+      "values": {
+        "Points": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "“Saugus Swamps Revere, 26 to 0” (November 3 game report)",
+          "note": "Two extra points against Revere."
         }
       }
     }
