@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -990,6 +990,25 @@
         {
           "label": "UMass Dartmouth 2026 football roster",
           "url": "https://corsairathletics.com/sports/football/roster/2026"
+        }
+      ]
+    },
+    {
+      "name": "Thomas F. Sheehan",
+      "gradYear": null,
+      "college": "Brown University",
+      "position": "QB",
+      "rosterYears": "1949",
+      "professional": "",
+      "notes": "Played on Saugus’s 1944 championship team. A contemporary report places him in the Brown backfield at quarterback in 1949 and records his transfer to Boston College before entering the U.S. Army in 1950. He completed his degree at Boston College in 1956. His Saugus graduation year and a Boston College football roster spot are still to be verified.",
+      "sources": [
+        {
+          "label": "1950 Army induction report · Brown quarterback and transfer",
+          "url": "sources/1950-spinney-sheehan-draft-continuation.webp"
+        },
+        {
+          "label": "Thomas F. Sheehan obituary · Saugus High, Brown and Boston College",
+          "url": "https://www.bisbeeporcella.com/obituaries/Thomas-F-Sheehan?obId=45924564"
         }
       ]
     }

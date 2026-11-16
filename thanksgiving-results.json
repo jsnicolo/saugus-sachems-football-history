@@ -371,11 +371,11 @@
   {
     "year": 1950,
     "opponent": "Peabody",
-    "result": "W 47–12 / 47–14",
-    "status": "Score conflict",
-    "note": "Contemporary 1951 yearbook account IMG_8924 says 47–12; 1995 historical table says 47–14. Prefer yearbook provisionally; obtain contemporary box score. The supplied 1999 Joyce Erekson preview repeats the historical-table score; this is corroboration, not necessarily an independently compiled table.",
-    "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "result": "W 47–14",
+    "status": "Contemporary newspaper box score",
+    "note": "The Boston Globe game report accounts for both Peabody touchdowns and two made extra points. The Daily Evening Item’s 1995 historical table also gives 47–14. The 1951 yearbook gives 47–12 in the narrative and 47–0 in its schedule table.",
+    "sourceFile": "Boston Globe · Nov. 23 Thanksgiving game report and box score",
+    "sourceUrl": "sources/1950-peabody.webp"
   },
   {
     "year": 1951,
