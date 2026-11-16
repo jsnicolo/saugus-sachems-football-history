@@ -7008,15 +7008,15 @@
     {
       "year": 2026,
       "coach": "Greg Bluestein",
-      "record": "0 - 9",
+      "record": "1 - 9",
       "league": "Northeastern Conference - South",
       "title": null,
       "players": "Paxton Ferraro (Captain), Pharoah Brandenburg (Captain)",
       "awards": "2026 postseason All-Star / All-Scholastic selections not yet announced as of Nov. 2, 2026.",
       "nickname": "Sachems",
-      "recordAsOf": "2026-11-06",
-      "recordNote": "0–9 through November 6: seven on-field losses and two forfeits. Not a final season record. Gloucester (October 23) and Swampscott (October 30) were forfeited and not played; some score aggregators display 0–14 for each.",
-      "seasonNote": "Saugus forfeited the October 23 Gloucester and October 30 Swampscott games because of player availability and safety concerns. The Sachems returned to the field November 6 in a consolation-round game at Arlington Catholic, losing 30–6. Thanksgiving against Peabody remains scheduled for November 26.",
+      "recordAsOf": "2026-11-13",
+      "recordNote": "1–9 through November 13: eight on-field games (one win, seven losses) plus two forfeit losses. Gloucester (October 23) and Swampscott (October 30) were forfeited and not played; score aggregators may display 0–14 for each. Thanksgiving is pending.",
+      "seasonNote": "Saugus forfeited October 23 against Gloucester and October 30 against Swampscott because of roster availability and safety concerns. The Sachems returned November 6 at Arlington Catholic (30–6 loss according to MaxPreps; a November 12 Saugus Advocate report instead gives 30–8). On November 13, Saugus earned its first win of 2026, 24–20 at O’Bryant in a consolation-round matchup. Thanksgiving against Peabody remains scheduled for November 26 at 10 a.m. The team did not qualify for the MIAA state tournament.",
       "games": [
         {
           "date": "2026-09-10",
@@ -7073,10 +7073,16 @@
           "status": "Played"
         },
         {
+          "date": "2026-11-13",
+          "opponent": "O’Bryant",
+          "result": "W 24–20",
+          "status": "Played"
+        },
+        {
           "date": "2026-11-26",
           "opponent": "Peabody (Thanksgiving)",
-          "result": "Scheduled; result pending",
-          "status": "Upcoming as of Nov. 2"
+          "result": "Scheduled for 10:00 a.m.; result pending",
+          "status": "Scheduled"
         }
       ],
       "seasonSources": [
@@ -7119,6 +7125,14 @@
         {
           "label": "MaxPreps · Nov. 6, 2026 Arlington Catholic 30, Saugus 6",
           "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
+        },
+        {
+          "label": "MaxPreps · November 13, 2026 Saugus 24, O’Bryant 20; record 1–9",
+          "url": "https://www.maxpreps.com/news/IIuXY7NRHEuUzc9CVR-XTw/football-recap-saugus-offense-hits-a-season-high-in-victory-over-obryant.htm"
+        },
+        {
+          "label": "Saugus Advocate · November 12, 2026 Arlington Catholic report and forfeits (conflicting 30–8 score)",
+          "url": "https://advocatenews.net/saugus/sports/shs-sachems-sports-roundup-sachems-return-to-gridiron-with-spirited-effort-girls-soccer-reflects-on-season-of-growth/"
         }
       ]
     }
