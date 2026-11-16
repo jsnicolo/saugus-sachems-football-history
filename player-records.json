@@ -7637,13 +7637,14 @@
       },
       "statSources": {
         "Points": {
-          "clipping": "1974 newspaper scoring summaries · all ten games (IMG_3824–3833)"
+          "clipping": "1974 newspaper scoring summaries · all ten games (IMG_3824–3833); Division II scoring leaders table",
+          "note": "The Division II table lists 54 points on nine touchdowns. The Thanksgiving box score adds two points on Nicolo’s conversion run against Peabody."
         },
         "Total Touchdowns": {
-          "clipping": "1974 newspaper scoring summaries · all ten games (IMG_3824–3833); Lynn Item All-Scholastic capsule (IMG_3107.jpg)"
+          "clipping": "1974 newspaper scoring summaries · all ten games (IMG_3824–3833); Lynn Item All-Scholastic capsule (IMG_3107.jpg); Division II scoring leaders table"
         },
         "Two-Point Conversions": {
-          "clipping": "1974 newspaper scoring summaries · all ten games (IMG_3824–3833)"
+          "clipping": "Thanksgiving box score vs. Peabody (IMG_3833.jpeg)"
         }
       }
     },
