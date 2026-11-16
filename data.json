@@ -2349,7 +2349,7 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 45,
-      "seasonNote": "Thanksgiving: Saugus defeated Peabody 27–13. Contemporary newspaper accounts credit Sardi Nicolo with three touchdown passes and a rushing touchdown.",
+      "seasonNote": "On November 6 at Stackpole Field, Sardi Nicolo broke a scoreless tie with a 14-yard fourth-quarter touchdown run and scored again from the 12 in a 14–0 upset of Swampscott.\n\nOn Thanksgiving, Saugus beat Peabody 27–13 at Stackpole Field. Sardi threw two touchdown passes to Ken Neale and one to Fred Quinlan on a deflected ball. He also ran for a touchdown and returned a kickoff 27 yards. Richie completed a 28-yard pass to Quinlan and later got the ball to Sardi on a lateral for an extra point. The Item and Globe agree on Sardi’s three touchdown passes and rushing score, but give different lengths for the rushing touchdown.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_4208.jpg",
@@ -2362,14 +2362,30 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Boston Globe · Sardi’s two fourth-quarter touchdowns against Swampscott",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+        },
+        {
+          "label": "Daily Evening Item · Rolly Charest’s Thanksgiving play-by-play",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1948-11-06",
+          "opponent": "Swampscott",
+          "result": "W 14–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+        },
+        {
+          "date": "1948-11-25",
           "opponent": "Peabody",
           "result": "W 27–13",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
         }
       ],
       "scheduleNote": "Partial schedule. Additional results are being documented."
