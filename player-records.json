@@ -5705,15 +5705,17 @@
       "name": "Sal Nicolo",
       "schoolClass": "Jr.",
       "values": {
-        "Documented Rushing Yards (Partial)": 5,
-        "Documented Rushing Touchdowns (Partial)": 1
+        "Rushing Yards": 5,
+        "Rushing Touchdowns": 1
       },
       "statSources": {
-        "Documented Rushing Yards (Partial)": {
+        "Rushing Yards": {
+          "partial": true,
           "clipping": "The Daily Item, October 8, 2001, p. C3",
           "note": "Five-yard touchdown run against Danvers."
         },
-        "Documented Rushing Touchdowns (Partial)": {
+        "Rushing Touchdowns": {
+          "partial": true,
           "clipping": "The Daily Item, October 8, 2001, p. C3",
           "note": "Five-yard touchdown run against Danvers. Partial game coverage."
         }
@@ -5725,15 +5727,17 @@
       "name": "Sal Nicolo",
       "schoolClass": "Sr.",
       "values": {
-        "Documented Rushing Yards (Partial)": 60,
-        "Documented Rushing Touchdowns (Partial)": 1
+        "Rushing Yards": 60,
+        "Rushing Touchdowns": 1
       },
       "statSources": {
-        "Documented Rushing Yards (Partial)": {
+        "Rushing Yards": {
+          "partial": true,
           "clipping": "Jonathan Weiner's Belmont game report for The Item and Chad Konecky's Danvers game report",
           "note": "At least 60 yards accounted for: more than 50 rushing yards against Danvers, including the two-yard touchdown, plus a nine-yard run against Belmont."
         },
-        "Documented Rushing Touchdowns (Partial)": {
+        "Rushing Touchdowns": {
+          "partial": true,
           "clipping": "Jonathan Weiner's Belmont game report for The Item and Chad Konecky's Danvers game report",
           "note": "Two-yard touchdown run against Danvers. Partial game coverage."
         }
