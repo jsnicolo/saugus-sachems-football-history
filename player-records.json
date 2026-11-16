@@ -9802,11 +9802,18 @@
       "name": "Sardi Nicolo",
       "schoolClass": "Sr.",
       "values": {
-        "Punt Return Touchdowns": 1
+        "Punt Return Touchdowns": 1,
+        "Punt Return Yards": 75
       },
       "statSources": {
         "Punt Return Touchdowns": {
           "clipping": "Oct. 21 · Lynn English game report"
+        },
+        "Punt Return Yards": {
+          "partial": true,
+          "clipping": "Oct. 21 · Lynn English game report",
+          "note": "Fielded the punt at his own 25 and returned it for a touchdown.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-lynn-english.webp"
         }
       }
     },
@@ -9822,7 +9829,8 @@
         "Interceptions": {
           "clipping": "1949 newspaper game reports and 1950 Tontoquonian Football Folio",
           "partial": true,
-          "note": "Three against Brookline and one against Weymouth. Jamboree excluded."
+          "note": "Three against Brookline and one against Weymouth. The bowl interception was returned 40 yards, from his own five to his 45. Jamboree excluded.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/1949-weymouth-continuation.webp"
         }
       }
     },
@@ -10189,7 +10197,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 39,
-        "Rushing Touchdowns": 4
+        "Rushing Touchdowns": 5
       },
       "statSources": {
         "Rushing Yards": {
@@ -10199,7 +10207,8 @@
         },
         "Rushing Touchdowns": {
           "clipping": "1950 contemporary game reports and 1951 Tontoquonian Football Folio",
-          "partial": true
+          "partial": true,
+          "note": "Two against Chelsea and one apiece against Lynn English, Revere and Brockton. The Peabody report credits Nicolo with a touchdown without specifying the type. The other Brockton touchdown was a 60-yard interception return."
         }
       }
     },
@@ -11120,6 +11129,174 @@
           "clipping": "Boston Globe · 1947 Saugus game reports",
           "note": "Six scoring plays for Saugus, all touchdowns. The North Shore All-Star score is separate.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1947,
+      "name": "Sardi Nicolo",
+      "schoolClass": "So.",
+      "values": {
+        "Passing Yards": 114,
+        "Completions": 3,
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1947 Brookline, Amesbury and Marblehead reports",
+          "note": "15 yards to Ed Ayers against Brookline, 60 to George Laskey against Amesbury, and 39 from the Marblehead 40 to the one on the completion to Gene Decereau.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp"
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Boston Globe · 1947 Brookline, Amesbury and Marblehead reports",
+          "note": "One identified completion in each of those three games.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp"
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1947 Brookline, Amesbury and Marblehead reports",
+          "note": "60-yard touchdown pass to Laskey, including 30 yards after the catch.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1948,
+      "name": "Sardi Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 70,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
+          "note": "The Globe credits 14- and 12-yard scoring runs against Swampscott. The Item’s Thanksgiving account describes gains of seven, three, two, seven and 25 yards against Peabody. The Globe measured the Peabody touchdown differently, at 19 yards. The Thanksgiving yardage uses only the Item’s play sequence.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
+          "note": "Two against Swampscott and one against Peabody.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1948,
+      "name": "Sardi Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Passing Yards": 37,
+        "Completions": 4,
+        "Passing Touchdowns": 3
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "Includes the 20-yard touchdown to Ken Neale and 17-yard touchdown to Fred Quinlan. The report does not explicitly give distances for the other Neale touchdown or the completion to Charlie Woodell.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "Two touchdown passes to Ken Neale, a deflected touchdown pass caught by Fred Quinlan, and a completion to Charlie Woodell.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
+          "note": "Three against Peabody: two to Neale and one to Quinlan.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4208.webp"
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1948,
+      "name": "Sardi Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Kickoff Return Yards": 27
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "Returned a kickoff 27 yards to the Saugus 47 against Peabody.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Sardi Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 20
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
+          "note": "Two rushing touchdowns against Swampscott and one against Peabody.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
+          "note": "Twelve points against Swampscott and eight against Peabody, using the Item’s scoring summary, which credits him with two extra points.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1948,
+      "name": "Richie Nicolo",
+      "schoolClass": "So.",
+      "values": {
+        "Passing Yards": 28,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "28-yard completion to Fred Quinlan against Peabody.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "One identified forward completion. The later conversion play is described as a lateral to Sardi.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1948,
+      "name": "Richie Nicolo",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Yards": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "note": "Three yards on the opening drive against Peabody, reconstructed from the reported starting field position, the preceding two gains and the yard line he reached.",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
         }
       }
     }
