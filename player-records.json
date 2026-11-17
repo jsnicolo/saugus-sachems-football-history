@@ -6218,7 +6218,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 60,
-        "Rushing Touchdowns": 1
+        "Rushing Touchdowns": 2
       },
       "statSources": {
         "Rushing Yards": {
@@ -6227,9 +6227,8 @@
           "note": "At least 60 yards accounted for: more than 50 rushing yards against Danvers, including the two-yard touchdown, plus a nine-yard run against Belmont."
         },
         "Rushing Touchdowns": {
-          "partial": true,
-          "clipping": "Jonathan Weiner's Belmont game report for The Item and Chad Konecky's Danvers game report",
-          "note": "Two-yard touchdown run against Danvers. Partial game coverage."
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Two-yard touchdown run at Danvers and a touchdown run of unreported length against Gloucester."
         }
       }
     },
@@ -14115,6 +14114,469 @@
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
           "note": "Two-point run against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2002,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 69,
+        "Carries": 4,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 55 yards at Belmont (printed as Tommy Shiblow), 2 against Beverly and 6 twice at Marblehead. Gloucester prints Tim Shidlow for a separate touchdown, which is excluded pending identification."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 55 yards at Belmont (printed as Tommy Shiblow), 2 against Beverly and 6 twice at Marblehead. Gloucester prints Tim Shidlow for a separate touchdown, which is excluded pending identification."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 55 yards at Belmont (printed as Tommy Shiblow), 2 against Beverly and 6 twice at Marblehead. Gloucester prints Tim Shidlow for a separate touchdown, which is excluded pending identification.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2002,
+      "name": "Rob Gannon",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Yards": 80,
+        "Carries": 2,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Winthrop and 79 against Lynn English."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Winthrop and 79 against Lynn English."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Winthrop and 79 against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2002,
+      "name": "Michael Nicolo",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Yards": 56,
+        "Carries": 4,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Lynn Classical, 52 against Lynn English, 1 at Swampscott and 2 at Peabody."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Lynn Classical, 52 against Lynn English, 1 at Swampscott and 2 at Peabody."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 1 yard at Lynn Classical, 52 against Lynn English, 1 at Swampscott and 2 at Peabody."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2002,
+      "name": "Chris Finn",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 5,
+        "Carries": 3,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 2 yards at Lynn Classical, 1 at Marblehead and 2 at Swampscott."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 2 yards at Lynn Classical, 1 at Marblehead and 2 at Swampscott."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring runs of 2 yards at Lynn Classical, 1 at Marblehead and 2 at Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2002,
+      "name": "Chris Finn",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 128,
+        "Completions": 3,
+        "Passing Touchdowns": 3
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring passes of 56 yards to Tom Shidlow against Salem and 26 to Chris Resigno and 46 to Chris Benson at Marblehead."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring passes of 56 yards to Tom Shidlow against Salem and 26 to Chris Resigno and 46 to Chris Benson at Marblehead."
+        },
+        "Passing Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Scoring passes of 56 yards to Tom Shidlow against Salem and 26 to Chris Resigno and 46 to Chris Benson at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2002,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 56,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "56-yard touchdown catch from Chris Finn against Salem."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "56-yard touchdown catch from Chris Finn against Salem."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "56-yard touchdown catch from Chris Finn against Salem."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2002,
+      "name": "Chris Resigno",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 26,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "26-yard touchdown catch from Chris Finn against Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "26-yard touchdown catch from Chris Finn against Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "26-yard touchdown catch from Chris Finn against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2002,
+      "name": "Chris Benson",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 46,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "46-yard touchdown catch from Chris Finn against Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "46-yard touchdown catch from Chris Finn against Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "46-yard touchdown catch from Chris Finn against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 5,
+        "Points": 30
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Four rushing touchdowns and a touchdown catch. The Gloucester box credits Tim Shidlow with a separate touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Four rushing touchdowns and a touchdown catch. The Gloucester box credits Tim Shidlow with a separate touchdown."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Michael Nicolo",
+      "schoolClass": "So.",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Four rushing touchdowns."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Four rushing touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Chris Finn",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Rob Gannon",
+      "schoolClass": "So.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Two rushing touchdowns."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Two rushing touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Sal Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Rushing touchdowns at Danvers and against Gloucester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Rushing touchdowns at Danvers and against Gloucester."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Chris Resigno",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Chris Benson",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Frank Loconte",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Lynn English."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 2002,
+      "name": "Greg Saunders",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra point at Belmont."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Greg Saunders",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1,
+        "Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra point at Belmont."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra point at Belmont."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 2002,
+      "name": "Frank Sanders",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra points at Lynn Classical and Danvers. Several box scores give no kicker name."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2002,
+      "name": "Frank Sanders",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2,
+        "Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra points at Lynn Classical and Danvers. Several box scores give no kicker name."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
+          "note": "Extra points at Lynn Classical and Danvers. Several box scores give no kicker name."
         }
       }
     }
