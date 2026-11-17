@@ -15023,6 +15023,706 @@
           "note": "Made an extra point at Beverly."
         }
       }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Christie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 50,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Beverly, Marblehead, Lynn English (2), Swampscott and Winthrop (2)."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Beverly, Marblehead, Lynn English (2), Swampscott and Winthrop (2). Four kicks (B.C. High, Beverly twice, Marblehead) and at least two rushing conversions (Lynn English and Peabody)."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Four kicks (B.C. High, Beverly twice, Marblehead) and at least two rushing conversions (Lynn English and Peabody)."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Jim Paolini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 50,
+        "Two-Point Conversions": 4
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Beverly (3), Marblehead, Winthrop, Salem and Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Beverly (3), Marblehead, Winthrop, Salem and Peabody. Two rushing conversions against Beverly, one against Marblehead and a conversion catch against Salem."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Two rushing conversions against Beverly, one against Marblehead and a conversion catch against Salem."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Mike Kimball",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 6,
+        "Points": 38,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High, Beverly, Lynn English, Winthrop and Peabody (2)."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High, Beverly, Lynn English, Winthrop and Peabody (2). Rushing conversion against B.C. High."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Rushing conversion against B.C. High."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Eddie Maguire",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 5,
+        "Points": 32,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High (2), Marblehead, Lynn English and Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High (2), Marblehead, Lynn English and Peabody. Conversion catch against Peabody."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Conversion catch against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Don Murray",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High (2) and Swampscott."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High (2) and Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "R. Nicolo",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12,
+        "Touchdowns (type unspecified)": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Listed as R. Nicolo in the Lynn English and Peabody scoring summaries."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Listed as R. Nicolo in the Lynn English and Peabody scoring summaries."
+        },
+        "Touchdowns (type unspecified)": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Listed as R. Nicolo in the Lynn English and Peabody scoring summaries."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "John Dancewicz",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 8,
+        "Touchdowns (type unspecified)": 1,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody. Conversion catch against Peabody."
+        },
+        "Touchdowns (type unspecified)": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Conversion catch against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Bob Whitehurst",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6,
+        "Touchdowns (type unspecified)": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        },
+        "Touchdowns (type unspecified)": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Al Thurell",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead interception return."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead interception return."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Chuck Bilton",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Winthrop touchdown reception."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Winthrop touchdown reception."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1966,
+      "name": "Paul Uga",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 2,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Caught a tackle-eligible conversion pass against Marblehead."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1966,
+      "name": "Christie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 59,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Five yards against Lynn English, 12 against Swampscott and 42 against Winthrop on four scoring runs."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Four confirmed runs. The separate Lynn English lateral is counted in total touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1966,
+      "name": "Christie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 130,
+        "Completions": 8,
+        "Passing Touchdowns": 4,
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Documented gains of 13 vs. B.C. High, 30 vs. Beverly, 19 vs. Marblehead, 36 vs. Swampscott, 25 vs. Winthrop and 7 vs. Salem."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "One vs. B.C. High, three vs. Beverly, and one each vs. Marblehead, Swampscott, Winthrop and Salem."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High, Swampscott, Winthrop and Salem."
+        },
+        "Conversion Passes": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Tackle-eligible pass to Paul Uga against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1966,
+      "name": "Christie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Yards": 81,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1966,
+      "name": "Christie Serino",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "One vs. B.C. High, two vs. Beverly and one vs. Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1966,
+      "name": "Jim Paolini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 78,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Seven and three against Beverly, 51 and two against Marblehead, and 15 against Winthrop."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Two specifically described vs. Beverly, one vs. Marblehead and one vs. Winthrop."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1966,
+      "name": "Jim Paolini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Yards": 56,
+        "Receptions": 5,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Documented gains of 30 against Beverly, 19 against Marblehead and seven against Salem."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Three reported catches vs. Beverly and one each vs. Marblehead and Salem."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Seven yards against Salem."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1966,
+      "name": "Jim Paolini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Kickoff Return Yards": 80,
+        "Kickoff Return Touchdowns": 1,
+        "Kickoff Returns": 1
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Thanksgiving kickoff return against Peabody."
+        },
+        "Kickoff Return Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        },
+        "Kickoff Returns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Peabody."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1966,
+      "name": "Jim Paolini",
+      "schoolClass": "Sr.",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return Yards": 7
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1966,
+      "name": "Mike Kimball",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 148,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "72 against B.C. High, 30 against Winthrop and 46 against Peabody."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High, Winthrop and two against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1966,
+      "name": "Eddie Maguire",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 154,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "150 against B.C. High and a four-yard touchdown run against Marblehead."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Two against B.C. High and one against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1966,
+      "name": "Don Murray",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 2,
+        "Receiving Yards": 49,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High and Swampscott."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "13 yards against B.C. High and 36 against Swampscott."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "B.C. High and Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1966,
+      "name": "Don Murray",
+      "schoolClass": "Sr.",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Returned a fumble 65 yards for a touchdown against B.C. High."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1966,
+      "name": "Al Thurell",
+      "schoolClass": "Sr.",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return Yards": 27,
+        "Interception Return TDs": 1,
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Marblehead."
+        },
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Late fourth-down recovery against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1966,
+      "name": "Bob Whitehurst",
+      "schoolClass": "Sr.",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fourth-quarter recovery against Beverly."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1966,
+      "name": "Chuck Shipulski",
+      "schoolClass": "Sr.",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "First play from scrimmage against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1966,
+      "name": "Chuck Shipulski",
+      "schoolClass": "Sr.",
+      "values": {
+        "Completions": 1,
+        "Passing Yards": 81,
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Completions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Fake punt against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1966,
+      "name": "Chuck Bilton",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 25,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Winthrop."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Winthrop."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Winthrop."
+        }
+      }
     }
   ],
   "hallOfFame": {
