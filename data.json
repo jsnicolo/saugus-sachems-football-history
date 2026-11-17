@@ -5303,7 +5303,7 @@
     {
       "year": 1995,
       "coach": "Mike Ginolfi",
-      "record": "6 - 5",
+      "record": "6 - 4",
       "league": "Northeastern Conference",
       "title": null,
       "players": "Mike Mabee (Captain), Matt Nazzaro (Captain), LJ McKanas, Derek Bilton, Carlo Abate",
@@ -5321,14 +5321,37 @@
         {
           "date": "—",
           "opponent": "Danvers",
-          "result": "W · score unverified",
-          "status": "Played"
+          "result": "W 28–8",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
         },
         {
           "date": "—",
           "opponent": "Salem",
-          "result": "W · score unverified",
-          "status": "Played"
+          "result": "W 28–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "status": "Played",
+          "result": "W 20–7",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "status": "Played",
+          "result": "L 12–34",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "status": "Played",
+          "result": "W 47–6",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
         },
         {
           "date": "—",
@@ -5338,16 +5361,30 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2547.webp"
         },
         {
+          "date": "—",
+          "opponent": "Swampscott",
+          "status": "Played",
+          "result": "L 0–18",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "status": "Played",
+          "result": "L 6–21",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+        },
+        {
           "date": "1995-11-23",
           "opponent": "Peabody",
           "result": "L 14–34",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The Daily Evening Item’s Thanksgiving preview supplies the first nine results in order. Thanksgiving was played Nov. 23 at Stackpole Field.",
       "seasonSources": [
         {
-          "label": "Thanksgiving result · IMG_4045.jpg",
+          "label": "Daily Evening Item · Nov. 21 Thanksgiving preview and nine-game scorecard",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
         },
         {
@@ -5377,9 +5414,17 @@
         {
           "label": "Hank Collins illustration · wins over Winthrop and Danvers",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2546.webp"
+        },
+        {
+          "label": "Daily Evening Item · Steve Krause, “Loss belies special season for Sachems” (contributed clipping IMG_4045.jpg)"
+        },
+        {
+          "label": "Tontoquonian · 1996 yearbook, covering fall 1995",
+          "url": "https://archive.org/details/tontoquonian1996saug"
         }
       ],
-      "seasonNote": "Saugus opened with a 25–0 shutout of Winthrop to end a 34-game losing streak. L.J. McKanas rushed for 178 yards and two touchdowns. John Plunkett ran for 169 yards and two scores against Danvers the following week. A win over Salem, Saugus’s first in that matchup in 20 years, made the Sachems 3–0 and earned them No. 16 in the Herald’s Sweet 16.\n\nA 50–20 win over Lynn English at Manning Bowl clinched the program’s first winning season since 1990. Mike Mabee threw two touchdown passes, ran for another and picked off two passes. McKanas added 149 yards and three touchdowns. The team finished 6–5. Mabee’s All-Scholastic profile credited him with 720 passing yards, six passing touchdowns, seven rushing touchdowns and six interceptions."
+      "seasonNote": "Mike Ginolfi’s Sachems arrived at Stackpole Field for the opener having lost 34 straight games. They blanked Winthrop 25–0 behind 178 yards on 29 carries and two touchdowns from junior L.J. McKanas. John Plunkett added 71 rushing yards, and Mike Mabee threw a touchdown pass. Carlo Abate stopped Winthrop on fourth-and-one early in the game. The Item credited Saugus with 354 yards of offense and Winthrop with 116.\n\nPlunkett ran for 169 yards and two touchdowns in a 28–8 win over Danvers. Saugus followed with a 28–14 win over Salem, its first in that matchup in 20 years, and entered the Boston Herald’s Sweet 16 at No. 16. A 20–7 win over Beverly made it 4–0. After a loss to Gloucester, Saugus beat Marblehead 47–6 and Lynn English 50–20 to reach 6–1 and secure its first winning season since 1990. At Manning Bowl against English, Mabee threw for two scores, ran for another and intercepted two passes. McKanas ran for 149 yards and three touchdowns.\n\nSaugus dropped its last three games, including a 34–14 Thanksgiving loss to Peabody at Stackpole. Mabee returned for the finale while recovering from a broken bone in his leg. Fellow captain Matt Nazzaro, defensive tackle Dan Wass and tight end Derek Bilton also left the game with injuries. Ginolfi cited a 6–4 finish in the Item’s postgame report.\n\nThe Item’s postseason profiles credited Mabee with 61 completions for 720 yards and six touchdowns, plus 360 rushing yards, seven rushing touchdowns, six interceptions and two fumble recoveries. Abate led the team with 115 tackles and added four interceptions and four fumble recoveries. Both earned Item and Northeastern Conference recognition. McKanas was also an NEC All-Star.",
+      "recordNote": "The Nov. 21 Daily Evening Item lists Saugus at 6–3 before Thanksgiving. The postgame report quotes coach Mike Ginolfi giving the final record as 6–4. The season workbook lists 6–5."
     },
     {
       "year": 1996,
@@ -5423,6 +5468,13 @@
       "sourceRow": 104,
       "games": [
         {
+          "date": "—",
+          "opponent": "Greater Lawrence",
+          "result": "W 34–6",
+          "status": "Newspaper result",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1997-boston-globe-zammit-brothers-greater-lawrence.webp"
+        },
+        {
           "date": "1997-11-27",
           "opponent": "Peabody",
           "result": "L 31–35",
@@ -5442,9 +5494,17 @@
         {
           "label": "Daily Evening Item · Leahy’s junior season",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3357.webp"
+        },
+        {
+          "label": "Boston Globe · Dominic and Raphael Zammit against Greater Lawrence",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1997-boston-globe-zammit-brothers-greater-lawrence.webp"
+        },
+        {
+          "label": "Tontoquonian · 1998 yearbook, covering fall 1997",
+          "url": "https://archive.org/details/tontoquonian1998saug"
         }
       ],
-      "seasonNote": "John Fauci’s team went 6–4–1, the program’s last winning season until 2007. Junior quarterback Ryan Leahy passed for 1,109 yards and 14 touchdowns and ran for 294 yards and four touchdowns. Senior co-captain Chris McColgan protected Leahy at guard, called out blocking schemes and made 46 tackles at nose guard. Both made the Item and Northeastern Conference All-Star teams. Peabody won the Thanksgiving finale 35–31."
+      "seasonNote": "John Fauci’s Sachems finished 6–4–1, the program’s last winning team until 2007. In a 34–6 win over Greater Lawrence, the Boston Globe credited brothers Dominic and Raphael Zammit with a combined 251 rushing yards. Their work on the ground complemented an offense that could also move the ball through the air with junior quarterback Ryan Leahy.\n\nLeahy completed 65 of 124 passes for 1,109 yards and 14 touchdowns. He also carried 35 times for 294 yards and four scores. The Item highlighted his decision-making at the line of scrimmage. Senior co-captain Chris McColgan, a three-year starter, helped protect him at right guard and called out the blocking schemes. McColgan also made 46 tackles at nose guard. Both earned Item and Northeastern Conference All-Star recognition.\n\nPeabody won the Thanksgiving finale 35–31, a four-point margin in a game that produced 66 points. The surviving Thanksgiving scorecards preserve the final score."
     },
     {
       "year": 1998,
@@ -5979,7 +6039,7 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/#thanksgiving"
         },
         {
-          "label": "Tontoquonian yearbook · 7–3 squad and roster",
+          "label": "Tontoquonian · 2007 varsity football roster and team photo",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/upload-season-IMG_2622-5.webp"
         },
         {
@@ -5989,9 +6049,25 @@
         {
           "label": "Daily Evening Item · Bret Reid option offense profile",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3375.webp"
+        },
+        {
+          "label": "Tontoquonian · 2008 yearbook",
+          "url": "https://archive.org/details/tontoquonian2008saug"
+        },
+        {
+          "label": "Saugus Advertiser · “Thanksgiving football through the years” (contributed scorecard)"
+        },
+        {
+          "label": "Contemporary statewide scoreboard · Saugus 49, Chelsea 14",
+          "url": "https://pennsylvaniahighschoolfootballhuddle.wordpress.com/2007/11/23/massachusetts-high-school-football-scoreboard-week-11-turkey-day-scores/"
+        },
+        {
+          "label": "Contemporary game report · Swampscott 23, Saugus 19",
+          "url": "https://www.teampages.com/teams/1167544-Salem-Witches-football-team-website/announcements/1814647-Swampscott-takes-care-of-Saugus"
         }
       ],
-      "seasonNote": "Mike Broderick’s team won four straight after an opening loss and closed with victories over Danvers, Marblehead and Chelsea. The 49–14 Thanksgiving win over Chelsea secured a 7–3 record, the program’s first winning season since 1997.\n\nSenior captain Tyler Trainor led the defense with 108 tackles and returned one of his two interceptions for a touchdown. Junior quarterback Bret Reid ran for 797 yards and 13 touchdowns in the option offense and earned Northeastern Conference and Item All-Star recognition."
+      "seasonNote": "Mike Broderick’s Sachems recovered from a 21–13 opening loss at Newburyport with four straight wins. They beat St. Mary’s 28–7, Lynnfield 37–14 and Watertown 45–21 before holding Winthrop to seven points in a 14–7 Northeastern Conference Small win. Swampscott held off Saugus 23–19 after the Sachems drove 80 yards for their first touchdown.\n\nSaugus closed with road wins at Danvers (26–14), Marblehead (40–14) and Chelsea (49–14). The Thanksgiving win over Chelsea capped a 7–3 season, the program’s first winning finish since 1997. The Saugus Advertiser’s historical scorecard and a contemporary statewide scoreboard both give the 49–14 final.\n\nJunior quarterback Bret Reid rushed for 797 yards and scored 13 touchdowns in Broderick’s option offense, which the Item credited with averaging 280 rushing yards per game. Senior captain Tyler Trainor led Saugus with 108 tackles, intercepted two passes and returned one for a touchdown. He also scored five touchdowns as a runner and received the Saugus Lions Club Heisman Trophy. The Item and the Northeastern Conference recognized both players. The Tontoquonian varsity page pictures Trainor, Paul Sullivan, Andrew McDermott and Anthony Barasso with the team.",
+      "scheduleNote": "MaxPreps lists a 0–0 tie at Chelsea and reverses the Beverly result shown in this game log. The Advertiser scorecard and the contemporary Thanksgiving scoreboard establish the 49–14 Chelsea win. The Beverly result shown here reconciles with Saugus’s 7–3 season record."
     },
     {
       "year": 2008,
@@ -6081,9 +6157,16 @@
         {
           "label": "Massachusetts Prep Football · Chelsea Thanksgiving score",
           "url": "https://massachusettsprepfootball.com/schools/chelsea-red-devils/"
+        },
+        {
+          "label": "Eastern Massachusetts Division 3 All-Stars · Dean, Reid and Barrasso",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-eastern-mass-division3-all-stars.png"
+        },
+        {
+          "label": "Saugus Advertiser · “Thanksgiving football through the years” (contributed scorecard)"
         }
       ],
-      "seasonNote": "Saugus went 7–3 for the second straight year. A 35–32 win over Newburyport opened a four-game winning streak. After three straight losses, the Sachems closed with a 16–0 shutout of Danvers, a 41–7 win over Marblehead and a 35–6 Thanksgiving win over Chelsea.\n\nCaptain Mike Dean rushed for 1,242 yards on 130 carries and scored 17 touchdowns, with two interceptions returned for scores. Senior captain Bret Reid ran for 800 yards and 12 touchdowns while directing the option offense. Both were two-time NEC and Item All-Stars."
+      "seasonNote": "Broderick’s Sachems put together a second straight 7–3 season. They opened with a 35–32 win over Newburyport, followed by wins over St. Mary’s (28–8), Lynnfield (49–28) and Watertown (21–7). A seven-point loss at Winthrop started a three-game skid that also included Beverly and Swampscott. Saugus answered with a 16–0 shutout of Danvers and a 41–7 win over Marblehead to finish its NEC Small schedule. The Sachems then beat Chelsea 35–6 on Thanksgiving for a second straight win in the holiday matchup.\n\nCaptains Mike Dean and Bret Reid powered the option offense. Dean rushed for 1,242 yards on 130 carries, averaged about 9.6 yards per carry and scored 17 touchdowns. He also returned two interceptions for scores. Reid rushed for 800 yards on 96 carries and scored 12 touchdowns in the Item’s season profile. Both earned NEC and Item recognition for a second time. The Eastern Massachusetts Division 3 selections also included their teammate Anthony Barrasso."
     },
     {
       "year": 2009,
@@ -6372,7 +6455,7 @@
         {
           "date": "2012-10-12",
           "opponent": "Winthrop",
-          "result": "L 7–13",
+          "result": "L 7–13 (OT)",
           "status": "Played · overtime"
         },
         {
@@ -6418,9 +6501,20 @@
         {
           "label": "Daily Evening Item · Trainor’s 110-tackle season",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_4145.webp"
+        },
+        {
+          "label": "Boston Globe · Tommy Trainor, his family and the triple option",
+          "url": "https://www.bostonglobe.com/metro/regionals/north/2012/10/24/tommy-trainor-continues-family-legacy-linebacker-for-saugus-high/F5hvXzxfdOI06cxNf2ZfiI/story.html"
+        },
+        {
+          "label": "Daily Item · Saugus–Peabody pre-Thanksgiving dinner",
+          "url": "https://itemlive.com/2012/11/15/lobel-has-words-of-wisdom-for-saugus-peabody-players/"
+        },
+        {
+          "label": "Saugus Advertiser · “Thanksgiving football through the years” (contributed scorecard)"
         }
       ],
-      "seasonNote": "Saugus won four straight after its opener, then lost three close games to Winthrop in overtime, Newburyport and Pentucket by a combined 14 points. A 35–27 win over Triton and a 43–0 Thanksgiving shutout of Peabody gave the Sachems a 6–5 finish. Senior quarterback C.J. Randolph ran the option offense with Nick Benoit and Ismael Minaya.\n\nSenior linebacker Tommy Trainor recorded 110 tackles, seven for loss, and earned the Saugus Heisman Trophy at the pre-Thanksgiving dinner. His father and uncle, both former Sachems, coached on the staff."
+      "seasonNote": "After a 27–10 opening loss to North Reading, Mike Broderick’s team won four straight, beating Manchester Essex/Rockport 31–12, Austin Prep 38–16, Danvers 24–14 and Georgetown 35–14. The next three losses came by a combined 14 points: 13–7 in overtime at Winthrop, 20–14 to Newburyport and 28–26 at Pentucket. A loss to Amesbury dropped Saugus to 4–5. The Sachems beat Triton 35–27 and shut out Peabody 43–0 on Thanksgiving to finish 6–5, four wins better than the previous fall.\n\nSenior quarterback C.J. Randolph directed a triple option featuring senior captain Nick Benoit and Ismael Minaya. Benoit carried more of the rushing load while Minaya missed two games with a knee injury. Minaya returned for the Newburyport game.\n\nSenior captain Tommy Trainor anchored the defense at middle linebacker. The Item credited him with 110 tackles, including seven for loss. He earned Item and league All-Star honors and received the Saugus Heisman Trophy at the pre-Thanksgiving dinner. His father Tom, a former Sachems linebacker, coached the receivers. His uncle Don, a linebacker on the 1977 NEC championship team, coached the linebackers. His grandfather Don Sr. had played linebacker for Winthrop in 1941."
     },
     {
       "year": 2013,
@@ -6564,7 +6658,7 @@
           "date": "2014-11-01",
           "opponent": "Lynnfield",
           "result": "L 6–42",
-          "status": "Played"
+          "status": "Division 4 North quarterfinal"
         },
         {
           "date": "2014-11-07",
@@ -6597,9 +6691,33 @@
         {
           "label": "Boston Globe · Cacciola’s rushing record and 183-yard follow-up",
           "url": "https://www.bostonglobe.com/metro/regionals/north/2014/09/17/senior-captain-dan-cacciola-gets-saugus-off-and-running/5NJPiOx4s8mqufOEIUMlUM/story.html"
+        },
+        {
+          "label": "Boston Globe · Winthrop opener and 99-yard touchdown",
+          "url": "https://www.bostonglobe.com/sports/2014/09/08/saugus-running-back-racks-yards-points-season-opener/udnyhJS15QXVc8r9kn7xNN/story.html"
+        },
+        {
+          "label": "Boston Globe · Division 4 North playoff seeding",
+          "url": "https://www.bostonglobe.com/sports/2014/10/26/miaa-sets-seeds-for-high-school-football-playoffs/HonrbIm3KDaRE7acdSmsAM/story.html"
+        },
+        {
+          "label": "Daily Item · Justin Winn postseason profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_4149.webp"
+        },
+        {
+          "label": "Daily Item · Dan Cacciola postseason profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_4150.webp"
+        },
+        {
+          "label": "Boston Globe · Eastern Massachusetts Division 4 All-Stars",
+          "url": "https://www.bostonglobe.com/sports/2014/12/14/all-scholastics-football-emass-all-stars/w7L4ayUQ9Q07yRCivf7O6H/story.html"
+        },
+        {
+          "label": "Boston Globe · Peabody Thanksgiving recap",
+          "url": "https://www.bostonglobe.com/sports/2014/11/27/fbwebrdp/Hn637wJeFpcQlchNr0FOIJ/story.html"
         }
       ],
-      "seasonNote": "Senior captain Dan Cacciola set the Saugus single-game rushing record with 375 yards and four touchdowns in a 44–41 loss to Winthrop. He followed it with 183 yards and three touchdowns in a 36–16 win over Northeast Metro Tech, sealing the game with a 64-yard run. Quarterback Justin Winn added 120 rushing yards and two touchdowns in that win. Cacciola totaled 558 rushing yards and seven touchdowns through two games.\n\nThe Sachems reached 5–2 with three consecutive wins over Cape Cod Tech, North Reading and Pentucket and finished 6–5. The final win was 33–7 over Hamilton-Wenham. Peabody won the Thanksgiving finale 33–0."
+      "seasonNote": "Saugus opened with a 44–41 loss at Winthrop despite four rushing touchdowns from senior captain Dan Cacciola. The Boston Globe and Winthrop Transcript credited him with a school-record 375 rushing yards, including a 99-yard touchdown. In the 36–16 win over Northeast Metro Tech the following week, Cacciola rushed for 183 yards and three scores, closing out the game with a 64-yard touchdown after quarterback Justin Winn checked to a run up the middle. Winn added 120 rushing yards and two touchdowns.\n\nAfter beating Triton 36–22 and losing a 41–33 shootout to Lynn English, Saugus won three straight to reach 5–2. The Sachems shut out Cape Cod Tech 41–0, beat North Reading 24–13 and topped Pentucket 42–28. They earned the sixth seed in Division 4 North and fell 42–6 to unbeaten Lynnfield in the quarterfinal. Saugus then lost 33–15 to Watertown and beat Hamilton-Wenham 33–7. Peabody won the Thanksgiving finale 33–0, leaving the Sachems at 6–5.\n\nThe Item’s postseason profiles credited Cacciola with a school-record 1,467 rushing yards and 18 rushing touchdowns and Winn with 1,255 rushing yards and 22 touchdowns, including five scores against Lynn English. Both senior captains earned Item recognition and were named Boston Globe Eastern Massachusetts Division 4 All-Stars. The Item’s Cacciola profile put his Winthrop total at 367 yards. The opener figure used here follows the Globe and Transcript."
     },
     {
       "year": 2015,
