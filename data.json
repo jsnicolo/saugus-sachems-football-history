@@ -3353,8 +3353,8 @@
       "record": "6 - 2 - 1",
       "league": "North Shore League",
       "title": "North Shore League Co-Champions",
-      "players": "David Matthews (Captain), Richie Burt, Jim Kelleher (Captain)",
-      "awards": "Dave Matthews - Lynn Item and North Shore\nRichie Burt - Lynn Item and North Shore",
+      "players": "David Russell “Dave” Mathews (co-captain), Jim Kelleher (co-captain), Richard “Dick” Burt, David James Matthews, Francis “Frank” Bucchiere, Tim Churchard",
+      "awards": "",
       "nickname": "Sachems",
       "sourceRow": 58,
       "championshipNote": "The contemporary School Champions roundup names Saugus and Salem as North Shore League co-champions. It lists Woburn as Northeastern Conference champion.",
@@ -3374,7 +3374,7 @@
       ],
       "championshipStatus": "supported",
       "championshipCategory": "League · historical designation",
-      "seasonNote": "John Janusas’s Sachems went 6–2–1 behind co-captains Dave Matthews and Jim Kelleher. Kelleher ran for touchdowns of 90 and seven yards in the 20–0 shutout of Lynn Classical, and Tim Churchard added a five-yard touchdown.\n\nAt Stackpole Field on Thanksgiving, Matthews threw a touchdown pass to Frank Bucchiere and ran in the extra points. Kelleher led the defense and Dick Burt scored from the one in the fourth quarter to close out a 14–6 win that ended Peabody’s Class A title bid. The contemporary School Champions roundup confirms Saugus shared the North Shore League title with Salem.\n\nPeabody needed a win and a Brockton tie or loss. Brockton tied Weymouth 8–8 and won the Class A championship after Saugus beat Peabody.",
+      "seasonNote": "John Janusas entered his 13th season with a veteran backfield, a young line and little depth. He planned to build around team speed, with senior quarterback David Russell Mathews and halfbacks Jim Kelleher and Dick Burt returning. Mathews and Kelleher were co-captains. Another senior, David James Matthews, played end.\n\nSaugus opened with a 16–14 win over Revere after trailing by 14. Janusas told Bill Shechman it was the first time in his 13 years at Saugus that his team had come back from that deficit to win. On Oct. 3, the Sachems shut out Lynn Classical 20–0 before about 4,500 fans. Ralph DeFronzo intercepted a pass to set up Kelleher’s 90-yard touchdown run. A blocked kick set up Tim Churchard’s five-yard score, and Kelleher capped a 40-yard drive with a seven-yard touchdown in the fourth quarter. Burt ran for a two-point conversion.\n\nUnbeaten New Bedford handed Saugus its first loss on Oct. 10. The game was scoreless through three quarters before Stan Tenters scored twice in the fourth, the second time after New Bedford recovered a fumble at the Saugus three. A follow-up reported that quarterback Mathews was out.\n\nSaugus beat Lynn English 44–12 on Oct. 23. Burt scored on runs of 20 and 27 yards in the first five minutes and added a third touchdown after halftime. Quarterback Mathews threw two touchdown passes to end Matthews and scored the final touchdown himself. On Oct. 31, Saugus and Swampscott played to a 0–0 tie. Saugus reached the Swampscott 20 in the first half and later stopped Swampscott on downs at the Saugus 19. The tie left the Sachems 4–1–1.\n\nAt Brookline on Nov. 14, the Sachems trailed 8–6 at halftime before Brookline scored 22 unanswered points. Mathews’s 18-yard pass to Bucchiere produced the only Saugus touchdown in the 30–6 loss. The report calls the receiver Jim Bucchiere. The yearbook identifies Francis Bucchiere as the team’s end, and the Thanksgiving report calls him Frank.\n\nOn Thanksgiving, about 8,500 fans at Stackpole Field saw Saugus defeat Peabody 14–6. Mathews found Frank Bucchiere for a first-quarter touchdown and ran in the two-point conversion. In the fourth quarter, Peabody tried a fourth-down pass from its own 20 and turned the ball over on downs. Burt finished the short drive with a one-yard touchdown run. Kelleher led the Saugus defense, which held Peabody to a late Pete Wahtera touchdown. The win denied Peabody the Class A championship after Brockton tied Weymouth 8–8. Saugus finished 6–2–1 and shared the North Shore League title with Salem.\n\nThe Lynn Item chose quarterback Mathews for its first All-Star team and Burt for its second team. The Boston Globe’s Dec. 6 “On the Bench” list recognized quarterback Mathews at back and end Matthews at end. Burt also received the school’s John A. W. Pearce Football Award.",
       "seasonSources": [
         {
           "label": "Newspaper School Champions roundup · Saugus and Salem share North Shore title",
@@ -3398,37 +3398,78 @@
         },
         {
           "label": "Boston Globe · Kelleher’s 90-yard touchdown against Lynn Classical",
-          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-kelleher-lynn-classical.png"
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thumb-1959-boston-globe-kelleher-lynn-classical.webp"
         },
         {
           "label": "Boston Globe · Peabody Thanksgiving game report",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp"
         },
         {
-          "label": "Daily Evening Item · Matthews and Burt All-Star selections",
+          "label": "Daily Evening Item · Mathews and Burt All-Star selections",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3351.webp"
         },
         {
           "label": "Thanksgiving report · Brockton–Weymouth tie and Class A title",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-brockton-weymouth-class-a-title.webp"
+        },
+        {
+          "label": "1960 Tontoquonian · 1959 team portraits and player positions",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1959-1-oct29.webp"
+        },
+        {
+          "label": "Contributed newspaper clippings · preseason preview, Revere follow-up, New Bedford, Lynn English, Swampscott and Brookline game reports"
+        },
+        {
+          "label": "Boston Globe · Dec. 6, 1959, p. 89 · “On the Bench”",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-1959-globe-on-the-bench.webp"
         }
       ],
       "games": [
+        {
+          "opponent": "Revere",
+          "result": "W 16–14",
+          "status": "Season opener"
+        },
         {
           "date": "1959-10-03",
           "opponent": "Lynn Classical",
           "result": "W 20–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-kelleher-lynn-classical.png"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thumb-1959-boston-globe-kelleher-lynn-classical.webp"
+        },
+        {
+          "date": "1959-10-10",
+          "opponent": "New Bedford",
+          "result": "L 0–16",
+          "status": "Played"
+        },
+        {
+          "date": "1959-10-23",
+          "opponent": "Lynn English",
+          "result": "W 44–12",
+          "status": "Played"
+        },
+        {
+          "date": "1959-10-31",
+          "opponent": "Swampscott",
+          "result": "T 0–0",
+          "status": "Played"
+        },
+        {
+          "date": "1959-11-14",
+          "opponent": "Brookline",
+          "result": "L 6–30",
+          "status": "Played"
         },
         {
           "date": "1959-11-26",
           "opponent": "Peabody",
           "result": "W 14–6",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "Seven results are documented below. The opponents and scores for two additional wins are still being researched."
     },
     {
       "year": 1960,

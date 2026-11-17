@@ -1146,7 +1146,7 @@
       "sourceLabel": "1960 Lynn Daily Evening Item · All-Star second team (center)"
     },
     {
-      "name": "Richie Burt",
+      "name": "Richard “Dick” Burt",
       "position": "Back",
       "schoolClass": "Sr",
       "year": 1959,
@@ -1155,14 +1155,6 @@
       "award": "North Shore All-Star second team",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3351.webp",
       "sourceLabel": "1959 Lynn Item North Shore All-Star team · second-team backs"
-    },
-    {
-      "name": "Dave Matthews",
-      "position": "QB",
-      "schoolClass": "Sr",
-      "year": 1959,
-      "publisher": "Lynn Item",
-      "row": 101
     },
     {
       "name": "John Naples",
@@ -1996,7 +1988,7 @@
     },
     {
       "year": 1959,
-      "name": "Dave Mathews",
+      "name": "David Russell “Dave” Mathews",
       "position": "Back",
       "schoolClass": "Sr",
       "publisher": "Lynn Item",
@@ -3519,6 +3511,16 @@
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-north-shore-all-stars-laskey.jpeg",
       "sourceLabel": "Boston Globe · North Shore 19, Suburban Boston 6, December 7, 1947",
       "sourceNote": "Listed at tackle and kicked an extra point."
+    },
+    {
+      "year": 1959,
+      "name": "Richard “Dick” Burt",
+      "position": "Back",
+      "schoolClass": "Sr",
+      "publisher": "Saugus High School",
+      "award": "John A. W. Pearce Football Award",
+      "sourceUrl": "https://archive.org/details/tontoquonian1960saug",
+      "sourceLabel": "1960 Tontoquonian · school awards"
     }
   ],
   "alumni": [
@@ -13129,6 +13131,322 @@
           "clipping": "1953 game reports and 1954 Tontoquonian football recap",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
           "note": "Made all three extra-point attempts against Lynn Classical in the yearbook account."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1959,
+      "name": "David Russell “Dave” Mathews",
+      "schoolClass": "Sr.",
+      "values": {
+        "Completions": 4,
+        "Passing Yards": 18,
+        "Passing Touchdowns": 4
+      },
+      "statSources": {
+        "Completions": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English, Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "Two touchdown passes to David James Matthews and one each to Bucchiere against Brookline and Peabody."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English, Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "The Brookline touchdown is the only documented completion with a stated distance."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English, Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "Two against Lynn English and one each against Brookline and Peabody."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1959,
+      "name": "David James Matthews",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English game report",
+          "note": "Both were touchdown catches from quarterback David Russell Mathews."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English game report",
+          "note": "Both against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1959,
+      "name": "Francis “Frank” Bucchiere",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 2,
+        "Receiving Yards": 18,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "One touchdown catch in each game. The Brookline report uses Jim, the yearbook lists Francis and the Thanksgiving report uses Frank."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "The Brookline touchdown was 18 yards. The Thanksgiving report gives no distance."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "One against Brookline and one against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1959,
+      "name": "Richard “Dick” Burt",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 48,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Runs of 20 and 27 yards against Lynn English and one yard against Peabody."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Two explicitly identified runs against Lynn English and one against Peabody. The Lynn English report gives no play type for his third touchdown in that game."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1959,
+      "name": "Jim Kelleher",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 97,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Touchdown runs of 90 and seven yards."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Both against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1959,
+      "name": "Tim Churchard",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 5,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Five-yard touchdown run after a blocked kick."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1959,
+      "name": "Ralph DeFronzo",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Set up Jim Kelleher’s 90-yard touchdown run."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "Richard “Dick” Burt",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 28,
+        "Two-Point Conversions": 2,
+        "Touchdowns (type unspecified)": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report; Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Three touchdowns and a conversion credited as a pass play against Lynn English, one rushing touchdown against Peabody and one rushing conversion against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report; Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Three touchdowns and a conversion credited as a pass play against Lynn English, one rushing touchdown against Peabody and one rushing conversion against Lynn Classical."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report; Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Three touchdowns and a conversion credited as a pass play against Lynn English, one rushing touchdown against Peabody and one rushing conversion against Lynn Classical."
+        },
+        "Touchdowns (type unspecified)": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report; Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Three touchdowns and a conversion credited as a pass play against Lynn English, one rushing touchdown against Peabody and one rushing conversion against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "David Russell “Dave” Mathews",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 8,
+        "Two-Point Conversions": 1,
+        "Touchdowns (type unspecified)": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Scored the final Lynn English touchdown by an unspecified play and ran for a two-point conversion against Peabody. The English box lists two Mathews conversion plays without identifying which Mathews scored each."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Scored the final Lynn English touchdown by an unspecified play and ran for a two-point conversion against Peabody. The English box lists two Mathews conversion plays without identifying which Mathews scored each."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Scored the final Lynn English touchdown by an unspecified play and ran for a two-point conversion against Peabody. The English box lists two Mathews conversion plays without identifying which Mathews scored each."
+        },
+        "Touchdowns (type unspecified)": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English and Nov. 26 Peabody game reports",
+          "note": "Scored the final Lynn English touchdown by an unspecified play and ran for a two-point conversion against Peabody. The English box lists two Mathews conversion plays without identifying which Mathews scored each."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "David James Matthews",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English game report",
+          "note": "Two touchdown catches. The box lists two Mathews conversion plays without identifying which Mathews scored each."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Oct. 23 Lynn English game report",
+          "note": "Two touchdown catches. The box lists two Mathews conversion plays without identifying which Mathews scored each."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "Francis “Frank” Bucchiere",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "One touchdown catch against each opponent."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Nov. 14 Brookline and Nov. 26 Peabody game reports",
+          "note": "One touchdown catch against each opponent."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "Jim Kelleher",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Two touchdown runs against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "Two touchdown runs against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1959,
+      "name": "Tim Churchard",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "One touchdown run against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
+          "note": "One touchdown run against Lynn Classical."
         }
       }
     }

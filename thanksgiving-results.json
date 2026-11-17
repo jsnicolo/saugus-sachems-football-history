@@ -463,10 +463,11 @@
     "year": 1959,
     "opponent": "Peabody",
     "result": "W 14–6",
-    "status": "Historical table, visually checked",
-    "note": "1995 newspaper historical series table; individual game date not independently checked.",
-    "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "status": "Contemporary game report",
+    "note": "Saugus won before about 8,500 fans at Stackpole Field and ended Peabody’s Class A title bid. Dave Mathews threw a touchdown pass to Frank Bucchiere and ran for two points. Dick Burt added a one-yard touchdown in the fourth quarter.",
+    "sourceFile": "Boston Globe · Nov. 26 game report",
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp",
+    "date": "1959-11-26"
   },
   {
     "year": 1960,
