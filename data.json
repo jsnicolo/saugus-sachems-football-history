@@ -5804,7 +5804,7 @@
       "awards": "Mike Nicolo - NEC, Lynn Item \nAnthony Barbanti - NEC, Lynn Item, Shriners, Agganis \nChris Benson - Agganis\nMark Spadafora - NEC and Agganis",
       "nickname": "Sachems",
       "sourceRow": 112,
-      "seasonNote": "Mike Nicolo rushed for three touchdowns in a win over Salem. His Daily Item All-Star profile credits him with 306 yards, a Saugus single-game record at the time.",
+      "seasonNote": "Saugus finished 3–8 under coach John Nicolo. Mike Nicolo ran for three touchdowns in a win over Salem. His Daily Item All-Star profile credits him with 306 yards in that game, a Saugus single-game record at the time.\n\nNicolo scored all four Saugus touchdowns in a 29–14 win at Beverly on runs of 10, 9, 11 and 5 yards. The Sachems trailed 14–13 at halftime before scoring 16 unanswered points. Rob Gannon threw to Mike Ceruso for one two-point conversion and ran in the other. In a 26–13 home win over Marblehead, Nicolo scored on runs of 48 and 5 yards, and Gannon threw four-yard touchdown passes to Mike Caruso and Alex Kimarchuk.\n\nAt Lynn Classical, Mike Howard caught a four-yard touchdown pass from Mike Ceruso and threw a four-yard touchdown pass to Chris Benson in a 22–14 loss. In the 35–8 Thanksgiving loss to Peabody at Saugus, Mike Nicolo threw a 28-yard touchdown pass to Kevin Davis and ran in the two-point conversion.",
       "seasonSources": [
         {
           "label": "Daily Item · Mike Nicolo All-Star profile",
@@ -5822,19 +5822,37 @@
       "captainsNote": "Captain names supplied by Sal Nicolo.",
       "games": [
         {
-          "date": "—",
+          "date": "",
           "opponent": "Salem",
           "result": "W · final score unknown",
           "status": "Played"
         },
         {
-          "date": "—",
+          "date": "",
+          "opponent": "at Beverly",
+          "result": "W 29–14",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "Marblehead",
+          "result": "W 26–13",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Lynn Classical",
+          "result": "L 14–22",
+          "status": "Played"
+        },
+        {
+          "date": "2003-11-27",
           "opponent": "Peabody",
-          "result": "L · final score unknown",
+          "result": "L 8–35",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Final scores for these games are still being researched."
+      "scheduleNote": "Partial schedule. The contributed newspaper box scores establish the Beverly, Marblehead, Lynn Classical and Peabody results. The Marblehead box score spells the touchdown receiver’s surname Caruso. The Beverly and Lynn Classical box scores use Ceruso."
     },
     {
       "year": 2004,
