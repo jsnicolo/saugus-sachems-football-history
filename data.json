@@ -5636,20 +5636,81 @@
       "sourceRow": 110,
       "games": [
         {
-          "date": "—",
+          "date": "2001-09-08",
+          "opponent": "Belmont",
+          "result": "L 0–7",
+          "status": "Played"
+        },
+        {
+          "date": "2001-09-15",
+          "opponent": "Winthrop",
+          "result": "L 14–35",
+          "status": "Played"
+        },
+        {
+          "date": "2001-09-22",
+          "opponent": "Swampscott",
+          "result": "L 14–27",
+          "status": "Played"
+        },
+        {
+          "date": "2001-09-28",
+          "opponent": "at Lynn Classical",
+          "result": "L 18–40",
+          "status": "Played"
+        },
+        {
+          "date": "2001-10-06",
+          "opponent": "Danvers",
+          "result": "L 14–36",
+          "status": "Played"
+        },
+        {
+          "date": "2001-10-12",
+          "opponent": "at Salem",
+          "result": "W 30–14",
+          "status": "Played"
+        },
+        {
+          "date": "2001-10-20",
+          "opponent": "at Beverly",
+          "result": "L 6–14",
+          "status": "Played"
+        },
+        {
+          "date": "2001-10-26",
+          "opponent": "at Gloucester",
+          "result": "L 0–47",
+          "status": "Played"
+        },
+        {
+          "date": "2001-11-03",
+          "opponent": "Marblehead",
+          "result": "W 18–8",
+          "status": "Played"
+        },
+        {
+          "date": "2001-11-09",
+          "opponent": "at Lynn English",
+          "result": "L 8–22",
+          "status": "Played"
+        },
+        {
+          "date": "2001-11-22",
           "opponent": "Peabody",
           "result": "L 16–41",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Dates follow the supplied weekly schedule beginning September 8. Salem’s 30–14 final follows the headline and scoring plays. The Lynn English box score lists Saugus with eight points, but its touchdown and reported kick account for seven. The individual scoring tally leaves the conversion unassigned.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
         }
       ],
-      "captainsNote": "Captain names supplied by Sal Nicolo."
+      "captainsNote": "Captain names supplied by Sal Nicolo.",
+      "seasonNote": "Saugus finished 2–9. The Sachems rallied from 14–0 down at Salem for a 30–14 win, scoring 24 points in the fourth quarter. Kyle Sucharewicz threw three touchdown passes and Dave Landry returned an interception 55 yards for a score. Saugus beat Marblehead 18–8 for its second win. On Thanksgiving, Sal Nicolo scored on a 33-yard interception return and David Diluigi scored on a 32-yard run in a 41–16 loss to Peabody."
     },
     {
       "year": 2002,

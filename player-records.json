@@ -6190,7 +6190,8 @@
       "schoolClass": "Jr.",
       "values": {
         "Rushing Yards": 5,
-        "Rushing Touchdowns": 1
+        "Rushing Touchdowns": 1,
+        "Carries": 1
       },
       "statSources": {
         "Rushing Yards": {
@@ -6202,6 +6203,11 @@
           "partial": true,
           "clipping": "The Daily Item, October 8, 2001, p. C3",
           "note": "Five-yard touchdown run against Danvers. Partial game coverage."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "The Daily Item, October 8, 2001, p. C3",
+          "note": "Five-yard touchdown run against Danvers."
         }
       }
     },
@@ -7665,9 +7671,23 @@
         "Tackles": 50,
         "Fumble Recoveries": 1,
         "Interceptions": 2,
-        "Sacks": null
+        "Sacks": null,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 33
       },
-      "row": 78
+      "row": 78,
+      "statSources": {
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "33-yard interception return for a touchdown against Peabody. The existing count of two interceptions is retained."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "33-yard interception return for a touchdown against Peabody. The existing count of two interceptions is retained."
+        }
+      }
     },
     {
       "category": "Defensive",
@@ -8595,7 +8615,8 @@
       "schoolClass": "Sr.",
       "values": {
         "Receiving Yards": 505,
-        "Receptions": 30
+        "Receptions": 30,
+        "Receiving Touchdowns": 4
       },
       "statSources": {
         "Receiving Yards": {
@@ -8603,6 +8624,11 @@
         },
         "Receptions": {
           "clipping": "IMG_3365.jpg"
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches against Swampscott (20 yards), Lynn Classical (48), Salem (40) and Beverly (4)."
         }
       }
     },
@@ -8612,11 +8638,17 @@
       "name": "Patrick Eaton",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": 545
+        "Rushing Yards": 545,
+        "Rushing Touchdowns": 1
       },
       "statSources": {
         "Rushing Yards": {
           "clipping": "IMG_3365.jpg"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "19-yard touchdown run against Marblehead."
         }
       }
     },
@@ -13521,6 +13553,568 @@
           "partial": true,
           "clipping": "Boston Globe · Oct. 3 Lynn Classical game report",
           "note": "One touchdown run against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2001,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 186,
+        "Completions": 8,
+        "Passing Touchdowns": 8,
+        "Conversion Passes": 2
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The eight documented scoring passes covered 20 yards against Swampscott, 48 and 17 against Lynn Classical, 30, 40 and 14 against Salem, 4 against Beverly and 13 against Marblehead. Two-point passes went to Patrick Eaton and Mark Pizzotti."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The eight documented scoring passes covered 20 yards against Swampscott, 48 and 17 against Lynn Classical, 30, 40 and 14 against Salem, 4 against Beverly and 13 against Marblehead. Two-point passes went to Patrick Eaton and Mark Pizzotti."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The eight documented scoring passes covered 20 yards against Swampscott, 48 and 17 against Lynn Classical, 30, 40 and 14 against Salem, 4 against Beverly and 13 against Marblehead. Two-point passes went to Patrick Eaton and Mark Pizzotti."
+        },
+        "Conversion Passes": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The eight documented scoring passes covered 20 yards against Swampscott, 48 and 17 against Lynn Classical, 30, 40 and 14 against Salem, 4 against Beverly and 13 against Marblehead. Two-point passes went to Patrick Eaton and Mark Pizzotti."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 3,
+        "Carries": 3,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs against Swampscott, Danvers and Lynn English."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs against Swampscott, Danvers and Lynn English."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs against Swampscott, Danvers and Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns. The disputed conversion against Lynn English is unassigned."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns. The disputed conversion against Lynn English is unassigned."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Patrick Eaton",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 5,
+        "Two-Point Conversions": 6,
+        "Points": 42
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Four receiving touchdowns and a rushing touchdown. Five rushing conversions and one receiving conversion. The Lynn English box score credits a kick that conflicts with the team score, so it is excluded from the tally."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Four receiving touchdowns and a rushing touchdown. Five rushing conversions and one receiving conversion. The Lynn English box score credits a kick that conflicts with the team score, so it is excluded from the tally."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Four receiving touchdowns and a rushing touchdown. Five rushing conversions and one receiving conversion. The Lynn English box score credits a kick that conflicts with the team score, so it is excluded from the tally."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2001,
+      "name": "Chris Finn",
+      "schoolClass": "Jr.",
+      "values": {
+        "Receiving Yards": 30,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches of 17 yards against Lynn Classical and 13 against Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches of 17 yards against Lynn Classical and 13 against Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches of 17 yards against Lynn Classical and 13 against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Chris Finn",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Receiving touchdowns against Lynn Classical and Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Receiving touchdowns against Lynn Classical and Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2001,
+      "name": "Mike Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 44,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Mike Pizzotti with 30- and 14-yard touchdown catches."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Mike Pizzotti with 30- and 14-yard touchdown catches."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Mike Pizzotti with 30- and 14-yard touchdown catches."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Mike Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Mike Pizzotti with two touchdown catches."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Mike Pizzotti with two touchdown catches."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 11,
+        "Carries": 1,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "11-yard touchdown run against Winthrop."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "11-yard touchdown run against Winthrop."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "11-yard touchdown run against Winthrop."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "11-yard touchdown run against Winthrop."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "11-yard touchdown run against Winthrop."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "Kevin Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 1,
+        "Carries": 1,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "1-yard touchdown run against Lynn Classical."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "1-yard touchdown run against Lynn Classical."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "1-yard touchdown run against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Kevin Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "1-yard touchdown run against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "1-yard touchdown run against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "Pat Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 5,
+        "Carries": 1,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "5-yard touchdown run against Marblehead."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "5-yard touchdown run against Marblehead."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "5-yard touchdown run against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Pat Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "5-yard touchdown run against Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "5-yard touchdown run against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2001,
+      "name": "David Diluigi",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 32,
+        "Carries": 1,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "32-yard touchdown run against Peabody."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "32-yard touchdown run against Peabody."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "32-yard touchdown run against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "David Diluigi",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "32-yard touchdown run against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "32-yard touchdown run against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 2001,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 18
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "18-yard interception return for a touchdown against Winthrop."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "18-yard interception return for a touchdown against Winthrop."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "18-yard interception return for a touchdown against Winthrop."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Two-Point Conversions": 1,
+        "Points": 8
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Interception return touchdown against Winthrop and a two-point catch against Danvers."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Interception return touchdown against Winthrop and a two-point catch against Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Interception return touchdown against Winthrop and a two-point catch against Danvers."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 2001,
+      "name": "Dave Landry",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 55
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Dave Landry with a 55-yard interception return touchdown."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Dave Landry with a 55-yard interception return touchdown."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "The Salem box score credits Dave Landry with a 55-yard interception return touchdown."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Dave Landry",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "55-yard interception return touchdown against Salem."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "55-yard interception return touchdown against Salem."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Sal Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Five-yard touchdown run against Danvers and 33-yard interception return touchdown against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Five-yard touchdown run against Danvers and 33-yard interception return touchdown against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2001,
+      "name": "Michael Nicolo",
+      "schoolClass": "Fr.",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Peabody."
         }
       }
     }
