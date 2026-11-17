@@ -345,10 +345,20 @@
     "year": 1947,
     "opponent": "Peabody",
     "result": "L 0–13",
-    "status": "Historical table, visually checked",
-    "note": "1995 newspaper historical series table; individual game date not independently checked.",
+    "status": "Contemporary yearbook game account and historical series table",
+    "note": "On November 27, Peabody led 6–0 on a one-yard run by Connors. Saugus reached the Peabody 20 before George Laskey was injured. Art Drivas caught a deflected touchdown pass in the final minute, and Regis kicked the extra point for a 13–0 Peabody win.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+        "url": "https://archive.org/details/tontoquonian1948saug"
+      },
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      }
+    ]
   },
   {
     "year": 1948,
