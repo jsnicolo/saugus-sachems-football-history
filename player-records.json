@@ -274,9 +274,20 @@
       "year": 1953,
       "publisher": "Boston Globe",
       "row": 11,
-      "award": "All-Scholastic reserve selection (not first team)",
+      "award": "All-Scholastic reserve selection",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2661-hall.webp",
       "sourceLabel": "Boston Globe · Dec. 6, 1953 · All-Scholastic reserves (guards)"
+    },
+    {
+      "name": "Bob Belyea",
+      "position": "Guard",
+      "schoolClass": "Sr",
+      "year": 1953,
+      "publisher": "Boston Globe",
+      "award": "Class A All-Star",
+      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2661-hall.webp",
+      "sourceLabel": "Boston Globe · Dec. 6, 1953 · Class A All-Star team (guard)",
+      "sourceNote": "The Class A team and the overall Globe All-Scholastic reserves are listed separately on the same page."
     },
     {
       "name": "Cam Williamson",
@@ -5185,7 +5196,7 @@
       "name": "Robert “Bob” Belyea",
       "position": "Guard",
       "schoolClass": "1954",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1999.\n\nBob Belyea was an honored lineman on Saugus High's 1953 North Shore League championship team. The 1954 yearbook records four years of football participation and identifies Belyea and Bill Whittredge as first-string selections on the Lynn All-Star team. The Boston Globe also named Belyea among its All-Scholastic reserves at guard in December 1953. His individual recognition complemented his contributions to a championship team.\n\nThe championship yearbook singled out the line play of Belyea, Doug MacNeill and Bob Randazzo in the 21–0 league-opening victory over Lynn Classical, crediting them with stopping Classical’s drives. Saugus ultimately finished 6–1–1 and clinched its North Shore League title by beating Peabody 33–6 on Thanksgiving.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1999.\n\nBob Belyea was an honored lineman on Saugus High's 1953 North Shore League championship team. The 1954 yearbook records four years of football participation and identifies Belyea and Bill Whittredge as first-string selections on the Lynn All-Star team. The Boston Globe named Belyea to its Class A All-Star team at guard and listed him among its overall All-Scholastic reserves in December 1953. His individual recognition complemented his contributions to a championship team.\n\nThe championship yearbook singled out the line play of Belyea, Doug MacNeill and Bob Randazzo in the 21–0 league-opening victory over Lynn Classical, crediting them with stopping Classical’s drives. Saugus ultimately finished 6–1–1 and clinched its North Shore League title by beating Peabody 33–6 on Thanksgiving.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
         {
@@ -5216,7 +5227,7 @@
       "name": "Bill Whittredge",
       "position": "Back",
       "schoolClass": "1954",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1996.\n\nBill Whittredge helped give Saugus its productive backfield during the 1953 North Shore League championship season. The 1954 yearbook records that he had been voted the best back of the previous year and names him, alongside Bob Belyea, as a first-string selection on the Lynn All-Star team during the class's championship senior year. The yearbook preserves his contributions to John Janusas's title-winning team.\n\nWhittredge delivered several important scores during that championship run. His 25-yard touchdown run helped Saugus rally for a 12–12 tie with Marblehead. He scored Saugus’s first touchdown in the 14–13 win over Beverly and helped drive the late winning possession. He also scored in the 21–0 victory over Lynn Classical and 26–18 win over Lynn English. In the title-clinching 33–6 Thanksgiving win over Peabody, his runs repeatedly advanced the offense, and he threw a 50-yard pass to Dave Donaldson that put Saugus on the five-yard line during another scoring drive.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1996.\n\nBill Whittredge helped give Saugus its productive backfield during the 1953 North Shore League championship season. The 1954 yearbook records that he had been voted the best back of the previous year and names him, alongside Bob Belyea, as a first-string selection on the Lynn All-Star team during the class's championship senior year. The yearbook preserves his contributions to John Janusas's title-winning team.\n\nWhittredge delivered several important scores during that championship run. His fourth-quarter touchdown run helped Saugus rally for a 12–12 tie with Marblehead. He scored Saugus’s first touchdown in the 14–13 win over Beverly and helped drive the late winning possession. He also scored in the 21–0 victory over Lynn Classical and 26–18 win over Lynn English. In the title-clinching 33–6 Thanksgiving win over Peabody, his runs repeatedly advanced the offense, and he threw a 50-yard pass to Dave Donaldson that put Saugus on the five-yard line during another scoring drive.",
       "source": "Contemporary newspaper clippings and Saugus yearbooks.",
       "sources": [
         {
@@ -12433,6 +12444,691 @@
           "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
           "partial": true,
           "note": "The yearbook credits Murphy and Falasca jointly on the same quick kick. Jim Burns recovered the blocked kick."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1953,
+      "name": "Malcolm “Mal” Rice",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 176,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Documented gains: 57 vs. Revere, 28 and 11 vs. Marblehead, 10 vs. Chelsea and 70 vs. Salem. The yearbook gives 64 for the Revere touchdown; the newspaper gives 57."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Revere, Marblehead and Salem."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1953,
+      "name": "Malcolm “Mal” Rice",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 2,
+        "Receiving Yards": 54
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Two catches against Beverly."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "16 yards on the first touchdown drive, plus the newspaper’s 38-yard gain on the winning drive; the yearbook gives 37 for the latter."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Malcolm “Mal” Rice",
+      "schoolClass": "",
+      "values": {
+        "Safeties": 1
+      },
+      "statSources": {
+        "Safeties": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp",
+          "note": "Tackled Joe Oreto in the Revere end zone."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1953,
+      "name": "William “Bill” MacNeill",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 218,
+        "Rushing Touchdowns": 6
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Known gains: 50 vs. Classical, 25 vs. Lynn English, 40 vs. Chelsea (yearbook: 46), six vs. Salem and 45, two and 50 vs. Peabody. The two-yard opening score follows the contemporary Peabody box; the yearbook credits Jack Lawrence with the opening score."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "One each vs. Revere, Classical, Lynn English and Salem, plus two vs. Peabody in the newspaper account."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "William “Bill” MacNeill",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Intercepted a Marblehead pass in the second quarter."
+        },
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Recovered a Salem fumble to set up the opening score."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1953,
+      "name": "Charlie Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 129,
+        "Completions": 9,
+        "Passing Touchdowns": 2
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Gains of eight vs. Revere (yearbook: three), 39 and 16 vs. Marblehead, 16 and 38 vs. Beverly and 12 vs. Lynn English. Marblehead figures are individual play gains."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Two vs. Revere, two vs. Marblehead, two vs. Beverly, one vs. Lynn English, one vs. Salem and the yearbook’s Peabody completion to Krzywicki. The yearbook does not identify who threw the two earlier Peabody completions to Krzywicki."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "To Donaldson vs. Revere and Lynn English. The yearbook credits Lawrence with another to Krzywicki vs. Peabody, where the newspaper gives a different scoring list."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1953,
+      "name": "Charlie Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 11,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "Yearbook’s 11-yard touchdown run vs. Peabody."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "11-yard run vs. Peabody. The method of the Lynn English and other newspaper-credited Peabody touchdown is not specified."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Charlie Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp",
+          "note": "Intercepted a Revere pass in the yearbook account."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1953,
+      "name": "Charlie Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp",
+          "note": "Two placement kicks vs. Revere."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1953,
+      "name": "Bill Whittredge",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 45,
+        "Rushing Touchdowns": 5
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "One yard vs. Beverly, 14 vs. Marblehead (yearbook: 25), plus 23 and seven vs. Peabody."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "One each against Classical, Marblehead, Beverly, Lynn English and Salem. The method of the newspaper-credited Peabody touchdown is unspecified."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1953,
+      "name": "Bill Whittredge",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 50,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "50-yard completion to Donaldson vs. Peabody."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "Completed a 50-yard pass to Donaldson vs. Peabody."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Bill Whittredge",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp",
+          "note": "Recovered a Revere fumble in the third quarter."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1953,
+      "name": "Bob Piwowarski",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 33,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Seven-yard touchdown vs. Revere, 21-yard run and five-yard touchdown vs. Beverly."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "One each vs. Revere, Classical, Beverly and Salem."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Bob Piwowarski",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2758.webp",
+          "note": "Recovered a Revere fumble in the fourth quarter."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1953,
+      "name": "Dave Donaldson",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 86,
+        "Receptions": 6,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Eight vs. Revere, 16 vs. Marblehead, 12 vs. Lynn English and 50 vs. Peabody, plus unmeasured catches."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Two vs. Revere and one each vs. Marblehead, Lynn English, Salem and Peabody."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Caught touchdowns against Revere and Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1953,
+      "name": "Dick Salerno",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 39,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Caught a 39-yard pass vs. Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "One documented catch vs. Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1953,
+      "name": "Bob Krzywicki",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 40,
+        "Receptions": 3
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "Two 20-yard Peabody catches in the yearbook, plus a catch without a stated distance."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "The yearbook describes three Peabody catches. Its touchdown attribution differs from the newspaper box."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Bob Belyea",
+      "schoolClass": "",
+      "values": {
+        "Blocked Punts": 1
+      },
+      "statSources": {
+        "Blocked Punts": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Third-quarter block set up Rice’s touchdown against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "John Leahy",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1,
+        "Safeties": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "Recovered a Salem fumble at the 15."
+        },
+        "Safeties": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2765.webp",
+          "note": "Shared credit for the same Beverly safety. The game report names Leahy and Randazzo, the coach’s follow-up credits Krzywicki, and the yearbook credits all three."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Bob Krzywicki",
+      "schoolClass": "",
+      "values": {
+        "Safeties": 1
+      },
+      "statSources": {
+        "Safeties": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Shared credit for the same Beverly safety. The game report names Leahy and Randazzo, the coach’s follow-up credits Krzywicki, and the yearbook credits all three."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Bob Randazzo",
+      "schoolClass": "",
+      "values": {
+        "Safeties": 1
+      },
+      "statSources": {
+        "Safeties": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Shared credit for the same Beverly safety. The game report names Leahy and Randazzo, the coach’s follow-up credits Krzywicki, and the yearbook credits all three."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1953,
+      "name": "Douglas “Doug” MacNeill",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Recovered a Classical fumble to set up the opening score."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Malcolm “Mal” Rice",
+      "schoolClass": "",
+      "values": {
+        "Points": 20,
+        "Total Touchdowns": 3
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Touchdowns vs. Revere, Marblehead and Salem, plus the Revere safety."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Touchdowns vs. Revere, Marblehead and Salem, plus the Revere safety."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "William “Bill” MacNeill",
+      "schoolClass": "",
+      "values": {
+        "Points": 38,
+        "Total Touchdowns": 6,
+        "Conversions (type unspecified)": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Revere, Classical, Lynn English and Salem, plus two vs. Peabody in the newspaper box. Extra points vs. Lynn English and Peabody."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Revere, Classical, Lynn English and Salem, plus two vs. Peabody in the newspaper box. Extra points vs. Lynn English and Peabody."
+        },
+        "Conversions (type unspecified)": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Revere, Classical, Lynn English and Salem, plus two vs. Peabody in the newspaper box. Extra points vs. Lynn English and Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Bill Whittredge",
+      "schoolClass": "",
+      "values": {
+        "Points": 38,
+        "Total Touchdowns": 6,
+        "Conversions (type unspecified)": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Classical, Marblehead, Beverly, Lynn English, Salem and Peabody, plus extra points vs. Lynn English and Peabody. Peabody scoring follows the newspaper box."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Classical, Marblehead, Beverly, Lynn English, Salem and Peabody, plus extra points vs. Lynn English and Peabody. Peabody scoring follows the newspaper box."
+        },
+        "Conversions (type unspecified)": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdowns vs. Classical, Marblehead, Beverly, Lynn English, Salem and Peabody, plus extra points vs. Lynn English and Peabody. Peabody scoring follows the newspaper box."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Charlie Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Points": 22,
+        "Total Touchdowns": 3,
+        "Conversions (type unspecified)": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdown vs. Lynn English and two vs. Peabody in the newspaper box. Four extra points: two kicks vs. Revere, a run vs. Salem and one vs. Peabody. Passing touchdowns are tracked separately."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdown vs. Lynn English and two vs. Peabody in the newspaper box. Four extra points: two kicks vs. Revere, a run vs. Salem and one vs. Peabody. Passing touchdowns are tracked separately."
+        },
+        "Conversions (type unspecified)": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+          "note": "Touchdown vs. Lynn English and two vs. Peabody in the newspaper box. Four extra points: two kicks vs. Revere, a run vs. Salem and one vs. Peabody. Passing touchdowns are tracked separately."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Bob Piwowarski",
+      "schoolClass": "",
+      "values": {
+        "Points": 24,
+        "Total Touchdowns": 4
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Touchdowns vs. Revere, Classical, Beverly and Salem."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Touchdowns vs. Revere, Classical, Beverly and Salem."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Dave Donaldson",
+      "schoolClass": "",
+      "values": {
+        "Points": 12,
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Receiving touchdowns vs. Revere and Lynn English."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Receiving touchdowns vs. Revere and Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Jack Lawrence",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Ran for an extra point vs. Salem. The yearbook credits him with a Peabody touchdown, where the newspaper credits other players."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1953,
+      "name": "Fred Case",
+      "schoolClass": "",
+      "values": {
+        "Points": 3,
+        "Conversions (type unspecified)": 3
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Made all three extra-point attempts against Lynn Classical in the yearbook account."
+        },
+        "Conversions (type unspecified)": {
+          "partial": true,
+          "clipping": "1953 game reports and 1954 Tontoquonian football recap",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/team1953-2761.webp",
+          "note": "Made all three extra-point attempts against Lynn Classical in the yearbook account."
         }
       }
     }
