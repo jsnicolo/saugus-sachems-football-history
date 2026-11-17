@@ -387,7 +387,7 @@
       "championshipSources": [
         {
           "label": "1922 clipping · no title claimed at that point",
-          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
           "label": "1942 yearbook · Senior Year, p. 41",
@@ -396,11 +396,11 @@
       ],
       "championshipStatus": "supported",
       "championshipCategory": "League · historical designation",
-      "seasonNote": "Fred Beresford’s Warriors finished 9–0–2, the first Saugus High eleven reported to complete a season unbeaten. The opening 7–7 tie with Swampscott was followed by six consecutive wins in the contemporary score roundup. The Boston Globe singled out the 32–0 win over Somersworth, New Hampshire, and the scoreless tie against Coburn Classical Institute of Waterville, Maine.\n\nThe Globe reported that Saugus closed with a 20–9 victory over Woburn at Stackpole Field. Franklin “Ooze” Pike scored twice, including a first-quarter touchdown pictured in the paper. Captain Googie Amery passed, received and punted, Lester Pool was a speedy back, and Forrest Kenerson played quarterback.\n\nThe season is listed under Greater Lynn League champions in the archive. An in-season account quotes Beresford saying the team was claiming no title at that point, while the 1942 yearbook retrospectively refers to a 1922 Class C title.",
+      "seasonNote": "Fred Beresford’s Warriors finished 9–0–2, the first Saugus High football team reported to complete a season unbeaten. The early schedule notice recorded a scrimmage with Lynn Classical at Stackpole Field, where tackle March and end O’Neil drew attention. After a 7–7 opening tie with Swampscott, Saugus won six straight. The Daily Evening Item described a light team that used a shift to set up its end runs.\n\nDanvers visited on October 7 for the home opener. An October 24 report said the Danvers coach withdrew his team with Saugus leading 7–0. The referee awarded Saugus a 1–0 forfeit, which Beresford declined to accept. Both newspaper score roundups list 7–0. A Thanksgiving replay was discussed after Danvers broke off its series with Essex Agricultural. The December recap lists a second Saugus win over Danvers without giving its date.\n\nAt Methuen’s Pelham Street Playstead on October 12, fullback Franklin “Ooze” Pike scored both Saugus touchdowns in a 14–7 win, opening the scoring on a 65-yard first-quarter run. Captain Edward “Googie” Amery added both extra points. On October 21, with about a minute left in a scoreless home game against Wellesley, Amery broke a 95-yard run and Pike carried the ball over for a 6–0 win.\n\nSaugus shut out Somersworth, New Hampshire, 32–0. On November 18 it held a much larger Coburn Classical Institute team from Waterville, Maine, to a 0–0 tie before a reported 7,000 spectators at Stackpole Field. The game report highlighted the punting, and the Globe grouped Saugus with Winchester and Norwood among Greater Boston’s standout small-school teams. Albert J. Woodlock also named Saugus among teams unbeaten against Massachusetts opponents.\n\nThe December 11 recap adds wins over Braintree and Danvers to the earlier score roundup. It lists O’Neil and Nicholson at end, Holmes and S. H. Pike at tackle, Herald and Dean at guard, Goodhue at center, Amery and Lester Pool at halfback, Franklin Pike at fullback and Forrest Kenerson at quarterback. Saugus closed on December 2 with a 20–9 win over Woburn at Stackpole Field. Pike scored twice and Amery once.\n\nThe archive lists Saugus as Greater Lynn League champion. Beresford said during the season that the team was claiming no title at that point. The 1942 Tontoquonian later referred to a 1922 Class C championship.",
       "seasonSources": [
         {
           "label": "1922 clipping · no title claimed at that point",
-          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
           "label": "1942 yearbook · Senior Year, p. 41",
@@ -424,7 +424,19 @@
         },
         {
           "label": "Contemporary season review · first unbeaten Saugus High team",
-          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        },
+        {
+          "label": "Contributed newspaper clippings · 1922 schedule notice and Wellesley preview"
+        },
+        {
+          "label": "Contributed newspaper box scores · Methuen (October 12), Wellesley (October 21) and Coburn Classical (November 18)"
+        },
+        {
+          "label": "Contributed newspaper clippings · Danvers forfeit and Thanksgiving replay discussion (October 24), Coburn announcement (November 14), and December 11 season recap"
+        },
+        {
+          "label": "Contributed newspaper column · Albert J. Woodlock on unbeaten Massachusetts teams"
         }
       ],
       "games": [
@@ -433,52 +445,51 @@
           "opponent": "Swampscott",
           "result": "T 7–7",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
-          "date": "—",
+          "date": "Oct. 7",
           "opponent": "Danvers",
           "result": "W 7–0",
-          "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "status": "7–0 when Danvers withdrew",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
-          "date": "—",
+          "date": "Oct. 12",
           "opponent": "Methuen",
           "result": "W 14–7",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
-          "date": "—",
+          "date": "Oct. 21",
           "opponent": "Wellesley",
-          "result": "W 7–0",
-          "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "result": "W 6–0",
+          "status": "Played"
         },
         {
           "date": "—",
           "opponent": "Concord",
           "result": "W 21–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
           "date": "—",
           "opponent": "Beverly Trade",
           "result": "W 39–3",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
           "date": "—",
           "opponent": "Somersworth (NH)",
           "result": "W 32–0",
           "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
         },
         {
-          "date": "—",
+          "date": "Nov. 18",
           "opponent": "Coburn Classical Institute (ME)",
           "result": "T 0–0",
           "status": "Played",
@@ -486,13 +497,25 @@
         },
         {
           "date": "—",
+          "opponent": "Braintree",
+          "result": "W",
+          "status": "December recap · opponent scored 7"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers (second meeting)",
+          "result": "W",
+          "status": "December recap · opponent scored 6"
+        },
+        {
+          "date": "Dec. 2",
           "opponent": "Woburn",
           "result": "W 20–9",
           "status": "Season finale",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-boston-globe-saugus-woburn.jpeg"
         }
       ],
-      "scheduleNote": "Nine of the eleven games are documented here. The opening seven follow the newspaper roundup. The Coburn game date and two other wins remain unverified."
+      "scheduleNote": "The December 11 recap gives nine wins and two ties in its text and lists eleven results, although its headline says twelve games. The Wellesley box score and December recap both give 6–0. An earlier roundup gives 7–0. Undated games are placed using the earlier roundup and the December recap. The early schedule was tentative and included a second-team fixture."
     },
     {
       "year": 1923,
@@ -7749,7 +7772,7 @@
     "1922": [
       {
         "label": "1922 clipping · no title claimed at that point",
-        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2723.webp"
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
       },
       {
         "label": "1942 yearbook · Senior Year, p. 41",
