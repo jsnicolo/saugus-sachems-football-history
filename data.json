@@ -3032,9 +3032,13 @@
         {
           "label": "Boston Globe · Charlie Murphy Schoolboy Stars profile",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1951-boston-globe-charlie-murphy-schoolboy-stars.webp"
+        },
+        {
+          "label": "1952 Tontoquonian · Football Folio, pp. 67–69",
+          "url": "https://archive.org/details/tontoquonian1952saug"
         }
       ],
-      "seasonNote": "After back-to-back Exchange Bowl titles, John Janusas returned only guard Charlie Murphy and Tony Serino, a fullback who moved to quarterback. Saugus spotted Revere six points in its opener and scored the next 24. Tony Serino found Bob Meagher for a 58-yard touchdown, and Charlie Murphy blocked a punt and returned it 32 yards for a score. Murphy earned All-Scholastic recognition in his senior season. The Sachems shut out Peabody 15–0 on Thanksgiving.\n\nThe ten results on the yearbook schedule page add up to 5–2–3. The season register lists 6–2–3, leaving one win to reconcile."
+      "seasonNote": "John Janusas returned only two veterans from the team that won the second straight Exchange Bowl. Guard Charlie Murphy and converted fullback Tony Serino captained the new lineup. Revere scored first at Stackpole Field, but the Sachems answered with four touchdowns in a 24–6 win. Serino found Bob Meagher for a 58-yard touchdown and Murphy blocked and returned a punt for the last score. The Globe’s game account gives Murphy’s return as 32 yards, while its later player profile gives 40.\n\nChick Horman and Serino scored against Cambridge Latin, with Saugus also getting points from a safety and Chuck Healy’s recovery of a short punt. The Sachems opened with three wins, then Marblehead handed them their first loss in 11 games. The defense held Brookline and Chelsea scoreless in ties. Against Swampscott, Serino ran for a touchdown, Dudman threw scoring passes to White and Meagher, and Meagher returned an interception 25 yards for another score. Saugus preserved a scoreless tie with Salem by holding at its own one-yard line in the fourth quarter.\n\nSerino and Horman scored in the 15–0 Thanksgiving shutout of Peabody. Murphy blocked a punt for a safety and kicked an extra point. Murphy earned All-Scholastic recognition from the Boston Globe, Boston Post and R.A.A., and joined Serino on the Item’s All-Star team. The ten games on the yearbook schedule add up to 5–2–3. The season register lists 6–2–3, leaving one win to reconcile."
     },
     {
       "year": 1952,
@@ -3223,13 +3227,69 @@
       "sourceRow": 53,
       "games": [
         {
-          "date": "—",
+          "date": "1954-09-25",
+          "opponent": "Revere",
+          "result": "W 20–0",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-10-01",
+          "opponent": "Lynn Classical",
+          "result": "L 0–6",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-10-09",
+          "opponent": "Marblehead",
+          "result": "W 26–7",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-10-16",
+          "opponent": "Beverly",
+          "result": "L 0–25",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-10-22",
+          "opponent": "Lynn English",
+          "result": "L 13–27",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-10-30",
+          "opponent": "Chelsea",
+          "result": "W 12–0",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-11-06",
+          "opponent": "Amesbury",
+          "result": "W 39–21",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-11-13",
+          "opponent": "Winthrop",
+          "result": "W 41–0",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "date": "1954-11-25",
           "opponent": "Peabody",
           "result": "W 20–12",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "All nine game dates and results appear in the 1955 Tontoquonian. The Lynn Jamboree was a preseason event.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -3238,8 +3298,25 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "1955 Tontoquonian · fall 1954 football review",
+          "url": "https://archive.org/details/tontoquonian1955saug"
+        },
+        {
+          "label": "Tontoquonian score table and team photo",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/season-1954-2774.webp"
+        },
+        {
+          "label": "Daily Evening Item · Bob Piwowarski All-Star",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3345.webp"
+        },
+        {
+          "label": "Boston Globe · Tommy Mullen honorable mention",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1954-globe-tommy-mullen.webp"
         }
-      ]
+      ],
+      "seasonNote": "John Janusas’s Sachems went 6–3 under co-captains Jack Lawrence and Malcolm “Mal” Rice. Four straight wins to end the season turned a 2–3 start into a winning record. In the 20–0 opener at Revere, Bob Piwowarski broke the deadlock from the four and Rice scored twice. Rice and Piwowarski each scored twice in a 26–7 win at Marblehead, where Charlie Lawrence completed six of seven passes to Paul Downing and Leahy.\n\nBeverly shut out Saugus at its home opener. Fred Case ran 77 yards for a touchdown at Lynn English, but English won 27–13. Saugus began its closing run by shutting out Chelsea 12–0. Downing recovered a fumble that set up Piwowarski’s score and Rice added a 71-yard touchdown. Case and Charlie Lawrence scored twice each in a 39–21 win over Amesbury. Against Winthrop, the Sachems won 41–0 and Orlando added a 92-yard touchdown during a second half played mostly by reserves.\n\nSaugus beat Peabody 20–12 on a wet Thanksgiving morning, its fourth straight win against the Tanners. The nine games produced 171 points for Saugus and 98 for its opponents. Piwowarski made the Item’s first team and guard Tommy Mullen received Boston Globe honorable mention."
     },
     {
       "year": 1955,
@@ -3358,12 +3435,61 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Revere",
+          "result": "W 6–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "L 13–14",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "1957-10-19",
+          "opponent": "Beverly",
+          "result": "W 12–6",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1957-saugus-beverly-12-6.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 27–0",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 6–19",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "W 33–7",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "—",
+          "opponent": "Brookline",
+          "result": "L 6–34",
+          "status": "Played",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "date": "1957-11-28",
           "opponent": "Peabody",
           "result": "W 34–13",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The Nov. 27 Item preview lists the seven games before Thanksgiving.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -3372,9 +3498,30 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Daily Evening Item · Nov. 27, 1957, p. 21 · seven-game record and Thanksgiving preview",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2674.webp"
+        },
+        {
+          "label": "Boston Globe · Francis Rosa’s preseason report",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1957-hands-off-quarterbacks.webp"
+        },
+        {
+          "label": "Boston Globe · Francis Rosa’s Beverly game report",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1957-saugus-beverly-12-6.webp"
+        },
+        {
+          "label": "1958 Tontoquonian · senior players and co-captains",
+          "url": "https://archive.org/details/tontoquonian1958saug"
+        },
+        {
+          "label": "Boston Globe · Dec. 8, 1957 · Agganis lineups",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1957-12-08-boston-globe-agganis-dick-rohrbacher.webp"
         }
       ],
-      "honorsSourceNote": "Boston Globe 1957 All-Scholastic “On the Bench” tackles lists Rohrbacher with a misspelled surname; confirmed by contributor-supplied source-only image C7515AE0-116F-4B50-9E58-C3A3F4E6D619.jpeg, November 7, 2026."
+      "honorsSourceNote": "Boston Globe 1957 All-Scholastic “On the Bench” tackles lists Rohrbacher with a misspelled surname; confirmed by contributor-supplied source-only image C7515AE0-116F-4B50-9E58-C3A3F4E6D619.jpeg, November 7, 2026.",
+      "seasonNote": "John Janusas’s Sachems finished 5–3 under co-captains Allan Comeau and Dick Rohrbacher. Neil Jackson and sophomore Dave Mathews both injured their legs at the Lynn Jamboree, prompting Janusas to protect the quarterbacks from contact in practice before the Revere opener. Saugus opened with a 6–0 win, lost 14–13 to Lynn Classical and rebounded by handing Beverly its first loss, 12–6, on a muddy field. Norman Peach and Jackson scored the touchdowns. Comeau and Tom Maher led the ground game, and the Sachems held Beverly to 52 rushing yards.\n\nSaugus shut out Marblehead 27–0 and beat Gloucester 33–7. The Item credited Jackson’s passing game, Peach and Maher’s running, and the line play of Dennis Barry, Mike Light and Rohrbacher heading into Thanksgiving. Janusas faced former Saugus coach Dave Lucey at Stackpole Field, where the Sachems beat Peabody 34–13. Rohrbacher made the Item’s North Shore first team, received Globe honorable mention and was listed at right guard for the North Shore in the Dec. 8 Harry Agganis Memorial All-Star game."
     },
     {
       "year": 1958,
@@ -3901,22 +4048,78 @@
     {
       "year": 1968,
       "coach": "Paul Maguire",
-      "record": "6 - 4",
+      "record": "4 - 5",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Jim Canole (Captain), Lou O'Neil",
+      "players": "Jim Canole (Captain), Lou O’Neil (Captain), Fred Paris (Captain)",
       "awards": "Lou O'Neil - Lynn Item and NEC\nJim Canole - Lynn Item and NEC",
       "nickname": "Sachems",
       "sourceRow": 69,
       "games": [
         {
           "date": "—",
+          "opponent": "Boston College High",
+          "result": "L 6–30",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "L 6–20",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Woburn",
+          "result": "W 6–2",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "L 6–22",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Newburyport",
+          "result": "L 8–30",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "L 32–56",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "W 22–6",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "W 16–6",
+          "status": "Played",
+          "sourceUrl": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "date": "1968-11-28",
           "opponent": "Peabody",
           "result": "W 26–14",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The nine results and 4–5 finish are documented in the 1969 Tontoquonian and the following season’s Boston Globe profile of Richard Conti.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -3925,8 +4128,17 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "1969 Tontoquonian · fall 1968 roster, scores and Thanksgiving, pp. 72–75",
+          "url": "https://archive.org/details/tontoquonian1969saug"
+        },
+        {
+          "label": "Daily Evening Item · Jim Canole and Lou O’Neil All-Stars",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3409.webp"
         }
-      ]
+      ],
+      "seasonNote": "Paul Maguire’s Sachems finished 4–5 under co-captains Jim Canole, Lou O’Neil and Fred Paris. They scored just 32 points in their first five games, with a 6–2 win over Woburn their only victory. The offense matched that five-game scoring total in a 56–32 loss to Swampscott, then Saugus closed with three wins over Winthrop, Salem and previously unbeaten Peabody.\n\nOn Thanksgiving at Peabody, the Sachems led 14–0 at halftime and held the Tanners at the one-yard line early in the third quarter. Saugus added another touchdown before the Tanners scored. The yearbook score table and the Item’s series record give the final as 26–14. The yearbook’s narrative gives 24–14. The Item picked Canole at utility and O’Neil on the offensive line."
     },
     {
       "year": 1969,
@@ -4677,7 +4889,7 @@
       "awards": "Steve Peach - Lynn Item and NEC\nBill Peach - Lynn Item and NEC\nPhil Nigro - Lynn Item and NEC\nDon Trainor - NEC\nMike Allen - NEC",
       "nickname": "Sachems",
       "sourceRow": 81,
-      "seasonNote": "With four starters back from the NEC title team, the Sachems finished 6–3–1. They scored 40 points in the first quarter of a 46–14 win over Lynn English. Paul Nigro ran for 271 yards on eight carries, scored on runs of 85 and 86 yards and caught an 83-yard touchdown pass. Sophomore quarterback Steve Peach went 5-for-5 for 241 yards and four touchdowns and kicked four extra points.\n\nAfter a 10–10 tie with Swampscott, Saugus beat Peabody 30–14 on Thanksgiving. The Item’s 1983 rivalry retrospective credits Saugus with a 188–11 yardage advantage in the second half.",
+      "seasonNote": "Mike Ginolfi returned four starters from the 1977 NEC champions: Paul Nigro, Don Trainor, Bill Peach and Mike Allan. Nigro, Trainor and Allan captained the 6–3–1 team. Saugus opened with a 25–0 shutout of Winthrop and a 29–6 win over Lynn Classical. After a 6–0 loss to Danvers, the Sachems beat Salem and Beverly, but consecutive losses to Gloucester and Marblehead ended their bid to repeat.\n\nThe Sachems scored 40 first-quarter points in a 46–14 win over Lynn English. Paul Nigro rushed for 271 yards on eight carries, scored on runs of 85 and 86 yards and caught an 83-yard touchdown pass. Sophomore Steve Peach completed all five passes for 241 yards and four touchdowns and kicked four extra points. Ginolfi began substituting in the second quarter. After drawing Swampscott 10–10, the Sachems beat Peabody 30–14 on Thanksgiving, their first win at Peabody in a decade according to the yearbook. The Item’s rivalry retrospective credits Saugus with a 188–11 yardage edge in the second half.\n\nItem All-Stars Nigro, Bill Peach and Steve Peach led the offense. Nigro scored 16 touchdowns, rushed for 1,395 yards and caught 25 passes for 360 yards. Bill caught 22 passes, seven for touchdowns, and intercepted six passes on defense. Steve passed for 1,050 yards and 11 touchdowns and intercepted four passes.",
       "seasonSources": [
         {
           "label": "Daily Evening Item · Nov. 22, 1983, p. 21 · rivalry retrospective",
@@ -4702,6 +4914,22 @@
         {
           "label": "Boston Globe · 40-point first quarter against Lynn English",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1978-globe-nigro-peach-lynn-english.webp"
+        },
+        {
+          "label": "1979 Tontoquonian · fall 1978 season review",
+          "url": "https://archive.org/details/tontoquonian1979saug"
+        },
+        {
+          "label": "Daily Evening Item · Paul Nigro’s season totals",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3385.webp"
+        },
+        {
+          "label": "Daily Evening Item · Bill Peach’s season totals",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3386.webp"
+        },
+        {
+          "label": "Daily Evening Item · Steve Peach’s sophomore season",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/highlights-IMG_3387.webp"
         }
       ],
       "games": [
@@ -5102,9 +5330,13 @@
         {
           "label": "1988 Shriners roster · Larry Furey",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1988-shriners-north-roster-larry-furey.webp"
+        },
+        {
+          "label": "Saugus Advocate · Item Football Players of the Year retrospective",
+          "url": "https://advocatenews.net/saugus/sports/the-old-sachem-sachems-in-the-early-seventies-seasons/"
         }
       ],
-      "seasonNote": "Kevin Ward’s Sachems finished 7–3 and edged Peabody 21–20 on Thanksgiving. Captains Dave Fauci, Joe Barressi and Larry Furey led the team. The Item selected Barressi at defensive back and Furey on the offensive line. Furey also made nine tackles and a sack against Gloucester and was selected for the following summer’s Shriners game."
+      "seasonNote": "Kevin Ward’s Sachems finished 7–3 and edged Peabody 21–20 on Thanksgiving. Dave Fauci, Joe Barressi and Larry Furey captained the team. Barressi was the Sachems’ leading runner and also caught nine touchdown passes, ran for two scores and returned two punts for touchdowns. He handled kicking and punting duties and was selected at defensive back on the Item’s All-Star team. The Saugus Advocate’s retrospective also lists him among the Item’s football Players of the Year.\n\nFurey led the offensive line and made nine tackles and a sack against Gloucester. The Item selected him on the offensive line, and he made the North squad for the following summer’s Shriners game. Eric Crabtree and Marc Fauci received Item honorable mention."
     },
     {
       "year": 1988,
@@ -5181,7 +5413,7 @@
       "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Hefferman - NEC\nTodd Leccese - NEC\nChris Miuriski - NEC",
       "nickname": "Sachems",
       "sourceRow": 97,
-      "seasonNote": "Kevin Ward’s final team went 8–2. Tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski led Saugus to an 8–1 start and an outside chance at a Division 3 Super Bowl berth entering Thanksgiving. The Sachems beat Beverly 29–6, then lost 39–8 to unbeaten Peabody in the holiday finale.\n\nThe Item credited Magnasco with 583 rushing yards, eight rushing touchdowns and more than 100 tackles. It reported 182 rushing yards and four touchdowns in his Gold Helmet performance against Beverly. Bob Sacco’s account of the Beverly game credits him with three touchdowns and identifies John Cinelli as quarterback.",
+      "seasonNote": "Kevin Ward’s final Saugus team finished 8–2 under tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski. The yearbook credits the team with a then-school-record 288 points, topping the previous mark of 284, and with seven Northeastern Conference All-Stars, the most Saugus had placed on the team at that point. It also recalls a five-touchdown performance against Gloucester and three touchdown passes against Marblehead.\n\nIn a 29–6 win over Beverly, Magnasco rushed for 182 yards and earned a Gold Helmet. The Item’s All-Star profile and the yearbook credit him with four touchdowns, while Bob Sacco’s game account credits three and identifies John Cinelli at quarterback. The Item credited Magnasco with 583 rushing yards and eight touchdowns on 125 carries. Magnasco at linebacker and Schena on the line each made more than 100 tackles.\n\nSaugus entered Thanksgiving at 8–1 with an outside chance at a Division 3 Super Bowl berth. Unbeaten Peabody was pursuing a Division 1 berth and won 39–8. The conference selected Magnasco, Schena, Mikulski, Chris Tringale, Justin Barrett, Bill Heffernan and Todd Leccese. Magnasco and Schena also made the Item’s All-Star team.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_1257.heic · original scan unavailable"
@@ -5205,6 +5437,14 @@
         {
           "label": "Tontoquonian yearbook · Kevin Ward’s final team",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/replacement-1990-1-oct29.webp"
+        },
+        {
+          "label": "1991 Tontoquonian · fall 1990 roster and season review",
+          "url": "https://archive.org/details/tontoquonian1991saug"
+        },
+        {
+          "label": "Daily Evening Item · Dan Schena’s All-Star profile",
+          "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3399.webp"
         }
       ],
       "games": [
