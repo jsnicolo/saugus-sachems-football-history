@@ -11309,15 +11309,15 @@
       "statSources": {
         "Rushing Yards": {
           "partial": true,
-          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
-          "note": "The Globe credits 14- and 12-yard scoring runs against Swampscott. The Item’s Thanksgiving account describes gains of seven, three, two, seven and 25 yards against Peabody. The Globe measured the Peabody touchdown differently, at 19 yards. The Thanksgiving yardage uses only the Item’s play sequence.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Swampscott scoring runs of 14 and 12 yards plus documented Peabody gains of 7, 3 (touchdown), 2, 7 and 25 yards in the Item. The Globe reports the Peabody touchdown from the 19."
         },
         "Rushing Touchdowns": {
           "partial": true,
-          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
-          "note": "Two against Swampscott and one against Peabody.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Two against Swampscott and one against Peabody. His Revere touchdown is included in scoring, with the method unreported."
         }
       }
     },
@@ -11327,28 +11327,28 @@
       "name": "Sardi Nicolo",
       "schoolClass": "Jr.",
       "values": {
-        "Passing Yards": 37,
-        "Completions": 4,
-        "Passing Touchdowns": 3
+        "Passing Yards": 106,
+        "Completions": 5,
+        "Passing Touchdowns": 4
       },
       "statSources": {
         "Passing Yards": {
           "partial": true,
-          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "Includes the 20-yard touchdown to Ken Neale and 17-yard touchdown to Fred Quinlan. The report does not explicitly give distances for the other Neale touchdown or the completion to Charlie Woodell.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "69 yards to Ken Neale at Salem and touchdowns of 20 to Neale and 17 to Fred Quinlan against Peabody. The other Neale touchdown and Charlie Woodell catch lack an explicit distance. Salem’s 170 passing yards are a team total."
         },
         "Completions": {
           "partial": true,
-          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "Two touchdown passes to Ken Neale, a deflected touchdown pass caught by Fred Quinlan, and a completion to Charlie Woodell.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One identified against Salem and four in the Peabody play-by-play, including three touchdown passes. The Thanksgiving box and play-by-play disagree on team passing totals."
         },
         "Passing Touchdowns": {
           "partial": true,
-          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
-          "note": "Three against Peabody: two to Neale and one to Quinlan.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4208.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One to Neale at Salem and three against Peabody, two to Neale and one to Quinlan."
         }
       }
     },
@@ -11364,8 +11364,8 @@
         "Kickoff Return Yards": {
           "partial": true,
           "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "Returned a kickoff 27 yards to the Saugus 47 against Peabody.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Returned a kickoff 27 yards to the Saugus 47 against Peabody."
         }
       }
     },
@@ -11375,21 +11375,21 @@
       "name": "Sardi Nicolo",
       "schoolClass": "Jr.",
       "values": {
-        "Total Touchdowns": 3,
-        "Points": 20
+        "Total Touchdowns": 4,
+        "Points": 25
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
-          "note": "Two rushing touchdowns against Swampscott and one against Peabody.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One against Revere, two against Swampscott and one against Peabody."
         },
         "Points": {
           "partial": true,
-          "clipping": "Boston Globe · 1948 Swampscott; Daily Evening Item and Boston Globe · Peabody",
-          "note": "Twelve points against Swampscott and eight against Peabody, using the Item’s scoring summary, which credits him with two extra points.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "24 on touchdowns plus the Thanksgiving conversion on a lateral from Richie. The Item’s narrative credits the final conversion to Quinlan, although its printed scoring summary gives Sardi two conversions. This total uses the play-by-play."
         }
       }
     },
@@ -11399,21 +11399,28 @@
       "name": "Richie Nicolo",
       "schoolClass": "So.",
       "values": {
-        "Passing Yards": 28,
-        "Completions": 1
+        "Passing Yards": 65,
+        "Completions": 3,
+        "Passing Touchdowns": 1
       },
       "statSources": {
         "Passing Yards": {
           "partial": true,
-          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "28-yard completion to Fred Quinlan against Peabody.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "18 to Ken Neale against Brookline, 19 to Ted Fredericks against Beverly and 28 to Fred Quinlan against Peabody."
         },
         "Completions": {
           "partial": true,
-          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "One identified forward completion. The later conversion play is described as a lateral to Sardi.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One identified in each of the Brookline, Beverly and Peabody reports. The Thanksgiving conversion was described as a lateral."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Fourth-down touchdown pass to Ted Fredericks from the Beverly 19."
         }
       }
     },
@@ -11429,8 +11436,472 @@
         "Rushing Yards": {
           "partial": true,
           "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
-          "note": "Three yards on the opening drive against Peabody, reconstructed from the reported starting field position, the preceding two gains and the yard line he reached.",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Three yards on the opening drive against Peabody, derived from field position and the preceding gains. The disputed Marblehead touchdown is excluded."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1948,
+      "name": "Ken Neale",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 107,
+        "Receptions": 4,
+        "Receiving Touchdowns": 3
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "69 at Salem, 18 against Brookline and 20 against Peabody. The other Peabody touchdown catch lacks an explicit distance."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One at Salem, one against Brookline and two against Peabody."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One at Salem and two against Peabody. The Revere report lists a touchdown without specifying the play."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1948,
+      "name": "Fred Quinlan",
+      "schoolClass": "Jr.",
+      "values": {
+        "Receiving Yards": 45,
+        "Receptions": 2,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "28 on Richie Nicolo’s pass and 17 on Sardi Nicolo’s deflected fourth-down touchdown pass against Peabody, per the Item."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Both documented catches came against Peabody."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Caught a fourth-down pass deflected by Andy Thain against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1948,
+      "name": "Fred Quinlan",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 5,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Five yards on an identified Peabody carry. The Salem touchdown run has no stated distance, and the Marblehead scoring credit is disputed."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Off-tackle score at Salem. The Amesbury report does not identify the play, and the Marblehead scoring credit is disputed."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1948,
+      "name": "Fred Quinlan",
+      "schoolClass": "Jr.",
+      "values": {
+        "Punt Return Yards": 35
+      },
+      "statSources": {
+        "Punt Return Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "35-yard punt return against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1948,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 83,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "17 on his Marblehead touchdown and 66 on Thanksgiving carries of 2, 13, 37 and 14 yards."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "17-yard touchdown against Marblehead. The Amesbury report gives no play type for his touchdown."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1948,
+      "name": "Ted Fredericks",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 19,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Fourth-down touchdown catch from Richie Nicolo at the Beverly 19."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Documented touchdown catch against Beverly."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Fourth-down touchdown catch against Beverly."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1948,
+      "name": "Charlie Woodell",
+      "schoolClass": "So.",
+      "values": {
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Caught a pass at the Peabody three on the opening scoring drive. The Item gives no distance for the play."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1948,
+      "name": "Jim Blunt",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Fourth-quarter quarterback sneak against Brookline."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1948,
+      "name": "Bill Calhoun",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Third-quarter interception of a Salem screen pass."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1948,
+      "name": "Dan Murphy",
+      "schoolClass": "Jr.",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Recovered Andy Thain’s fumble at the Peabody 32."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1948,
+      "name": "Jim Marano",
+      "schoolClass": "",
+      "values": {
+        "Blocked Extra Points": 1
+      },
+      "statSources": {
+        "Blocked Extra Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Blocked Tom Cronin’s extra-point kick."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1948,
+      "name": "Ted Fredericks",
+      "schoolClass": "",
+      "values": {
+        "Blocked Extra Points": 1
+      },
+      "statSources": {
+        "Blocked Extra Points": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Shared credit for blocking Peabody’s first extra-point kick. The play counts as one team block."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1948,
+      "name": "Don Junkins",
+      "schoolClass": "",
+      "values": {
+        "Blocked Extra Points": 1
+      },
+      "statSources": {
+        "Blocked Extra Points": {
+          "partial": true,
+          "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Shared credit for blocking Peabody’s first extra-point kick. The play counts as one team block."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1948,
+      "name": "Hogle",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 6
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp",
+          "note": "One against Amesbury, two against Revere, two against Swampscott and one against Marblehead. The surname also appears as Hoyle in the reports."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Ken Neale",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One at Salem, one against Revere and two against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "One at Salem, one against Revere and two against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Fred Quinlan",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 19
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Touchdowns against Salem, Amesbury and Peabody plus the final Thanksgiving conversion per the Item’s play-by-play. The disputed Marblehead touchdown is excluded."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Touchdowns against Salem, Amesbury and Peabody plus the final Thanksgiving conversion per the Item’s play-by-play. The disputed Marblehead touchdown is excluded."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 13
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Touchdowns against Amesbury and Marblehead plus a successful conversion run against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports; Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp",
+          "note": "Touchdowns against Amesbury and Marblehead plus a successful conversion run against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Jim Blunt",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Brookline."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Brookline."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Ted Fredericks",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Beverly."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Beverly."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Les DeMasi",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Chelsea."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Chelsea."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Don Junkins",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Revere."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "note": "Touchdown against Revere."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1948,
+      "name": "Hogle",
+      "schoolClass": "",
+      "values": {
+        "Points": 6
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe · 1948 game reports",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp",
+          "note": "One extra point against Amesbury, two against Revere, two against Swampscott and one against Marblehead."
         }
       }
     },

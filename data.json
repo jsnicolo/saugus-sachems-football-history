@@ -2358,11 +2358,11 @@
       "record": "3 - 8",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "Ed Falasca (Captain), Sardi Nicolo",
+      "players": "Ed Falasca (Captain), Sardi Nicolo, Richie Nicolo, Fred Quinlan, Ken Neale, Frank Forti, Jim Blunt, Dan Murphy, Bill Calhoun, Ted Fredericks, Don Junkins, Charlie Woodell",
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 45,
-      "seasonNote": "On November 6 at Stackpole Field, Sardi Nicolo broke a scoreless tie with a 14-yard fourth-quarter touchdown run and scored again from the 12 in a 14–0 upset of Swampscott.\n\nOn Thanksgiving, Saugus beat Peabody 27–13 at Stackpole Field. Sardi threw two touchdown passes to Ken Neale and one to Fred Quinlan on a deflected ball. He also ran for a touchdown and returned a kickoff 27 yards. Richie completed a 28-yard pass to Quinlan and later got the ball to Sardi on a lateral for an extra point. The Item and Globe agree on Sardi’s three touchdown passes and rushing score, but give different lengths for the rushing touchdown.",
+      "seasonNote": "John Janusas coached the Sachems, and guard Ed Falasca captained the team. Saugus dropped its first seven games, then won three of its last four. Four losses came by seven points or fewer. The 11 documented game scores account for 117 Saugus points and 144 opponent points.\n\nSept. 11 at Salem, L 12–20. Nearly 8,000 saw Saugus complete seven of eight passes for 170 yards at Bertram Field. Salvatore “Sardi” Nicolo found Ken Neale for a 69-yard touchdown on Saugus’ first offensive play after Salem scored. Bill Calhoun intercepted a screen pass in the third quarter, setting up a drive that Fred Quinlan finished off tackle. Calhoun’s extra-point try hit the crossbar, leaving Salem ahead 13–12 before Sam Cronis scored the clincher in the fourth.\n\nSept. 18 vs. Brookline, L 6–7. Saugus led 11–6 in first downs and had a 70-yard drive stopped at the Brookline four. Jim Blunt later scored on a quarterback sneak after an 18-yard Richie Nicolo pass to Neale and short runs by Frank Forti and Sardi. Paul Penda scored for Brookline with 55 seconds left, and John Sheehan kicked the winning point.\n\nSept. 25 vs. Beverly, L 6–20. At Bertram Field in Salem, Richie Nicolo and Quinlan helped move the ball from the Beverly 45 to the 19. Richie then hit Ted Fredericks for a fourth-down touchdown that tied the game 6–6. Beverly answered on the first snap after the kickoff, and Billy Ransom scored his second touchdown in the third quarter.\n\nOct. 1 at Lynn Classical, L 0–6. Don Cheever scored the only touchdown at Manning Bowl, and Jim Marano blocked the conversion. Quinlan’s 35-yard punt return helped Saugus reach the Classical nine. The Sachems lost fumbles there and later at the Classical 24.\n\nOct. 9 at Amesbury, L 13–27. Forti and Quinlan scored in the first half at Landry Stadium, and Hogle added a point after. Amesbury turned an interception and a blocked punt into scoring opportunities and completed six of nine passes for 103 yards.\n\nOct. 14. The Northeastern Conference voted in Middleton to readmit Saugus in football, baseball and basketball. The school had left the conference in 1939. The report noted that Saugus had recently been classified Class A. Amesbury and Swampscott were already on the 1948 schedule. The Chelsea preview also reported that injuries had limited the Sachems against Amesbury and that Janusas expected Sardi back.\n\nOct. 16 at Chelsea, L 6–25. Gene Macomber scored three times before about 3,500 at Chelsea Memorial Stadium. Les DeMasi scored from the 10 with 15 seconds left to finish a 36-yard Saugus drive. Chelsea’s victory was its first over Saugus in eight years.\n\nOct. 22 at Lynn English, L 0–7. Saugus reached the English 26 before halftime ran out at Manning Bowl. A fourth-quarter fumble at the Saugus 22 set up the only score, an eight-yard fourth-down pass from Bob Caulfield to Lou Tsiropoulos, who also converted.\n\nOct. 30 at Revere, W 20–0. Sardi, Neale and Don Junkins scored, and Hogle converted twice at Paul Revere Stadium. Saugus scored in each of the first three quarters. The brief gives the scorers without identifying how the touchdowns were made.\n\nNov. 6 vs. Swampscott, W 14–0. The teams were scoreless through three quarters at Stackpole Field. Sardi broke the tie with a 14-yard run to finish a 59-yard drive and later scored from the 12. Hogle added both points after.\n\nNov. 15 at Marblehead, L 13–19. Forti pinned Marblehead at its three with a punt and later ran 17 yards for a touchdown. Saugus led 13–12 until a late fumble at the Marblehead 35 gave the hosts the ball. Gardner Hamlen hit Dave Bartlett for a 65-yard touchdown with five seconds left. The game story attributes Saugus’ first touchdown, a two-yard run, to Quinlan, while its scoring summary credits Richie Nicolo. The individual totals leave that touchdown unassigned.\n\nNov. 25 vs. Peabody, W 27–13. More than 3,500 watched at Stackpole Field as Saugus set a series scoring record and posted its highest score of the season. Dan Murphy recovered a fumble at the Peabody 32, and a Charlie Woodell catch helped set up Sardi’s opening touchdown. Sardi threw two touchdown passes to Neale and a fourth-down touchdown pass to Quinlan after Andy Thain deflected it. Sardi also returned a kickoff 27 yards, Richie hit Quinlan for 28 yards, and Forti had runs of 37, 14 and 13 yards. The Item credits Fredericks and Junkins with blocking an extra point together. The Item puts Sardi’s touchdown run at three yards and describes a separate 25-yard run on the final scoring drive. The Globe reports a 19-yard touchdown run. The individual yardage uses the Item play-by-play for that game.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_4208.jpg",
@@ -2383,15 +2383,78 @@
         {
           "label": "Daily Evening Item · Rolly Charest’s Thanksgiving play-by-play",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        },
+        {
+          "label": "Boston Globe · 1948 game reports for Salem, Brookline, Beverly, Lynn Classical, Amesbury, Chelsea, Lynn English, Revere, Marblehead and Peabody"
+        },
+        {
+          "label": "Boston Globe · Oct. 14 Northeastern Conference readmission report and Schoolboy Sidelights Chelsea preview"
+        },
+        {
+          "label": "Thanksgiving preview · Peabody lineup and ten-game opponent list"
         }
       ],
       "games": [
+        {
+          "date": "1948-09-11",
+          "opponent": "at Salem",
+          "result": "L 12–20",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-09-18",
+          "opponent": "Brookline",
+          "result": "L 6–7",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-09-25",
+          "opponent": "Beverly (at Bertram Field, Salem)",
+          "result": "L 6–20",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-10-01",
+          "opponent": "at Lynn Classical",
+          "result": "L 0–6",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-10-09",
+          "opponent": "at Amesbury",
+          "result": "L 13–27",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-10-16",
+          "opponent": "at Chelsea",
+          "result": "L 6–25",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-10-22",
+          "opponent": "at Lynn English",
+          "result": "L 0–7",
+          "status": "Boston Globe game report"
+        },
+        {
+          "date": "1948-10-30",
+          "opponent": "at Revere",
+          "result": "W 20–0",
+          "status": "Boston Globe game report"
+        },
         {
           "date": "1948-11-06",
           "opponent": "Swampscott",
           "result": "W 14–0",
           "status": "Played",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1948-boston-globe-nicolo-swampscott.webp"
+        },
+        {
+          "date": "1948-11-15",
+          "opponent": "at Marblehead",
+          "result": "L 13–19",
+          "status": "Boston Globe game report"
         },
         {
           "date": "1948-11-25",
@@ -2401,7 +2464,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "Eleven games are documented. The schedule uses the individual game reports where the Thanksgiving preview gives different scores. The Item’s Thanksgiving column gives a 4–7 record, while the ten opponents in the preview plus the Thanksgiving game account for three wins and eight losses."
     },
     {
       "year": 1949,
