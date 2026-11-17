@@ -5722,8 +5722,77 @@
       "awards": "Anthony Barbanti - Lynn Item and NEC \nSal Nicolo - Agganis",
       "nickname": "Sachems",
       "sourceRow": 111,
-      "seasonNote": "Sal Nicolo was selected to the Harry Agganis All-Star Football Classic following his senior season. Anthony Barbanti was named a Lynn Item All-Star and a Northeastern Conference (NEC) All-Star at defensive line (DL).",
-      "captainsNote": "Captain names supplied by Sal Nicolo."
+      "seasonNote": "Saugus finished 1–10 under coach John Nicolo. The Sachems earned their only win at Marblehead, 31–16, after taking a 25–0 lead into the fourth quarter. Tom Shidlow ran for two touchdowns, and Chris Finn ran for a score and threw touchdown passes to Chris Resigno and Chris Benson. Against Lynn English, Mike Nicolo and Rob Gannon scored on runs of 52 and 79 yards. Mike Nicolo also scored Saugus’s only touchdown in the 20–8 Thanksgiving loss at Peabody.\n\nSal Nicolo was selected to the Harry Agganis All-Star Football Classic following his senior season. Anthony Barbanti was named a Lynn Item All-Star and a Northeastern Conference (NEC) All-Star at defensive line (DL).",
+      "captainsNote": "Captain names supplied by Sal Nicolo.",
+      "games": [
+        {
+          "date": "",
+          "opponent": "at Belmont",
+          "result": "L 7–26",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Winthrop",
+          "result": "L 6–35",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Lynn Classical",
+          "result": "L 13–42",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Danvers",
+          "result": "L 7–20",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "Salem",
+          "result": "L 6–26",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "Beverly",
+          "result": "L 6–24",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "Gloucester",
+          "result": "L 12–42",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Marblehead",
+          "result": "W 31–16",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "Lynn English",
+          "result": "L 14–40",
+          "status": "Played"
+        },
+        {
+          "date": "",
+          "opponent": "at Swampscott",
+          "result": "L 12–46",
+          "status": "Played"
+        },
+        {
+          "date": "2002-11-28",
+          "opponent": "at Peabody",
+          "result": "L 8–20",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Results and sites follow the 11 contributed newspaper box scores. Dates are shown where established. The Gloucester box score credits a touchdown to Tim Shidlow, while other games name Tom Shidlow. The Gloucester touchdown is included in the team result and left unassigned in the individual totals. The Marblehead extra-point kicker and the Peabody two-point receiver are unnamed. The Peabody box score lists the conversion as a pass from “Nicolo” without a first name."
     },
     {
       "year": 2003,
