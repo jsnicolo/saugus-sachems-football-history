@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -127,7 +127,7 @@
       "position": "E (college); G/DE (professional)",
       "rosterYears": "1946–1949",
       "professional": "Baltimore Colts (NFL, 1950; 1953–1960)",
-      "notes": "Boston College Class of 1950. Four-year starter at end and captain of the 1949 Eagles. Twice earned All-New England honors for blocking and receiving. His 24 catches in 1948 set a school single-season record at the time. Inducted into the Boston College Varsity Club Athletic Hall of Fame in 1972. Earned All-Pro recognition with Baltimore and won NFL championships in 1958 and 1959.",
+      "notes": "Boston College Class of 1950. Four-year starter at end and captain of the 1949 Eagles. Twice earned All-New England honors for blocking and receiving. His 24 catches in 1948 set a school single-season record at the time. Inducted into the Boston College Varsity Club Athletic Hall of Fame in 1972. Earned All-Pro recognition with Baltimore and won NFL championships in 1958 and 1959. BC's 2025 historical all-time roster independently lists Arthur Spinney for 1946–1949 and marks him as 1949 captain, corroborating his college roster span.",
       "sources": [
         {
           "label": "Boston College Varsity Club Athletic Hall of Fame · Art Spinney",
@@ -140,6 +140,10 @@
         {
           "label": "Professional alumni list",
           "url": "https://www.pro-football-reference.com/schools/high_schools.cgi?id=93be58fb"
+        },
+        {
+          "label": "Boston College 2025 football media guide · historical all-time roster",
+          "url": "https://bceagles.com/documents/download/2025/9/9/RecordBookFootball.pdf"
         }
       ]
     },
@@ -340,7 +344,7 @@
       "position": "QB/P",
       "rosterYears": "Syracuse 1981–1982; Boston College 1983–1985",
       "professional": "",
-      "notes": "Syracuse: 1981 redshirt (contributor-reported); 1982 QB, 26 completions on 65 attempts for 372 yards and 1 passing TD. Boston College: 1983 transfer redshirt (contributor-reported); 1984 punter, 46 punts for 1,678 yards (36.5 average); 1985 QB/punter, 72 punts for 2,591 yards (36.0 average), 14-of-31 passing for 297 yards and 1 TD. BC totals: 118 punts, 4,269 yards, 36.2 average. Redshirt seasons not independently verified.",
+      "notes": "Syracuse: 1981 redshirt (contributor-reported); 1982 QB, 26 completions on 65 attempts for 372 yards and 1 passing TD. Boston College: 1983 transfer redshirt (contributor-reported); 1984 punter, 46 punts for 1,678 yards (36.5 average); 1985 QB/punter, 72 punts for 2,591 yards (36.0 average), 14-of-31 passing for 297 yards and 1 TD. BC totals: 118 punts, 4,269 yards, 36.2 average. Redshirt seasons not independently verified. BC's 2025 historical all-time roster independently confirms his 1984–1985 playing roster listing as QB/P; 1983 remains a separately identified contributor-reported transfer redshirt, not a confirmed playing roster season.",
       "sources": [
         {
           "label": "BC football record book",
@@ -357,6 +361,10 @@
         {
           "label": "Steve Peach college career statistics",
           "url": "https://www.sports-reference.com/cfb/players/steve-peach-2.html"
+        },
+        {
+          "label": "Boston College 2025 football media guide · historical all-time roster",
+          "url": "https://bceagles.com/documents/download/2025/9/9/RecordBookFootball.pdf"
         }
       ]
     },
