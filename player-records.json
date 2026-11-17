@@ -2214,14 +2214,14 @@
     {
       "year": 1969,
       "name": "Steve Nelson",
-      "position": "",
+      "position": "Guard",
       "schoolClass": "",
-      "publisher": "Divisional All-Stars",
-      "publication": "All-Class B · reported by Boston Globe",
-      "award": "All-Class B",
+      "publisher": "Boston Globe",
+      "publication": "Boston Globe",
+      "award": "Class B All-Star",
       "sourceUrl": "documents/1970-globe-steve-nelson-all-class-b.webp",
       "sourceLabel": "1970 Boston Globe preview · original clipping",
-      "sourceNote": "Peter Gammons’s 1970 preview identifies Nelson as All-Class B the previous season (1969). Selecting organization is not specified."
+      "sourceNote": "The contemporary Boston Globe Class All-Stars list names Nelson at guard. This 1970 Globe preview also reports the honor."
     },
     {
       "year": 2008,
@@ -3521,6 +3521,42 @@
       "award": "John A. W. Pearce Football Award",
       "sourceUrl": "https://archive.org/details/tontoquonian1960saug",
       "sourceLabel": "1960 Tontoquonian · school awards"
+    },
+    {
+      "year": 1969,
+      "name": "Bob Osgood",
+      "position": "Back",
+      "schoolClass": "Sr.",
+      "publisher": "Boston Globe",
+      "award": "Class B All-Star",
+      "sourceLabel": "Boston Globe · 1969 All-Scholastic selections"
+    },
+    {
+      "year": 1969,
+      "name": "Bob Osgood",
+      "position": "Back",
+      "schoolClass": "Sr.",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic bench",
+      "sourceLabel": "Boston Globe · 1969 All-Scholastic selections"
+    },
+    {
+      "year": 1969,
+      "name": "Steve Nelson",
+      "position": "Guard",
+      "schoolClass": "Jr.",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic bench",
+      "sourceLabel": "Boston Globe · 1969 All-Scholastic selections"
+    },
+    {
+      "year": 1969,
+      "name": "John Richard",
+      "position": "Back",
+      "schoolClass": "Sr.",
+      "publisher": "Boston Globe",
+      "award": "All-Scholastic honorable mention",
+      "sourceLabel": "Boston Globe · 1969 All-Scholastic selections"
     }
   ],
   "alumni": [
@@ -5723,7 +5759,7 @@
       "position": "QB",
       "schoolClass": "1970",
       "hallOfFameYear": 1990,
-      "bio": "At Saugus, Osgood earned first-team Lynn Item All-Star recognition at back and first-team Northeastern Conference offensive honors in 1969. He quarterbacked a 7–2 team whose only losses came against Class A champion Peabody and Class B champion Swampscott. He was then selected as one of the North squad’s quarterbacks for the 1970 Harry Agganis All-Star game. A Globe pregame feature described him as a drop-back passer being coached to add roll-out plays against the South’s heavier defensive line.\n\nBob Osgood, Saugus High Class of 1970, quarterbacked the Sachems before continuing his football career at the University of New Hampshire. The Saugus Advocate’s retrospective describes him as heavily recruited and identifies him as a starting quarterback at UNH. The university’s own archives confirm his membership on the 1973 football team under head coach Bill Bowes, identifying him by name in the team photograph. His complete college football seasons, individual statistics and starting assignments remain to be established from contemporary records.\n\nOsgood was also an accomplished basketball and baseball player at Saugus. He played three years of high-school basketball and was a right-handed pitcher on Saugus’s 1970 state-tournament baseball team. His two-sport college career is supported by UNH’s archives, which identify him in both the 1971 and 1972 baseball team photographs. The Advocate remembers him as an outstanding pitcher at UNH as well as a college quarterback.\n\nHe was inducted into the Saugus High School Athletic Hall of Fame in 1990. The Saugus Advocate later included him among its “Terrific Twenty-Five” Saugus Hall of Famers.",
+      "bio": "At Saugus, Osgood earned first-team Lynn Item All-Star recognition at back and first-team Northeastern Conference offensive honors in 1969. He completed 54 passes for 1,157 yards and eight touchdowns and earned Boston Globe Class B All-Star and All-Scholastic bench recognition. He quarterbacked a 7–2 team whose only losses came against Class A champion Peabody and Class B champion Swampscott. He was then selected as one of the North squad’s quarterbacks for the 1970 Harry Agganis All-Star game. A Globe pregame feature described him as a drop-back passer being coached to add roll-out plays against the South’s heavier defensive line.\n\nBob Osgood, Saugus High Class of 1970, quarterbacked the Sachems before continuing his football career at the University of New Hampshire. The Saugus Advocate’s retrospective describes him as heavily recruited and identifies him as a starting quarterback at UNH. The university’s own archives confirm his membership on the 1973 football team under head coach Bill Bowes, identifying him by name in the team photograph. His complete college football seasons, individual statistics and starting assignments remain to be established from contemporary records.\n\nOsgood was also an accomplished basketball and baseball player at Saugus. He played three years of high-school basketball and was a right-handed pitcher on Saugus’s 1970 state-tournament baseball team. His two-sport college career is supported by UNH’s archives, which identify him in both the 1971 and 1972 baseball team photographs. The Advocate remembers him as an outstanding pitcher at UNH as well as a college quarterback.\n\nHe was inducted into the Saugus High School Athletic Hall of Fame in 1990. The Saugus Advocate later included him among its “Terrific Twenty-Five” Saugus Hall of Famers.",
       "source": "UNH archival football and baseball team photographs; Saugus Advocate retrospective; Saugus High Athletic Hall of Fame roster.",
       "sources": [
         {
@@ -15721,6 +15757,542 @@
           "partial": true,
           "clipping": "Contemporary 1966 game reports and scoring summaries",
           "note": "Winthrop."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1969,
+      "name": "Bob Osgood",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 1157,
+        "Completions": 54,
+        "Passing Touchdowns": 8,
+        "Passing Attempts": 40,
+        "Conversion Passes": 5
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": false,
+          "note": "Thanksgiving preview: 46 completions, 1,087 yards and eight touchdowns. Peabody: eight completions for 70 yards and no passing touchdowns.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Completions": {
+          "partial": false,
+          "note": "Thanksgiving preview: 46 completions, 1,087 yards and eight touchdowns. Peabody: eight completions for 70 yards and no passing touchdowns.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Passing Touchdowns": {
+          "partial": false,
+          "note": "Thanksgiving preview: 46 completions, 1,087 yards and eight touchdowns. Peabody: eight completions for 70 yards and no passing touchdowns.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Passing Attempts": {
+          "partial": true,
+          "note": "Attempts from the Swampscott and Peabody box scores. Successful conversion passes against B.C. High, Beverly, Newburyport and Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Conversion Passes": {
+          "partial": true,
+          "note": "Attempts from the Swampscott and Peabody box scores. Successful conversion passes against B.C. High, Beverly, Newburyport and Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1969,
+      "name": "Bob Osgood",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 12
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "note": "Seven-yard run against Watertown and five-yard scramble against Peabody.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "note": "Seven-yard run against Watertown and five-yard scramble against Peabody.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Bob Osgood",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 12,
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1969,
+      "name": "John Richard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 248,
+        "Rushing Touchdowns": 5
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "note": "128 against B.C. High and 115 against Beverly, plus documented scoring runs of two yards against Newburyport, one against Swampscott and two against Winthrop.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "note": "Full yardage reported against B.C. High and Beverly. Touchdowns counted against B.C. High, Newburyport, Swampscott and Winthrop.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1969,
+      "name": "John Richard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 4,
+        "Receiving Yards": 218,
+        "Receiving Touchdowns": 3
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "note": "Two Newburyport touchdown catches and a 99-yard touchdown against Winthrop. Also caught the initial pass on the Beverly touchdown lateral, which is excluded from this yardage sum.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "note": "Two Newburyport touchdown catches and a 99-yard touchdown against Winthrop. Also caught the initial pass on the Beverly touchdown lateral, which is excluded from this yardage sum.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "note": "Two Newburyport touchdown catches and a 99-yard touchdown against Winthrop. Also caught the initial pass on the Beverly touchdown lateral, which is excluded from this yardage sum.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "John Richard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 50,
+        "Total Touchdowns": 8,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1969,
+      "name": "Dan Heaney",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 218,
+        "Rushing Touchdowns": 6
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "note": "Yards from documented runs against B.C. High (82, 61), Beverly (40), Newburyport (11), Winthrop (13, 7) and Watertown (4). The Beverly pass-lateral touchdown counts in scoring.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "note": "Yards from documented runs against B.C. High (82, 61), Beverly (40), Newburyport (11), Winthrop (13, 7) and Watertown (4). The Beverly pass-lateral touchdown counts in scoring.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Dan Heaney",
+      "schoolClass": "Jr.",
+      "values": {
+        "Points": 46,
+        "Total Touchdowns": 7,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1969,
+      "name": "Greg Manship",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 2,
+        "Receiving Yards": 83,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "note": "Beverly and Watertown touchdown catches. Newburyport’s disputed 50-yard touchdown attribution is omitted.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "note": "Beverly and Watertown touchdown catches. Newburyport’s disputed 50-yard touchdown attribution is omitted.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "note": "Beverly and Watertown touchdown catches. Newburyport’s disputed 50-yard touchdown attribution is omitted.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Greg Manship",
+      "schoolClass": "",
+      "values": {
+        "Points": 16,
+        "Total Touchdowns": 2,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1969,
+      "name": "Dan Madden",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 12
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "note": "Fourth-down catch at Beverly. Newburyport’s disputed 50-yard touchdown attribution is omitted.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "note": "Fourth-down catch at Beverly. Newburyport’s disputed 50-yard touchdown attribution is omitted.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1969,
+      "name": "Mike Annese",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 9,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "note": "Go-ahead touchdown against Beverly.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "note": "Go-ahead touchdown against Beverly.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "note": "Go-ahead touchdown against Beverly.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Mike Annese",
+      "schoolClass": "",
+      "values": {
+        "Points": 6,
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1969,
+      "name": "Ron Smith",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 35,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "note": "Opening score against Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "note": "Opening score against Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Ron Smith",
+      "schoolClass": "",
+      "values": {
+        "Points": 6,
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1969,
+      "name": "Richard Conti",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 6,
+        "Field Goals": 2,
+        "Longest Field Goal (yards)": 44
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "note": "Woburn and Winthrop field goals. The Woburn game recap gives 44 yards and the Globe follow-up profile gives 35. Extra points against Newburyport, Winthrop and Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Field Goals": {
+          "partial": true,
+          "note": "Woburn and Winthrop field goals. The Woburn game recap gives 44 yards and the Globe follow-up profile gives 35. Extra points against Newburyport, Winthrop and Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Longest Field Goal (yards)": {
+          "partial": true,
+          "note": "Woburn and Winthrop field goals. The Woburn game recap gives 44 yards and the Globe follow-up profile gives 35. Extra points against Newburyport, Winthrop and Watertown.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Richard Conti",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 12,
+        "Extra Points": 6
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Extra Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1969,
+      "name": "Richard Conti",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 1
+      },
+      "statSources": {
+        "Tackles": {
+          "partial": true,
+          "note": "Globe photograph caption credits Conti with stopping Richard Conigliaro against Swampscott.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1969,
+      "name": "Bill Babcock",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 3
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "note": "One against B.C. High and two against Beverly.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1969,
+      "name": "Bill Babcock",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 3,
+        "Extra Points": 3
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        },
+        "Extra Points": {
+          "partial": true,
+          "note": "Documented scoring plays. Field goals count toward points.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1969,
+      "name": "Steve Nelson",
+      "schoolClass": "Jr.",
+      "values": {
+        "Tackles": 2
+      },
+      "statSources": {
+        "Tackles": {
+          "partial": true,
+          "note": "Two tackles highlighted in the Newburyport game report.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1969,
+      "name": "Doug Waybright",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "note": "Recovery against Swampscott.",
+          "clipping": "1969 Boston Globe coverage"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1969,
+      "name": "Ed Wadleigh",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "note": "Recovery at the Saugus one against Winthrop.",
+          "clipping": "1969 Boston Globe coverage"
         }
       }
     }
