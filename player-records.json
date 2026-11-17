@@ -3485,7 +3485,7 @@
       "award": "All-Scholastic",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2667-hall.webp",
       "sourceLabel": "Boston Post · December 8, 1947",
-      "sourceNote": "The game photograph caption identifies Laskey as a Boston Post All-Scholastic choice."
+      "sourceNote": "The December 8 game photograph identifies Laskey as a Boston Post All-Scholastic choice and shows his two-yard touchdown in the previous day’s North Shore All-Star game."
     },
     {
       "year": 1947,
@@ -3888,7 +3888,7 @@
       "name": "Salvatore 'Sardi' Nicolo",
       "position": "RB",
       "schoolClass": "1950",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nA three-year Sachems running back and co-captain with Dan Murphy in 1949, Salvatore “Sardi” Nicolo combined speed, power and elusive running to become Saugus’ leading ground gainer and the North Shore’s scoring champion. Harvey L. Southward’s regular-season wrap-up credits him with 16 touchdowns and three extra points for 99 points, ahead of Beverly’s Bill Ransom with 84. Sardi finished that race with two touchdowns and a rushing extra point against Peabody on Thanksgiving. His 1949 honors included Lynn Item, Boston Globe and Boston Sunday Post All-Scholastic selections, R.A.A. All-Scholastic recognition, and high-school All-America honorable mention from the Wigwam Wisemen of America.\n\nHis big plays helped define the Sachems’ championship season. A three-touchdown game against Chelsea moved him into the North Shore scoring lead with nine touchdowns and 54 points through five games in 1949. In the 25–7 victory over Marblehead on November 12, 1949, he broke a 69-yard touchdown run on a triple reverse. Saugus ultimately shared the North Shore championship with Gloucester and finished 10–1. In the Exchange Bowl against Weymouth, Sardi caught the decisive 50-yard, over-the-shoulder touchdown pass from his brother Richie; Leo Kane’s extra point completed the 7–6 championship victory. Including the bowl, Sardi scored 17 touchdowns and 105 points. The previous fall, Sardi had scored on runs of 14 and 12 yards in a 14–0 upset of Swampscott.\n\nAt Louisiana State University, where he played varsity football from 1952 through 1954, Sardi produced a play that remained in the school record book for decades: a 94-yard touchdown run against Rice on October 4, 1952. LSU’s contemporary record guides and later game notes credit it as a share of the school’s longest rushing play and offensive play from scrimmage. That mark stood until Derrius Guice’s 96-yard touchdown against Arkansas on November 12, 2016—more than 64 years later.\n\nSardi’s son John (Saugus Class of 1976) followed him as an All-Scholastic running back, then won football and baseball national championships at Ithaca College. Sardi’s son Peter “Pete” Nicolo also played for the Sachems as a wide receiver from 1976 to 1979. John’s sons Sal and Mike continued the family tradition: Sal started at fullback and linebacker in 2001 and 2002, while Mike earned multiple All-Scholastic honors and set a then-school single-game rushing record. Sardi, John and Mike also represent three generations of Saugus High Athletic Hall of Fame inductees.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1987.\n\nA three-year Sachems running back and co-captain with Dan Murphy in 1949, Salvatore “Sardi” Nicolo combined speed, power and elusive running to become Saugus’ leading ground gainer and the North Shore’s scoring champion. Harvey L. Southward’s regular-season wrap-up credits him with 16 touchdowns and three extra points for 99 points, ahead of Beverly’s Bill Ransom with 84. Sardi finished that race with two touchdowns and a rushing extra point against Peabody on Thanksgiving. His 1949 honors included Lynn Item, Boston Globe and Boston Sunday Post All-Scholastic selections, R.A.A. All-Scholastic recognition, and high-school All-America honorable mention from the Wigwam Wisemen of America.\n\nAs a sophomore in 1947, Nicolo backed up captain Ernie Anganis at left halfback, threw a touchdown pass to George Laskey against Amesbury and set up a touchdown with a long completion against Marblehead. His big plays helped define the Sachems’ championship season. A three-touchdown game against Chelsea moved him into the North Shore scoring lead with nine touchdowns and 54 points through five games in 1949. In the 25–7 victory over Marblehead on November 12, 1949, he broke a 69-yard touchdown run on a triple reverse. Saugus ultimately shared the North Shore championship with Gloucester and finished 10–1. In the Exchange Bowl against Weymouth, Sardi caught the decisive 50-yard, over-the-shoulder touchdown pass from his brother Richie; Leo Kane’s extra point completed the 7–6 championship victory. Including the bowl, Sardi scored 17 touchdowns and 105 points. The previous fall, Sardi had scored on runs of 14 and 12 yards in a 14–0 upset of Swampscott.\n\nAt Louisiana State University, where he played varsity football from 1952 through 1954, Sardi produced a play that remained in the school record book for decades: a 94-yard touchdown run against Rice on October 4, 1952. LSU’s contemporary record guides and later game notes credit it as a share of the school’s longest rushing play and offensive play from scrimmage. That mark stood until Derrius Guice’s 96-yard touchdown against Arkansas on November 12, 2016—more than 64 years later.\n\nSardi’s son John (Saugus Class of 1976) followed him as an All-Scholastic running back, then won football and baseball national championships at Ithaca College. Sardi’s son Peter “Pete” Nicolo also played for the Sachems as a wide receiver from 1976 to 1979. John’s sons Sal and Mike continued the family tradition: Sal started at fullback and linebacker in 2001 and 2002, while Mike earned multiple All-Scholastic honors and set a then-school single-game rushing record. Sardi, John and Mike also represent three generations of Saugus High Athletic Hall of Fame inductees.",
       "row": 10,
       "source": "Contemporary newspaper clippings in the gallery; LSU official record guide and November 12, 2016 postgame notes; school Hall of Fame roster. The contributed 1979 Saugus preseason preview lists Pete Nicolo as a returning senior letterman at halfback.",
       "hallOfFameYear": 1987,
@@ -3964,6 +3964,10 @@
         {
           "label": "Daily Evening Item · November 20, 1979 · Thanksgiving preview featuring Pete Nicolo",
           "url": "photos/1979-pete-nicolo-thanksgiving.webp"
+        },
+        {
+          "label": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+          "url": "https://archive.org/details/tontoquonian1948saug"
         }
       ]
     },
@@ -11164,7 +11168,7 @@
         "Rushing Yards": {
           "partial": true,
           "clipping": "Boston Globe · 1947 Saugus game reports",
-          "note": "102 against Amesbury, 39 on two described runs against Chelsea, 18 on two scoring runs against Swampscott, four against Beverly and five against Lynn English. The Amesbury game total already includes the eight-yard touchdown.",
+          "note": "102 against Amesbury, 39 on two described runs against Chelsea, 18 on two scoring runs against Swampscott, four against Beverly and five against Lynn English. The Amesbury game total already includes the eight-yard touchdown. Uses the Globe’s Swampscott figures of three and 15 yards. Another newspaper gives two and 10, and the yearbook gives 15 for the second score.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp"
         },
         "Rushing Touchdowns": {
@@ -11251,13 +11255,11 @@
       },
       "statSources": {
         "Total Touchdowns": {
-          "partial": true,
           "clipping": "Boston Globe · 1947 Saugus game reports",
           "note": "Four rushing touchdowns and two receiving touchdowns. Excludes his North Shore All-Star game score.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp"
         },
         "Points": {
-          "partial": true,
           "clipping": "Boston Globe · 1947 Saugus game reports",
           "note": "Six scoring plays for Saugus, all touchdowns. The North Shore All-Star score is separate.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp"
@@ -11429,6 +11431,537 @@
           "clipping": "Daily Evening Item · Rolly Charest’s 1948 Thanksgiving report",
           "note": "Three yards on the opening drive against Peabody, reconstructed from the reported starting field position, the preceding two gains and the yard line he reached.",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2685.webp"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1947,
+      "name": "Ernie Anganis",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Beverly, Chelsea and Revere, plus an end-zone fumble recovery against Brookline."
+        },
+        "Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Beverly, Chelsea and Revere, plus an end-zone fumble recovery against Brookline."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1947,
+      "name": "Earl Dudman",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Lynn English, Swampscott and Marblehead, plus a reception against Lynn Classical."
+        },
+        "Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Lynn English, Swampscott and Marblehead, plus a reception against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1947,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Receiving against Chelsea and rushing against Revere."
+        },
+        "Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Receiving against Chelsea and rushing against Revere."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1947,
+      "name": "Fred Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Marblehead."
+        },
+        "Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Rushing against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1947,
+      "name": "Eugene Decereau",
+      "schoolClass": "Sr.",
+      "values": {
+        "Points": 14
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "All points came on extra points in the Saugus schedule."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1947,
+      "name": "Eugene Decereau",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 14
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "note": "Beverly 1, Chelsea 3, Amesbury 2, Revere 1, Lynn English 2, Lynn Classical 1, Swampscott 2, Marblehead 2. Excludes his North Shore All-Star extra point."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1947,
+      "name": "Ernie Anganis",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 31,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "Two yards on the Beverly score, gains of two and three during Chelsea’s final scoring drive, and 24 on the Revere score. The Lynn English run and lateral are omitted because the sources describe the distances differently."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "One each against Beverly, Chelsea and Revere."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1947,
+      "name": "Ernie Anganis",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 94,
+        "Completions": 7,
+        "Passing Touchdowns": 3
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "58 against Beverly, 16 to Ayers against Chelsea and 20 to Laskey against Lynn English. Distances for touchdown passes to Forti and Dudman are omitted from this sum."
+        },
+        "Completions": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "Three against Beverly, at least two against Chelsea, and one each against Lynn English and Lynn Classical."
+        },
+        "Passing Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "To Forti, Laskey and Dudman."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1947,
+      "name": "Ernie Anganis",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 27
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1947 Revere game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp",
+          "partial": true,
+          "note": "From Dudman."
+        },
+        "Receiving Yards": {
+          "clipping": "1947 Revere game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp",
+          "partial": true,
+          "note": "From Dudman."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Ernie Anganis",
+      "schoolClass": "Sr.",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "1947 Brookline game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-saugus-brookline.webp",
+          "partial": true,
+          "note": "Recovered a Brookline fumble in the end zone for a touchdown."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1947,
+      "name": "Earl Dudman",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 4,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "One against Lynn English, two against Swampscott and one against Marblehead."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1947,
+      "name": "Earl Dudman",
+      "schoolClass": "",
+      "values": {
+        "Completions": 2,
+        "Passing Yards": 27
+      },
+      "statSources": {
+        "Completions": {
+          "clipping": "1947 Revere game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp",
+          "partial": true
+        },
+        "Passing Yards": {
+          "clipping": "1947 Revere game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-revere.webp",
+          "partial": true,
+          "note": "27 to Anganis. The first-down completion to Laskey has no stated distance."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1947,
+      "name": "Earl Dudman",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1947,
+      "name": "Earl Dudman",
+      "schoolClass": "",
+      "values": {
+        "Punt Return Yards": 86
+      },
+      "statSources": {
+        "Punt Return Yards": {
+          "clipping": "1947 Swampscott game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-swampscott.webp",
+          "partial": true,
+          "note": "Returned a punt from his own 12 to the Swampscott two."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1947,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 6,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "One against Revere and five after taking a lateral on a run against Lynn English."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1947,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1947 Chelsea game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "1947 Chelsea game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1947,
+      "name": "Frank Forti",
+      "schoolClass": "",
+      "values": {
+        "Kickoff Returns": 1
+      },
+      "statSources": {
+        "Kickoff Returns": {
+          "clipping": "1947 Amesbury game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-laskey-amesbury.webp",
+          "partial": true,
+          "note": "Returned a kickoff to the Saugus 45. The starting yard line is unspecified."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1947,
+      "name": "Ed Ayers",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 4,
+        "Receiving Yards": 73
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true
+        },
+        "Receiving Yards": {
+          "clipping": "1947 ten-game schedule · Tontoquonian Football Folio and contemporary game reports",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "15 against Brookline, 42 on two catches against Beverly and 16 against Chelsea. The Revere yearbook describes a different passing sequence from the newspaper, so its 15-yard reception is omitted pending corroboration."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Ed Ayers",
+      "schoolClass": "",
+      "values": {
+        "Blocked Punts": 1
+      },
+      "statSources": {
+        "Blocked Punts": {
+          "clipping": "1947 Marblehead game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1947,
+      "name": "Fred Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 66,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "1947 Marblehead game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp",
+          "partial": true,
+          "note": "The contemporary newspaper gives 66 yards. The yearbook gives 56."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "1947 Marblehead game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Eugene Decereau",
+      "schoolClass": "Sr.",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "1947 Chelsea game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1947,
+      "name": "Eugene Decereau",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 39
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "1947 Marblehead game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp",
+          "partial": true
+        },
+        "Receiving Yards": {
+          "clipping": "1947 Marblehead game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-quinlan-marblehead.webp",
+          "partial": true,
+          "note": "Contemporary newspaper credits Decereau with taking Nicolo’s pass from the Marblehead 40 to the one. The yearbook credits Forti on the setup play."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Alan Speak",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "1947 Chelsea game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-chelsea.webp",
+          "partial": true,
+          "note": "Returned a Chelsea interception 28 yards to the Chelsea 19."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Art Rowe",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "1947 Lynn English game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-lynn-english.webp",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Dan Murphy",
+      "schoolClass": "",
+      "values": {
+        "Blocked Punts": 1
+      },
+      "statSources": {
+        "Blocked Punts": {
+          "clipping": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "The yearbook credits Murphy and Falasca jointly on the same quick kick. Jim Burns recovered the blocked kick."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1947,
+      "name": "Ed Falasca",
+      "schoolClass": "",
+      "values": {
+        "Blocked Punts": 1
+      },
+      "statSources": {
+        "Blocked Punts": {
+          "clipping": "1948 Tontoquonian, Football Folio, pp. 73, 75, 78",
+          "sourceUrl": "https://archive.org/details/tontoquonian1948saug",
+          "partial": true,
+          "note": "The yearbook credits Murphy and Falasca jointly on the same quick kick. Jim Burns recovered the blocked kick."
         }
       }
     }
