@@ -671,22 +671,40 @@
       "record": "7 - 2",
       "league": "Northeastern Conference",
       "title": null,
-      "players": "George Riley (Captain), Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty, Joe Scarozza",
+      "players": "George Riley (Captain), Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty, Joe Scarozza, Edward Oljey, Woodman, O’Neill",
       "awards": null,
       "nickname": "Eagles",
       "sourceRow": 26,
       "games": [
         {
+          "date": "1931-10-12",
+          "opponent": "Punchard High (Andover)",
+          "result": "L 6–12",
+          "status": "Played"
+        },
+        {
+          "date": "1931-11-11",
+          "opponent": "Hamilton High",
+          "result": "W 52–0",
+          "status": "Played"
+        },
+        {
+          "date": "1931-11-21",
+          "opponent": "Winchester High",
+          "result": "L 0–6",
+          "status": "Played"
+        },
+        {
           "date": "1931-11-26",
           "opponent": "Mission High (Roxbury)",
-          "result": "W 19–6",
+          "result": "W 18–7",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Partial schedule. A newspaper preview reports a tie with Swampscott and a planned charity game at Marblehead. The tie score and the charity game result have yet to be located.",
       "seasonSources": [
         {
-          "label": "Thanksgiving result · IMG_3294.jpg",
+          "label": "Retrospective Thanksgiving table · conflicting 19–6 score",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
         },
         {
@@ -694,7 +712,7 @@
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2737.webp"
         }
       ],
-      "seasonNote": "Albion Rice’s Eagles finished 7–2 behind captain George Riley. The newspaper account of his election identifies James Muzzey as the outgoing 1930 captain. Joe Nelson, Malcolm Bisbee, Harry Gates, Red Doherty and Joe Scarozza appear in the season roster. A retrospective Thanksgiving table credits Saugus with a 19–6 win over Mission High of Roxbury."
+      "seasonNote": "Albion Rice coached the Eagles, with George Riley succeeding James Muzzey as captain. The archive lists a 7–2 record. A newspaper preview also reports that Saugus and Marblehead had each tied Swampscott before a scheduled charity game at Marblehead.\n\nOn Oct. 12 at Stackpole Field, Punchard High of Andover took a 12–0 halftime lead on two touchdowns by captain Gouch. Saugus blocked a kick in the third quarter and took over at the Punchard 35. A roughing penalty and a cross-buck helped set up fullback Edward Oljey’s three-yard touchdown, Saugus’s only score in the 12–6 loss.\n\nSaugus beat Hamilton 52–0 at Stackpole Field on Nov. 11. Harry Gates scored four touchdowns, Woodman and O’Neill added two apiece, and Joe Scarozza kicked four extra points. On Nov. 21, Winchester broke a scoreless halftime tie with a third-quarter touchdown and won 6–0.\n\nOn Thanksgiving, Nov. 26, Saugus defeated Mission High of Roxbury 18–7. Oljey finished three long scoring drives with a touchdown in each of the first three quarters. Saugus led 12–0 at halftime. Mission’s Kelly scored on a 66-yard pass play from Smith in the third quarter and added the extra point. The contemporary report’s scoring summary supports 18–7, superseding the 19–6 score in a later Thanksgiving table."
     },
     {
       "year": 1932,
