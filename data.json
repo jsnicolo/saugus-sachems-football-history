@@ -6006,7 +6006,7 @@
       "awards": "Anthony Barbanti - Lynn Item and NEC \nSal Nicolo - Agganis",
       "nickname": "Sachems",
       "sourceRow": 111,
-      "seasonNote": "Saugus finished 1–10 under coach John Nicolo. The Sachems earned their only win at Marblehead, 31–16, after taking a 25–0 lead into the fourth quarter. Tom Shidlow ran for two touchdowns, and Chris Finn ran for a score and threw touchdown passes to Chris Resigno and Chris Benson. Against Lynn English, Mike Nicolo and Rob Gannon scored on runs of 52 and 79 yards. Mike Nicolo also scored Saugus’s only touchdown in the 20–8 Thanksgiving loss at Peabody.\n\nSal Nicolo was selected to the Harry Agganis All-Star Football Classic following his senior season. Anthony Barbanti was named a Lynn Item All-Star and a Northeastern Conference (NEC) All-Star at defensive line (DL).",
+      "seasonNote": "Saugus finished 1–10 in John Nicolo’s second season as head coach. The Sachems lost the opener 26–7 at Belmont’s Harris Field. Tom Shidlow rushed nine times for 72 yards, including a 57-yard touchdown on a reverse, and Sal Nicolo intercepted a pass and returned it four yards. At Danvers, Shidlow rushed for 80 yards and Sal and Mike Nicolo each topped 50. Shidlow’s 23-yard run on third-and-17 set up Sal’s two-yard touchdown, tying the game 7–7 before halftime. A holding penalty erased a potential tying touchdown in the third quarter, and Danvers won 20–7. Anthony Barbanti and Ryan Poussard led the defensive effort.\n\nShidlow carried 11 times for 119 yards and scored against Beverly. Chris Finn completed three passes for 21 yards in the first half, and Rob Gannon completed two for 31 after halftime in the 24–6 loss. Against Gloucester, Barbanti and Chris Benson recovered fumbles. Benson’s recovery set up a drive that included Mike Nicolo’s 16-yard run, Finn’s 17-yard fourth-down completion to Benson and Sal Nicolo’s four-yard touchdown run.\n\nThe Sachems broke a seven-game skid with a 31–16 win at Marblehead. They led 13–0 at halftime after Finn found Chris Resigno with six seconds left, and extended the lead to 31–0. Finn threw another touchdown pass to Benson and ran for a score, and Shidlow scored twice from six yards out. Sal Nicolo’s 35-yard fumble return set up a scoring chance, and Resigno recovered another fumble on special teams. Mike Nicolo and Gannon then scored on runs of 52 and 79 yards against Lynn English, with Frank LoConte adding a two-point run.\n\nOn Thanksgiving at Coley Lee Field, Saugus held Peabody scoreless in the first quarter, and Barbanti recorded a 10-yard sack. Mike Nicolo’s 31-yard run put the Sachems in Peabody territory in the fourth quarter. Shidlow scored from two yards out with 29 seconds left and Finn threw the two-point pass to Benson in the 20–8 loss.\n\nSal Nicolo was selected to the Harry Agganis All-Star Football Classic following his senior season. Anthony Barbanti was named a Lynn Item and Northeastern Conference All-Star at defensive line.",
       "captainsNote": "Captain names supplied by Sal Nicolo.",
       "games": [
         {
@@ -6076,7 +6076,24 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Results and sites follow the 11 contributed newspaper box scores. Dates are shown where established. The Gloucester box score credits a touchdown to Tim Shidlow, while other games name Tom Shidlow. The Gloucester touchdown is included in the team result and left unassigned in the individual totals. The Marblehead extra-point kicker and the Peabody two-point receiver are unnamed. The Peabody box score lists the conversion as a pass from “Nicolo” without a first name."
+      "scheduleNote": "Results and sites follow the contributed newspaper box scores and game reports. The Gloucester box score credits a touchdown to Tim Shidlow, while other games name Tom Shidlow. The Gloucester touchdown is included in the team result and remains unassigned in the individual totals. The detailed Thanksgiving report credits Tom Shidlow with the touchdown and Chris Finn and Chris Benson with the conversion. The Marblehead extra-point kicker is unnamed.",
+      "seasonSources": [
+        {
+          "label": "Jonathan Weiner, The Item · Belmont opener and Gloucester game reports"
+        },
+        {
+          "label": "Chad Konecky · Danvers report and Marblehead win"
+        },
+        {
+          "label": "Bill Woolley · Beverly game report"
+        },
+        {
+          "label": "Chad Konecky, Saugus Advertiser, Nov. 14, 2002 · Lynn English report"
+        },
+        {
+          "label": "Rich Tenorio, The Daily Item · Thanksgiving game report at Peabody"
+        }
+      ]
     },
     {
       "year": 2003,
