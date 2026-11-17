@@ -396,7 +396,7 @@
       ],
       "championshipStatus": "supported",
       "championshipCategory": "League · historical designation",
-      "seasonNote": "Fred Beresford’s Warriors finished 9–0–2, the first Saugus High football team reported to complete a season unbeaten. The early schedule notice recorded a scrimmage with Lynn Classical at Stackpole Field, where tackle March and end O’Neil drew attention. After a 7–7 opening tie with Swampscott, Saugus won six straight. The Daily Evening Item described a light team that used a shift to set up its end runs.\n\nDanvers visited on October 7 for the home opener. An October 24 report said the Danvers coach withdrew his team with Saugus leading 7–0. The referee awarded Saugus a 1–0 forfeit, which Beresford declined to accept. Both newspaper score roundups list 7–0. A Thanksgiving replay was discussed after Danvers broke off its series with Essex Agricultural. The December recap lists a second Saugus win over Danvers without giving its date.\n\nAt Methuen’s Pelham Street Playstead on October 12, fullback Franklin “Ooze” Pike scored both Saugus touchdowns in a 14–7 win, opening the scoring on a 65-yard first-quarter run. Captain Edward “Googie” Amery added both extra points. On October 21, with about a minute left in a scoreless home game against Wellesley, Amery broke a 95-yard run and Pike carried the ball over for a 6–0 win.\n\nSaugus shut out Somersworth, New Hampshire, 32–0. On November 18 it held a much larger Coburn Classical Institute team from Waterville, Maine, to a 0–0 tie before a reported 7,000 spectators at Stackpole Field. The game report highlighted the punting, and the Globe grouped Saugus with Winchester and Norwood among Greater Boston’s standout small-school teams. Albert J. Woodlock also named Saugus among teams unbeaten against Massachusetts opponents.\n\nThe December 11 recap adds wins over Braintree and Danvers to the earlier score roundup. It lists O’Neil and Nicholson at end, Holmes and S. H. Pike at tackle, Herald and Dean at guard, Goodhue at center, Amery and Lester Pool at halfback, Franklin Pike at fullback and Forrest Kenerson at quarterback. Saugus closed on December 2 with a 20–9 win over Woburn at Stackpole Field. Pike scored twice and Amery once.\n\nThe archive lists Saugus as Greater Lynn League champion. Beresford said during the season that the team was claiming no title at that point. The 1942 Tontoquonian later referred to a 1922 Class C championship.",
+      "seasonNote": "Fred Beresford’s Warriors finished 9–0–2, the first Saugus High football team reported to complete a season unbeaten. The early schedule notice recorded a scrimmage with Lynn Classical at Stackpole Field, where tackle March and end O’Neil drew attention. After a 7–7 opening tie with Swampscott, Saugus won six straight. The Daily Evening Item described a light team that used a shift to set up its end runs. The postseason recap reports that only about 30 candidates turned out and that injuries exposed the lack of experienced reserves. The Item put the team’s average weight at 142 pounds and described Pike as a runner, passer and drop-kicker in Beresford’s open offense.\n\nDanvers visited on October 7 for the home opener. An October 24 report said the Danvers coach withdrew his team with Saugus leading 7–0. The referee awarded Saugus a 1–0 forfeit, which Beresford declined to accept. The 11-game postseason table uses 1–0, while two other newspaper roundups list the 7–0 score on the field.\n\nAt Methuen’s Pelham Street Playstead on October 12, fullback Franklin “Ooze” Pike scored both Saugus touchdowns in a 14–7 win, opening the scoring on a 65-yard first-quarter run. Captain Edward “Googie” Amery added both extra points. On October 21, with about a minute left in a scoreless home game against Wellesley, Amery broke a 95-yard run and Pike carried the ball over for a 6–0 win.\n\nSaugus shut out Somersworth, New Hampshire, 32–0. On November 18 it held a much larger Coburn Classical Institute team from Waterville, Maine, to a 0–0 tie before a reported 7,000 spectators at Stackpole Field. The game report highlighted the punting, and the Globe grouped Saugus with Winchester and Norwood among Greater Boston’s standout small-school teams. Albert J. Woodlock also named Saugus among teams unbeaten against Massachusetts opponents. The postseason account reports that Coburn had also tied Colby’s second team, beaten Maine’s second team and lost narrowly to the Dartmouth freshmen.\n\nThe year-end score table records a 52–7 win over Braintree and a 24–6 victory at Danvers on Thanksgiving, November 30. The latter was played in the mud two days before the finale. The November rematch followed the October forfeit.\n\nOn December 2, Saugus beat Woburn 20–9 at Stackpole Field before nearly 2,000 spectators. John O’Neil recovered a punt touched by Woburn, and a pass from Kenerson to Pool helped set up Amery’s opening touchdown. Pike scored on fourth down on the next Saugus scoring drive, and Amery kicked the extra point. Pike later broke a 60-yard run before being tackled, sprained his ankle and briefly left the game. Amery intercepted a pass and returned it to midfield before halftime. Woburn closed to 13–9, then Pike scored again in the fourth quarter and Amery kicked his second extra point. Kenerson was injured on a late passing play and left the game.\n\nThe December recap lists O’Neil and George Nicholson at end, Edwin Holmes and S. H. Pike at tackle, George “Podge” Herald and Willis Dean at guard, Arthur Goodhue at center, Amery and Lester Pool at halfback, Franklin Pike at fullback and Forrest Kenerson at quarterback. The in-season feature describes Pool as a speedy open-field runner and sure tackler and Amery as the team’s leading punter. It also highlights Melvin March and Sidney Pike competing at left tackle, Abraham Pinciss’s defense at right tackle, and Henry Bradford’s receiving and tackling at end. School authorities and most supporters favored ending the season after Woburn despite interest in postseason games.\n\nThe archive lists Saugus as Greater Lynn League champion. Beresford said during the season that the team was claiming no title at that point. The 1942 Tontoquonian later referred to a 1922 Class C championship.",
       "seasonSources": [
         {
           "label": "1922 clipping · no title claimed at that point",
@@ -437,6 +437,15 @@
         },
         {
           "label": "Contributed newspaper column · Albert J. Woodlock on unbeaten Massachusetts teams"
+        },
+        {
+          "label": "Contributed postseason score table · eleven games, Braintree score and Thanksgiving at Danvers"
+        },
+        {
+          "label": "Contributed Woburn finale recap · Thanksgiving confirmation, scoring plays and crowd"
+        },
+        {
+          "label": "Contributed Daily Evening Item feature and illustration · Pike, Amery, Pool, Herald and Beresford"
         }
       ],
       "games": [
@@ -450,9 +459,8 @@
         {
           "date": "Oct. 7",
           "opponent": "Danvers",
-          "result": "W 7–0",
-          "status": "7–0 when Danvers withdrew",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/add-IMG_2717.webp"
+          "result": "W 1–0",
+          "status": "Forfeit · Saugus led 7–0"
         },
         {
           "date": "Oct. 12",
@@ -498,14 +506,14 @@
         {
           "date": "—",
           "opponent": "Braintree",
-          "result": "W",
-          "status": "December recap · opponent scored 7"
+          "result": "W 52–7",
+          "status": "Postseason score table"
         },
         {
-          "date": "—",
+          "date": "Nov. 30",
           "opponent": "Danvers (second meeting)",
-          "result": "W",
-          "status": "December recap · opponent scored 6"
+          "result": "W 24–6",
+          "status": "Thanksgiving · at Danvers"
         },
         {
           "date": "Dec. 2",
@@ -515,7 +523,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1922-boston-globe-saugus-woburn.jpeg"
         }
       ],
-      "scheduleNote": "The December 11 recap gives nine wins and two ties in its text and lists eleven results, although its headline says twelve games. The Wellesley box score and December recap both give 6–0. An earlier roundup gives 7–0. Undated games are placed using the earlier roundup and the December recap. The early schedule was tentative and included a second-team fixture."
+      "scheduleNote": "The 11-game postseason table totals 216 points for Saugus and 39 against, counting the first Danvers meeting as a 1–0 forfeit. The October report gives 7–0 when Danvers withdrew. The Wellesley box score and both year-end reports give 6–0. An earlier roundup gives 7–0. The December 11 recap lists eleven results even though its headline says twelve games. Undated games are placed using contemporary roundups."
     },
     {
       "year": 1923,

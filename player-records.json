@@ -4843,7 +4843,7 @@
       "name": "Franklin “Oozo” Pike",
       "position": "Fullback",
       "schoolClass": "1923",
-      "bio": "Franklin “Oozo” Pike was a powerful, versatile fullback on Fred Beresford’s unbeaten 1922 Saugus team. Contemporary coverage praised his strength as a runner and his passing, kicking and drop-kicking, making him a threat in several parts of the game.\n\nPike had already produced game-changing plays in 1921. His 55-yard punt return supplied the only touchdown in a 6–0 victory over Methuen on November 11, and his 75-yard interception return for a touchdown helped beat Rockland 16–6 in a postseason meeting on November 25.\n\nOn October 12, 1922, Pike scored twice in a 14–7 win at Methuen, including a 65-yard first-quarter run. Nine days later he scored the only touchdown against Wellesley after captain Edward Amery’s 95-yard run set up the winning score. In the 1922 season finale, a 20–9 victory over Woburn, the Globe pictured Pike going over for a first-quarter touchdown and named Pike and captain Amery as Saugus’ standouts. That team finished 9–0–2 and is recorded in the archive as the Greater Lynn League champion.",
+      "bio": "Franklin “Oozo” Pike was a powerful, versatile fullback on Fred Beresford’s unbeaten 1922 Saugus team. Contemporary coverage praised his strength as a runner and his passing, kicking and drop-kicking, making him a triple threat in Beresford’s open offense. The Daily Evening Item reported that he had worked on his family’s East Saugus farm before playing high school football.\n\nPike had already produced game-changing plays in 1921. His 55-yard punt return supplied the only touchdown in a 6–0 victory over Methuen on November 11, and his 75-yard interception return for a touchdown helped beat Rockland 16–6 at Little River playground on November 25. The game had been postponed from Thanksgiving afternoon.\n\nOn October 12, 1922, Pike scored twice in a 14–7 win at Methuen, including a 65-yard first-quarter run. Nine days later he scored the only touchdown against Wellesley after captain Edward Amery’s 95-yard run set up the winning score. In the 1922 season finale, a 20–9 victory over Woburn, the Globe pictured Pike going over for a first-quarter touchdown and named Pike and captain Amery as Saugus’ standouts. Pike scored twice and also broke a 60-yard run before being tackled. That team finished 9–0–2 and is recorded in the archive as the Greater Lynn League champion.",
       "source": "Reviewed against contributed newspaper scans and yearbooks, existing honors records and applicable official college/professional sources, November 2026.",
       "sources": [
         {
@@ -4879,7 +4879,7 @@
       "name": "Edward Amery",
       "position": "Back / Captain",
       "schoolClass": "1926",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1992.\n\nCaptain Edward Amery supplied leadership and versatility to Saugus High's unbeaten 1922 eleven. The contemporary profile of the team praised him as a passer, receiver, interceptor, and its leading punter. Alongside Franklin Pike, Lester Pool, and quarterback Forest Kenerson, Amery helped give a relatively light squad the skill and adaptability to compete successfully under Fred Beresford. His captaincy and contributions in several roles helped shape one of Saugus's earliest outstanding teams.\n\nHis receiving produced a documented early highlight in the 16–6 postseason victory over Rockland on November 25, 1921: the Boston Globe credits Amery with catching a forward pass and running 32 yards for Saugus’ first touchdown.\n\nIn 1922, Amery added both extra points in the 14–7 win at Methuen. With about a minute left against Wellesley, his 95-yard run set up Franklin Pike’s touchdown in a 6–0 win. In the 20–9 season-ending victory over Woburn in 1922, he scored again and was singled out with Pike as a star of the winning eleven.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 1992.\n\nCaptain Edward Amery supplied leadership and versatility to Saugus High's unbeaten 1922 eleven. The contemporary profile of the team praised him as a passer, receiver, interceptor, and its leading punter. Alongside Franklin Pike, Lester Pool, and quarterback Forest Kenerson, Amery helped give a relatively light squad the skill and adaptability to compete successfully under Fred Beresford. His captaincy and contributions in several roles helped shape one of Saugus's earliest outstanding teams.\n\nHis receiving produced a documented early highlight in the 16–6 postseason victory over Rockland on November 25, 1921: the Boston Globe credits Amery with catching a forward pass and running 32 yards for Saugus’ first touchdown.\n\nIn 1922, Amery added both extra points in the 14–7 win at Methuen. With about a minute left against Wellesley, his 95-yard run set up Franklin Pike’s touchdown in a 6–0 win. In the 20–9 season-ending victory over Woburn in 1922, he scored the opening touchdown, kicked two extra points and returned an interception to midfield.",
       "source": "Reviewed against contributed newspaper scans and yearbooks, existing honors records and applicable official college/professional sources, November 2026.",
       "sources": [
         {
@@ -6006,24 +6006,40 @@
       "schoolClass": "Fr.",
       "values": {
         "Total Touchdowns": 1,
-        "Extra Points": 2,
-        "Points": 8
+        "Extra Points": 4,
+        "Points": 10
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "Contributed October 12, 1922 Methuen box score and Boston Globe Woburn game report",
-          "note": "Two extra points against Methuen and one touchdown against Woburn."
+          "clipping": "Contributed October 12, 1922 Methuen box score and December 2 Woburn finale recap",
+          "note": "Two extra points each against Methuen and Woburn, plus one touchdown against Woburn."
         },
         "Extra Points": {
           "partial": true,
-          "clipping": "Contributed October 12, 1922 Methuen box score and Boston Globe Woburn game report",
-          "note": "Two extra points against Methuen and one touchdown against Woburn."
+          "clipping": "Contributed October 12, 1922 Methuen box score and December 2 Woburn finale recap",
+          "note": "Two extra points each against Methuen and Woburn, plus one touchdown against Woburn."
         },
         "Points": {
           "partial": true,
-          "clipping": "Contributed October 12, 1922 Methuen box score and Boston Globe Woburn game report",
-          "note": "Two extra points against Methuen and one touchdown against Woburn."
+          "clipping": "Contributed October 12, 1922 Methuen box score and December 2 Woburn finale recap",
+          "note": "Two extra points each against Methuen and Woburn, plus one touchdown against Woburn."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1922,
+      "name": "Edward “Googie” Amery",
+      "schoolClass": "Fr.",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contributed December 2, 1922 Woburn finale recap",
+          "note": "Returned a Woburn interception to midfield before halftime. The Item player feature also mentions several undetailed interceptions."
         }
       }
     },
