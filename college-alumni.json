@@ -5,6 +5,33 @@
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
     {
+      "name": "John “Jack” Leahy",
+      "gradYear": 1928,
+      "college": "DePauw University",
+      "position": "G",
+      "rosterYears": "1929–1931",
+      "professional": "",
+      "notes": "Earned football letters in 1929, 1930, and 1931. The contributor-supplied newspaper clipping “Saugus Big Boy on DePauw Eleven,” datelined October 20, 1931, identifies him as a 216-pound guard from East Saugus and the heaviest player on the team. The article previewed DePauw’s Old Gold Day homecoming game against Boston University, which the Tigers won 14–9 on October 24.",
+      "sources": [
+        {
+          "label": "DePauw Athletics · all-time football letterwinners",
+          "url": "https://depauwtigers.com/sports/2022/7/7/fbletterwinners-ho.aspx"
+        },
+        {
+          "label": "DePauw Athletics · 1931 football results",
+          "url": "https://depauwtigers.com/sports/football/schedule/1931"
+        },
+        {
+          "label": "Town of Saugus · 1930 school report listing Leahy at DePauw",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1930-part-25.htm"
+        },
+        {
+          "label": "Sachems archive · Saugus High captains and class year",
+          "url": "#captains"
+        }
+      ]
+    },
+    {
       "name": "Laurence “Larry” Templeman",
       "gradYear": 1931,
       "college": "Northeastern University",
