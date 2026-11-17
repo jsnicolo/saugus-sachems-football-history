@@ -8679,11 +8679,17 @@
       "name": "Mike Nicolo",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 11
+        "Touchdowns (type unspecified)": 11,
+        "Two-Point Conversions": 2
       },
       "statSources": {
         "Touchdowns (type unspecified)": {
           "clipping": "IMG_3256.jpg"
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Two-point runs at Lynn Classical and against Peabody."
         }
       }
     },
@@ -14577,6 +14583,444 @@
           "partial": true,
           "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
           "note": "Extra points at Lynn Classical and Danvers. Several box scores give no kicker name."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2003,
+      "name": "Rob Gannon",
+      "schoolClass": "Jr.",
+      "values": {
+        "Passing Yards": 8,
+        "Completions": 2,
+        "Passing Touchdowns": 2
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdowns to Mike Caruso and Alex Kimarchuk against Marblehead. Also passed for a two-point conversion at Beverly."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdowns to Mike Caruso and Alex Kimarchuk against Marblehead. Also passed for a two-point conversion at Beverly."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdowns to Mike Caruso and Alex Kimarchuk against Marblehead. Also passed for a two-point conversion at Beverly."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2003,
+      "name": "Mike Ceruso",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 4,
+        "Completions": 1,
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Mike Howard at Lynn Classical."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Mike Howard at Lynn Classical."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Mike Howard at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2003,
+      "name": "Mike Howard",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 4,
+        "Completions": 1,
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Chris Benson at Lynn Classical."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Chris Benson at Lynn Classical."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown to Chris Benson at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2003,
+      "name": "Mike Nicolo",
+      "schoolClass": "Jr.",
+      "values": {
+        "Passing Yards": 28,
+        "Completions": 1,
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown to Kevin Davis against Peabody."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown to Kevin Davis against Peabody."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown to Kevin Davis against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2003,
+      "name": "Mike Caruso",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 4,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead. Surname as printed in that box score."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead. Surname as printed in that box score."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead. Surname as printed in that box score."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2003,
+      "name": "Alex Kimarchuk",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 4,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2003,
+      "name": "Mike Howard",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 4,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2003,
+      "name": "Chris Benson",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 4,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Four-yard touchdown at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2003,
+      "name": "Kevin Davis",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 28,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown against Peabody."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown against Peabody."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "28-yard touchdown against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Rob Gannon",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 2,
+        "Points": 4
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Two-point runs at Beverly and against Marblehead. Also threw a two-point pass at Beverly."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Two-point runs at Beverly and against Marblehead. Also threw a two-point pass at Beverly."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Mike Ceruso",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Caught a two-point pass at Beverly. Surname as printed in that box score."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Caught a two-point pass at Beverly. Surname as printed in that box score."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Mike Caruso",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Alex Kimarchuk",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Mike Howard",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Chris Benson",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch at Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Kevin Davis",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Peabody."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catch against Peabody."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 2003,
+      "name": "Greg Dineen",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Made an extra point at Beverly."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2003,
+      "name": "Greg Dineen",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
+          "note": "Made an extra point at Beverly."
         }
       }
     }
