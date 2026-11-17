@@ -327,19 +327,39 @@
     "year": 1945,
     "opponent": "Peabody",
     "result": "L 0–6",
-    "status": "Historical table, visually checked",
-    "note": "1995 newspaper historical series table; individual game date not independently checked.",
+    "status": "Holiday rivalry · November 24 at Manning Bowl",
+    "note": "The yearbook dates the game to Saturday, November 24, two days after Thanksgiving. A later Item series table includes it in the Saugus–Peabody rivalry.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "1946 Tontoquonian · yearbook schedule and score",
+        "url": "photos/contributed-2591.webp"
+      },
+      {
+        "label": "Daily Evening Item · historical series table",
+        "url": "photos/thanksgiving-IMG_4048.webp"
+      }
+    ]
   },
   {
     "year": 1946,
     "opponent": "Peabody",
     "result": "W 7–0",
-    "status": "Historical table, visually checked",
-    "note": "Yearbook explicitly says Saturday BEFORE Thanksgiving at Manning Bowl; retain as holiday rivalry, not a Thanksgiving Day game. A later retrospective (IMG_3288) instead calls the 1945/1946 meetings spring games; exact timing remains disputed.",
+    "status": "Holiday rivalry · November 23 at Manning Bowl",
+    "note": "The yearbook and Gene Mack Jr.’s game report place the 7–0 Saugus victory on the Saturday before Thanksgiving. The Item’s later series table includes it in the holiday rivalry.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Boston Globe · Gene Mack Jr. · 1946 Peabody upset",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1946-saugus-peabody-upset.jpeg"
+      },
+      {
+        "label": "Daily Evening Item · historical series table",
+        "url": "photos/thanksgiving-IMG_4048.webp"
+      }
+    ]
   },
   {
     "year": 1947,
