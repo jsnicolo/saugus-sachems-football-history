@@ -6018,6 +6018,36 @@
       ],
       "source": "Preserved newspaper clippings and college records in the archive.",
       "row": "Source review, November 2026"
+    },
+    {
+      "name": "Kyle Sucharewicz",
+      "position": "QB",
+      "schoolClass": "2002",
+      "hallOfFameYear": 2014,
+      "bio": "Kyle Sucharewicz quarterbacked the Sachems at the turn of the millennium. As a sophomore in 1999, he scored on a 14-yard run in the fourth quarter to beat Methuen 6–0. He threw touchdown passes of 65 yards to George Lowe and 10 yards to Mike Navarro in a 20–12 win over Swampscott. That fall, he earned Northeastern Conference and Eastern Massachusetts Division 3 All-Star honors at quarterback.\n\nIn 2000, Sucharewicz threw three touchdown passes in a 26–6 win at Marblehead, finding Mark Pizzotti, Patrick Eaton and Tom Shidlow. He also threw to Adam Magnasco for a two-point conversion. As a senior in 2001, he threw three touchdown passes as Saugus rallied from a 14–0 deficit to beat Salem 30–14.\n\nSucharewicz scored 1,180 career points for Saugus basketball from 1998 to 2002. The Saugus Advocate’s February 2026 scoring list ranked him second among Saugus boys, behind Alex Winn, and third on the combined boys’ and girls’ list. He returned to Saugus as a basketball coach. A 2014 profile reported that he had spent the previous five years as a varsity assistant and head junior varsity coach. He entered the Saugus High School Sports Hall of Fame in 2014 for football and basketball.\n\nAccolades and milestones\n• 1999 Northeastern Conference Football All-Star at quarterback\n• 1999 Eastern Massachusetts Division 3 Football All-Star at quarterback\n• Saugus basketball 1,000-point club, with 1,180 career points\n• 2014 Saugus High School Sports Hall of Fame inductee for football and basketball",
+      "source": "Contributed football box scores, contemporary football honors listings, Hall of Fame coverage and the Saugus Advocate scoring archive.",
+      "sources": [
+        {
+          "label": "1999 Northeastern Conference All-Stars",
+          "url": "documents/1999-northeastern-conference-all-stars.webp"
+        },
+        {
+          "label": "Boston Globe · 1999 Division 3 All-Stars",
+          "url": "documents/1999-boston-globe-division-3-all-stars.jpeg"
+        },
+        {
+          "label": "Saugus Advocate · all-time basketball scoring list",
+          "url": "https://advocatenews.net/saugus/sports/peytons-place-no-1-on-the-all-time-saugus-basketball-scoring-list"
+        },
+        {
+          "label": "Wicked Local · 2014 induction and coaching profile",
+          "url": "https://www.wickedlocal.com/story/cape-ann-beacon/2014/12/03/magnificent-seven/35810462007/"
+        },
+        {
+          "label": "The Daily Item · Hall of Fame induction and Class of 2002",
+          "url": "https://itemlive.com/2014/12/01/thanksgiving-means-hall-of-fame-inductions/"
+        }
+      ]
     }
   ],
   "stats": [
@@ -18440,10 +18470,10 @@
         "footballEvidence": "2001 Kyle Sucharewicz",
         "footballSourceYear": null,
         "nameAsListed": "Kyle Sucharewicz",
-        "graduationYear": 2001,
+        "graduationYear": 2002,
         "inductionYear": 2014,
         "sourcePage": 24,
-        "note": ""
+        "note": "The Daily Item’s December 1, 2014 induction report lists Sucharewicz as Class of 2002."
       },
       {
         "name": "Robert Lessard",
