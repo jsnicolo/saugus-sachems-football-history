@@ -6238,36 +6238,72 @@
       "games": [
         {
           "date": "",
-          "opponent": "Salem",
-          "result": "W · final score unknown",
-          "status": "Played"
+          "opponent": "Revere",
+          "result": "L 12–18",
+          "status": "2003 Thanksgiving preview schedule"
         },
         {
           "date": "",
-          "opponent": "at Beverly",
+          "opponent": "Winthrop",
+          "result": "L 8–41",
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Danvers",
+          "result": "L 6–20",
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Salem",
+          "result": "W 34–0",
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Beverly",
           "result": "W 29–14",
-          "status": "Played"
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Gloucester",
+          "result": "L 8–14",
+          "status": "2003 Thanksgiving preview schedule"
         },
         {
           "date": "",
           "opponent": "Marblehead",
           "result": "W 26–13",
-          "status": "Played"
+          "status": "2003 Thanksgiving preview schedule"
         },
         {
           "date": "",
-          "opponent": "at Lynn Classical",
+          "opponent": "Lynn English",
+          "result": "L 16–36",
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Swampscott",
+          "result": "L 0–16",
+          "status": "2003 Thanksgiving preview schedule"
+        },
+        {
+          "date": "",
+          "opponent": "Lynn Classical",
           "result": "L 14–22",
-          "status": "Played"
+          "status": "2003 Thanksgiving preview schedule"
         },
         {
           "date": "2003-11-27",
           "opponent": "Peabody",
           "result": "L 8–35",
-          "status": "Thanksgiving"
+          "status": "Existing Thanksgiving game record; conflicting supplied preview figure requires verification"
         }
       ],
-      "scheduleNote": "Partial schedule. The contributed newspaper box scores establish the Beverly, Marblehead, Lynn Classical and Peabody results. The Marblehead box score spells the touchdown receiver’s surname Caruso. The Beverly and Lynn Classical box scores use Ceruso."
+      "scheduleNote": "Complete 11-opponent schedule and ten pre-Thanksgiving results transcribed from the supplied 2003 Daily Item Thanksgiving preview; season 3–8. The Peabody Thanksgiving result remains L 8–35 from the previously documented game account; the supplied preview was printed before that game and does not establish its final score. Exact dates for the first ten games are not established by this source. Previously listed Beverly, Marblehead and Lynn Classical results agree with the preview."
     },
     {
       "year": 2004,
