@@ -6500,12 +6500,17 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 604,
-        "Rushing Touchdowns": 9
+        "Rushing Touchdowns": 6
       },
       "row": 14,
       "statSources": {
         "Rushing Yards": {
           "clipping": "IMG_3326.jpg"
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring runs against Winthrop, Marblehead (two), Lynn English, Swampscott and Beverly. The senior profile reports nine touchdowns without specifying that all were rushing."
         }
       }
     },
@@ -8621,11 +8626,17 @@
       "name": "George Lowe",
       "schoolClass": "Sr.",
       "values": {
-        "Kick Return Yards": 405
+        "Kick Return Yards": 405,
+        "Kick Return Touchdowns": 1
       },
       "statSources": {
         "Kick Return Yards": {
           "clipping": "IMG_3326.jpg"
+        },
+        "Kick Return Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "85-yard kickoff return against Salem."
         }
       }
     },
@@ -8635,11 +8646,12 @@
       "name": "George Lowe",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 9
+        "Total Touchdowns": 9
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3326.jpg"
+        "Total Touchdowns": {
+          "clipping": "IMG_3326.jpg; contributed 1999 newspaper box scores",
+          "note": "The senior profile reports nine touchdowns. The box scores identify six rushing, two receiving and one kickoff return touchdown."
         }
       }
     },
@@ -16415,6 +16427,430 @@
           "partial": true,
           "clipping": "Contributed 2002 newspaper game reports and box scores",
           "note": "Fumble recovery against Gloucester and a 10-yard sack at Peabody."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1999,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 175,
+        "Passing Touchdowns": 8,
+        "Completions": 8,
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Yards and completions are from eight scoring passes. Also threw a two-point pass to Mike Lush against Swampscott."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Yards and completions are from eight scoring passes. Also threw a two-point pass to Mike Lush against Swampscott."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Yards and completions are from eight scoring passes. Also threw a two-point pass to Mike Lush against Swampscott."
+        },
+        "Conversion Passes": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Yards and completions are from eight scoring passes. Also threw a two-point pass to Mike Lush against Swampscott."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1999,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 17,
+        "Rushing Touchdowns": 2,
+        "Carries": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring runs of 14 yards against Methuen and three yards against Lynn English."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring runs of 14 yards against Methuen and three yards against Lynn English."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring runs of 14 yards against Methuen and three yards against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 16,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two rushing touchdowns and two two-point runs against Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two rushing touchdowns and two two-point runs against Marblehead."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two rushing touchdowns and two two-point runs against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1999,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 19,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of 11 yards against Winthrop and eight yards against Lynn English."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of 11 yards against Winthrop and eight yards against Lynn English."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of 11 yards against Winthrop and eight yards against Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1999,
+      "name": "Mike Navarro",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 61,
+        "Receptions": 3,
+        "Receiving Touchdowns": 3
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of three yards against Winthrop, 10 against Swampscott and 48 against Salem."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of three yards against Winthrop, 10 against Swampscott and 48 against Salem."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Scoring catches of three yards against Winthrop, 10 against Swampscott and 48 against Salem."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1999,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 15,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring catch against Salem."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring catch against Salem."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring catch against Salem."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1999,
+      "name": "Patrick Eaton",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 5,
+        "Rushing Touchdowns": 1,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Five-yard scoring run against Lynn Classical."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Five-yard scoring run against Lynn Classical."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Five-yard scoring run against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1999,
+      "name": "Patrick Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 3,
+        "Rushing Touchdowns": 1,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Three-yard scoring run against Marblehead."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Three-yard scoring run against Marblehead."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Three-yard scoring run against Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1999,
+      "name": "T. Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 15,
+        "Rushing Touchdowns": 1,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring run against Salem. The box gives only the first initial."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring run against Salem. The box gives only the first initial."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "15-yard scoring run against Salem. The box gives only the first initial."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 15,
+        "Two-Point Conversions": 1,
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two touchdown catches, a two-point catch against Swampscott and an extra point against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two touchdown catches, a two-point catch against Swampscott and an extra point against Lynn Classical."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two touchdown catches, a two-point catch against Swampscott and an extra point against Lynn Classical."
+        },
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Two touchdown catches, a two-point catch against Swampscott and an extra point against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Mike Navarro",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Three touchdown catches."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Three touchdown catches."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One touchdown catch."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One touchdown catch."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Patrick Eaton",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 10,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown and two-point runs against Marblehead and Lynn English."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown and two-point runs against Marblehead and Lynn English."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown and two-point runs against Marblehead and Lynn English."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "Patrick Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1999,
+      "name": "T. Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown. The Salem box gives only the first initial."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "One rushing touchdown. The Salem box gives only the first initial."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1999,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 1999 newspaper box scores",
+          "note": "Made the extra point against Lynn Classical."
         }
       }
     }

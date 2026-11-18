@@ -5847,15 +5847,69 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Methuen",
+          "result": "W 6–0",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "Winthrop",
+          "result": "L 24–25",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "Marblehead",
+          "result": "W 30–14",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at Lynn English",
+          "result": "L 20–27",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 20–12",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at Lynn Classical",
+          "result": "L 7–40",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at Salem",
+          "result": "L 24–60",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at Beverly",
+          "result": "L 6–38",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at Gloucester",
+          "result": "L 0–35",
+          "status": "Newspaper box score"
+        },
+        {
+          "date": "Nov. 25",
           "opponent": "Peabody",
-          "result": "L 0–36",
+          "result": "L 0–40",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The contributed newspaper box scores cover 10 of 11 games. One loss remains undocumented in this game log. The Winthrop box lists three Saugus touchdowns against a 24-point team total. The Salem headline and scoring plays establish the 60–24 result despite transposed team labels in the quarter-by-quarter table.",
       "seasonSources": [
         {
-          "label": "Thanksgiving result · IMG_3610.jpg",
+          "label": "Historical Thanksgiving table · lists a conflicting 0–36 score",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
         },
         {
@@ -5879,7 +5933,8 @@
           "url": "documents/1999-boston-globe-division-3-all-stars.jpeg"
         }
       ],
-      "captainsNote": "George Lowe captain designation supplied by Sal Nicolo. Brian Mirasolo captain designation confirmed by supplied newspaper clipping; 1999 season identified by Sal Nicolo."
+      "captainsNote": "George Lowe captain designation supplied by Sal Nicolo. Brian Mirasolo captain designation confirmed by supplied newspaper clipping; 1999 season identified by Sal Nicolo.",
+      "seasonNote": "Dean Sacca’s first Saugus team opened with a 6–0 win over Methuen on Kyle Sucharewicz’s 14-yard fourth-quarter touchdown run. The Sachems lost 25–24 to Winthrop, then beat Marblehead 30–14 behind three George Lowe touchdowns. After a 27–20 loss at Lynn English, Saugus beat Swampscott 20–12. Lowe scored on a 5-yard run and a 65-yard pass from Sucharewicz, who also hit Mike Navarro for a 10-yard touchdown. Saugus was 3–2 after that win and 3–3 after a loss at Lynn Classical.\n\nLowe returned a kickoff 85 yards for a touchdown at Salem. Sucharewicz threw touchdown passes to Mark Pizzotti and Navarro, and the box credits T. Shidlow with a 15-yard scoring run. Lowe scored the lone Saugus touchdown at Beverly. The Sachems closed with shutout losses at Gloucester and at home to Peabody on Thanksgiving and finished 3–8. Lowe’s senior profile credits him with 604 rushing yards, 27 catches for 148 yards, 72 tackles and four interceptions."
     },
     {
       "year": 2000,
