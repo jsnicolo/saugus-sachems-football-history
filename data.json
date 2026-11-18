@@ -5949,19 +5949,74 @@
       "games": [
         {
           "date": "—",
-          "opponent": "Peabody",
+          "opponent": "at Winthrop",
+          "result": "L 20–28",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "L 7–21",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "at Swampscott",
+          "result": "W 13–10",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn Classical",
+          "result": "L 8–36",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "at Danvers",
+          "result": "L 18–20",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem",
+          "result": "L 7–14",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly",
+          "result": "L 8–13",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 8–47",
+          "status": "Played"
+        },
+        {
+          "date": "—",
+          "opponent": "at Marblehead",
+          "result": "W 26–6",
+          "status": "Played"
+        },
+        {
+          "date": "2000-11-23",
+          "opponent": "at Peabody",
           "result": "L 6–22",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Results and sites follow ten contributed newspaper box scores. The 22–6 Thanksgiving result and 2–8 finish match the archive’s 2000 records. The Swampscott, Gloucester and Marblehead boxes give inconsistent running records. The schedule uses the game scores and places Gloucester between Beverly and Marblehead. Dates for the first nine games are undocumented in the supplied boxes.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3610.webp"
         }
       ],
-      "captainsNote": "Captain names supplied by Sal Nicolo."
+      "captainsNote": "Captain names supplied by Sal Nicolo.",
+      "seasonNote": "Dean Sacca’s second Saugus team finished 2–8. At Winthrop, Kyle Sucharewicz threw a 31-yard touchdown pass to Patrick Eaton and scored on a one-yard run. Pat Quinlan also ran for a touchdown and a two-point conversion in the 28–20 loss. Sucharewicz hit Billy Robinson for a five-yard touchdown against Lynn English, and Robinson added the kick. Quinlan scored both touchdowns in the 13–10 win at Swampscott, breaking a 10–7 halftime deficit with a 60-yard run in the third quarter.\n\nTom Shidlow ran for a 10-yard touchdown against Lynn Classical, and Chris Finn threw to Chris Benson for two points. At Danvers, Sucharewicz scored from a yard out and Eaton ran for touchdowns of 72 and 10 yards. Danvers overcame a 12–0 deficit to win 20–18. Eaton’s 40-yard touchdown run and Robinson’s extra point put Saugus ahead 7–6 in the third quarter against Salem, which won 14–7. Robinson caught a 25-yard touchdown pass and Quinlan ran in the conversion in a 13–8 loss to Beverly. Shidlow scored from three yards out against Gloucester, with David Diluigi running in the conversion.\n\nSaugus led 20–0 after one quarter in its 26–6 win at Marblehead. Sucharewicz threw touchdown passes to Mark Pizzotti, Eaton and Shidlow and hit Adam Magnasco for a two-point conversion. Eaton added a 20-yard touchdown run. On Thanksgiving at Peabody, Saugus scored on an interception return in the third quarter of a 22–6 loss. The box score leaves the returner unnamed. The Swampscott box lists Phil Robinson on the extra point, while the Lynn English and Salem boxes credit Billy Robinson; the Swampscott kick remains separate from Billy’s totals."
     },
     {
       "year": 2001,

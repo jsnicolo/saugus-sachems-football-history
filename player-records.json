@@ -16853,6 +16853,490 @@
           "note": "Made the extra point against Lynn Classical."
         }
       }
+    },
+    {
+      "category": "Passing",
+      "year": 2000,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 141,
+        "Completions": 6,
+        "Passing Touchdowns": 6,
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Six scoring passes against Winthrop (31 yards), Lynn English (5), Beverly (25) and Marblehead (25, 40 and 15). He also threw a two-point pass to Adam Magnasco at Marblehead."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Six scoring passes against Winthrop (31 yards), Lynn English (5), Beverly (25) and Marblehead (25, 40 and 15). He also threw a two-point pass to Adam Magnasco at Marblehead."
+        },
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Six scoring passes against Winthrop (31 yards), Lynn English (5), Beverly (25) and Marblehead (25, 40 and 15). He also threw a two-point pass to Adam Magnasco at Marblehead."
+        },
+        "Conversion Passes": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Six scoring passes against Winthrop (31 yards), Lynn English (5), Beverly (25) and Marblehead (25, 40 and 15). He also threw a two-point pass to Adam Magnasco at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2000,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 2,
+        "Carries": 2,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs at Winthrop and Danvers."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs at Winthrop and Danvers."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "One-yard touchdown runs at Winthrop and Danvers."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2000,
+      "name": "Patrick Eaton",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 142,
+        "Carries": 4,
+        "Rushing Touchdowns": 4
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Danvers (72 and 10 yards), against Salem (40) and at Marblehead (20)."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Danvers (72 and 10 yards), against Salem (40) and at Marblehead (20)."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Danvers (72 and 10 yards), against Salem (40) and at Marblehead (20)."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2000,
+      "name": "Pat Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 91,
+        "Carries": 3,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Winthrop (3 yards) and Swampscott (28 and 60)."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Winthrop (3 yards) and Swampscott (28 and 60)."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs at Winthrop (3 yards) and Swampscott (28 and 60)."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 2000,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 13,
+        "Carries": 2,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs against Lynn Classical (10 yards) and Gloucester (3)."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs against Lynn Classical (10 yards) and Gloucester (3)."
+        },
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown runs against Lynn Classical (10 yards) and Gloucester (3)."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2000,
+      "name": "Patrick Eaton",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 71,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches at Winthrop (31 yards) and Marblehead (40)."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches at Winthrop (31 yards) and Marblehead (40)."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches at Winthrop (31 yards) and Marblehead (40)."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2000,
+      "name": "Billy Robinson",
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Yards": 30,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches against Lynn English (5 yards) and Beverly (25)."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches against Lynn English (5 yards) and Beverly (25)."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Touchdown catches against Lynn English (5 yards) and Beverly (25)."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2000,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 25,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "25-yard touchdown catch at Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "25-yard touchdown catch at Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "25-yard touchdown catch at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 2000,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 15,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "15-yard touchdown catch at Marblehead."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "15-yard touchdown catch at Marblehead."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "15-yard touchdown catch at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 2000,
+      "name": "Chris Finn",
+      "schoolClass": "",
+      "values": {
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Conversion Passes": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point pass to Chris Benson against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Patrick Eaton",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 6,
+        "Points": 36
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Four rushing and two receiving touchdowns."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Four rushing and two receiving touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Pat Quinlan",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Two-Point Conversions": 2,
+        "Points": 22
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns and two-point runs against Winthrop and Beverly."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns and two-point runs against Winthrop and Beverly."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Three rushing touchdowns and two-point runs against Winthrop and Beverly."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Kyle Sucharewicz",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Rushing touchdowns at Winthrop and Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Rushing touchdowns at Winthrop and Danvers."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Tom Shidlow",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two rushing touchdowns and one receiving touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two rushing touchdowns and one receiving touchdown."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Billy Robinson",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2,
+        "Extra Points": 2,
+        "Points": 14
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two receiving touchdowns. Extra points against Lynn English and Salem. The Swampscott box names Phil Robinson on its kick."
+        },
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two receiving touchdowns. Extra points against Lynn English and Salem. The Swampscott box names Phil Robinson on its kick."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two receiving touchdowns. Extra points against Lynn English and Salem. The Swampscott box names Phil Robinson on its kick."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Mark Pizzotti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Receiving touchdown at Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Receiving touchdown at Marblehead."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Chris Benson",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point catch from Chris Finn against Lynn Classical."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point catch from Chris Finn against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "David Diluigi",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Gloucester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point run against Gloucester."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2000,
+      "name": "Adam Magnasco",
+      "schoolClass": "Sr.",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point catch from Kyle Sucharewicz at Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
+          "note": "Two-point catch from Kyle Sucharewicz at Marblehead."
+        }
+      }
     }
   ],
   "hallOfFame": {
