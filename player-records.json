@@ -4670,7 +4670,7 @@
       "name": "Mike Nicolo",
       "position": "RB",
       "schoolClass": "2005",
-      "bio": "Saugus High School Athletic Hall of Fame inductee (Class of 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, his athletic success extended beyond football—he was an All-Scholastic selection in Winter Track as a sophomore and in Baseball as a junior.\n\nHis 2003 Item All-Star capsule credits him with 1,462 rushing yards on 260 carries and 11 touchdowns, NEC All-Star honors and Herald and Globe player-of-the-week recognition. His senior season also produced a memorable win over Beverly: the Item’s weekly roundup credited him with 241 yards on 37 touches and four touchdowns, bringing his two-week total above 500 yards.\n\nHe continued his football career at Curry College, contributing at defensive back and on special teams during the Colonels’ championship era. Curry’s 12–1 team from the 2007 season, later inducted into the college’s Athletic Hall of Fame in 2021, won the NEFC title and defeated Hartwick 42–21 for the program’s first NCAA playoff victory. Nicolo recorded three tackles in the following playoff round at St. John Fisher. Curry later defeated his father John’s alma mater, Ithaca, 26–21 in the 2008 playoffs; a contemporary Ithaca preview reports that a shoulder injury had kept Mike out that season.\n\nWith his induction into the Saugus High School Athletic Hall of Fame in 2026, Mike joins his grandfather, Salvatore “Sardi” Nicolo, and his father, John Nicolo, in the Hall. Together, they become the first three generations of one family to be inducted into the school’s Athletic Hall of Fame—a milestone in the Nicolo family’s Saugus sports legacy. His brother Sal was a two-way starter for the Sachems at fullback and linebacker in 2001 and 2002.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee (Class of 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, he remained a central part of the 2004 offense. In the surviving 11 game-scoring summaries he is credited with at least seven rushing touchdowns: 61 yards against Revere, four yards against Winthrop, six and two yards against Salem, 11 and one yards against Lynn English, and one yard against Swampscott. He also converted two-point runs against Lynn English and Swampscott. These are documented minimums, not complete season rushing totals.  his athletic success extended beyond football—he was an All-Scholastic selection in Winter Track as a sophomore and in Baseball as a junior.\n\nHis 2003 Item All-Star capsule credits him with 1,462 rushing yards on 260 carries and 11 touchdowns, NEC All-Star honors and Herald and Globe player-of-the-week recognition. An Item weekly roundup from his junior campaign credited him with 241 yards on 37 touches and four touchdowns against Beverly, bringing his two-week total above 500 yards. His senior team finished 0–11 in 2004.\n\nHe continued his football career at Curry College, contributing at defensive back and on special teams during the Colonels’ championship era. Curry’s 12–1 team from the 2007 season, later inducted into the college’s Athletic Hall of Fame in 2021, won the NEFC title and defeated Hartwick 42–21 for the program’s first NCAA playoff victory. Nicolo recorded three tackles in the following playoff round at St. John Fisher. Curry later defeated his father John’s alma mater, Ithaca, 26–21 in the 2008 playoffs; a contemporary Ithaca preview reports that a shoulder injury had kept Mike out that season.\n\nWith his induction into the Saugus High School Athletic Hall of Fame in 2026, Mike joins his grandfather, Salvatore “Sardi” Nicolo, and his father, John Nicolo, in the Hall. Together, they become the first three generations of one family to be inducted into the school’s Athletic Hall of Fame—a milestone in the Nicolo family’s Saugus sports legacy. His brother Sal was a two-way starter for the Sachems at fullback and linebacker in 2001 and 2002.",
       "row": 21,
       "hallOfFameYear": 2026,
       "sources": [
@@ -17387,6 +17387,201 @@
           "partial": true,
           "clipping": "Contributed 2000 Saugus varsity football newspaper box scores",
           "note": "Two-point catch from Kyle Sucharewicz at Marblehead."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Mike Nicolo",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 7
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Mike Nicolo",
+      "category": "Scoring",
+      "values": {
+        "Rushing Touchdowns": 7,
+        "Total Touchdowns": 7,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Rob Gannon",
+      "category": "Scoring",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Total Touchdowns": 2,
+        "Two-Point Conversions": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Mike Howard",
+      "category": "Scoring",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Total Touchdowns": 2,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Kevin Davis",
+      "category": "Scoring",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Frank LoConte",
+      "category": "Scoring",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Total Touchdowns": 1,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Two-Point Conversions": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Nick Serino",
+      "category": "Scoring",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Rob Gannon",
+      "category": "Passing",
+      "values": {
+        "Passing Touchdowns": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "name": "Mike DiChiara",
+      "category": "Passing",
+      "values": {
+        "Passing Touchdowns": 2
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "2004 newspaper game scoring summaries, 11 games",
+          "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
         }
       }
     }
