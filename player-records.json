@@ -8130,13 +8130,19 @@
       "schoolClass": "Sr.",
       "values": {
         "Two-Point Conversions": 5,
-        "Points": 64
+        "Points": 64,
+        "Total Touchdowns": 9
       },
       "statSources": {
         "Two-Point Conversions": {
           "clipping": "1977 Division 2 season leaders chart"
         },
         "Points": {
+          "clipping": "IMG_3321.jpg; 1977 Division 2 season leaders chart"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 9 receiving touchdowns.",
           "clipping": "IMG_3321.jpg; 1977 Division 2 season leaders chart"
         }
       }
@@ -8202,10 +8208,10 @@
       "name": "Paul Nigro",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 16
+        "Total Touchdowns": 16
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_3385.jpg"
         }
       }
@@ -8390,10 +8396,10 @@
       "name": "Steve Peach",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 8
+        "Total Touchdowns": 8
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_3389.jpg"
         }
       }
@@ -8463,10 +8469,10 @@
       "name": "Ryan Magnasco",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 8
+        "Total Touchdowns": 8
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_3398.jpg"
         }
       }
@@ -8560,10 +8566,10 @@
       "name": "Mike Panzini",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 1
+        "Total Touchdowns": 1
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_3360.jpg"
         }
       }
@@ -8741,17 +8747,17 @@
       "name": "Mike Nicolo",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 11,
-        "Two-Point Conversions": 2
+        "Two-Point Conversions": 2,
+        "Total Touchdowns": 11
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3256.jpg"
-        },
         "Two-Point Conversions": {
           "partial": true,
           "clipping": "Contributed 2003 Saugus varsity football newspaper box scores",
           "note": "Two-point runs at Lynn Classical and against Peabody."
+        },
+        "Total Touchdowns": {
+          "clipping": "IMG_3256.jpg"
         }
       }
     },
@@ -8776,16 +8782,16 @@
       "name": "Brett Reid",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 13,
-        "Points": 82
+        "Points": 82,
+        "Total Touchdowns": 13
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Points": {
           "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
         },
-        "Points": {
+        "Total Touchdowns": {
           "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
@@ -8798,10 +8804,10 @@
       "name": "Tyler Trainor",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 5
+        "Total Touchdowns": 5
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_3376.jpg"
         }
       }
@@ -8812,16 +8818,16 @@
       "name": "Brett Reid",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 13,
-        "Points": 78
+        "Points": 78,
+        "Total Touchdowns": 13
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Points": {
           "clipping": "1D991A0F-C2A7-47A0-B3E9-9BF8EA5EC883.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
         },
-        "Points": {
+        "Total Touchdowns": {
           "clipping": "1D991A0F-C2A7-47A0-B3E9-9BF8EA5EC883.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2008-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
@@ -8835,13 +8841,13 @@
       "schoolClass": "Sr.",
       "values": {
         "Conversions (type unspecified)": 2,
-        "Touchdowns (type unspecified)": 19
+        "Total Touchdowns": 19
       },
       "statSources": {
         "Conversions (type unspecified)": {
           "clipping": "IMG_4142.jpg"
         },
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_4142.jpg"
         }
       }
@@ -8852,10 +8858,10 @@
       "name": "Justin Winn",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 19
+        "Total Touchdowns": 19
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_4147.jpg"
         }
       }
@@ -8866,10 +8872,10 @@
       "name": "Justin Winn",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 22
+        "Total Touchdowns": 22
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_4149.jpg"
         }
       }
@@ -8930,10 +8936,10 @@
       "name": "Cody Munafo",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 9
+        "Total Touchdowns": 9
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_4164.jpg"
         }
       }
@@ -8960,13 +8966,13 @@
       "schoolClass": "Sr.",
       "values": {
         "Conversions (type unspecified)": 2,
-        "Touchdowns (type unspecified)": 10
+        "Total Touchdowns": 10
       },
       "statSources": {
         "Conversions (type unspecified)": {
           "clipping": "IMG_4167.jpg"
         },
-        "Touchdowns (type unspecified)": {
+        "Total Touchdowns": {
           "clipping": "IMG_4167.jpg"
         }
       }
@@ -8977,16 +8983,16 @@
       "name": "Mike Dean",
       "schoolClass": "Jr.",
       "values": {
-        "Touchdowns (type unspecified)": 10,
-        "Points": 64
+        "Points": 64,
+        "Total Touchdowns": 10
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
+        "Points": {
           "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
         },
-        "Points": {
+        "Total Touchdowns": {
           "clipping": "0F488AE8-0F07-4EFF-B719-CE4EEF947DFA.png",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/sources/2007-division3-dean-reid-scoring.png",
           "note": "Division 3 scoring leaderboard; season identified by contributor."
@@ -9124,11 +9130,17 @@
       "name": "Paul Nigro",
       "schoolClass": "Jr.",
       "values": {
-        "Points": 42
+        "Points": 42,
+        "Total Touchdowns": 7
       },
       "statSources": {
         "Points": {
           "clipping": "1977 scoring summaries · all ten games"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 5 rushing touchdowns; 1 receiving touchdowns; 1 kickoff return touchdowns.",
+          "clipping": "1977 scoring summaries · Winthrop, Danvers, Gloucester and Peabody · 1977 scoring summaries · Danvers · 1977 scoring summaries · Lynn English"
         }
       }
     },
@@ -9203,12 +9215,18 @@
       "name": "Mike Furey",
       "schoolClass": "So.",
       "values": {
-        "Points": 8
+        "Points": 8,
+        "Total Touchdowns": 1
       },
       "statSources": {
         "Points": {
           "clipping": "1977 scoring summaries · Danvers",
           "note": "One rushing touchdown and a two-point run."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 rushing touchdowns.",
+          "clipping": "1977 scoring summaries · Danvers"
         }
       }
     },
@@ -9233,13 +9251,19 @@
       "name": "John Coffey",
       "schoolClass": "Sr.",
       "values": {
-        "Points": 48
+        "Points": 48,
+        "Total Touchdowns": 8
       },
       "statSources": {
         "Points": {
           "clipping": "1977 scoring summaries · Gloucester, Marblehead, Beverly and Lynn English",
           "partial": true,
           "note": "Eight touchdowns. The Winthrop summary credits a two-point run to “Jack Coffey.”"
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 rushing touchdowns; 6 receiving touchdowns; 1 punt return touchdowns.",
+          "clipping": "1977 scoring summaries · Lynn English · IMG_3324.jpg; 1977 Division 2 season leaders chart · 1977 scoring summaries · Gloucester"
         }
       }
     },
@@ -9249,13 +9273,19 @@
       "name": "Dan Hashem",
       "schoolClass": "Sr.",
       "values": {
-        "Points": 12
+        "Points": 12,
+        "Total Touchdowns": 2
       },
       "statSources": {
         "Points": {
           "clipping": "1977 scoring summaries · Gloucester and Swampscott",
           "partial": true,
           "note": "The Winthrop summary lists “Don Hashem” on a separate touchdown."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 2 rushing touchdowns.",
+          "clipping": "1977 scoring summaries · Gloucester and Swampscott"
         }
       }
     },
@@ -9548,13 +9578,19 @@
       "name": "Tom Heaney",
       "schoolClass": "Sr.",
       "values": {
-        "Points": 42
+        "Points": 42,
+        "Total Touchdowns": 6
       },
       "statSources": {
         "Points": {
           "clipping": "1975 newspaper scoring summaries · Winthrop, Marblehead, Lynn English, Swampscott, Lynn Classical, Salem and Gloucester",
           "partial": true,
           "note": "Six rushing touchdowns and three two-point conversions."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 6 rushing touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Winthrop, Lynn English, Swampscott, Lynn Classical and Gloucester"
         }
       }
     },
@@ -9564,13 +9600,19 @@
       "name": "Frank Scuzzarella",
       "schoolClass": "Sr.",
       "values": {
-        "Points": 44
+        "Points": 44,
+        "Total Touchdowns": 6
       },
       "statSources": {
         "Points": {
           "clipping": "1975 newspaper scoring summaries · Winthrop, Lynn English, Danvers, Lynn Classical, Salem, Beverly and Gloucester",
           "partial": true,
           "note": "Six receiving touchdowns and four two-point conversions."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 6 receiving touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Winthrop, Danvers, Lynn Classical, Salem and Beverly"
         }
       }
     },
@@ -9580,13 +9622,19 @@
       "name": "Steve Gannon",
       "schoolClass": "Sr.",
       "values": {
-        "Points": 20
+        "Points": 20,
+        "Total Touchdowns": 3
       },
       "statSources": {
         "Points": {
           "clipping": "1975 newspaper scoring summaries · Winthrop, Lynn English and Lynn Classical",
           "partial": true,
           "note": "Three rushing touchdowns and a safety."
+        },
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 3 rushing touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Winthrop and Lynn English"
         }
       }
     },
@@ -10212,10 +10260,16 @@
       "name": "Ken Richards",
       "schoolClass": "",
       "values": {
-        "Fumble Recoveries": 1
+        "Fumble Recoveries": 1,
+        "Fumble Recovery Touchdowns": 1
       },
       "statSources": {
         "Fumble Recoveries": {
+          "clipping": "Oct. 29 · Revere game report",
+          "partial": true,
+          "note": "Richards recovered a Revere fumble for a touchdown."
+        },
+        "Fumble Recovery Touchdowns": {
           "clipping": "Oct. 29 · Revere game report",
           "partial": true,
           "note": "Richards recovered a Revere fumble for a touchdown."
@@ -12296,10 +12350,17 @@
       "name": "Ernie Anganis",
       "schoolClass": "Sr.",
       "values": {
-        "Fumble Recoveries": 1
+        "Fumble Recoveries": 1,
+        "Fumble Recovery Touchdowns": 1
       },
       "statSources": {
         "Fumble Recoveries": {
+          "clipping": "1947 Brookline game account · newspaper and Tontoquonian",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-saugus-brookline.webp",
+          "partial": true,
+          "note": "Recovered a Brookline fumble in the end zone for a touchdown."
+        },
+        "Fumble Recovery Touchdowns": {
           "clipping": "1947 Brookline game account · newspaper and Tontoquonian",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1947-boston-globe-saugus-brookline.webp",
           "partial": true,
@@ -15636,10 +15697,16 @@
       "name": "Don Murray",
       "schoolClass": "Sr.",
       "values": {
-        "Fumble Recoveries": 1
+        "Fumble Recoveries": 1,
+        "Fumble Recovery Touchdowns": 1
       },
       "statSources": {
         "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "Contemporary 1966 game reports and scoring summaries",
+          "note": "Returned a fumble 65 yards for a touchdown against B.C. High."
+        },
+        "Fumble Recovery Touchdowns": {
           "partial": true,
           "clipping": "Contemporary 1966 game reports and scoring summaries",
           "note": "Returned a fumble 65 yards for a touchdown against B.C. High."
@@ -16851,6 +16918,386 @@
           "partial": true,
           "clipping": "Contributed 1999 newspaper box scores",
           "note": "Made the extra point against Lynn Classical."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1950,
+      "name": "Leo Kane",
+      "schoolClass": "Sr.",
+      "values": {
+        "Blocked Kick Return Touchdowns": 2
+      },
+      "statSources": {
+        "Blocked Kick Return Touchdowns": {
+          "clipping": "1950 contemporary game reports and 1951 Tontoquonian Football Folio",
+          "note": "Returned a blocked kick 33 yards against Chelsea and 10 yards against Lynn English. The Lynn English report also credits Kane with the block."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1951,
+      "name": "Charlie Murphy",
+      "schoolClass": "Sr.",
+      "values": {
+        "Blocked Kick Return Touchdowns": 2
+      },
+      "statSources": {
+        "Blocked Kick Return Touchdowns": {
+          "clipping": "Boston Globe · 1951 All-Scholastic profile and Sept. 22 Revere game report",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1951-boston-globe-saugus-revere-24-6.webp",
+          "note": "The All-Scholastic profile credits Murphy with two touchdowns on blocked kicks. The Revere report documents one as a punt block and return."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1986,
+      "name": "Darren McCullough",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 11
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 11 rushing touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Ryan Lahey",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 5
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 5 rushing touchdowns.",
+          "clipping": "IMG_2671.jpeg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2008,
+      "name": "Mike Dean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 17
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 17 rushing touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2014,
+      "name": "Dan Cacciola",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 18 rushing touchdowns.",
+          "clipping": "IMG_4150.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2019,
+      "name": "Marvens Jean",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 13
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 12 rushing touchdowns; 1 kickoff return touchdowns.",
+          "clipping": "IMG_4158.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "George Nicolo",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 2 rushing touchdowns.",
+          "clipping": "IMG_3322.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1978,
+      "name": "Steve Peach",
+      "schoolClass": "So.",
+      "values": {
+        "Total Touchdowns": 3
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 3 rushing touchdowns.",
+          "clipping": "IMG_3387.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1979,
+      "name": "Steve Peach",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 4
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 4 rushing touchdowns.",
+          "clipping": "IMG_3381.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 7
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 7 rushing touchdowns.",
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1978,
+      "name": "Bill Peach",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 7
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 7 receiving touchdowns.",
+          "clipping": "IMG_3386.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1979,
+      "name": "Gary Quinlan",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 5
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 5 receiving touchdowns.",
+          "clipping": "IMG_3382.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 9
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 9 receiving touchdowns."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Matt Wass",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 2 receiving touchdowns.",
+          "clipping": "IMG_2671.jpeg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2017,
+      "name": "Ricky Martinez",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 7
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 3 rushing touchdowns; 4 receiving touchdowns.",
+          "clipping": "IMG_4156.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1977,
+      "name": "Tim Fawcett",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 receiving touchdowns.",
+          "clipping": "1977 scoring summaries · Danvers"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 2023,
+      "name": "Braden Faiella",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 interception return touchdowns.",
+          "clipping": "IMG_4162.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1981,
+      "name": "Bob Lessard",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 4
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 4 rushing touchdowns.",
+          "clipping": "IMG_4165.jpg"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1975,
+      "name": "Jay LeBranti",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 2 rushing touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Danvers and Gloucester"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1975,
+      "name": "Frank Serino",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 rushing touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Gloucester"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1975,
+      "name": "Dan Hashem",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 receiving touchdowns.",
+          "clipping": "1975 newspaper scoring summaries · Winthrop"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1941,
+      "name": "Claude Collette",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 1 receiving touchdowns.",
+          "clipping": "1942 Tontoquonian Football Folio"
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1951,
+      "name": "Charlie Murphy",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "note": "Documented touchdowns scored: 2 blocked kick return touchdowns.",
+          "clipping": "Boston Globe · 1951 All-Scholastic profile and Sept. 22 Revere game report"
         }
       }
     }
