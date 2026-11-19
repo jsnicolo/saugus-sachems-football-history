@@ -5522,10 +5522,10 @@
       "league": "Northeastern Conference",
       "title": null,
       "players": "Ryan Magnasco (Captain), Dan Schena (Captain), Chris Mikulski (Captain)",
-      "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Hefferman - NEC\nTodd Leccese - NEC\nChris Miuriski - NEC",
+      "awards": "Ryan Magnasco - Lynn Item and NEC\nDan Schena - Boston Globe D3, Lynn Item, NEC \nChris Tringale - NEC\nJustin Barrett - NEC\nBill Heffernan - NEC\nTodd Leccese - NEC\nChris Mikulski - NEC",
       "nickname": "Sachems",
       "sourceRow": 97,
-      "seasonNote": "Kevin Ward’s final Saugus team finished 8–2 under tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski. The yearbook credits the team with a then-school-record 288 points, topping the previous mark of 284, and with seven Northeastern Conference All-Stars, the most Saugus had placed on the team at that point. It also recalls a five-touchdown performance against Gloucester and three touchdown passes against Marblehead.\n\nIn a 29–6 win over Beverly, Magnasco rushed for 182 yards and earned a Gold Helmet. The Item’s All-Star profile and the yearbook credit him with four touchdowns, while Bob Sacco’s game account credits three and identifies John Cinelli at quarterback. The Item credited Magnasco with 583 rushing yards and eight touchdowns on 125 carries. Magnasco at linebacker and Schena on the line each made more than 100 tackles.\n\nSaugus entered Thanksgiving at 8–1 with an outside chance at a Division 3 Super Bowl berth. Unbeaten Peabody was pursuing a Division 1 berth and won 39–8. The conference selected Magnasco, Schena, Mikulski, Chris Tringale, Justin Barrett, Bill Heffernan and Todd Leccese. Magnasco and Schena also made the Item’s All-Star team.",
+      "seasonNote": "Kevin Ward’s final Saugus team finished 8–2 under senior tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski. The ten final scores give Saugus 284 points scored and 128 allowed. The Globe’s Thanksgiving account called 284 a school record, surpassing 281 in 1949. The yearbook instead reported 288 points.\n\nSaugus scored 122 points in its first three wins. Greg Blake and Justin Barrett each ran for two touchdowns at Winthrop. At Stackpole Field against Gloucester, Barrett gained 157 yards on 14 carries and scored five times, three in the first quarter. John Cinelli threw three touchdown passes at Marblehead, including an 87-yarder to Mikulski and two to Bill Leahy. Chris Tringale returned an interception 20 yards for a score.\n\nLynn English handed Saugus its first loss, 26–14, after Mikulski’s five-yard run and Todd Leccese’s kick tied the game in the third quarter. Barrett returned the second-half kickoff 55 yards. The Sachems answered with five straight wins, shutting out Lynn Classical and Salem. Cinelli found Mikulski for two touchdowns at Danvers, where Brian Andrettola broke a 72-yard scoring run. Schena recovered a fumble in the end zone against Salem. Magnasco earned a Gold Helmet against Beverly with 182 yards on 32 carries and four rushing touchdowns, from 4, 4, 14 and 6 yards.\n\nAt 8–1, Saugus entered Thanksgiving with an outside chance at the Division 3 Super Bowl. Peabody won 39–8 before a reported crowd of 9,500. A bad punt snap gave Saugus a safety and Magnasco ran three yards for his eighth touchdown. He finished with 583 yards on 125 carries. Magnasco and Schena each recorded more than 100 tackles and made the Item All-Star team. Seven Saugus seniors earned NEC honors, and Schena also made the Division 3 defensive line.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_1257.heic · original scan unavailable"
@@ -5557,24 +5557,65 @@
         {
           "label": "Daily Evening Item · Dan Schena’s All-Star profile",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/honors-IMG_3399.webp"
+        },
+        {
+          "label": "Contributed 1990 scoring summaries for all ten games, Boston Globe game reports, Division 3 leaders and postseason All-Star rosters."
         }
       ],
       "games": [
         {
-          "date": "—",
-          "opponent": "Beverly",
-          "result": "W 29–6",
-          "status": "Played",
-          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+          "opponent": "at Winthrop",
+          "result": "W 40–6",
+          "status": "Played"
         },
         {
-          "date": "1990-11-22",
-          "opponent": "Peabody",
+          "opponent": "Gloucester",
+          "result": "W 41–16",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Marblehead",
+          "result": "W 41–14",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynn English",
+          "result": "L 14–26",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Swampscott",
+          "result": "W 28–6",
+          "status": "Played"
+        },
+        {
+          "opponent": "Lynn Classical",
+          "result": "W 21–0",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Danvers",
+          "result": "W 42–15",
+          "status": "Played"
+        },
+        {
+          "opponent": "Salem",
+          "result": "W 20–0",
+          "status": "Played"
+        },
+        {
+          "opponent": "Beverly",
+          "result": "W 29–6",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Peabody",
           "result": "L 8–39",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "date": "1990-11-22"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented."
+      "scheduleNote": "All ten games are listed in playing order. The Danvers headline, quarter scores and six scoring plays confirm 42 points despite a printed total of 28."
     },
     {
       "year": 1991,
