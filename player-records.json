@@ -6645,16 +6645,21 @@
     {
       "category": "Rushing",
       "year": 1998,
-      "name": "Ryan Lahey",
+      "name": "Ryan Leahy",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": null,
+        "Rushing Yards": 29,
         "Rushing Touchdowns": 5
       },
       "statSources": {
         "Rushing Touchdowns": {
-          "clipping": "IMG_2671.jpeg",
-          "note": "Through the pre-Thanksgiving preview."
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Five through the Thanksgiving preview. The Peabody scoring summary lists no Leahy rushing touchdown."
+        },
+        "Rushing Yards": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Yards from four documented touchdown runs.",
+          "partial": true
         }
       }
     },
@@ -7041,20 +7046,22 @@
     {
       "category": "Passing",
       "year": 1998,
-      "name": "Ryan Lahey",
+      "name": "Ryan Leahy",
       "schoolClass": "Sr.",
       "values": {
-        "Passing Yards": 825,
-        "Passing Touchdowns": 7
+        "Passing Yards": 880,
+        "Passing Touchdowns": 9
       },
       "statSources": {
         "Passing Yards": {
-          "clipping": "IMG_2671.jpeg",
-          "note": "Through the pre-Thanksgiving preview."
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Thanksgiving preview lists 825 yards and seven touchdowns. The Peabody box adds two scoring completions totaling 55 yards.",
+          "partial": true
         },
         "Passing Touchdowns": {
-          "clipping": "IMG_2671.jpeg",
-          "note": "Through the pre-Thanksgiving preview."
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Thanksgiving preview lists 825 yards and seven touchdowns. The Peabody box adds two scoring completions totaling 55 yards.",
+          "partial": true
         }
       }
     },
@@ -7207,18 +7214,24 @@
       "name": "Raphael Zammit",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": null,
-        "Receiving Yards": 400,
-        "Receiving Touchdowns": 2
+        "Receptions": 3,
+        "Receiving Yards": 425,
+        "Receiving Touchdowns": 3
       },
       "statSources": {
         "Receiving Yards": {
-          "clipping": "IMG_2671.jpeg",
-          "note": "Through the pre-Thanksgiving preview."
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "400 yards through the Thanksgiving preview plus a 25-yard touchdown catch at Peabody.",
+          "partial": true
         },
         "Receiving Touchdowns": {
-          "clipping": "IMG_2671.jpeg",
-          "note": "Through the pre-Thanksgiving preview."
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Touchdown catches against Swampscott, Lynn Classical and Peabody. The final Item totals and scoring summaries account for 25 touchdowns."
+        },
+        "Receptions": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Three documented scoring catches.",
+          "partial": true
         }
       }
     },
@@ -7229,7 +7242,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Receptions": 36,
-        "Receiving Yards": null,
+        "Receiving Yards": 40,
         "Receiving Touchdowns": 2
       },
       "statSources": {
@@ -7240,6 +7253,11 @@
         "Receiving Touchdowns": {
           "clipping": "IMG_2671.jpeg",
           "note": "Through the pre-Thanksgiving preview."
+        },
+        "Receiving Yards": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Known yardage from a 40-yard touchdown against Lynn Classical. The Methuen box gives no yardage on his touchdown catch.",
+          "partial": true
         }
       }
     },
@@ -8750,11 +8768,25 @@
       "name": "Mike Panzini",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 1
+        "Total Touchdowns": 1,
+        "Extra Points": 1,
+        "Points": 7
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3360.jpg"
+        "Total Touchdowns": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical and extra point against Gloucester.",
+          "partial": true
+        },
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical and extra point against Gloucester.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical and extra point against Gloucester.",
+          "partial": true
         }
       }
     },
@@ -19377,6 +19409,260 @@
           "partial": true,
           "clipping": "Boston Globe · Barrett sizzles",
           "note": "Stopped Jason Thompson on a draw to force fourth down against Gloucester."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Ryan Leahy",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 5,
+        "Two-Point Conversions": 1,
+        "Points": 32
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Five rushing touchdowns in the Thanksgiving preview and one two-point run against Winthrop.",
+          "partial": true
+        },
+        "Two-Point Conversions": {
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Five rushing touchdowns in the Thanksgiving preview and one two-point run against Winthrop.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "IMG_2671.jpeg and Contributed 1998 newspaper box scores",
+          "note": "Five rushing touchdowns in the Thanksgiving preview and one two-point run against Winthrop.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1998,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 90,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches of 60 yards against Beverly and 30 against Peabody.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches of 60 yards against Beverly and 30 against Peabody.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches of 60 yards against Beverly and 30 against Peabody.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Matt Wass",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Two-Point Conversions": 2,
+        "Points": 16
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches against Methuen and Lynn Classical and two conversion catches against Marblehead.",
+          "partial": true
+        },
+        "Two-Point Conversions": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches against Methuen and Lynn Classical and two conversion catches against Marblehead.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Scoring catches against Methuen and Lynn Classical and two conversion catches against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "George Lowe",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Two-point catch against Lynn Classical.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Two-point catch against Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Oxley",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Returned a Gloucester conversion interception for two points. The clipping gives only the surname.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Returned a Gloucester conversion interception for two points. The clipping gives only the surname.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1998,
+      "name": "Mike Panzini",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 27,
+        "Carries": 1,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical.",
+          "partial": true
+        },
+        "Carries": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "27-yard touchdown run against Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1998,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 8
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Extra points against Methuen (2), Marblehead (2), Danvers (3) and Salem (1), plus touchdown catches against Beverly and Peabody.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Mike Lush",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Extra Points": 8,
+        "Points": 20
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Extra points against Methuen (2), Marblehead (2), Danvers (3) and Salem (1), plus touchdown catches against Beverly and Peabody.",
+          "partial": true
+        },
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Extra points against Methuen (2), Marblehead (2), Danvers (3) and Salem (1), plus touchdown catches against Beverly and Peabody.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Extra points against Methuen (2), Marblehead (2), Danvers (3) and Salem (1), plus touchdown catches against Beverly and Peabody.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1998,
+      "name": "Dan Churchill",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Three extra points against Swampscott and one against Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1998,
+      "name": "Dan Churchill",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 4,
+        "Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Three extra points against Swampscott and one against Lynn Classical.",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Three extra points against Swampscott and one against Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1998,
+      "name": "Mike Panzini",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1998 newspaper box scores",
+          "note": "Extra point against Gloucester.",
+          "partial": true
         }
       }
     }
