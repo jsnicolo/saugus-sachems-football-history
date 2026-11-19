@@ -148,10 +148,10 @@ const legacyHonorLabels={
  'all-star, as described in the supplied narrative':['league all-star','All-Star (season narrative)']
 };
 
-function seasonHonors({year,awards,sourceRow}){
+function seasonHonors({year,awards,sourceRow},records=playerRecords){
  const summary=awards?'<p style="white-space:pre-line">'+esc(awards)+'</p>':'';
- if(playerRecords===undefined) return '<p class="muted">Loading season honors…</p>';
- if(playerRecords===null) return summary+'<p class="muted">Detailed honors could not load. Please refresh.</p>';
+ if(records===undefined) return '<p class="muted">Loading season honors…</p>';
+ if(records===null) return summary+'<p class="muted">Detailed honors could not load. Please refresh.</p>';
  const players=new Map(), notes=[];
  function playerFor(rawName){
   const clean=rawName.replace(/\*+$/,'').trim();
@@ -170,7 +170,7 @@ function seasonHonors({year,awards,sourceRow}){
   else if(r.sourceLabel) entry.sources.add(`<span class="muted">${esc(r.sourceLabel)}</span>`);
   if(r.row) entry.sources.add(`<span class="muted">Honors workbook, row ${esc(r.row)}</span>`);
  }
- for(const r of playerRecords.honors.filter(r=>honorSeason(r)===year)){
+ for(const r of records.honors.filter(r=>honorSeason(r)===year)){
   addHonor(playerFor(r.name),seasonHonorAward({...r,award:r.award||'All-Scholastic'}),r);
  }
  for(const player of players.values()){
@@ -289,7 +289,50 @@ function loadCaptains(seasons) {
   });
 }
 fetch('data.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{data=d;loadCaptains(data.seasons);$('#count').textContent=data.seasons.length;[...new Set(data.seasons.map(s=>Math.floor(s.year/10)*10))].sort().forEach(n=>$('#decade').add(new Option(n+'s',n)));render();players();$('#titles').innerHTML=data.seasons.filter(s=>s.championshipStatus==='supported').map(s=>`<article class="card"><div class="year">${s.year}</div><span class="badge">${esc(s.championshipCategory)}</span><h3>${esc(s.title)}</h3><p>${esc(s.championshipNote)}</p>${championshipSources(s)}<button class="link" onclick="showSeason(${s.year})">Explore this team ↗</button></article>`).join('');$('#rankingNote').textContent=data.championshipAudit.statewideRankingNote;let nav='';$('#historybody').innerHTML=data.history.slice(1).map((t,i)=>{if(t.length<100&&!/[.!?]$/.test(t)){let era=/^\d{4}.*[–—-]/.test(t)||t==='Introduction'||t==='Conclusion';if(era)nav+=`<a href="#h${i}">${esc(t)}</a>`;return `<${era?'h3':'h4'} id="h${i}">${esc(t)}</${era?'h3':'h4'}>`}return t.startsWith('Championship spotlight — ')?(()=>{const year=t.match(/^Championship spotlight — (\d{4}):/)[1],src=data.championshipHistorySources?.[year]||[];return `<p>${esc(t.replace(/^Championship spotlight — \d{4}: /,''))}</p><details><summary>${year} championship sources</summary>${src.map(x=>`<p><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.label)}</a></p>`).join('')}<p class="muted">Choose Close × to return to the history.</p></details>`})(): `<p>${esc(t)}</p>${t.startsWith('Charles T. Senay guided')?"<details><summary>1915–1916 historical sources</summary><p><strong>Season records:</strong> Saugus Sachems archive, 1915 (6–0) and 1916 (7–1).</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1915-part-15.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1915 Saugus Town Annual Report</a> — discusses the preceding fall.</p><p><a href=\"https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1916-part-13.htm\" target=\"_blank\" rel=\"noopener noreferrer\">1916 Saugus Town Annual Report</a> — school spirit and Athletic Council.</p><p class=\"muted\">Choose Close × to return to this page.</p></details>":''}`}).join('');$('#historynav').innerHTML=nav;}).catch(()=>{$('#result').textContent='The archive could not load. Please refresh the page.'});
-['search','decade','sort'].forEach(id=>$('#'+id).addEventListener('input',render));['playerSearch','playerType'].forEach(id=>$('#'+id).addEventListener('input',players));$('#csv').onclick=()=>{const keys=['year','coach','record','league','title','players','awards','nickname'];const csv=[keys,...data.seasons.map(s=>keys.map(k=>s[k]||''))].map(row=>row.map(v=>'"'+String(v).replace(/"/g,'""')+'"').join(',')).join('\r\n');const u=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));const a=document.createElement('a');a.href=u;a.download='saugus-season-records.csv';a.click();URL.revokeObjectURL(u)};
+['search','decade','sort'].forEach(id=>$('#'+id).addEventListener('input',render));['playerSearch','playerType'].forEach(id=>$('#'+id).addEventListener('input',players));$('#csv').onclick=async function(){
+ const button=this;
+ button.disabled=true;
+ try {
+  const files=['data','captains','player-records','thanksgiving-results'];
+  const [archive,captains,records,thanksgiving]=await Promise.all(files.map(async file=>{
+   const response=await fetch(file+'.json',{cache:'no-store'});
+   if(!response.ok) throw new Error(file);
+   return response.json();
+  }));
+  addScoringTouchdownTotals(records.stats);
+  const byYear=(rows,year)=>rows.filter(row=>Number(row.year)===Number(year));
+  const sources=rows=>(rows||[]).map(r=>[r.label,r.url].filter(Boolean).join(' — ')).join('\n');
+  const headers=['year','coach','record','league','title','players','awards','nickname','record note','record as of','championship status','championship note','captains','captain notes','season notes','schedule notes','schedule and results','Thanksgiving','player statistics','season sources','championship sources'];
+  const rows=[headers];
+  for(const s of archive.seasons.slice().sort((a,b)=>a.year-b.year)){
+   const honors=document.createElement('div');
+   honors.innerHTML=seasonHonors(s,records);
+   honors.querySelectorAll('li,p,strong').forEach(node=>node.append('\n'));
+   const stats=byYear(records.stats,s.year).map(r=>{
+    const values=Object.entries(r.values).filter(([,v])=>v!=null&&v!=='').map(([metric,value])=>
+     metric+': '+value+(r.statSources?.[metric]?.partial?' (partial)':''));
+    return values.length?[r.name,r.category,values.join(', ')].join(' — '):'';
+   }).filter(Boolean);
+   rows.push([s.year,s.coach,s.record,s.league,s.title||(s.championshipClaim?'Unverified claim: '+s.championshipClaim:''),s.players,honors.textContent.trim(),s.nickname,s.recordNote,s.recordAsOf,s.championshipStatus,s.championshipNote,
+    byYear(captains,s.year).flatMap(r=>r.captains.map(c=>c.name)).join(', '),s.captainsNote,
+    s.seasonNote||s.seasonNotes,s.scheduleNote,
+    (s.games||[]).map(g=>[g.date,g.opponent,g.result,g.status].filter(Boolean).join(' · ')).join('\n'),
+    byYear(thanksgiving,s.year).map(g=>[g.opponent,g.result,g.status,g.note].filter(Boolean).join(' · ')).join('\n'),
+    stats.join('\n'),sources(s.seasonSources),sources(s.championshipSources)]);
+  }
+  const csv=rows.map(row=>row.map(value=>'"'+String(value??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');
+  const url=URL.createObjectURL(new Blob(['\uFEFF',csv],{type:'text/csv;charset=utf-8'}));
+  const link=document.createElement('a');
+  link.href=url;
+  link.download='saugus-season-records.csv';
+  link.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+ } catch(error){
+  alert('The season report could not load. Please try the download again.');
+ } finally {
+  button.disabled=false;
+ }
+};
 
 let playerRecords;
 function renderHonors(){
