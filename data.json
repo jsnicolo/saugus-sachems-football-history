@@ -5875,13 +5875,73 @@
       "sourceRow": 103,
       "games": [
         {
-          "date": "—",
+          "date": null,
+          "opponent": "Greater Lawrence",
+          "result": "W 28–26",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Winthrop",
+          "result": "L 12–34",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Salem",
+          "result": "L 26–28",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Beverly",
+          "result": "L 12–21",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Gloucester",
+          "result": "L 0–21",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Marblehead",
+          "result": "W 23–21",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn English",
+          "result": "L 19–20",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Swampscott",
+          "result": "L 0–27",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn Classical",
+          "result": "W 14–6",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Danvers",
+          "result": "W 41–34",
+          "status": "Played"
+        },
+        {
+          "date": "1996-11-28",
           "opponent": "Peabody",
           "result": "L 28–39",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "All 11 results are documented. The dates before Thanksgiving and the order of the first two games remain unconfirmed. Some printed running records conflict with the game scores and the final 4–7 standing.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
@@ -5890,8 +5950,20 @@
         {
           "label": "Boston Globe · November 30, 1996 · Final Standings, Northeastern Conference",
           "url": "sources/1996-boston-globe-final-standings.jpeg"
+        },
+        {
+          "label": "Contributed 1996 newspaper roundups and scoring summaries · all 11 games"
+        },
+        {
+          "label": "Boston Globe · L.J. McKanas All-Scholastic profile",
+          "url": "photos/globe-1996-lj-mckanas.webp"
+        },
+        {
+          "label": "Daily Evening Item · L.J. McKanas All-Star capsule",
+          "url": "photos/era-IMG_3333.webp"
         }
-      ]
+      ],
+      "seasonNote": "In John Fauci’s first season as head coach, Saugus went 4–7, scoring 203 points and allowing 277. L.J. McKanas and Dominic Zammit scored two touchdowns apiece in a 28–26 win over Greater Lawrence. They broke touchdown runs of 72 and 60 yards, respectively, in a 34–12 loss at Winthrop. Against Salem, McKanas caught 21- and 89-yard touchdown passes from Ryan Leahy, ran nine yards for a score, threw a 64-yard touchdown to Zammit and ran in a two-point conversion in the 28–26 loss. Leahy also threw touchdowns to Zammit and Matt Rosso in the 21–12 loss to Beverly before Gloucester shut out Saugus 21–0.\n\nSaugus scored 16 third-quarter points at Marblehead and held on 23–21. Zammit and John Plunkett ran for touchdowns, McKanas caught one from Leahy, and Plunkett and McKanas each ran in a two-point conversion. McKanas scored all three Saugus touchdowns in the 20–19 loss to Lynn English. After a 27–0 loss at Swampscott, he returned a kickoff 85 yards and added the game-winning one-yard touchdown run and conversion in a 14–6 win over Lynn Classical. In the 41–34 win at Danvers, McKanas ran for three touchdowns and caught a fourth from Leahy. Plunkett ran 37 yards for a score and Zammit returned a kickoff 80 yards.\n\nOn Thanksgiving, Saugus led Peabody 28–26 at halftime before losing 39–28. Plunkett scored on a 30-yard run, and McKanas scored on a 15-yard run, a 74-yard catch from Leahy and a 74-yard kickoff return. The Boston Globe and a later Item account credit McKanas with 20 total touchdowns. The scoring summaries identify 19 of them, including two against Greater Lawrence whose play types are unspecified."
     },
     {
       "year": 1997,
