@@ -14517,28 +14517,6 @@
       }
     },
     {
-      "category": "Scoring",
-      "year": 2001,
-      "name": "Michael Nicolo",
-      "schoolClass": "Fr.",
-      "values": {
-        "Two-Point Conversions": 1,
-        "Points": 2
-      },
-      "statSources": {
-        "Two-Point Conversions": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "Two-point run against Peabody."
-        },
-        "Points": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "Two-point run against Peabody."
-        }
-      }
-    },
-    {
       "category": "Rushing",
       "year": 2002,
       "name": "Tom Shidlow",
@@ -14590,34 +14568,6 @@
         "Rushing Touchdowns": {
           "clipping": "Contributed 2002 Saugus varsity football newspaper box scores",
           "note": "Scoring runs of 1 yard at Winthrop and 79 against Lynn English."
-        }
-      }
-    },
-    {
-      "category": "Rushing",
-      "year": 2002,
-      "name": "Michael Nicolo",
-      "schoolClass": "So.",
-      "values": {
-        "Rushing Yards": 172,
-        "Carries": 13,
-        "Rushing Touchdowns": 3
-      },
-      "statSources": {
-        "Rushing Yards": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Documented minimum from Lynn Classical (1 yard), Danvers (more than 50), Beverly (20 on six carries), Gloucester (16), Lynn English (52), Swampscott (1) and Peabody (31 on one of at least two carries)."
-        },
-        "Carries": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Documented minimum from Lynn Classical (1 yard), Danvers (more than 50), Beverly (20 on six carries), Gloucester (16), Lynn English (52), Swampscott (1) and Peabody (31 on one of at least two carries)."
-        },
-        "Rushing Touchdowns": {
-          "partial": false,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Lynn Classical, Lynn English and Swampscott. The detailed Peabody report credits Shidlow with the Thanksgiving touchdown."
         }
       }
     },
@@ -14787,28 +14737,6 @@
           "partial": true,
           "clipping": "Contributed 2002 newspaper game reports and box scores",
           "note": "Five documented rushing touchdowns and one receiving touchdown. The Gloucester box names Tim Shidlow."
-        }
-      }
-    },
-    {
-      "category": "Scoring",
-      "year": 2002,
-      "name": "Michael Nicolo",
-      "schoolClass": "So.",
-      "values": {
-        "Total Touchdowns": 3,
-        "Points": 18
-      },
-      "statSources": {
-        "Total Touchdowns": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Three rushing touchdowns. The detailed Thanksgiving report credits Shidlow with the Peabody touchdown."
-        },
-        "Points": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Three rushing touchdowns. The detailed Thanksgiving report credits Shidlow with the Peabody touchdown."
         }
       }
     },
@@ -16654,28 +16582,6 @@
           "partial": true,
           "note": "Recovery at the Saugus one against Winthrop.",
           "clipping": "1969 Boston Globe coverage"
-        }
-      }
-    },
-    {
-      "year": 2002,
-      "name": "Michael Nicolo",
-      "category": "Receiving",
-      "schoolClass": "So.",
-      "values": {
-        "Receiving Yards": 6,
-        "Receptions": 1
-      },
-      "statSources": {
-        "Receiving Yards": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Six-yard catch against Beverly."
-        },
-        "Receptions": {
-          "partial": true,
-          "clipping": "Contributed 2002 newspaper game reports and box scores",
-          "note": "Six-yard catch against Beverly."
         }
       }
     },
@@ -20612,19 +20518,25 @@
       "schoolClass": "So.",
       "category": "Rushing",
       "values": {
-        "Rushing Yards": 263,
-        "Carries": 48
+        "Rushing Yards": 316,
+        "Carries": 50,
+        "Rushing Touchdowns": 3
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
           "clipping": "2002 newspaper box scores and Daily Item Top Performers",
-          "note": "Swampscott 76 on 11, Peabody 50 on eight, Danvers 52 on 10, Salem 24 on six, Beverly 20 on six and Gloucester 41 on seven."
+          "note": "Swampscott 76 on 11, Peabody 50 on eight, Danvers 52 on 10, Salem 24 on six, Beverly 20 on six and Gloucester 41 on seven. Those six box scores total 263 yards on 48 carries. Two additional scoring runs are documented: one yard against Lynn Classical and 52 against Lynn English. Partial tally across eight games."
         },
         "Carries": {
           "partial": true,
           "clipping": "2002 newspaper box scores and Daily Item Top Performers",
-          "note": "Swampscott 76 on 11, Peabody 50 on eight, Danvers 52 on 10, Salem 24 on six, Beverly 20 on six and Gloucester 41 on seven."
+          "note": "Swampscott 76 on 11, Peabody 50 on eight, Danvers 52 on 10, Salem 24 on six, Beverly 20 on six and Gloucester 41 on seven. Those six box scores total 263 yards on 48 carries. Two additional scoring runs are documented: one yard against Lynn Classical and 52 against Lynn English. Partial tally across eight games."
+        },
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Contributed 2002 newspaper game reports and box scores",
+          "note": "Lynn Classical, Lynn English and Swampscott. The detailed Peabody report credits Shidlow with the Thanksgiving touchdown."
         }
       }
     },
@@ -20634,13 +20546,25 @@
       "schoolClass": "So.",
       "category": "Scoring",
       "values": {
-        "Rushing Touchdowns": 1
+        "Total Touchdowns": 3,
+        "Points": 18,
+        "Rushing Touchdowns": 3
       },
       "statSources": {
-        "Rushing Touchdowns": {
+        "Total Touchdowns": {
           "partial": true,
-          "clipping": "Contributed 2002 Lynn English game report",
-          "note": "52-yard touchdown run against Lynn English."
+          "clipping": "Contributed 2002 newspaper game reports and box scores",
+          "note": "Three rushing touchdowns. The detailed Thanksgiving report credits Shidlow with the Peabody touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed 2002 newspaper game reports and box scores",
+          "note": "Three rushing touchdowns. The detailed Thanksgiving report credits Shidlow with the Peabody touchdown."
+        },
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Contributed 2002 newspaper game reports and box scores",
+          "note": "Lynn Classical, Lynn English and Swampscott. The detailed Peabody report credits Shidlow with the Thanksgiving touchdown."
         }
       }
     },
