@@ -217,11 +217,13 @@
     },
     {
       "name": "Dan Schena",
-      "position": "",
+      "position": "DL",
       "schoolClass": "Sr",
       "year": 1990,
       "publisher": "Boston Globe",
-      "row": 5
+      "row": 5,
+      "award": "Division 3 All-Star · Defense",
+      "sourceLabel": "1990 Divisional All-Stars · Division 3 defensive line"
     },
     {
       "name": "Tommy DeSimone",
@@ -2075,7 +2077,7 @@
       "position": "C",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Offense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -2084,7 +2086,7 @@
       "position": "B",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Offense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -2093,7 +2095,7 @@
       "position": "UL",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Offense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -2102,7 +2104,7 @@
       "position": "K",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Offense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -2111,7 +2113,7 @@
       "position": "T",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Defense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -2120,16 +2122,16 @@
       "position": "LB",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Defense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
       "year": 1990,
-      "name": "Chris Muniski",
+      "name": "Chris Mikulski",
       "position": "DB",
       "schoolClass": "Sr",
       "publisher": "Northeastern Conference",
-      "award": "NEC All-Star",
+      "award": "NEC All-Star · Defense",
       "sourceLabel": "1990 Northeastern Conference offense/defense All-Star clipping supplied by contributor"
     },
     {
@@ -4610,7 +4612,7 @@
       "name": "Dan Schena",
       "position": "Offensive / Defensive Line",
       "schoolClass": "1991",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2001.\n\nDan Schena was a senior tri-captain and standout on both lines for Saugus’ 8–2 team in 1990. Alongside fellow captains Ryan Magnasco and Chris Mikulski, he helped lead the final Sachems team coached by Kevin Ward. The 1991 yearbook credits that squad with 288 points, surpassing the previous school season mark of 284, and seven Northeastern Conference All-Stars.\n\nSchena’s own 1990 Lynn Item All-Star capsule describes a 6-foot-3, 240-pound lineman with unusual speed: he was the team’s third-fastest player. He made more than 100 tackles, earned NEC All-Star recognition and anchored a defense whose strength began up front. Ward’s assessment placed him among the program’s outstanding linemen since Doug Mackie.\n\nThe yearbook remembers the team’s closeness with its coaches as well as its victories, placing Schena within a senior class celebrated for both achievement and shared memories. He continued his football career at Northeastern University, whose official all-time lettermen list records varsity letters in each season from 1992 through 1995. Those four college seasons extend a football career that began with distinction on both sides of the line at Saugus.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2001.\n\nDan Schena was a senior tri-captain and standout on both lines for Saugus’ 8–2 team in 1990. Alongside fellow captains Ryan Magnasco and Chris Mikulski, he helped lead the final Sachems team coached by Kevin Ward. Saugus outscored opponents 284–128 and placed seven seniors on the Northeastern Conference All-Star team. Schena scored on an end-zone fumble recovery in the 20–0 win over Salem and earned Division 3 All-Star honors on the defensive line.\n\nSchena’s own 1990 Lynn Item All-Star capsule describes a 6-foot-3, 240-pound lineman with unusual speed: he was the team’s third-fastest player. He made more than 100 tackles, earned NEC All-Star recognition and anchored a defense whose strength began up front. Ward’s assessment placed him among the program’s outstanding linemen since Doug Mackie.\n\nThe yearbook remembers the team’s closeness with its coaches as well as its victories, placing Schena within a senior class celebrated for both achievement and shared memories. He continued his football career at Northeastern University, whose official all-time lettermen list records varsity letters in each season from 1992 through 1995. Those four college seasons extend a football career that began with distinction on both sides of the line at Saugus.",
       "row": "User contribution",
       "hallOfFameYear": 2001,
       "sources": [
@@ -7654,7 +7656,7 @@
       "schoolClass": "Sr.",
       "values": {
         "Tackles": 100,
-        "Fumble Recoveries": null,
+        "Fumble Recoveries": 1,
         "Interceptions": null,
         "Sacks": null
       },
@@ -7663,6 +7665,11 @@
         "Tackles": {
           "clipping": "IMG_3399.jpg",
           "qualifier": "More than"
+        },
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
         }
       }
     },
@@ -8638,11 +8645,23 @@
       "name": "Ryan Magnasco",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 8
+        "Touchdowns (type unspecified)": 8,
+        "Total Touchdowns": 8,
+        "Points": 48
       },
       "statSources": {
         "Touchdowns (type unspecified)": {
           "clipping": "IMG_3398.jpg"
+        },
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
         }
       }
     },
@@ -18651,6 +18670,702 @@
           "partial": true,
           "clipping": "Ten contributed 1987 Saugus scoring summaries",
           "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Justin Barrett",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 11,
+        "Rushing Yards": 307,
+        "Carries": 20
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Greg Blake",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 4,
+        "Rushing Yards": 48,
+        "Carries": 5
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Mikulski",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 4,
+        "Rushing Yards": 36,
+        "Carries": 4
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "John Cinelli",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 3,
+        "Rushing Yards": 5,
+        "Carries": 3
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Ciampa",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Rushing Yards": 24,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Brian Andrettola",
+      "category": "Rushing",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Rushing Yards": 72,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Scott Mikulski",
+      "category": "Rushing",
+      "values": {
+        "Rushing Yards": 25,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Andy Gallo",
+      "category": "Receiving",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 11,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Mikulski",
+      "category": "Receiving",
+      "values": {
+        "Receiving Touchdowns": 3,
+        "Receiving Yards": 105,
+        "Receptions": 3
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Bill Leahy",
+      "category": "Receiving",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Receiving Yards": 26,
+        "Receptions": 2
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Justin Barrett",
+      "category": "Receiving",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 20,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Greg Blake",
+      "category": "Receiving",
+      "values": {
+        "Receiving Yards": 12,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Ryan Magnasco",
+      "category": "Receiving",
+      "values": {
+        "Receiving Yards": 19,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "John Cinelli",
+      "category": "Passing",
+      "values": {
+        "Passing Touchdowns": 7,
+        "Passing Yards": 197,
+        "Completions": 10
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Game summaries identify seven touchdown passes. The Division 3 leaders table lists six."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Game summaries identify seven touchdown passes. The Division 3 leaders table lists six."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Game summaries identify seven touchdown passes. The Division 3 leaders table lists six."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Justin Barrett",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 12,
+        "Points": 74,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Twelve touchdowns and a two-point rush against Lynn Classical yield 74 points. The Division 3 table lists 72."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Twelve touchdowns and a two-point rush against Lynn Classical yield 74 points. The Division 3 table lists 72."
+        },
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Twelve touchdowns and a two-point rush against Lynn Classical yield 74 points. The Division 3 table lists 72."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Greg Blake",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 26,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "John Cinelli",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 20,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Mikulski",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 42
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Bill Leahy",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Ciampa",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Brian Andrettola",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Andy Gallo",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Tringale",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Dan Schena",
+      "category": "Scoring",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Scoring plays credited in the ten game reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Todd Leccese",
+      "category": "Kicking",
+      "values": {
+        "Extra Points": 29
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "29 successful kicks explicitly listed. The Swampscott scoring lines account for 27 of 28 points."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Todd Leccese",
+      "category": "Scoring",
+      "values": {
+        "Points": 29
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Justin Barrett",
+      "category": "Returns",
+      "values": {
+        "Kickoff Return Yards": 55,
+        "Kickoff Returns": 1
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Kickoff Returns": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Chris Tringale",
+      "category": "Defensive",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 20
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Interception Return TDs": {
+          "partial": false,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Ten 1990 game summaries and accompanying reports."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Kevin Cabral",
+      "category": "Defensive",
+      "values": {
+        "Sacks": 1
+      },
+      "statSources": {
+        "Sacks": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Todd Leccese",
+      "category": "Defensive",
+      "values": {
+        "Sacks": 1
+      },
+      "statSources": {
+        "Sacks": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
         }
       }
     }
