@@ -5905,11 +5905,65 @@
       "sourceRow": 104,
       "games": [
         {
-          "date": "—",
+          "date": null,
           "opponent": "Greater Lawrence",
           "result": "W 34–6",
           "status": "Newspaper result",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1997-boston-globe-zammit-brothers-greater-lawrence.webp"
+        },
+        {
+          "date": null,
+          "opponent": "Winthrop",
+          "result": "L 13–21",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Beverly",
+          "result": "T 12–12",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Gloucester",
+          "result": "L 7–27",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Marblehead",
+          "result": "W 39–8",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn English",
+          "result": "W 33–12",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Swampscott",
+          "result": "L 13–41",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn Classical",
+          "result": "W 30–0",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Danvers",
+          "result": "W 31–8",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Salem",
+          "result": "W 24–20",
+          "status": "Newspaper result"
         },
         {
           "date": "1997-11-27",
@@ -5918,7 +5972,7 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Final scores are documented for all 11 games. Dates other than Thanksgiving remain unconfirmed. The Lynn English and Danvers summaries repeat Saugus’s record from the preceding win. The Greater Lawrence summary lists conversions that do not reconcile with its 34–6 headline and final score.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
@@ -5941,7 +5995,7 @@
           "url": "https://archive.org/details/tontoquonian1998saug"
         }
       ],
-      "seasonNote": "John Fauci’s Sachems finished 6–4–1, the program’s last winning team until 2007. In a 34–6 win over Greater Lawrence, the Boston Globe credited brothers Dominic and Raphael Zammit with a combined 251 rushing yards. Their work on the ground complemented an offense that could also move the ball through the air with junior quarterback Ryan Leahy.\n\nLeahy completed 65 of 124 passes for 1,109 yards and 14 touchdowns. He also carried 35 times for 294 yards and four scores. The Item highlighted his decision-making at the line of scrimmage. Senior co-captain Chris McColgan, a three-year starter, helped protect him at right guard and called out the blocking schemes. McColgan also made 46 tackles at nose guard. Both earned Item and Northeastern Conference All-Star recognition.\n\nPeabody won the Thanksgiving finale 35–31, a four-point margin in a game that produced 66 points. The surviving Thanksgiving scorecards preserve the final score."
+      "seasonNote": "John Fauci’s Sachems finished 6–4–1, scored 267 points and allowed 190, and were the program’s last winning team until 2007. Dominic and Raphael Zammit combined for 251 rushing yards in the 34–6 opener against Greater Lawrence, according to the Boston Globe. Dominic ran for two touchdowns. Raphael scored on a 50-yard catch from Ryan Leahy and a 10-yard run. Leahy threw two touchdowns against Winthrop and opened the scoring with a 58-yard run in the 12–12 tie at Beverly. Dominic also scored in the tie and accounted for Saugus’s lone touchdown at Gloucester.\n\nSaugus scored six touchdowns in its 39–8 win over Marblehead, including two Dominic Zammit runs and a Steven Rzeuski touchdown on a blocked-punt recovery. Leahy threw scoring passes to Matt Rosso and Raphael Zammit in a 33–12 win over Lynn English at Manning Bowl, and found Chris McBride and Raphael for fourth-quarter touchdowns against Swampscott. In a 30–0 shutout of Lynn Classical, George Lowe threw a 20-yard touchdown pass to Mike Panzini, and Leahy and McBride connected on two two-point conversions. Leahy ran for two scores and threw two more against Danvers, while Raphael returned a kickoff 75 yards for a touchdown. At Salem, Dominic scored on runs of 56 and 20 yards, and Leahy’s 30-yard touchdown pass to McBride in the fourth quarter lifted Saugus to a 24–20 win. Peabody edged Saugus 35–31 on Thanksgiving.\n\nLeahy completed 65 of 124 passes for 1,109 yards and 14 touchdowns and carried 35 times for 294 yards and four scores, according to the Item. Senior co-captain Chris McColgan, a three-year starter, protected him at right guard, called the blocking schemes and made 46 tackles at nose guard. Both earned Item and Northeastern Conference All-Star honors. The ten newspaper scoring summaries document ten rushing touchdowns for Dominic Zammit, nine touchdowns for Raphael Zammit (five receiving, three rushing and one kickoff return), and four touchdown catches for McBride. The player lines from the scoring summaries are partial because they cover scoring plays and the available Thanksgiving record gives the final score only."
     },
     {
       "year": 1998,
