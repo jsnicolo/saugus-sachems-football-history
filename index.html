@@ -310,7 +310,7 @@ fetch('data.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{d
    honors.querySelectorAll('li,p,strong').forEach(node=>node.append('\n'));
    const stats=byYear(records.stats,s.year).map(r=>{
     const values=Object.entries(r.values).filter(([,v])=>v!=null&&v!=='').map(([metric,value])=>
-     metric+': '+value+(r.statSources?.[metric]?.partial?' (partial)':''));
+     metric+': '+(r.statSources?.[metric]?.qualifier ? r.statSources[metric].qualifier+' ' : '')+value+(r.statSources?.[metric]?.partial?' (partial)':''));
     return values.length?[r.name,r.category,values.join(', ')].join(' — '):'';
    }).filter(Boolean);
    rows.push([s.year,s.coach,s.record,s.league,s.title||(s.championshipClaim?'Unverified claim: '+s.championshipClaim:''),s.players,honors.textContent.trim(),s.nickname,s.recordNote,s.recordAsOf,s.championshipStatus,s.championshipNote,
