@@ -5374,13 +5374,58 @@
       "sourceRow": 92,
       "games": [
         {
+          "opponent": "Winthrop",
+          "result": "W 14–7",
+          "status": "Played"
+        },
+        {
+          "opponent": "Danvers",
+          "result": "W 10–0",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Salem",
+          "result": "L 14–17",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Beverly",
+          "result": "L 0–21",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Gloucester",
+          "result": "L 7–28",
+          "status": "Played"
+        },
+        {
+          "opponent": "Marblehead",
+          "result": "W 17–6",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Lynn English",
+          "result": "W 38–21",
+          "status": "Played"
+        },
+        {
+          "opponent": "Swampscott",
+          "result": "W 31–13",
+          "status": "Played"
+        },
+        {
+          "opponent": "at Lynn Classical",
+          "result": "W 35–14",
+          "status": "Played"
+        },
+        {
           "date": "1987-11-26",
           "opponent": "Peabody",
           "result": "W 21–20",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "All ten results are documented. Games are listed in the order of the contributed scoring summaries. The Thanksgiving date is confirmed.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -5403,7 +5448,7 @@
           "url": "https://advocatenews.net/saugus/sports/the-old-sachem-sachems-in-the-early-seventies-seasons/"
         }
       ],
-      "seasonNote": "Kevin Ward’s Sachems finished 7–3 and edged Peabody 21–20 on Thanksgiving. Dave Fauci, Joe Barressi and Larry Furey captained the team. Barressi was the Sachems’ leading runner and also caught nine touchdown passes, ran for two scores and returned two punts for touchdowns. He handled kicking and punting duties and was selected at defensive back on the Item’s All-Star team. The Saugus Advocate’s retrospective also lists him among the Item’s football Players of the Year.\n\nFurey led the offensive line and made nine tackles and a sack against Gloucester. The Item selected him on the offensive line, and he made the North squad for the following summer’s Shriners game. Eric Crabtree and Marc Fauci received Item honorable mention."
+      "seasonNote": "Kevin Ward’s Sachems finished 7–3 and edged Peabody 21–20 on Thanksgiving. Dave Fauci, Joe Barressi and Larry Furey captained the team. Barressi was the Sachems’ leading runner and also caught nine touchdown passes, ran for two scores and returned two punts for touchdowns. He handled kicking and punting duties and was selected at defensive back on the Item’s All-Star team. The Saugus Advocate’s retrospective also lists him among the Item’s football Players of the Year.\n\nFurey led the offensive line and made nine tackles and a sack against Gloucester. The Item selected him on the offensive line, and he made the North squad for the following summer’s Shriners game. Eric Crabtree and Marc Fauci received Item honorable mention.\n\nSaugus scored 187 points and allowed 147. The ten scoring summaries credit Marc Fauci with 12 touchdown passes and four rushing touchdowns. Joe Barressi scored 103 points on 13 touchdowns, 19 extra points and field goals of 26 and 27 yards. Jay Migliore returned an interception 20 yards for a touchdown in the 38–21 win at Lynn English, where Saugus also recorded a team safety.\n\nThe Northeastern All-Star roster lists Larry Furey at guard and Joe Barressi at back on offense, and Scott Crabtree at utility and Marc Fauci at defensive back on defense. Barressi also made the Division 2 All-Star team at defensive back."
     },
     {
       "year": 1988,
