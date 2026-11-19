@@ -8645,14 +8645,10 @@
       "name": "Ryan Magnasco",
       "schoolClass": "Sr.",
       "values": {
-        "Touchdowns (type unspecified)": 8,
         "Total Touchdowns": 8,
         "Points": 48
       },
       "statSources": {
-        "Touchdowns (type unspecified)": {
-          "clipping": "IMG_3398.jpg"
-        },
         "Total Touchdowns": {
           "partial": false,
           "clipping": "1990 Saugus game summaries and newspaper profiles",
@@ -19366,6 +19362,21 @@
           "partial": true,
           "clipping": "1990 Saugus game summaries and newspaper profiles",
           "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "name": "Sean Publicover",
+      "category": "Defensive",
+      "values": {
+        "Tackles": 1
+      },
+      "statSources": {
+        "Tackles": {
+          "partial": true,
+          "clipping": "Boston Globe · Barrett sizzles",
+          "note": "Stopped Jason Thompson on a draw to force fourth down against Gloucester."
         }
       }
     }
