@@ -5875,13 +5875,68 @@
       "sourceRow": 103,
       "games": [
         {
-          "date": "—",
+          "date": null,
+          "opponent": "Winthrop",
+          "result": "L 12–34",
+          "status": "Newspaper result",
+          "sourceUrl": "https://winthroptranscript.com/2016/09/22/sports-09-22-2016/"
+        },
+        {
+          "date": null,
+          "opponent": "Salem",
+          "result": "L 26–28",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Beverly",
+          "result": "L 12–21",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Gloucester",
+          "result": "L 0–21",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Marblehead",
+          "result": "W 23–21",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn English",
+          "result": "L 19–20",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Swampscott",
+          "result": "L 0–27",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn Classical",
+          "result": "W 14–6",
+          "status": "Newspaper result"
+        },
+        {
+          "date": null,
+          "opponent": "Danvers",
+          "result": "W 41–34",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "1996-11-28",
           "opponent": "Peabody",
           "result": "L 28–39",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving at Peabody"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Ten of 11 final scores are documented. The 4–7 final record and the sequence of game reports indicate an opening win, with the opponent and score still unverified. Several box-score record lines conflict with the Globe’s final standings.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
@@ -5890,8 +5945,24 @@
         {
           "label": "Boston Globe · November 30, 1996 · Final Standings, Northeastern Conference",
           "url": "sources/1996-boston-globe-final-standings.jpeg"
+        },
+        {
+          "label": "Contributed 1996 newspaper scoring summaries · ten distinct games"
+        },
+        {
+          "label": "Boston Globe · L.J. McKanas All-Scholastic profile",
+          "url": "photos/globe-1996-lj-mckanas.webp"
+        },
+        {
+          "label": "Daily Evening Item · L.J. McKanas postseason profile",
+          "url": "photos/era-IMG_3333.webp"
+        },
+        {
+          "label": "Tontoquonian · 1997 yearbook",
+          "url": "https://archive.org/details/tontoquonian1997saug"
         }
-      ]
+      ],
+      "seasonNote": "John Fauci’s first Saugus team finished 4–7 overall and 3–6 in the Northeastern Conference, according to the Boston Globe’s final standings. Saugus scored 175 points and allowed 251 across the ten games with confirmed final scores. L.J. McKanas and Dominic Zammit broke touchdown runs of 72 and 60 yards in the 34–12 loss at Winthrop. Against Salem, Ryan Leahy found McKanas for touchdowns of 21 and 89 yards, and McKanas threw a 64-yard scoring pass to Zammit. Saugus fell 28–26. Leahy threw touchdown passes to Zammit and Matt Rosso against Beverly.\n\nSaugus beat Marblehead 23–21 on scores by Zammit, McKanas and John Plunkett. McKanas ran for three touchdowns against Lynn English, which rallied from 19–0 down to win 20–19. McKanas scored on an 85-yard kickoff return and a fourth-quarter one-yard run in a 14–6 win over Lynn Classical. At Danvers, he scored four touchdowns, Plunkett broke a 37-yard run and Zammit returned a kickoff 80 yards in a 41–34 win. On Thanksgiving at Peabody, McKanas scored on a 74-yard catch, a 15-yard run and a 74-yard kickoff return. Plunkett added a 30-yard scoring run. Saugus led 28–26 at halftime before falling 39–28.\n\nSenior captain McKanas earned NEC Offensive Player of the Year and postseason newspaper honors. The Globe credits him with 20 total touchdowns and more than 2,500 all-purpose yards. The Item lists 1,365 rushing yards on 233 carries, 14 catches for 424 yards, a touchdown pass, two kickoff-return touchdowns, 110 tackles, two interceptions and one fumble recovery. The Globe lists 112 tackles. The ten scoring summaries identify 17 of his 20 touchdowns, including ten rushing, five receiving and two on kickoff returns."
     },
     {
       "year": 1997,
@@ -5995,7 +6066,7 @@
           "url": "https://archive.org/details/tontoquonian1998saug"
         }
       ],
-      "seasonNote": "John Fauci’s Sachems finished 6–4–1, scored 267 points and allowed 190, and were the program’s last winning team until 2007. Dominic and Raphael Zammit combined for 251 rushing yards in the 34–6 opener against Greater Lawrence, according to the Boston Globe. Dominic ran for two touchdowns. Raphael scored on a 50-yard catch from Ryan Leahy and a 10-yard run. Leahy threw two touchdowns against Winthrop and opened the scoring with a 58-yard run in the 12–12 tie at Beverly. Dominic also scored in the tie and accounted for Saugus’s lone touchdown at Gloucester.\n\nSaugus scored six touchdowns in its 39–8 win over Marblehead, including two Dominic Zammit runs and a Steven Rzeuski touchdown on a blocked-punt recovery. Leahy threw scoring passes to Matt Rosso and Raphael Zammit in a 33–12 win over Lynn English at Manning Bowl, and found Chris McBride and Raphael for fourth-quarter touchdowns against Swampscott. In a 30–0 shutout of Lynn Classical, George Lowe threw a 20-yard touchdown pass to Mike Panzini, and Leahy and McBride connected on two two-point conversions. Leahy ran for two scores and threw two more against Danvers, while Raphael returned a kickoff 75 yards for a touchdown. At Salem, Dominic scored on runs of 56 and 20 yards, and Leahy’s 30-yard touchdown pass to McBride in the fourth quarter lifted Saugus to a 24–20 win. Peabody edged Saugus 35–31 on Thanksgiving.\n\nLeahy completed 65 of 124 passes for 1,109 yards and 14 touchdowns and carried 35 times for 294 yards and four scores, according to the Item. Senior co-captain Chris McColgan, a three-year starter, protected him at right guard, called the blocking schemes and made 46 tackles at nose guard. Both earned Item and Northeastern Conference All-Star honors. The ten newspaper scoring summaries document ten rushing touchdowns for Dominic Zammit, nine touchdowns for Raphael Zammit (five receiving, three rushing and one kickoff return), and four touchdown catches for McBride. The player lines from the scoring summaries are partial because they cover scoring plays and the available Thanksgiving record gives the final score only."
+      "seasonNote": "John Fauci’s Sachems finished 6–4–1, scored 267 points and allowed 190, and were the program’s last winning team until 2007. Dominic and Raphael Zammit combined for 251 rushing yards in the 34–6 opener against Greater Lawrence, according to the Boston Globe. Dominic ran for two touchdowns. Raphael scored on a 50-yard catch from Ryan Leahy and a 10-yard run. Leahy threw two touchdowns against Winthrop and opened the scoring with a 58-yard run in the 12–12 tie at Beverly. Dominic also scored in the tie and accounted for Saugus’s lone touchdown at Gloucester.\n\nSaugus scored six touchdowns in its 39–8 win over Marblehead, including two Dominic Zammit runs and a Steve Rzezuski touchdown on a blocked-punt recovery. Leahy threw scoring passes to Matt Rosso and Raphael Zammit in a 33–12 win over Lynn English at Manning Bowl, and found Chris McBride and Raphael for fourth-quarter touchdowns against Swampscott. In a 30–0 shutout of Lynn Classical, George Lowe threw a 20-yard touchdown pass to Mike Panzini, and Leahy and McBride connected on two two-point conversions. Leahy ran for two scores and threw two more against Danvers, while Raphael returned a kickoff 75 yards for a touchdown. At Salem, Dominic scored on runs of 56 and 20 yards, and Leahy’s 30-yard touchdown pass to McBride in the fourth quarter lifted Saugus to a 24–20 win. Peabody edged Saugus 35–31 on Thanksgiving.\n\nLeahy completed 65 of 124 passes for 1,109 yards and 14 touchdowns and carried 35 times for 294 yards and four scores, according to the Item. Senior co-captain Chris McColgan, a three-year starter, protected him at right guard, called the blocking schemes and made 46 tackles at nose guard. Both earned Item and Northeastern Conference All-Star honors. The ten newspaper scoring summaries document ten rushing touchdowns for Dominic Zammit, nine touchdowns for Raphael Zammit (five receiving, three rushing and one kickoff return), and four touchdown catches for McBride. The player lines from the scoring summaries are partial because they cover scoring plays and the available Thanksgiving record gives the final score only."
     },
     {
       "year": 1998,
