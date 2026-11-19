@@ -4681,7 +4681,7 @@
       "name": "LJ McKanas",
       "position": "RB",
       "schoolClass": "1997",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2007.\n\nA senior captain and Boston Globe, Boston Herald and Lynn Item All-Scholastic, L.J. McKanas helped turn Saugus into a competitive program in the mid-1990s. His 1996 Item capsule names him NEC Offensive Player of the Year and credits him with 1,365 rushing yards, 424 receiving yards, two kickoff-return touchdowns and two Gold Helmet awards. The Item capsule lists 20 touchdowns alongside his rushing totals and also credits him with two kickoff-return scores. A later Item account calls 20 his total-touchdown record. He established school rushing and touchdown marks during his Saugus career. In the 1995 breakthrough against Winthrop, he rushed for 178 yards and two touchdowns in the 25–0 win that ended Saugus’ 34-game losing streak. He was selected for both the 1997 Shriners and Agganis games. In the Agganis game he gained 52 yards on 11 carries as the East won 26–0.\n\nMcKanas earned 11 Saugus letters in football, track and baseball, captaining all three as a senior. At Northeastern, he redshirted in 1997, then set a rookie rushing mark with 832 yards. Despite injuries, he set a then-school record with 225 rushing yards on 47 carries in a 35–27 upset of Connecticut and ran for 172 yards and three touchdowns against James Madison. Other standout games included 223 rushing yards and three touchdowns against Saint Mary’s. As a senior he established school season marks of 342 carries, 1,756 rushing yards and 14 rushing touchdowns, with nine 100-yard games. Highlights included 242 yards against Massachusetts and 161 yards with two touchdowns in a 20–7 upset of Delaware. He averaged 159.6 rushing yards per game in 2001, second nationally in Division I and first in the Atlantic 10, and finished with 3,692 career rushing yards, then a Northeastern record. His honors included team MVP, All-New England, All-Conference, first-team Hanson All-America and the Harry Agganis/Harold Zimman Award as New England’s outstanding senior collegiate football player. Northeastern inducted him into its Hall of Fame in 2009.\n\nA Boston Sunday Globe article dated April 28, 2002 chronicled his pursuit of an NFL opportunity as an undrafted free agent; an NFL roster affiliation is not established by that article. After college he appeared on the TV show “Survivor” in 2014, finishing ninth.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2007.\n\nA senior captain and Boston Globe, Boston Herald and Lynn Item All-Scholastic, L.J. McKanas helped turn Saugus into a competitive program in the mid-1990s. His 1996 Item capsule names him NEC Offensive Player of the Year and credits him with 1,365 rushing yards, 424 receiving yards, two kickoff-return touchdowns and two Gold Helmet awards. The Globe credited him with more than 2,500 all-purpose yards and 20 touchdowns, a total a later Item account identified as the previous school record. Against Salem, he scored three touchdowns and threw a 64-yard touchdown pass. He scored four times in a 41–34 win at Danvers and scored on kickoff returns of 85 yards against Lynn Classical and 74 yards on Thanksgiving against Peabody. He established school rushing and touchdown marks during his Saugus career. In the 1995 breakthrough against Winthrop, he rushed for 178 yards and two touchdowns in the 25–0 win that ended Saugus’ 34-game losing streak. He was selected for both the 1997 Shriners and Agganis games. In the Agganis game he gained 52 yards on 11 carries as the East won 26–0.\n\nMcKanas earned 11 Saugus letters in football, track and baseball, captaining all three as a senior. At Northeastern, he redshirted in 1997, then set a rookie rushing mark with 832 yards. Despite injuries, he set a then-school record with 225 rushing yards on 47 carries in a 35–27 upset of Connecticut and ran for 172 yards and three touchdowns against James Madison. Other standout games included 223 rushing yards and three touchdowns against Saint Mary’s. As a senior he established school season marks of 342 carries, 1,756 rushing yards and 14 rushing touchdowns, with nine 100-yard games. Highlights included 242 yards against Massachusetts and 161 yards with two touchdowns in a 20–7 upset of Delaware. He averaged 159.6 rushing yards per game in 2001, second nationally in Division I and first in the Atlantic 10, and finished with 3,692 career rushing yards, then a Northeastern record. His honors included team MVP, All-New England, All-Conference, first-team Hanson All-America and the Harry Agganis/Harold Zimman Award as New England’s outstanding senior collegiate football player. Northeastern inducted him into its Hall of Fame in 2009.\n\nA Boston Sunday Globe article dated April 28, 2002 chronicled his pursuit of an NFL opportunity as an undrafted free agent; an NFL roster affiliation is not established by that article. After college he appeared on the TV show “Survivor” in 2014, finishing ninth.",
       "row": 20,
       "hallOfFameYear": 2007,
       "sources": [
@@ -6607,7 +6607,8 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 1365,
-        "Carries": 233
+        "Carries": 233,
+        "Rushing Touchdowns": 10
       },
       "row": 12,
       "statSources": {
@@ -6616,6 +6617,11 @@
         },
         "Rushing Yards": {
           "clipping": "IMG_3333.jpg"
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Ten touchdown runs appear in the available scoring summaries, with two more McKanas touchdowns against Greater Lawrence of unspecified type.",
+          "partial": true
         }
       }
     },
@@ -7196,7 +7202,7 @@
       "values": {
         "Receptions": 14,
         "Receiving Yards": 424,
-        "Receiving Touchdowns": null
+        "Receiving Touchdowns": 5
       },
       "row": 44,
       "statSources": {
@@ -7205,6 +7211,11 @@
         },
         "Receptions": {
           "clipping": "IMG_3333.jpg"
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Two against Salem and one each against Marblehead, Danvers and Peabody.",
+          "partial": true
         }
       }
     },
@@ -8707,11 +8718,23 @@
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
-        "Passing Touchdowns": 1
+        "Passing Touchdowns": 1,
+        "Passing Yards": 64,
+        "Completions": 1
       },
       "statSources": {
         "Passing Touchdowns": {
           "clipping": "IMG_3333.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "64-yard touchdown pass to Dominic Zammit against Salem. The Item credits McKanas with one touchdown pass for the season.",
+          "partial": true
+        },
+        "Completions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "64-yard touchdown pass to Dominic Zammit against Salem. The Item credits McKanas with one touchdown pass for the season.",
+          "partial": true
         }
       }
     },
@@ -8721,11 +8744,23 @@
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
-        "Kick Return Touchdowns": 2
+        "Kick Return Touchdowns": 2,
+        "Kickoff Return Yards": 159,
+        "Kickoff Returns": 2
       },
       "statSources": {
         "Kick Return Touchdowns": {
           "clipping": "IMG_3333.jpg"
+        },
+        "Kickoff Return Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown returns of 85 yards against Lynn Classical and 74 against Peabody.",
+          "partial": true
+        },
+        "Kickoff Returns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown returns of 85 yards against Lynn Classical and 74 against Peabody.",
+          "partial": true
         }
       }
     },
@@ -8735,12 +8770,18 @@
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
-        "Total Touchdowns": 20
+        "Total Touchdowns": 20,
+        "Two-Point Conversions": 3
       },
       "statSources": {
         "Total Touchdowns": {
-          "clipping": "IMG_3333.jpg; IMG_2671.jpeg",
-          "note": "The 1998 Item preview identifies 20 as the previous school record for total touchdowns. The senior capsule lists 20 touchdowns alongside his rushing line and separately reports two kick-return scores."
+          "clipping": "1996 Boston Globe All-Scholastic profile; IMG_2671.jpeg; contributed 1996 newspaper scoring summaries",
+          "note": "The Globe All-Scholastic profile and 1998 Item preview credit 20 total touchdowns. The 1996 scoring summaries account for 19: 10 rushing, five receiving, two kickoff returns and two of unspecified type."
+        },
+        "Two-Point Conversions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Conversion runs against Salem, Marblehead and Lynn Classical.",
+          "partial": true
         }
       }
     },
@@ -19662,6 +19703,244 @@
         "Extra Points": {
           "clipping": "Contributed 1998 newspaper box scores",
           "note": "Extra point against Gloucester.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1996,
+      "name": "Ryan Leahy",
+      "schoolClass": "So.",
+      "values": {
+        "Passing Yards": 297,
+        "Completions": 7,
+        "Passing Touchdowns": 7
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Documented scoring passes against Salem (21 and 89 yards), Beverly (32 and 29), Marblehead (8), Danvers (44) and Peabody (74).",
+          "partial": true
+        },
+        "Completions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Documented scoring passes against Salem (21 and 89 yards), Beverly (32 and 29), Marblehead (8), Danvers (44) and Peabody (74).",
+          "partial": true
+        },
+        "Passing Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Documented scoring passes against Salem (21 and 89 yards), Beverly (32 and 29), Marblehead (8), Danvers (44) and Peabody (74).",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1996,
+      "name": "Dominic Zammit",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 66,
+        "Carries": 2,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of 60 yards at Winthrop and six at Marblehead.",
+          "partial": true
+        },
+        "Carries": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of 60 yards at Winthrop and six at Marblehead.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of 60 yards at Winthrop and six at Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1996,
+      "name": "Dominic Zammit",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 96,
+        "Receptions": 2,
+        "Receiving Touchdowns": 2
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown catches of 64 yards against Salem and 32 against Beverly.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown catches of 64 yards against Salem and 32 against Beverly.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown catches of 64 yards against Salem and 32 against Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1996,
+      "name": "Dominic Zammit",
+      "schoolClass": "",
+      "values": {
+        "Kickoff Return Yards": 80,
+        "Kickoff Returns": 1,
+        "Kickoff Return Touchdowns": 1
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "80-yard kickoff return for a touchdown at Danvers.",
+          "partial": true
+        },
+        "Kickoff Returns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "80-yard kickoff return for a touchdown at Danvers.",
+          "partial": true
+        },
+        "Kickoff Return Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "80-yard kickoff return for a touchdown at Danvers.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1996,
+      "name": "Dominic Zammit",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 7
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Two documented rushing, two receiving, one kickoff return and two against Greater Lawrence of unspecified type.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1996,
+      "name": "John Plunkett",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 76,
+        "Carries": 3,
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of nine yards at Marblehead, 37 at Danvers and 30 at Peabody.",
+          "partial": true
+        },
+        "Carries": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of nine yards at Marblehead, 37 at Danvers and 30 at Peabody.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of nine yards at Marblehead, 37 at Danvers and 30 at Peabody.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1996,
+      "name": "John Plunkett",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Three documented touchdown runs and a conversion run at Marblehead.",
+          "partial": true
+        },
+        "Two-Point Conversions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Three documented touchdown runs and a conversion run at Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1996,
+      "name": "Matt Rosso",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 29,
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "29-yard touchdown catch against Beverly.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "29-yard touchdown catch against Beverly.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "29-yard touchdown catch against Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1996,
+      "name": "Matt Rosso",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown catch against Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1996,
+      "name": "Steve Rzezuski",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 11
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "One each against Marblehead and Lynn English, five at Danvers and four at Peabody. The Danvers and Peabody boxes print variant spellings, provisionally grouped under Rzezuski.",
           "partial": true
         }
       }
