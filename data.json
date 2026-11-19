@@ -1950,7 +1950,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season. Art Spinney captained a defense that posted eight shutouts in ten games. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.",
+      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season, scoring 207 points and allowing 19. Captain Art Spinney led a team that posted eight shutouts. The yearbook team photo also identifies Leo Reardon and Beldon Bly as coaches. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.",
       "seasonSources": [
         {
           "label": "1945 yearbook · Class B championship",
@@ -1987,6 +1987,9 @@
         {
           "label": "Newspaper retrospective · Grid Champions Down the Years (1936–1959)",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-1959-grid-champions.webp"
+        },
+        {
+          "label": "1944 Sachems’ tribute to the 1995 team · championship record and point totals"
         }
       ],
       "games": [
