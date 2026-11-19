@@ -4768,7 +4768,7 @@
       "name": "Mike Nicolo",
       "position": "RB",
       "schoolClass": "2005",
-      "bio": "Saugus High School Athletic Hall of Fame inductee (Class of 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, he remained a central part of the 2004 offense. In the surviving 11 game-scoring summaries he is credited with at least seven rushing touchdowns: 61 yards against Revere, four yards against Winthrop, six and two yards against Salem, 11 and one yards against Lynn English, and one yard against Swampscott. He also converted two-point runs against Lynn English and Swampscott. He also earned All-Scholastic honors in winter track as a sophomore and baseball as a junior.\n\nHis 2003 Item All-Star capsule credits him with 1,462 rushing yards on 260 carries and 11 touchdowns, NEC All-Star honors and Herald and Globe player-of-the-week recognition. An Item weekly roundup from his junior campaign credited him with 241 yards on 37 touches and four touchdowns against Beverly, bringing his two-week total above 500 yards. In the 2003 Thanksgiving game, he threw a 28-yard touchdown pass to Kevin Davis and ran in the two-point conversion. His senior team finished 0–11 in 2004.\n\nHe continued his football career at Curry College, contributing at defensive back and on special teams during the Colonels’ championship era. Curry’s 12–1 team from the 2007 season, later inducted into the college’s Athletic Hall of Fame in 2021, won the NEFC title and defeated Hartwick 42–21 for the program’s first NCAA playoff victory. Nicolo recorded three tackles in the following playoff round at St. John Fisher. Curry later defeated his father John’s alma mater, Ithaca, 26–21 in the 2008 playoffs; a contemporary Ithaca preview reports that a shoulder injury had kept Mike out that season.\n\nWith his induction into the Saugus High School Athletic Hall of Fame in 2026, Mike joins his grandfather, Salvatore “Sardi” Nicolo, and his father, John Nicolo, in the Hall. Together, they become the first three generations of one family to be inducted into the school’s Athletic Hall of Fame—a milestone in the Nicolo family’s Saugus sports legacy. His brother Sal was a two-way starter for the Sachems at fullback and linebacker in 2001 and 2002.\n\nA contemporary Daily Item area-performers roundup credited Nicolo with 305 rushing yards and three touchdowns in the 34–0 Salem win (the later All-Star capsule reports 306). The 2003 Beverly game recap describes touchdown runs of 10, 10 and 5 yards; other surviving game accounts describe an additional scoring run, so the play-by-play and season total should be reconciled before replacing the published 11-touchdown season figure. The Thanksgiving preview described Nicolo as a pivotal runner behind an offensive line featuring Anthony Barbanti and Mark Spadafora.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee (Class of 2026). A four-year starter and team captain his senior year, he set a then–single-game rushing record with 306 yards against Salem as a junior. He earned Lynn Item All-Scholastic honors that same season. Though injuries limited his senior year, he remained a central part of the 2004 offense. In the surviving 11 game-scoring summaries he is credited with at least seven rushing touchdowns: 61 yards against Revere, four yards against Winthrop, six and two yards against Salem, 11 and one yards against Lynn English, and one yard against Swampscott. He also converted two-point runs against Lynn English and Swampscott. The Lynn Item’s weekly Top Performers roundups credited Nicolo with 67 rushing yards and two touchdowns against Salem, 73 yards on 19 carries against Beverly, 25 yards against Gloucester, and 85 yards and a touchdown against Swampscott. Those four games account for 250 rushing yards in the surviving reports. He also earned All-Scholastic honors in winter track as a sophomore and baseball as a junior.\n\nHis 2003 Item All-Star capsule credits him with 1,462 rushing yards on 260 carries and 11 touchdowns, NEC All-Star honors and Herald and Globe player-of-the-week recognition. An Item weekly roundup from his junior campaign credited him with 241 yards on 37 touches and four touchdowns against Beverly, bringing his two-week total above 500 yards. The Item’s weekly roundup credited him with 122 yards on 31 carries, a rushing touchdown and three catches for 33 yards in the double-overtime opener against Revere. On Thanksgiving against Peabody, he rushed for 86 yards, threw a 28-yard touchdown pass to Kevin Davis and ran in the two-point conversion. His senior team finished 0–11 in 2004.\n\nHe continued his football career at Curry College, contributing at defensive back and on special teams during the Colonels’ championship era. Curry’s 12–1 team from the 2007 season, later inducted into the college’s Athletic Hall of Fame in 2021, won the NEFC title and defeated Hartwick 42–21 for the program’s first NCAA playoff victory. Nicolo recorded three tackles in the following playoff round at St. John Fisher. Curry later defeated his father John’s alma mater, Ithaca, 26–21 in the 2008 playoffs; a contemporary Ithaca preview reports that a shoulder injury had kept Mike out that season.\n\nWith his induction into the Saugus High School Athletic Hall of Fame in 2026, Mike joins his grandfather, Salvatore “Sardi” Nicolo, and his father, John Nicolo, in the Hall. Together, they become the first three generations of one family to be inducted into the school’s Athletic Hall of Fame—a milestone in the Nicolo family’s Saugus sports legacy. His brother Sal was a two-way starter for the Sachems at fullback and linebacker in 2001 and 2002.\n\nA contemporary Daily Item area-performers roundup credited Nicolo with 305 rushing yards and three touchdowns in the 34–0 Salem win (the later All-Star capsule reports 306). The 2003 Beverly game recap describes touchdown runs of 10, 10 and 5 yards; other surviving game accounts describe an additional scoring run, so the play-by-play and season total should be reconciled before replacing the published 11-touchdown season figure. The Thanksgiving preview described Nicolo as a pivotal runner behind an offensive line featuring Anthony Barbanti and Mark Spadafora.",
       "row": 21,
       "hallOfFameYear": 2026,
       "sources": [
@@ -4821,7 +4821,7 @@
           "url": "https://athletics.ithaca.edu/sports/football/schedule/2008"
         }
       ],
-      "source": "Contemporary contributed newspaper clippings and season history; official college and professional records where cited."
+      "source": "Contemporary contributed newspaper clippings, including the Lynn Item’s weekly Top Performers roundups, and season history; official college and professional records where cited."
     },
     {
       "name": "Brett Reid",
@@ -17637,6 +17637,7 @@
       "name": "Mike Nicolo",
       "category": "Rushing",
       "values": {
+        "Rushing Yards": 250,
         "Rushing Touchdowns": 7
       },
       "statSources": {
@@ -17644,8 +17645,14 @@
           "partial": true,
           "clipping": "2004 newspaper game scoring summaries, 11 games",
           "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Lynn Item weekly Top Performers, fall 2004",
+          "note": "Four documented game totals: Salem 67, Beverly 73, Gloucester 25 and Swampscott 85. The Winthrop scoring box documents his four-yard touchdown run. The weekly roundup gives a different final score, so its 54-yard figure is excluded from this subtotal."
         }
-      }
+      },
+      "schoolClass": "Sr."
     },
     {
       "year": 2004,
