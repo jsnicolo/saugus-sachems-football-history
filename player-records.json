@@ -1,6 +1,56 @@
 {
   "honors": [
     {
+      "name": "Larry Furey",
+      "position": "G",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Offense",
+      "sourceLabel": "1987 Northeastern All-Stars · offense",
+      "sourceNote": "Contributed 1987 newspaper roster."
+    },
+    {
+      "name": "Joe Barressi",
+      "position": "B",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Offense",
+      "sourceLabel": "1987 Northeastern All-Stars · offense",
+      "sourceNote": "Contributed 1987 newspaper roster."
+    },
+    {
+      "name": "Scott Crabtree",
+      "position": "UL",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Defense",
+      "sourceLabel": "1987 Northeastern All-Stars · defense",
+      "sourceNote": "Contributed 1987 newspaper roster."
+    },
+    {
+      "name": "Marc Fauci",
+      "position": "DB",
+      "schoolClass": "So",
+      "year": 1987,
+      "publisher": "Northeastern Conference",
+      "award": "Northeastern Conference All-Star · Defense",
+      "sourceLabel": "1987 Northeastern All-Stars · defense",
+      "sourceNote": "Contributed 1987 newspaper roster."
+    },
+    {
+      "name": "Joe Barressi",
+      "position": "DB",
+      "schoolClass": "Sr",
+      "year": 1987,
+      "publisher": "Publication unidentified",
+      "award": "Division 2 All-Star · Defense",
+      "sourceLabel": "1987 newspaper clipping · The Divisional All-Stars",
+      "sourceNote": "Lists Joe Barressi of Saugus at defensive back on the Division 2 team. The masthead and publication date are outside the clipping."
+    },
+    {
       "name": "Frank Mancuso",
       "position": "",
       "schoolClass": "Sr",
@@ -7111,11 +7161,23 @@
       "name": "Joe Barressi",
       "schoolClass": "Sr.",
       "values": {
-        "Receptions": null,
-        "Receiving Yards": null,
+        "Receptions": 9,
+        "Receiving Yards": 267,
         "Receiving Touchdowns": 9
       },
-      "row": 43
+      "row": 43,
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
     },
     {
       "category": "Receiving",
@@ -18137,6 +18199,458 @@
           "partial": false,
           "clipping": "Ten contributed 1982 Saugus game scoring summaries",
           "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 13,
+        "Points": 103
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Marc Fauci",
+      "schoolClass": "So.",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Ben Lynch",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 26,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Jay Migliore",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Steve Worthley",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 8,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1987,
+      "name": "Dave Fauci",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Extra Points": 19,
+        "Field Goals": 2,
+        "Longest Field Goal (yards)": 27
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Field Goals": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Longest Field Goal (yards)": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1987,
+      "name": "Marc Fauci",
+      "schoolClass": "So.",
+      "values": {
+        "Passing Touchdowns": 12,
+        "Passing Yards": 343,
+        "Completions": 12,
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Conversion Passes": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1987,
+      "name": "Ben Lynch",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 70,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1987,
+      "name": "Steve Worthley",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1987,
+      "name": "Dave Fauci",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 5,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 40,
+        "Carries": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1987,
+      "name": "Marc Fauci",
+      "schoolClass": "So.",
+      "values": {
+        "Rushing Touchdowns": 4,
+        "Rushing Yards": 29,
+        "Carries": 4
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1987,
+      "name": "Ben Lynch",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 3,
+        "Rushing Yards": 65,
+        "Carries": 3
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1987,
+      "name": "Jay Migliore",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 5,
+        "Carries": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1987,
+      "name": "Joe Barressi",
+      "schoolClass": "Sr.",
+      "values": {
+        "Punt Return Touchdowns": 2,
+        "Punt Return Yards": 102
+      },
+      "statSources": {
+        "Punt Return Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Punt Return Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1987,
+      "name": "Jay Migliore",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 20
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
+        },
+        "Interception Return TDs": {
+          "partial": false,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Total from scoring summaries covering all ten games."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1987 Saugus scoring summaries",
+          "note": "Counts or yards from documented touchdown plays only."
         }
       }
     }
