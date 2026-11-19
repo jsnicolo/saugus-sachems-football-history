@@ -5570,6 +5570,29 @@
       "row": "Archive research, October 2026"
     },
     {
+      "name": "Ron “Ronnie” Barressi",
+      "position": "Utility back / Captain",
+      "schoolClass": "1965",
+      "bio": "Ron “Ronnie” Barressi captained the 1964 Sachems. The Daily Evening Item named him to its North Shore All-Star team as a senior utility back, and the season archive also records his Northeastern Conference honors. Barressi graduated in 1965 and was inducted into the Saugus High School Athletic Hall of Fame in 2000.",
+      "source": "Contemporary newspaper clippings and Saugus yearbooks.",
+      "sources": [
+        {
+          "label": "1964 Item roster",
+          "url": "photos/honors-IMG_3412.webp"
+        },
+        {
+          "label": "captain list",
+          "url": "photos/contributed-1238.webp"
+        },
+        {
+          "label": "SHS Hall of Fame · induction class 2000",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
+        }
+      ],
+      "row": "Archive research, October 2026",
+      "hallOfFameYear": 2000
+    },
+    {
       "name": "John Dancewicz",
       "position": "Offensive tackle / Linebacker",
       "schoolClass": "1967",
@@ -6184,6 +6207,39 @@
         {
           "label": "Saugus High School · 1996 Hall of Fame class",
           "url": "https://middlehigh.saugus.k12.ma.us/ourpages/auto/2025/1/17/53447519/SHS%20HOF%20-%201996.pdf?rnd=1737642603618"
+        }
+      ]
+    },
+    {
+      "name": "John “Sal” Nicolo",
+      "position": "FB / LB",
+      "schoolClass": "2003",
+      "bio": "John “Sal” Nicolo played football for Saugus High from 1999 through 2002 and graduated in 2003. He earned Freshman of the Year as the freshman team MVP in 1999. He wore his father John’s No. 1 his first two seasons and his grandfather Salvatore “Sardi” Nicolo’s No. 33 as a junior and senior. He started at fullback and linebacker in 2001 and 2002 under his father, the Sachems’ head coach.\n\nAs a junior, Nicolo scored on a five-yard run against Danvers. On Thanksgiving, he intercepted Peabody quarterback Mike Shah and returned it 33 yards for a touchdown. He also recovered a fumble in that game and earned a Lynn Item Top Performers mention. As a senior, he intercepted a pass in the opener at Belmont, rushed for more than 50 yards and scored from two yards out at Danvers, and ran for a touchdown against Gloucester. His 35-yard fumble return deep into Marblehead territory helped spark a 31–16 Saugus win. The Agganis Foundation selected him for the 2003 Harry Agganis All-Star Football Classic. He wore No. 31 for the South in its 24–14 win at Manning Bowl.\n\nNicolo joined the varsity wrestling program as a sophomore in 2000–01, won a match at 140 pounds in an early quad meet, and earned the team’s Rookie of the Year award. He went on to record pins against Somerville, Watertown and Minuteman and won a 152-pound decision at the Whittier Tech Tournament. He also competed in track for Saugus.\n\nAfter graduation, he played linebacker at Bridgewater State College under Peter Mazzaferro in 2003 and 2004. Bridgewater’s records list him as John Nicolo (No. 38) in 2003, when he appeared in two games and recorded one solo tackle, and as Sal Nicolo (No. 55) in 2004, when he appeared in one game.",
+      "source": "Sal’s Scrapbook and contributed game and wrestling clippings, the Nicolo family history and researcher profile, Agganis selection coverage, and Bridgewater State participation records. Freshman team MVP confirmed by Sal Nicolo.",
+      "sources": [
+        {
+          "label": "Sal Nicolo · 2001 Thanksgiving Top Performers",
+          "url": "photos/contributed-2876.webp"
+        },
+        {
+          "label": "Sal Nicolo · 2002 Saugus football",
+          "url": "photos/contributed-IMG_2638.webp"
+        },
+        {
+          "label": "Sal Nicolo · 2003 Agganis football selection",
+          "url": "photos/contributed-IMG_2477.webp"
+        },
+        {
+          "label": "College & Beyond · Bridgewater State football",
+          "url": "#college-alumni"
+        },
+        {
+          "label": "Sal Nicolo · 2002 defensive action",
+          "url": "photos/contributed-2885.webp"
+        },
+        {
+          "label": "About the researcher · Sal Nicolo",
+          "url": "#researcher"
         }
       ]
     }
