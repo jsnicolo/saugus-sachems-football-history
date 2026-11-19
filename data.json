@@ -5955,13 +5955,73 @@
       "sourceRow": 105,
       "games": [
         {
+          "date": null,
+          "opponent": "Methuen",
+          "result": "L 20–23",
+          "status": "Played · headline score"
+        },
+        {
+          "date": "1998-09-18",
+          "opponent": "Winthrop",
+          "result": "W 32–14",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Gloucester",
+          "result": "L 9–33",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Marblehead",
+          "result": "W 42–21",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn English",
+          "result": "L 6–36",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Swampscott",
+          "result": "W 27–6",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn Classical",
+          "result": "W 27–22",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Danvers",
+          "result": "W 21–14",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Salem",
+          "result": "L 7–28",
+          "status": "Played"
+        },
+        {
+          "date": null,
+          "opponent": "Beverly",
+          "result": "L 6–37",
+          "status": "Played"
+        },
+        {
           "date": "1998-11-26",
           "opponent": "Peabody",
           "result": "L 32–39",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Results are documented for all 11 games. Some dates and the exact order of the early games remain unconfirmed. The Methuen result follows the 23–20 headline because the printed line score conflicts with it.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
@@ -5982,10 +6042,14 @@
         {
           "label": "Boston Globe · 1998 All-Scholastic football team",
           "url": "photos/1998-boston-globe-all-scholastic-football.webp"
+        },
+        {
+          "label": "Winthrop Sun Transcript · retrospective confirming the September 18 Winthrop game",
+          "url": "https://winthroptranscript.com/wp-content/uploads/2018/09/WinthropTranscript-4.pdf"
         }
       ],
       "captainsNote": "Captain names supplied by Sal Nicolo.",
-      "seasonNote": "Senior captain Raphael Zammit earned Boston Globe All-Scholastic honors at tailback and strong safety in 1998, along with Lynn Item and Northeastern Conference All-Star honors. He rushed for 1,481 yards and a school-record 21 rushing touchdowns, scored 25 total touchdowns and led Division 3 with 154 points. The Item reports 2,452 all-purpose yards and the Globe reports 2,453. On defense, he had 52 tackles, eight sacks and three interceptions, returning one for a touchdown. The Globe credited him with 2,891 rushing yards, 4,653 all-purpose yards and 41 touchdowns over his Saugus career. He scored five touchdowns against Winthrop.\n\nThe Thanksgiving preview credited quarterback Ryan Leahy with 825 passing yards, seven touchdown passes and five rushing scores. Matt Wass had 36 catches, two touchdown receptions and five interceptions entering the finale. Linebacker and captain Mike Panzini earned a Gold Helmet and was credited with six fumble recoveries and 123 tackles in his season-ending All-Star profile. The earlier preview lists 130 tackles, four interceptions and four recoveries. Saugus finished 5–6 after a 39–32 loss to Peabody."
+      "seasonNote": "John Fauci’s Sachems finished 5–6, scoring 229 points and allowing 273 using the reported 23–20 Methuen headline score. Raphael Zammit ran for five touchdowns in the 32–14 win at Winthrop and four in the 42–21 win at Marblehead, where Ryan Leahy ran for two more. Zammit returned an interception for a touchdown against Gloucester, and Oxley returned a separate interception on Gloucester’s conversion try for two points.\n\nIn a 27–6 win at Swampscott, Zammit scored on runs of 65 and one yard and caught an 85-yard touchdown pass from Leahy. Leahy threw scoring passes to Matt Wass and Zammit in the 27–22 victory over Lynn Classical, and Mike Panzini added a 27-yard touchdown run. Zammit scored all three Saugus touchdowns in the 21–14 win at Danvers, breaking a 14–14 tie with an 82-yard run in the fourth quarter. He also scored Saugus’s only touchdowns against Lynn English and Salem. Leahy found Mike Lush for a 60-yard touchdown against Beverly. In the 39–32 Thanksgiving loss at Peabody, Zammit scored on three runs and a 25-yard catch, and Lush caught a 30-yard touchdown pass.\n\nSenior captain Raphael Zammit earned Boston Globe All-Scholastic honors at tailback and strong safety in 1998, along with Lynn Item and Northeastern Conference All-Star honors. He rushed for 1,481 yards and a school-record 21 rushing touchdowns, scored 25 total touchdowns and led Division 3 with 154 points. The Item reports 2,452 all-purpose yards and the Globe reports 2,453. On defense, he had 52 tackles, eight sacks and three interceptions, returning one for a touchdown. The Globe credited him with 2,891 rushing yards, 4,653 all-purpose yards and 41 touchdowns over his Saugus career. The scoring summaries account for all 25 touchdowns: 21 rushing, three receiving and one on defense. Zammit also appeared on a Division 3 selection list, and the Northeastern Conference list named Zammit, Panzini, Leahy and Wass.\n\nThe Thanksgiving preview credited Leahy with 825 passing yards, seven touchdown passes and five rushing scores. His two touchdown passes at Peabody bring the documented totals to at least 880 passing yards and nine touchdown passes. Zammit had 400 receiving yards entering Thanksgiving and added at least 25 in the finale. Wass had 36 catches, two touchdown receptions and five interceptions entering Thanksgiving. Panzini earned a Gold Helmet and was credited with six fumble recoveries and 123 tackles in his season-ending All-Star profile. The earlier preview lists 130 tackles, four interceptions and four recoveries."
     },
     {
       "year": 1999,
