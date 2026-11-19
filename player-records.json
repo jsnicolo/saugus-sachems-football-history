@@ -7061,37 +7061,6 @@
     },
     {
       "category": "Passing",
-      "year": 1995,
-      "name": "Mike Mabee",
-      "schoolClass": "Sr.",
-      "values": {
-        "Passing Yards": 720,
-        "Passing Touchdowns": 6,
-        "Completions": 61,
-        "Conversion Passes": 4,
-        "Passing Attempts": 95
-      },
-      "row": 34,
-      "statSources": {
-        "Completions": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Conversion Passes": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Passing Attempts": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Passing Touchdowns": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Passing Yards": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        }
-      }
-    },
-    {
-      "category": "Passing",
       "year": 1997,
       "name": "Ryan Leahy",
       "schoolClass": "Jr.",
@@ -7809,51 +7778,6 @@
         "Tackles": {
           "clipping": "IMG_3331.jpg",
           "qualifier": "More than"
-        }
-      }
-    },
-    {
-      "category": "Defensive",
-      "year": 1995,
-      "name": "Carlo Abate",
-      "schoolClass": "Sr.",
-      "values": {
-        "Tackles": 115,
-        "Fumble Recoveries": 4,
-        "Interceptions": 4,
-        "Sacks": null
-      },
-      "row": 72,
-      "statSources": {
-        "Fumble Recoveries": {
-          "clipping": "IMG_3328.jpg"
-        },
-        "Interceptions": {
-          "clipping": "IMG_3328.jpg"
-        },
-        "Tackles": {
-          "clipping": "IMG_3328.jpg"
-        }
-      }
-    },
-    {
-      "category": "Defensive",
-      "year": 1995,
-      "name": "Mike Mabee",
-      "schoolClass": "Sr.",
-      "values": {
-        "Tackles": null,
-        "Fumble Recoveries": 2,
-        "Interceptions": 6,
-        "Sacks": null
-      },
-      "row": 73,
-      "statSources": {
-        "Fumble Recoveries": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Interceptions": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
         }
       }
     },
@@ -8784,35 +8708,14 @@
       }
     },
     {
-      "category": "Rushing",
-      "year": 1995,
-      "name": "Mike Mabee",
-      "schoolClass": "Sr.",
-      "values": {
-        "Carries": 60,
-        "Rushing Touchdowns": 7,
-        "Rushing Yards": 360
-      },
-      "statSources": {
-        "Carries": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Rushing Touchdowns": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        },
-        "Rushing Yards": {
-          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
-        }
-      }
-    },
-    {
       "category": "Passing",
       "year": 1996,
       "name": "L.J. McKanas",
       "schoolClass": "Sr.",
       "values": {
         "Passing Touchdowns": 1,
-        "Passing Yards": 64
+        "Passing Yards": 64,
+        "Completions": 1
       },
       "statSources": {
         "Passing Touchdowns": {
@@ -8821,6 +8724,11 @@
         "Passing Yards": {
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
+          "partial": true
+        },
+        "Completions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "64-yard touchdown pass to Dominic Zammit against Salem. The Item credits McKanas with one touchdown pass for the season.",
           "partial": true
         }
       }
@@ -8832,7 +8740,8 @@
       "schoolClass": "Sr.",
       "values": {
         "Kick Return Touchdowns": 2,
-        "Kick Return Yards": 159
+        "Kick Return Yards": 159,
+        "Kickoff Returns": 2
       },
       "statSources": {
         "Kick Return Touchdowns": {
@@ -8841,6 +8750,11 @@
         "Kick Return Yards": {
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
+          "partial": true
+        },
+        "Kickoff Returns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown returns of 85 yards against Lynn Classical and 74 against Peabody.",
           "partial": true
         }
       }
@@ -20277,7 +20191,8 @@
       "schoolClass": "So.",
       "values": {
         "Passing Yards": 297,
-        "Passing Touchdowns": 7
+        "Passing Touchdowns": 7,
+        "Completions": 7
       },
       "statSources": {
         "Passing Yards": {
@@ -20289,6 +20204,11 @@
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
           "partial": true
+        },
+        "Completions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Documented scoring passes against Salem (21 and 89 yards), Beverly (32 and 29), Marblehead (8), Danvers (44) and Peabody (74).",
+          "partial": true
         }
       }
     },
@@ -20299,7 +20219,8 @@
       "schoolClass": "",
       "values": {
         "Rushing Yards": 66,
-        "Rushing Touchdowns": 2
+        "Rushing Touchdowns": 2,
+        "Carries": 2
       },
       "statSources": {
         "Rushing Yards": {
@@ -20310,6 +20231,11 @@
         "Rushing Touchdowns": {
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
+          "partial": true
+        },
+        "Carries": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of 60 yards at Winthrop and six at Marblehead.",
           "partial": true
         }
       }
@@ -20321,7 +20247,8 @@
       "schoolClass": "",
       "values": {
         "Receiving Yards": 96,
-        "Receiving Touchdowns": 2
+        "Receiving Touchdowns": 2,
+        "Receptions": 2
       },
       "statSources": {
         "Receiving Yards": {
@@ -20333,6 +20260,11 @@
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
           "partial": true
+        },
+        "Receptions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown catches of 64 yards against Salem and 32 against Beverly.",
+          "partial": true
         }
       }
     },
@@ -20343,7 +20275,8 @@
       "schoolClass": "",
       "values": {
         "Kickoff Return Yards": 80,
-        "Kickoff Return Touchdowns": 1
+        "Kickoff Return Touchdowns": 1,
+        "Kickoff Returns": 1
       },
       "statSources": {
         "Kickoff Return Yards": {
@@ -20355,6 +20288,11 @@
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
           "partial": true
+        },
+        "Kickoff Returns": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "80-yard kickoff return for a touchdown at Danvers.",
+          "partial": true
         }
       }
     },
@@ -20364,19 +20302,17 @@
       "name": "Dominic Zammit",
       "schoolClass": "",
       "values": {
-        "Total Touchdowns": 5,
-        "Points": 30
+        "Total Touchdowns": 7,
+        "Points": 42
       },
       "statSources": {
         "Total Touchdowns": {
-          "clipping": "Contributed 1996 newspaper scoring summaries",
-          "note": "Scoring plays from ten documented games. The opening game is missing.",
-          "partial": true
+          "partial": true,
+          "note": "1996 newspaper scoring summaries, including two touchdowns of unspecified type against Greater Lawrence."
         },
         "Points": {
-          "clipping": "Contributed 1996 newspaper scoring summaries",
-          "note": "Scoring plays from ten documented games. The opening game is missing.",
-          "partial": true
+          "partial": true,
+          "note": "Seven documented touchdowns in 1996 newspaper scoring summaries."
         }
       }
     },
@@ -20387,7 +20323,8 @@
       "schoolClass": "Sr.",
       "values": {
         "Rushing Yards": 76,
-        "Rushing Touchdowns": 3
+        "Rushing Touchdowns": 3,
+        "Carries": 3
       },
       "statSources": {
         "Rushing Yards": {
@@ -20398,6 +20335,11 @@
         "Rushing Touchdowns": {
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
+          "partial": true
+        },
+        "Carries": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "Touchdown runs of nine yards at Marblehead, 37 at Danvers and 30 at Peabody.",
           "partial": true
         }
       }
@@ -20437,7 +20379,8 @@
       "schoolClass": "",
       "values": {
         "Receiving Yards": 29,
-        "Receiving Touchdowns": 1
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
       },
       "statSources": {
         "Receiving Yards": {
@@ -20448,6 +20391,11 @@
         "Receiving Touchdowns": {
           "clipping": "Contributed 1996 newspaper scoring summaries",
           "note": "Scoring plays from ten documented games. The opening game is missing.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Contributed 1996 newspaper scoring summaries",
+          "note": "29-yard touchdown catch against Beverly.",
           "partial": true
         }
       }
@@ -20669,6 +20617,651 @@
           "partial": true,
           "clipping": "2003 Revere and Lynn English box scores (Mike scrapbook IMG_2968.JPG and IMG_2957.JPG)",
           "note": "Revere three for 39 and Lynn English one for 12. The Item’s weekly roundup gives 33 for Revere."
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Passing Yards": 720,
+        "Passing Touchdowns": 6,
+        "Completions": 61,
+        "Conversion Passes": 4,
+        "Passing Attempts": 95
+      },
+      "row": 34,
+      "statSources": {
+        "Completions": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Conversion Passes": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Attempts": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Passing Yards": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Carlo Abate",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 115,
+        "Fumble Recoveries": 4,
+        "Interceptions": 4,
+        "Sacks": null
+      },
+      "row": 72,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3328.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3328.jpg"
+        },
+        "Tackles": {
+          "clipping": "IMG_3328.jpg"
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": null,
+        "Fumble Recoveries": 2,
+        "Interceptions": 6,
+        "Sacks": null
+      },
+      "row": 73,
+      "statSources": {
+        "Fumble Recoveries": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Interceptions": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Mike Mabee",
+      "schoolClass": "Sr.",
+      "values": {
+        "Carries": 60,
+        "Rushing Touchdowns": 7,
+        "Rushing Yards": 360
+      },
+      "statSources": {
+        "Carries": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        },
+        "Rushing Yards": {
+          "clipping": "IMG_3329.jpg; IMG_4059.jpg"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 680,
+        "Rushing Touchdowns": 7
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Daily Evening Item, Nov. 21, 1995 (IMG_4048.jpg); Daily Evening Item Winthrop report (IMG_4046.jpg), IMG_4201.jpeg, IMG_4204.jpeg, IMG_4202.jpeg, IMG_4205.jpeg, Daily Evening Item Lynn English report (IMG_4044.jpg), IMG_4208.jpeg",
+          "note": "Yardage is the reported subtotal through nine games. Touchdowns include the two Marblehead runs listed under “C.J. McKanas” and omit the unclassified late Lynn English score.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Daily Evening Item, Nov. 21, 1995 (IMG_4048.jpg); Daily Evening Item Winthrop report (IMG_4046.jpg), IMG_4201.jpeg, IMG_4204.jpeg, IMG_4202.jpeg, IMG_4205.jpeg, Daily Evening Item Lynn English report (IMG_4044.jpg), IMG_4208.jpeg",
+          "note": "Yardage is the reported subtotal through nine games. Touchdowns include the two Marblehead runs listed under “C.J. McKanas” and omit the unclassified late Lynn English score.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "schoolClass": "Jr.",
+      "values": {
+        "Receiving Yards": 40,
+        "Receiving Touchdowns": 3,
+        "Receptions": 3
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg), IMG_4201.jpeg, IMG_4204.jpeg, IMG_4202.jpeg, IMG_4205.jpeg, Daily Evening Item Lynn English report (IMG_4044.jpg), IMG_4208.jpeg",
+          "note": "Three scoring catches against Gloucester, Lynn English and Lynn Classical.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg), IMG_4201.jpeg, IMG_4204.jpeg, IMG_4202.jpeg, IMG_4205.jpeg, Daily Evening Item Lynn English report (IMG_4044.jpg), IMG_4208.jpeg",
+          "note": "Three scoring catches against Gloucester, Lynn English and Lynn Classical.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg), IMG_4201.jpeg, IMG_4204.jpeg, IMG_4202.jpeg, IMG_4205.jpeg, Daily Evening Item Lynn English report (IMG_4044.jpg), IMG_4208.jpeg",
+          "note": "Three scoring catches against Gloucester, Lynn English and Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 11,
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Daily Evening Item, Nov. 21, 1995 (IMG_4048.jpg); IMG_4210.jpeg",
+          "note": "The Item reported 11 before Thanksgiving, and the finale scoring summary accounts for both Saugus touchdowns."
+        },
+        "Two-Point Conversions": {
+          "clipping": "IMG_4201.jpeg",
+          "note": "Conversion catch at Salem.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Offensive & All-Purpose Totals",
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "schoolClass": "Jr.",
+      "values": {
+        "All-Purpose Yards": 1197
+      },
+      "statSources": {
+        "All-Purpose Yards": {
+          "clipping": "Daily Evening Item, Nov. 21, 1995 (IMG_4048.jpg)",
+          "note": "Reported subtotal entering Thanksgiving.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "L.J. McKanas",
+      "schoolClass": "Jr.",
+      "values": {
+        "Interceptions": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg)",
+          "note": "Interception against Winthrop.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "John Plunkett",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 240,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg); Danvers report and IMG_4199.jpeg",
+          "note": "71 yards against Winthrop and 169 yards and both touchdowns against Danvers.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg); Danvers report and IMG_4199.jpeg",
+          "note": "71 yards against Winthrop and 169 yards and both touchdowns against Danvers.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Derek Bilton",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 6
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4199–IMG_4205 scoring summaries; Daily Evening Item Lynn English report (IMG_4044.jpg)",
+          "note": "One each against Winthrop, Danvers and Marblehead, two against Salem and the first Bilton score against Lynn English. The late English score is unclassified.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1995,
+      "name": "Derek Bilton",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 6,
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_4200.jpeg",
+          "note": "Touchdown catch against Winthrop.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "IMG_4200.jpeg",
+          "note": "Touchdown catch against Winthrop.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "IMG_4200.jpeg",
+          "note": "Touchdown catch against Winthrop.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Derek Bilton",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 8
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "IMG_4199–IMG_4205 scoring summaries; Daily Evening Item Lynn English report (IMG_4044.jpg)",
+          "note": "Six documented rushing scores, one receiving score and one late Lynn English score of unspecified type.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1995,
+      "name": "Derek Bilton",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 6
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "IMG_4200.jpeg; IMG_4201.jpeg; IMG_4205.jpeg",
+          "note": "One against Winthrop, two against Salem and three against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1995,
+      "name": "Mike Mayag",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 4,
+        "Passing Touchdowns": 1,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Scoring pass to Dan Bilton at Beverly.",
+          "partial": true
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Scoring pass to Dan Bilton at Beverly.",
+          "partial": true
+        },
+        "Completions": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Scoring pass to Dan Bilton at Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Mike Mayag",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 12,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Scoring run at Beverly.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Scoring run at Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1995,
+      "name": "Dan Bilton",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 4,
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Beverly scoring catch. The box score spells the surname Billton.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Beverly scoring catch. The box score spells the surname Billton.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Beverly scoring catch. The box score spells the surname Billton.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1995,
+      "name": "Jamie Sheehan",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 36,
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "Scoring catch against Marblehead.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "Scoring catch against Marblehead.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "Scoring catch against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1995,
+      "name": "Jamie Sheehan",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 25,
+        "Passing Touchdowns": 1,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "IMG_4208.jpeg",
+          "note": "Scoring pass at Lynn Classical.",
+          "partial": true
+        },
+        "Passing Touchdowns": {
+          "clipping": "IMG_4208.jpeg",
+          "note": "Scoring pass at Lynn Classical.",
+          "partial": true
+        },
+        "Completions": {
+          "clipping": "IMG_4208.jpeg",
+          "note": "Scoring pass at Lynn Classical.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1995,
+      "name": "Rob Streeter",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 7,
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "clipping": "Daily Evening Item Lynn English report (IMG_4044.jpg)",
+          "note": "Scoring catch against Lynn English.",
+          "partial": true
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Daily Evening Item Lynn English report (IMG_4044.jpg)",
+          "note": "Scoring catch against Lynn English.",
+          "partial": true
+        },
+        "Receptions": {
+          "clipping": "Daily Evening Item Lynn English report (IMG_4044.jpg)",
+          "note": "Scoring catch against Lynn English.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Justin Falite",
+      "schoolClass": "Jr.",
+      "values": {
+        "Rushing Yards": 20,
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4205.jpeg; IMG_4210.jpeg",
+          "note": "Two 10-yard scoring runs. The scoring summaries vary in their spelling of Falite.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4205.jpeg; IMG_4210.jpeg",
+          "note": "Two 10-yard scoring runs. The scoring summaries vary in their spelling of Falite.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Mike Faiella",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return Yards": 35,
+        "Interception Return TDs": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "35-yard pick-six against Marblehead.",
+          "partial": true
+        },
+        "Interception Return Yards": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "35-yard pick-six against Marblehead.",
+          "partial": true
+        },
+        "Interception Return TDs": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "35-yard pick-six against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1995,
+      "name": "Carlo Abate",
+      "schoolClass": "Sr.",
+      "values": {
+        "Rushing Yards": 5,
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "IMG_4210.jpeg",
+          "note": "Thanksgiving scoring run.",
+          "partial": true
+        },
+        "Rushing Touchdowns": {
+          "clipping": "IMG_4210.jpeg",
+          "note": "Thanksgiving scoring run.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1995,
+      "name": "Dan Wass",
+      "schoolClass": "Sr.",
+      "values": {
+        "Tackles": 16
+      },
+      "statSources": {
+        "Tackles": {
+          "clipping": "Daily Evening Item Winthrop report (IMG_4046.jpg)",
+          "note": "Winthrop game total.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Passing",
+      "year": 1995,
+      "name": "Ryan Leahy",
+      "schoolClass": "Fr.",
+      "values": {
+        "Conversion Passes": 1
+      },
+      "statSources": {
+        "Conversion Passes": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "Two-point pass to Sean Rush against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "John Plunkett",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "IMG_4199.jpeg",
+          "note": "Conversion run against Danvers.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Rob Streeter",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "IMG_4199.jpeg",
+          "note": "Conversion catch against Danvers.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Mike Mayag",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "IMG_4204.jpeg",
+          "note": "Conversion run at Beverly.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Sean Rush",
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "IMG_4205.jpeg",
+          "note": "Conversion catch against Marblehead.",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1995,
+      "name": "Carlo Abate",
+      "schoolClass": "Sr.",
+      "values": {
+        "Two-Point Conversions": 1
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "clipping": "IMG_4210.jpeg",
+          "note": "Conversion run against Peabody.",
+          "partial": true
         }
       }
     }

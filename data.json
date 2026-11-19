@@ -58,6 +58,78 @@
       ]
     },
     {
+      "year": 1903,
+      "coach": null,
+      "record": null,
+      "league": "Middlesex Interscholastic League",
+      "title": null,
+      "players": null,
+      "seasonNote": "Three home matchups appear in the surviving schedule notices. Reading High was listed for Tuesday in the Middlesex Interscholastic League. Revere High was listed for Wednesday in the same weekly schedule. Kenwood Academy was listed at Saugus on Thanksgiving Day, Nov. 26.",
+      "scheduleNote": "Two notices list Reading at Saugus, one in the weekly schedule and one in “Football Games Today.” They are grouped as one matchup in this log. The publication dates for the two Reading notices are unverified. The Thanksgiving listing is dated by the Dartmouth–Brown game at Manchester, N.H., which Brown’s record book places on Nov. 26, 1903. Results remain unknown for all three matchups.",
+      "games": [
+        {
+          "date": "Tuesday · date unknown",
+          "opponent": "Reading High",
+          "result": "—",
+          "status": "Scheduled only · Middlesex Interscholastic League"
+        },
+        {
+          "date": "Wednesday · date unknown",
+          "opponent": "Revere High",
+          "result": "—",
+          "status": "Scheduled only"
+        },
+        {
+          "date": "Nov. 26",
+          "opponent": "Kenwood Academy",
+          "result": "—",
+          "status": "Scheduled only · Thanksgiving"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "“In the Triangular” · weekly schedule for Reading and Revere · publication date unknown",
+          "url": "documents/1903-reading-revere-weekly-schedule.webp"
+        },
+        {
+          "label": "“Football Games Today” · Reading at Saugus · publication date unknown",
+          "url": "documents/1903-reading-game-day.webp"
+        },
+        {
+          "label": "Thanksgiving football listings · Nov. 26, 1903 schedule · issue date unverified",
+          "url": "documents/1903-kenwood-thanksgiving-schedule.webp"
+        },
+        {
+          "label": "Brown football record book · Dartmouth–Brown on Nov. 26, 1903",
+          "url": "https://static.brownbears.com/custompages/recordbooks/football/Brown-Football-Record-Book.pdf"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "coach": null,
+      "record": "0–1 (partial)",
+      "league": null,
+      "title": null,
+      "players": "Hatch, C. Libby",
+      "recordNote": "One game result is documented here. The full season record is unknown.",
+      "seasonNote": "The training ship Enterprise eleven defeated Saugus High 35–0 at Saugus on Nov. 19, 1904. The report singled out quarterback Hatch and fullback C. Libby for Saugus. Enterprise’s Mullaly and O’Brien each scored three touchdowns and Sheedy scored one. The teams played 20-minute halves.",
+      "games": [
+        {
+          "date": "Nov. 19",
+          "opponent": "Training ship Enterprise",
+          "result": "L 0–35",
+          "status": "Newspaper result"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "“Enterprise 35, Saugus H. S. 0” · game report and lineups · Nov. 19, 1904 dateline",
+          "url": "documents/1904-enterprise-game-report.webp"
+        }
+      ]
+    },
+    {
       "year": 1906,
       "coach": null,
       "record": "1–3–1 (partial)",
@@ -65,7 +137,7 @@
       "title": null,
       "players": "John Thomas Brady (Captain), Charles Edward Parker, Gibson",
       "recordNote": "The surviving reports identify one win, three losses and one tie. The Burdett win comes from a later newspaper account. The Stoneham tie is attributed to 1906 based on the matching lineup and Thanksgiving date. The complete season record is unknown.",
-      "seasonNote": "Captain John Thomas Brady and Charles Edward Parker stood out against Revere. Gibson and Parker were singled out against Winthrop. Across the surviving lineups, Brady played left end and left halfback, Parker played fullback and left halfback, and Gibson played right end and fullback. Other names include Burnham, Gammons, Hatch, Hulen, Kinley, Libby, Russell, Weeks and Whittredge. Harry Gibson, named in the 1909 town report, is a possible match for the player listed as Gibson in the 1906 and 1907 lineups.",
+      "seasonNote": "Captain John Thomas Brady and Charles Edward Parker stood out against Revere. Gibson and Parker were singled out against Winthrop. Beverly scored all 16 points in the first half of its Oct. 10 win on the common. On Thanksgiving, Saugus and Stoneham played to a scoreless tie on a field the report described as being in poor condition. The report singled out Libby, Parker and the halfback it identified as Finley. Across the surviving lineups, Brady played left end and left halfback, Parker played fullback and left halfback, and Gibson played right end and fullback. Other names include Burnham, Gammons, Hatch, Hulen, Kinley, Libby, Russell, Weeks and Whittredge. Harry Gibson, named in the 1909 town report, is a possible match for the player listed as Gibson in the 1906 and 1907 lineups.",
       "scheduleNote": "The Winthrop game report and score roundup both give 15–0 and are counted as one game. An earlier archival index notes that an Oct. 25 retrospective appears to give a different score for the earlier meeting. The Malden game and proposed Thanksgiving game against Revere appear in schedule notices. The Stoneham game report records the Thanksgiving result.",
       "games": [
         {
@@ -167,7 +239,7 @@
       "players": "Gibson, Knox, Downey, Flaherty, Gill, Fred Forristall, Carl Morse Knight, Douglass Evans, Chauncy Whittredge, Weeks, Dinsmore",
       "awards": null,
       "nickname": null,
-      "seasonNote": "The Gloucester box score lists Saugus’s eleven by surname: Gibson (left end), Knox (left tackle), Downey (left guard), Flaherty (center), Gill (right guard), Forestall (right tackle), Knight (right end), Evans (quarterback), Whittredge (right halfback), Weeks (left halfback) and Dinsmore (fullback). Gloucester won 53–0 at Stage Fort. The 1908 commencement list identifies Fred Edwin Forristall and Chauncy Vaughn Whittredge, and the 1909 list identifies Douglass Chapman Evans. The 1908 captaincy report names Carl Morse Knight and places him at Saugus High the previous season. The 1909 commencement program calls him Carroll Morse Knight. Other school records give possible matches for Gibson (Harry) and Flaherty (James Edward). Both William Nason Dinsmore and Royal Pillsbury Dinsmore appear in commencement records from the era, so the fullback’s first name is unresolved.",
+      "seasonNote": "The Gloucester box score lists Saugus’s eleven by surname: Gibson (left end), Knox (left tackle), Downey (left guard), Flaherty (center), Gill (right guard), Forestall (right tackle), Knight (right end), Evans (quarterback), Whittredge (right halfback), Weeks (left halfback) and Dinsmore (fullback). Gloucester won 53–0 at Stage Fort on Oct. 9 in its second game of the season. The box score credits Gloucester fullback Parmenter with three touchdowns and Cameron with two touchdowns and a field goal. The teams played periods of 20 and 15 minutes. The 1908 commencement list identifies Fred Edwin Forristall and Chauncy Vaughn Whittredge, and the 1909 list identifies Douglass Chapman Evans. The 1908 captaincy report names Carl Morse Knight and places him at Saugus High the previous season. The 1909 commencement program calls him Carroll Morse Knight. Other school records give possible matches for Gibson (Harry) and Flaherty (James Edward). Both William Nason Dinsmore and Royal Pillsbury Dinsmore appear in commencement records from the era, so the fullback’s first name is unresolved.",
       "scheduleNote": "One game documented. The Oct. 9 dateline appears in the clipping, and Sal Nicolo identified the season as 1907.",
       "games": [
         {
@@ -240,7 +312,7 @@
           "url": "documents/1914-needham-thanksgiving-schedule.webp"
         }
       ],
-      "seasonNote": "Saugus led Watertown 6–3 in the fourth quarter when the game ended in a dispute. At Needham on Thanksgiving morning, Saugus lost 38–6. Michael Garofano scored Saugus’s touchdown, and the report describes both teams making frequent use of the forward pass.",
+      "seasonNote": "A contemporary newspaper column titled School Football Notes reported that Saugus High fielded a team in 1914 for the first time in several years. The report helps explain the gap in the surviving season records and announced an opening game at Swampscott High. On Oct. 21, Saugus lost 41–0 to Marblehead at Seaside Park. Marblehead halfback Cole scored four touchdowns. The Saugus lineup lists J. Flynn at center, C. Flynn at quarterback, Garofano at right halfback and Fox at fullback. On Nov. 9, Williams scored Saugus’s touchdown against Watertown. Saugus led 6–3 late in the fourth quarter when the referee blew the play dead during a long run by Watertown’s Kinchla, ruling that a player had moved before the snap. Watertown disputed the call and declined to continue. At Needham on Thanksgiving morning, Saugus lost 38–6. Michael Garofano scored Saugus’s touchdown, and the report describes both teams making frequent use of the forward pass.",
       "scheduleNote": "Partial game log. The Watertown score reflects the last reported score when play stopped. The official disposition remains unverified.",
       "games": [
         {
@@ -250,7 +322,13 @@
           "status": "Newspaper result"
         },
         {
-          "date": "—",
+          "date": "Oct. 21",
+          "opponent": "at Marblehead",
+          "result": "L 0–41",
+          "status": "Newspaper result"
+        },
+        {
+          "date": "Nov. 9",
           "opponent": "Watertown",
           "result": "6–3 Saugus lead",
           "status": "Game ended in dispute"
@@ -266,7 +344,7 @@
     {
       "year": 1915,
       "coach": "Charles T. Senay",
-      "record": "6 - 0",
+      "record": "6 - 1 (partial)",
       "league": "Greater Lynn League",
       "title": null,
       "players": "John Flynn, George Sprague, Michael Garofano (Captain)",
@@ -277,17 +355,53 @@
         {
           "date": "Sept. 25",
           "opponent": "Revere",
-          "result": "0–7 when stopped",
-          "status": "Called off in the first period"
+          "result": "W 1–0 (reported forfeit)",
+          "status": "Revere led 7–0 when play stopped in the first quarter"
+        },
+        {
+          "date": "Oct. 12",
+          "opponent": "Winchester",
+          "result": "W 13–6",
+          "status": "Contemporary box score"
+        },
+        {
+          "date": "Oct. 20",
+          "opponent": "Dedham",
+          "result": "W 14–7",
+          "status": "Contemporary box score"
+        },
+        {
+          "date": "Oct. 29",
+          "opponent": "East Boston",
+          "result": "W 12–10",
+          "status": "Contemporary box score"
+        },
+        {
+          "date": "Nov. 6",
+          "opponent": "Winchester",
+          "result": "L 0–18",
+          "status": "Contemporary box score"
+        },
+        {
+          "date": "Nov. 25",
+          "opponent": "at Needham",
+          "result": "Result unknown",
+          "status": "Thanksgiving morning preview"
         },
         {
           "date": "—",
-          "opponent": "Ipswich",
+          "opponent": "Ipswich Manning High",
           "result": "W 20–13",
-          "status": "Contributor-dated clipping"
+          "status": "Confirmed by Manning’s Nov. 26 season recap"
+        },
+        {
+          "date": "—",
+          "opponent": "Ipswich Manning High",
+          "result": "W 24–0",
+          "status": "Confirmed by Manning’s Nov. 26 season recap"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "Partial schedule. The dates of the two Manning High games are unknown. The Needham Thanksgiving preview gives no final score.",
       "seasonSources": [
         {
           "label": "Early newspaper clipping · IMG_2871",
@@ -296,8 +410,16 @@
         {
           "label": "Football Game Ends in Fight · Sept. 25 dateline",
           "url": "photos/1915-saugus-revere-game-called-off.webp"
+        },
+        {
+          "label": "Contributed newspaper reports · Winchester (Oct. 12 and Nov. 6), Dedham (Oct. 20), East Boston (Oct. 29), Manning High season recap (Nov. 26), Flynn captaincy (Dec. 9)"
+        },
+        {
+          "label": "Contributed newspaper columns · Revere forfeit and proposed rematch, Greater Lynn challenge to Swampscott"
         }
-      ]
+      ],
+      "recordNote": "The documented results include five wins and one loss in completed games, plus a reported forfeit win over Revere. The earlier workbook listed 6–0. The full season record remains open.",
+      "seasonNote": "Captain Michael Garofano scored against Winchester on Oct. 12 and twice in the muddy win over Dedham. Smith also scored against Winchester, and Howe kicked the extra point. Fullback Fox and quarterback John Flynn scored in the 12–10 win over East Boston. The fourth quarter began after dusk, and East Boston had the ball at the Saugus 5-yard line when time ran out. Flynn also drew praise in the 18–0 loss at Winchester’s Manchester Field. A Dec. 9 report says an injury against Winchester kept him out of the last two games and confirms that he was elected captain for 1916.\n\nRevere scored a touchdown and kicked the extra point before a fight involving players and spectators stopped the Sept. 25 opener in the first quarter. Revere declined to continue. Later coverage reported a 1–0 forfeit in Saugus’s favor. A neutral-site rematch was discussed for Nov. 27, and Saugus challenged Swampscott to a Dec. 2 game for Greater Lynn honors. Swampscott planned to end its season on Thanksgiving. Neither proposed matchup has a documented result.\n\nThe six completed games with known scores account for 83 Saugus points and 54 allowed."
     },
     {
       "year": 1916,
@@ -5900,7 +6022,7 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "The Daily Evening Item’s Thanksgiving preview supplies the first nine results in order. Thanksgiving was played Nov. 23 at Stackpole Field.",
+      "scheduleNote": "The Nov. 21 Daily Evening Item scorecard and the supplied game reports confirm the first nine results in order. The Boston Globe’s Thanksgiving recap and scoring summary confirm the Nov. 23 finale at Stackpole Field.",
       "seasonSources": [
         {
           "label": "Daily Evening Item · Nov. 21 Thanksgiving preview and nine-game scorecard",
@@ -5940,10 +6062,16 @@
         {
           "label": "Tontoquonian · 1996 yearbook, covering fall 1995",
           "url": "https://archive.org/details/tontoquonian1996saug"
+        },
+        {
+          "label": "Contributed 1995 scoring summaries and Salem roundup (IMG_4199–IMG_4208, research references)"
+        },
+        {
+          "label": "Boston Globe · Colin Hesketh, “Peabody prevails,” and Thanksgiving scoring summary (IMG_4209–IMG_4210, research references)"
         }
       ],
-      "seasonNote": "Mike Ginolfi’s Sachems arrived at Stackpole Field for the opener having lost 34 straight games. They blanked Winthrop 25–0 behind 178 yards on 29 carries and two touchdowns from junior L.J. McKanas. John Plunkett added 71 rushing yards, and Mike Mabee threw a touchdown pass. Carlo Abate stopped Winthrop on fourth-and-one early in the game. The Item credited Saugus with 354 yards of offense and Winthrop with 116.\n\nPlunkett ran for 169 yards and two touchdowns in a 28–8 win over Danvers. Saugus followed with a 28–14 win over Salem, its first in that matchup in 20 years, and entered the Boston Herald’s Sweet 16 at No. 16. A 20–7 win over Beverly made it 4–0. After a loss to Gloucester, Saugus beat Marblehead 47–6 and Lynn English 50–20 to reach 6–1 and secure its first winning season since 1990. At Manning Bowl against English, Mabee threw for two scores, ran for another and intercepted two passes. McKanas ran for 149 yards and three touchdowns.\n\nSaugus dropped its last three games, including a 34–14 Thanksgiving loss to Peabody at Stackpole. Mabee returned for the finale while recovering from a broken bone in his leg. Fellow captain Matt Nazzaro, defensive tackle Dan Wass and tight end Derek Bilton also left the game with injuries. Ginolfi cited a 6–4 finish in the Item’s postgame report.\n\nThe Item’s postseason profiles credited Mabee with 61 completions for 720 yards and six touchdowns, plus 360 rushing yards, seven rushing touchdowns, six interceptions and two fumble recoveries. Abate led the team with 115 tackles and added four interceptions and four fumble recoveries. Both earned Item and Northeastern Conference recognition. McKanas was also an NEC All-Star.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 230 points and allowed 162.",
-      "recordNote": "The Nov. 21 Daily Evening Item lists Saugus at 6–3 before Thanksgiving. The postgame report quotes coach Mike Ginolfi giving the final record as 6–4. The season workbook lists 6–5."
+      "seasonNote": "Mike Ginolfi’s Sachems opened at Stackpole Field with a 25–0 shutout of Winthrop, ending a 34-game losing streak. Junior L.J. McKanas rushed 29 times for 178 yards and two touchdowns and intercepted a pass. John Plunkett added 71 rushing yards. Mike Mabee opened the scoring with a 6-yard touchdown pass to Derek Bilton, who later added a short touchdown run. Carlo Abate and Dan Wass had 14 and 16 tackles, respectively, as the defense twice stopped Winthrop inside the Saugus 10. Saugus outgained Winthrop 354–116.\n\nPlunkett rushed for 169 yards and scored twice, including a 42-yard run, in a 28–8 home win over Danvers. Bilton ran for two touchdowns at Salem’s Bertram Field, and McKanas sealed the 28–14 win with a 33-yard run in the fourth quarter. Saugus earned its first win over Salem in 20 years and reached No. 16 in the Boston Herald’s Sweet 16. At Beverly, the Sachems erased a 7–0 deficit as McKanas ran for a score and Mike Mayag threw a touchdown pass to Dan Bilton and ran for another, making Saugus 4–0.\n\nGloucester handed Saugus its first loss, 34–12. McKanas caught a 4-yard touchdown pass from Mabee, who added a 1-yard scoring run. The Sachems rebounded with a 47–6 win over Marblehead. Mabee hit Jamie Sheehan for a 36-yard touchdown, Mike Faiella returned an interception 35 yards for a score, and Ryan Leahy found Sean Rush for the two-point conversion. The box score credits “C.J. McKanas” with 22- and 34-yard touchdown runs. The other reports and the Item’s 11-touchdown figure for L.J. support reading those initials as a listing error.\n\nSaugus secured its first winning season since 1990 with a 50–20 victory over Lynn English at Manning Bowl, its first win over the Bulldogs since 1987. Mabee passed and rushed for 87 yards apiece, threw touchdown passes to Rob Streeter and McKanas, ran for a score and intercepted two passes. McKanas rushed for 149 yards and scored three times, including the 11-yard catch, and Derek Bilton added two touchdowns. The win put Saugus at 6–1.\n\nSwampscott shut out Saugus 18–0, and Mabee suffered a leg fracture. In the 21–6 loss to Lynn Classical, Sheehan threw a 25-yard touchdown pass to McKanas. Mabee returned for Thanksgiving at Stackpole Field as Peabody won the 52nd meeting, 34–14. McKanas helped set up Justin Falite’s 10-yard touchdown run. Abate ran in the two-point conversion and later scored on a 5-yard run. Co-captain Matt Nazzaro, Wass and Derek Bilton left the finale with injuries.\n\nThe Item’s postseason profiles credited Mabee with 61 completions in 95 attempts for 720 yards and six touchdowns, 360 rushing yards and seven rushing touchdowns, six interceptions and two fumble recoveries. Abate led Saugus with 115 tackles, four interceptions and four fumble recoveries. Both earned Item and NEC recognition. McKanas was an NEC All-Star and entered Thanksgiving with 680 rushing yards, 1,197 all-purpose yards and 11 touchdowns. The finale coverage documents another run for McKanas, and the scoring summary confirms he finished with 11 touchdowns.\n\nSaugus finished 6–4, scoring 230 points and allowing 162 in ten games.",
+      "recordNote": "The Nov. 21 Daily Evening Item lists Saugus at 6–3 overall and in NEC play before Thanksgiving. The Item postgame report and the Boston Globe Thanksgiving coverage confirm a 6–4 final record. An earlier season workbook listed 6–5."
     },
     {
       "year": 1996,
@@ -5956,6 +6084,12 @@
       "nickname": "Sachems",
       "sourceRow": 103,
       "games": [
+        {
+          "date": null,
+          "opponent": "Greater Lawrence",
+          "result": "W 28–26",
+          "status": "Played"
+        },
         {
           "date": null,
           "opponent": "Winthrop",
@@ -6018,7 +6152,7 @@
           "status": "Thanksgiving at Peabody"
         }
       ],
-      "scheduleNote": "Ten of 11 final scores are documented. The 4–7 final record and the sequence of game reports indicate an opening win, with the opponent and score still unverified. Several box-score record lines conflict with the Globe’s final standings.",
+      "scheduleNote": "All 11 final scores are documented. Dates before Thanksgiving and the order of the first two games remain unconfirmed. Several box-score record lines conflict with the Globe’s final standings.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · IMG_3610.jpg; IMG_3654.jpg",
@@ -6029,7 +6163,7 @@
           "url": "sources/1996-boston-globe-final-standings.jpeg"
         },
         {
-          "label": "Contributed 1996 newspaper scoring summaries · ten distinct games"
+          "label": "Contributed 1996 newspaper scoring summaries, including the Greater Lawrence roundup (IMG_4268.jpeg)"
         },
         {
           "label": "Boston Globe · L.J. McKanas All-Scholastic profile",
@@ -6044,7 +6178,7 @@
           "url": "https://archive.org/details/tontoquonian1997saug"
         }
       ],
-      "seasonNote": "John Fauci’s first Saugus team finished 4–7 overall and 3–6 in the Northeastern Conference, according to the Boston Globe’s final standings. Saugus scored 175 points and allowed 251 across the ten games with confirmed final scores. L.J. McKanas and Dominic Zammit broke touchdown runs of 72 and 60 yards in the 34–12 loss at Winthrop. Against Salem, Ryan Leahy found McKanas for touchdowns of 21 and 89 yards, and McKanas threw a 64-yard scoring pass to Zammit. Saugus fell 28–26. Leahy threw touchdown passes to Zammit and Matt Rosso against Beverly.\n\nSaugus beat Marblehead 23–21 on scores by Zammit, McKanas and John Plunkett. McKanas ran for three touchdowns against Lynn English, which rallied from 19–0 down to win 20–19. McKanas scored on an 85-yard kickoff return and a fourth-quarter one-yard run in a 14–6 win over Lynn Classical. At Danvers, he scored four touchdowns, Plunkett broke a 37-yard run and Zammit returned a kickoff 80 yards in a 41–34 win. On Thanksgiving at Peabody, McKanas scored on a 74-yard catch, a 15-yard run and a 74-yard kickoff return. Plunkett added a 30-yard scoring run. Saugus led 28–26 at halftime before falling 39–28.\n\nSenior captain McKanas earned NEC Offensive Player of the Year and postseason newspaper honors. The Globe credits him with 20 total touchdowns and more than 2,500 all-purpose yards. The Item lists 1,365 rushing yards on 233 carries, 14 catches for 424 yards, a touchdown pass, two kickoff-return touchdowns, 110 tackles, two interceptions and one fumble recovery. The Globe lists 112 tackles. The ten scoring summaries identify 17 of his 20 touchdowns, including ten rushing, five receiving and two on kickoff returns."
+      "seasonNote": "John Fauci’s first Saugus team finished 4–7 overall and 3–6 in the Northeastern Conference, according to the Boston Globe’s final standings. Saugus scored 203 points and allowed 277 across 11 games. McKanas and Dominic Zammit each scored twice in the 28–26 win over Greater Lawrence. L.J. McKanas and Dominic Zammit broke touchdown runs of 72 and 60 yards in the 34–12 loss at Winthrop. Against Salem, Ryan Leahy found McKanas for touchdowns of 21 and 89 yards, and McKanas threw a 64-yard scoring pass to Zammit. Saugus fell 28–26. Leahy threw touchdown passes to Zammit and Matt Rosso against Beverly.\n\nSaugus beat Marblehead 23–21 on scores by Zammit, McKanas and John Plunkett. McKanas ran for three touchdowns against Lynn English, which rallied from 19–0 down to win 20–19. McKanas scored on an 85-yard kickoff return and a fourth-quarter one-yard run in a 14–6 win over Lynn Classical. At Danvers, he scored four touchdowns, Plunkett broke a 37-yard run and Zammit returned a kickoff 80 yards in a 41–34 win. On Thanksgiving at Peabody, McKanas scored on a 74-yard catch, a 15-yard run and a 74-yard kickoff return. Plunkett added a 30-yard scoring run. Saugus led 28–26 at halftime before falling 39–28.\n\nSenior captain McKanas earned NEC Offensive Player of the Year and postseason newspaper honors. The Globe credits him with 20 total touchdowns and more than 2,500 all-purpose yards. The Item lists 1,365 rushing yards on 233 carries, 14 catches for 424 yards, a touchdown pass, two kickoff-return touchdowns, 110 tackles, two interceptions and one fumble recovery. The Globe lists 112 tackles. The available scoring summaries identify 19 of his 20 touchdowns, including ten rushing, five receiving, two on kickoff returns and two of unspecified type against Greater Lawrence."
     },
     {
       "year": 1997,
@@ -6752,7 +6886,7 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "The Daily Item’s Thanksgiving preview supplies the first ten results in order. The Thanksgiving game report supplies the 35–8 Peabody win. Exact dates for the first ten games remain unverified."
+      "scheduleNote": "The Daily Item’s Thanksgiving preview supplies the first ten results in order. The Thanksgiving game report supplies the 35–8 Saugus loss to Peabody. Exact dates for the first ten games remain unverified."
     },
     {
       "year": 2004,
@@ -8886,7 +9020,7 @@
     "Arthur L. William (1914)",
     "Arthur L. William coached the 1914 team to a 2–7 record. John Fox and George Sprague were among its leading players, and Watertown was the Thanksgiving opponent.",
     "Charles T. Senay (1915-1916)",
-    "Charles T. Senay guided Saugus High through two of the strongest early seasons preserved in the football archive. His 1915 team finished undefeated at 6–0, and the 1916 squad followed with a 7–1 record. Together, the two teams went 13–1, establishing an impressive standard for the young program. George Sprague, John Flynn, and Mike Garofano are among the players named in the surviving season records. Both teams competed in the Greater Lynn League, although no championship has yet been verified for either year. Contemporary Saugus town reports also illustrate the school's growing commitment to athletics: the 1915 report praised the football program's progress during the preceding fall, while the 1916 report described improved school spirit and the creation of an Athletic Council. These reports provide historical context rather than independent confirmation of the 1915–1916 scores or a title.",
+    "Charles T. Senay guided Saugus High through two of the strongest early seasons preserved in the football archive. The surviving 1915 results include six wins, one by a reported forfeit, and an 18–0 loss at Winchester. The archive lists the 1916 squad at 7–1. George Sprague, John Flynn, and Mike Garofano are among the players named in the surviving season records. Both teams competed in the Greater Lynn League, although no championship has yet been verified for either year. Contemporary Saugus town reports also illustrate the school's growing commitment to athletics: the 1915 report praised the football program's progress during the preceding fall, while the 1916 report described improved school spirit and the creation of an Athletic Council. These reports provide historical context rather than independent confirmation of the 1915–1916 scores or a title.",
     "Edward Collier (1917)",
     "The season records list Edward Collier’s 1917 team at 0–5. No coach or season record is established for 1918 in this collection. The interruption’s cause has not been verified; the wartime and influenza context alone does not establish an explanation.",
     "1920–1950: (The Golden Years):",
@@ -8910,7 +9044,7 @@
     "Championship spotlight — 1941: The 1941 Sachems won the Massachusetts Class C state championship and finished unbeaten. A contemporary Boston Globe retrospective gives 10–0–1. The yearbook schedule and final Class C standings document ten games, and the nine wins and one tie in the surviving results account for all ten. Superintendent Vernon W. Evans recognized coaches Henry Toczylowski and Edward Galligan in the town report.",
     "The opener under the lights was a 32–0 win over Chelsea. Eddie Shipulski scored twice and threw a touchdown pass, and Harrington both ran and passed for a score. Against Class A Leominster, Harrington’s touchdown in the final minute preserved the unbeaten season with a 6–6 tie.",
     "Dave Lucey (1943–1946)",
-    "Dave Lucey succeeded Toczylowski in 1943 and coached through 1946. His 1944 team went 10–0 in the regular season and won the Massachusetts Class B championship. Captain Art Spinney earned Boston Globe All-Scholastic first-team honors at end. Spinney later started four seasons at Boston College, captained the 1949 Eagles and entered the Boston College Varsity Club Athletic Hall of Fame in 1972. He played for the Baltimore Colts in 1950 and again from 1953 to 1960 after Army service. He earned Pro Bowl and All-Pro recognition in the 1959 and 1960 seasons and helped Baltimore win NFL championships in 1958 and 1959. Doug Waybright captained Saugus in 1943, graduated in 1944 and earned his first Notre Dame football letter that fall. He returned after Army service and was on Notre Dame’s 1947 and 1949 championship teams. Saugus later named an elementary school in his memory.",
+    "Dave Lucey succeeded Toczylowski in 1943 and coached through 1946. His 1944 team went 10–0 in the regular season and won the Massachusetts Class B championship. Captain Art Spinney earned Boston Globe All-Scholastic first-team honors at end. Doug Waybright captained Saugus in 1943 and graduated in 1944.",
     "Championship spotlight — 1944: Under Dave Lucey, the 1944 Sachems ran through ten regular-season games without a loss to earn the Massachusetts Class B championship. The archive records a dominant 207 points scored and only 19 allowed during that championship run. Art Spinney, Dick Allen, Bob Kane, Don Reiniger, Frank Pyszko and Bruce Waybright were among its standouts. The yearbook also documents a separate 19–7 postseason loss to Class A champion Peabody, which does not erase the team's Class B title. The 1944 town report remembered 1939, 1941 and 1944 as three defining championship seasons.",
     "Eight opponents were shut out. The first points against Saugus came on a 65-yard Newburyport fumble return. A reported 14,000 attended the 24–13 win over Lynn Classical at Manning Bowl, and a 26–0 Thanksgiving victory at Wakefield clinched the title.",
     "1947–1960: (The Janusas Era):",
@@ -8918,7 +9052,7 @@
     "John Janusas coached Saugus from 1947 through 1960. His teams won consecutive Exchange Bowls in 1949 and 1950, won the North Shore League title in 1953 and shared the league title with Salem in 1959.",
     "John Janusas’s first team went 7–3 in 1947. Captain Ernie Anganis played in a backfield that included George Laskey and Salvatore “Sardi” Nicolo. Laskey earned Lynn Item and Boston Post All-Scholastic recognition and made the Globe’s Class B All-Star team. He scored for the North Shore All-Stars in their 19–6 win over Suburban Boston. Saugus finished 3–8 in 1948.",
     "The 1948 team lost its first seven but won three of its last four. At Salem, nearly 8,000 saw Saugus complete seven of eight passes for 170 yards, including Sardi Nicolo’s 69-yard touchdown throw to Ken Neale. Captain Ed Falasca and Nicolo received Lions Club recognition that season.",
-    "The 1949 Sachems finished 10–1, sharing the North Shore championship with Gloucester and winning the Exchange Bowl against Weymouth, 7–6. Richie Nicolo’s 50-yard touchdown pass to his brother Sal “Sardi” Nicolo tied the bowl game, and Leo Kane’s extra point secured the victory. Co-captains Sardi Nicolo and Dan Murphy led a team also featuring Fred Quinlan and Richie Nicolo. Southward’s newspaper season wrap-up credits Sardi with an area-leading 99 points and 16 touchdowns and identifies Gloucester as Class B state champion. The ten regular-season results add up to 281 points for Saugus and 54 against, matching Southward’s 281-point scoring tally. The Exchange Bowl brought the totals to 288–60. Sardi later played at LSU and scored on a 94-yard run against Rice on October 4, 1952.",
+    "The 1949 Sachems finished 10–1, sharing the North Shore championship with Gloucester and winning the Exchange Bowl against Weymouth, 7–6. Richie Nicolo’s 50-yard touchdown pass to his brother Sal “Sardi” Nicolo tied the bowl game, and Leo Kane’s extra point secured the victory. Co-captains Sardi Nicolo and Dan Murphy led a team also featuring Fred Quinlan and Richie Nicolo. Southward’s newspaper season wrap-up credits Sardi with an area-leading 99 points and 16 touchdowns and identifies Gloucester as Class B state champion. The ten regular-season results add up to 281 points for Saugus and 54 against, matching Southward’s 281-point scoring tally. The Exchange Bowl brought the totals to 288–60.",
     "Championship spotlight — 1949: An early 20–15 loss to Beverly left Saugus at 1–1. The Sachems won their remaining nine games. Against Amesbury, Sardi Nicolo scored on runs of three and 53 yards and broke a 39-yard run to set up another score. The winning streak carried Saugus from the North Shore schedule to the Exchange Bowl. The superintendent singled out the victory over Weymouth in the town report.",
     "Championship spotlight — 1950: John Janusas’s Sachems won their second consecutive Exchange Bowl, beating Brockton 30–12 on December 2 at Manning Bowl and finishing 8–2. Richie Nicolo ran for a touchdown, returned an interception 60 yards for another and threw touchdown passes to Charlie Woodell and Ted Frederick. Co-captain Leo Kane kicked four extra points and helped Charlie Murphy anchor the line that held Brockton to 36 rushing yards. Woodell led Saugus with 12 touchdowns across the season.",
     "The North Shore title returned to Saugus in 1953. The following fall, co-captains Jack Lawrence and Malcolm “Mal” Rice led the Sachems to a 6–3 finish.",
@@ -8928,7 +9062,7 @@
     "Bernard Stead (1961-1963)",
     "Bernard Stead coached from 1961 through 1963. The season archive records finishes of 0–8, 1–8 and 0–9, respectively, a combined 1–25. Tom Carr is among the notable players listed for that period; the collection does not establish that he was its only All-Star.",
     "Walter Sheridan (1964-1966)",
-    "Walter Sheridan coached from 1964 through 1966, culminating in a 7–2 season. The gallery’s 1967 yearbook pages identify the fall 1966 co-captains as Edward Maguire, John Dancewicz and Paul Uga, alongside Christie Serino, James Mancuso, Donald Murray, Richard Lombardo and their teammates. Four pages preserve the squad portrait, named player studies, game photographs, pep squad and cheerleaders. Serino later pursued a distinguished hockey coaching career, described in his alumni profile.",
+    "Walter Sheridan coached from 1964 through 1966, culminating in a 7–2 season. The gallery’s 1967 yearbook pages identify the fall 1966 co-captains as Edward Maguire, John Dancewicz and Paul Uga, alongside Christie Serino, James Mancuso, Donald Murray, Richard Lombardo and their teammates. Four pages preserve the squad portrait, named player studies, game photographs, pep squad and cheerleaders.",
     "The 1966 team won its first five games and outscored its opponents 277–74. Against Boston College High, Ed Maguire ran for 150 yards and two scores. Don Murray scored once as a receiver and again on a 65-yard fumble return in the 33–6 win.",
     "Paul Maguire (1967-1972)",
     "Paul Maguire coached from 1967 through 1972. His 1969 Sachems finished 7–2 under captains John Richard, Richard Conti and William Babcock. The yearbook names Bob Osgood and Bill Eichel to the first offensive Northeastern Conference All-Star team and Steve Nelson to the first defensive team, with honorable mentions for Rich Desisto, Babcock, Conti and Richard. The only losses came against Class B champion Swampscott and Class A champion Peabody.",
@@ -8937,18 +9071,17 @@
     "Mike “Gino” Ginolfi’s first team went 3–6 in 1973. Two of those wins hinted at what was coming. Against Danvers, senior quarterback Richie Serino ran for both fourth-quarter touchdowns, sophomore Steve Gannon made three sacks, and reserve back John Nicolo came off the bench to help set up both scores. On Thanksgiving, Saugus shut out a previously unbeaten Peabody team 12–0. In 1974 the Sachems improved to 6–4. At Winthrop, Nicolo rushed for 138 yards, captain Steve Spinney intercepted two passes, and Mike Burt found Frank Scuzzarella for the two points that decided an 8–6 game.",
     "The 1975 Sachems finished 9–1 and shared the Northeastern Conference championship. Captains Tom Heaney, Doug Mackie, John Nicolo and Steve Gannon led the team. The gallery preserves the 15–14 comeback against Salem and the muddy 6–0 Thanksgiving victory over Peabody. The 1978 yearbook’s review explicitly distinguishes the shared first-place finish in 1975 from the conference title won in 1977.",
     "Championship spotlight — 1975: Saugus shared the NEC title with Salem, the team it had trailed 14–0 at halftime in their head-to-head meeting. Neil Connaughton stopped a Salem drive with a fourth-down sack. On the winning 80-yard, 18-play march, Jay LeBranti found Frank Scuzzarella on third-and-19 with 47 seconds left. The 15–14 win was part of a six-game closing streak. Saugus scored 248 points, allowed 87 and shut out six opponents.",
-    "Steve Gannon carried that defense-first style to Holy Cross. As a senior he recorded 143 tackles, then the highest total in the college’s records, earned first-team All-ECAC honors and received the Davitt Award as the Crusaders’ top defensive lineman. Holy Cross inducted him into its Hall of Fame in 2020.",
-    "Doug Mackie earned high-school All-American recognition in 1975 and continued his football career at Ohio State. He later played in the USFL for the Tampa Bay Bandits and New Jersey Generals and appeared in the NFL for Atlanta. His alumni profile records additional time with the Giants and Saints. The gallery and alumni collection preserve his professional career; claims that he was the nation’s top recruit or that combine his 1984 All-Pro honor with Herschel Walker’s later rushing-record season require separate documentation.",
-    "John Nicolo helped Ithaca College win the 1979 NCAA Division III football title and the 1980 Division III baseball title. He was a second-team football All-American and the 1980 Division III World Series MVP. He played for the Auburn Americans in the New York–Penn League in 1980. Ithaca inducted him individually in 1986 and later honored both championship teams. Saugus High’s inaugural 1987 Athletic Hall of Fame class included eight football alumni: Art Spinney, Christie Serino, Doug Mackie, George Laskey, John “Iron Mike” Harrington, John Nicolo, Salvatore “Sardi” Nicolo and Stan Green. The school roster recognizes Dr. John Mangini as an original committee member.",
+    "Doug Mackie earned high-school All-American recognition in 1975.",
+    "Saugus High’s inaugural 1987 Athletic Hall of Fame class included eight football alumni: Art Spinney, Christie Serino, Doug Mackie, George Laskey, John “Iron Mike” Harrington, John Nicolo, Salvatore “Sardi” Nicolo and Stan Green. The school roster recognizes Dr. John Mangini as an original committee member.",
     "The Sachems followed a 2–8 season in 1976 with a 9–1 Northeastern Conference championship in 1977. The yearbook identifies co-captains Dan Hashem and Frank Doyle and senior contributors including George Nicolo, Frank Serino, Paul Serino, John Coffey and Tim Fawcett. A 12–10 Thanksgiving win over Peabody closed the season. The gallery also preserves Mike Ginolfi’s 1977 Item Coach of the Year recognition.",
     "Championship spotlight — 1977: A 7–6 loss to Salem was the only defeat. George Nicolo threw four touchdown passes at Beverly, two each to John Coffey and Frank Serino. Coffey caught all three Saugus touchdowns in an 18–12 win at Marblehead. The Sachems won their final five, outscored their opponents 204–88 over the season and finished third in Division 2 behind Super Bowl qualifiers Dartmouth and Boston College High.",
-    "Four starters returned from the champions in 1978: Paul Nigro, Don Trainor, Bill Peach and Mike Allan. In a 46–14 win over Lynn English, Saugus scored 40 points in the first quarter. Nigro ran for 271 yards on eight carries and caught an 83-yard touchdown pass. Sophomore Steve Peach completed all five of his passes for 241 yards and four touchdowns. The Sachems finished 6–3–1, then went 5–5 in both 1979 and 1980. The 1980 team closed with a 40–6 Thanksgiving win over Peabody. Peach later played at Syracuse and Boston College.",
+    "Four starters returned from the champions in 1978: Paul Nigro, Don Trainor, Bill Peach and Mike Allan. In a 46–14 win over Lynn English, Saugus scored 40 points in the first quarter. Nigro ran for 271 yards on eight carries and caught an 83-yard touchdown pass. Sophomore Steve Peach completed all five of his passes for 241 yards and four touchdowns. The Sachems finished 6–3–1, then went 5–5 in both 1979 and 1980. The 1980 team closed with a 40–6 Thanksgiving win over Peabody.",
     "After going 1–9 in 1981, Mike Ginolfi’s Sachems rebounded to 5–4–1 in 1982. Co-captains Mark Strangie and Anthony Guthro led a team that also featured quarterback Steve Fauci and Anthony Cogliano. Saugus won five straight conference games, finished third in the NEC and outscored its opponents 93–89. The 1983 Sachems went 4–6, led by Tom Trainor, Kevin Pelley and Bob Cinelli.",
     "The 1982 yearbook says the Sachems had been picked to finish last. They shut out Marblehead and Swampscott during the five-game winning streak. Steve Fauci threw eight touchdown passes, including two apiece in victories over Lynn English and Danvers.",
     "Ginolfi would step down after the 1983 season and moved into athletic administration. His coaching tree shaped Saugus football for decades through assistants and former players who followed him into the head coaching role.",
     "1984–1993: Inconsistency and Brief Success",
     "Kevin Ward (1984-1990)",
-    "Kevin Ward took over in 1984, and the program went through several down years, though the 1987 team rebounded to go 7-3. Marc Fauci emerged as one of the Sachems greatest players. He was named Boston Globe All Scholastic in 1989. Fauci would go on to play college football at Boston University (BU). While at BU, Fauci would play Linebacker and was twice named Co-Captain as a junior and senior. Fauci led BU to arguably its best season ever in 1993 when they went 12-1 and finished the regular season with a perfect 11-0 mark, the first unbeaten and untied record in program history. Fauci was named a second-team All-America by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press.",
+    "Kevin Ward took over in 1984, and the program went through several down years, though the 1987 team rebounded to go 7-3. Marc Fauci emerged as one of the Sachems greatest players. He was named Boston Globe All Scholastic in 1989.",
     "The 1987 team edged Peabody 21–20 on Thanksgiving. Co-captain Joe Barressi caught nine touchdown passes, ran for two scores and returned two punts for touchdowns. He also kicked and punted, and the Item selected him to its All-Star team at defensive back. Fellow captain Larry Furey earned Item recognition on the offensive line. In Ward’s final season, 1990, the Sachems went 8–2 behind tri-captains Ryan Magnasco, Dan Schena and Chris Mikulski. Justin Barrett scored five touchdowns against Gloucester. The ten final scores give Saugus 284 points and its opponents 128. The Globe called 284 a school scoring record, while the yearbook reported 288.",
     "Mike “Bonty” Bontempo (1991-1993)",
     "Mike “Bonty” Bontempo succeeded Ward and coached from 1991 through 1993. Saugus went 1–29 over those three seasons. Sean Publicover and Joe Attubato earned All-Star recognition during his tenure.",
@@ -8958,22 +9091,22 @@
     "In the streak-breaking opener, McKanas ran for 178 yards and two scores on 29 carries, Plunkett added 71 yards, and Abate stopped Winthrop on fourth-and-one. Saugus followed with victories over Danvers, Salem and Beverly to open 4–0.",
     "Coach Ginolfi retired from coaching after the 1995 season. He will always be remembered as one of the greatest football coaches in Sachem history, as he was a 1993 Saugus High Athletic Hall of Fame inductee, but he was also one of the greatest coaches in Massachusetts Football History as he was inducted into the Massachusetts High School Football Coaches Association Hall of Fame in 1992. Coach Ginolfi would remain Athletic Director at Saugus until he retired from that position in 2002",
     "John Fauci (1996-1998)",
-    "John Fauci took over for Coach Ginolfi for the 1996 season. Saugus finished the 1996 season with a 4–7 record. The Sachems were led by John Plunkett, Justin Falite, and LJ McKanas. McKanas would be named to numerous All-Star teams as a RB. He would go on to play college football at Northeastern. While at Northeastern McKanas would go on to set numerous rushing records. During his Senior season in 2001 McKanas set records for most carries, 342, rushing yards, 1756, and rushing touchdowns, 14. He gained over 100 yards rushing in nine games and over 200 in three. He averaged 5.1 yards per carry and 159.6 per game as the team posted a 5-6 record. His 242 rushing yards against Massachusetts is second in the Husky record books. He won numerous awards, including All-New England, All-Conference and first-team Hanson All-America. He also received the Harry Agganis Award as the Outstanding Senior Football Player in New England. In 2009 he was inducted into the Northeastern Athletic Hall of Fame. McKanas later was a contestant on the popular TV Show Survivor. His alumni profile records a ninth-place finish. He was the first of two former Sachems to become a contestant on the popular reality show.",
+    "John Fauci took over for Coach Ginolfi for the 1996 season. Saugus finished the 1996 season with a 4–7 record. The Sachems were led by John Plunkett, Justin Falite, and LJ McKanas. McKanas would be named to numerous All-Star teams as a RB.",
     "Saugus finished 6–4–1 in 1997 and 5–6 in 1998. The 1998 Thanksgiving preview credits Raphael Zammit with 21 total touchdowns before the finale—18 rushing, two receiving and one interception return—surpassing the previous total-touchdown mark of 20 credited to L.J. McKanas. That total-touchdown distinction should not be confused with a rushing-touchdown record. The same preview highlights quarterback Ryan Leahy, Mike Panzini and their teammates; its figures are pre-Thanksgiving totals rather than confirmed final-season statistics.",
     "In the 1997 opener, Dominic and Raphael Zammit combined for 251 rushing yards against Greater Lawrence. Ryan Leahy also found Raphael for a 50-yard score. In 1998 Raphael ran for five touchdowns at Winthrop and four at Marblehead, where Leahy added two rushing scores. An 82-yard fourth-quarter run by Zammit broke a 14–14 tie at Danvers.",
     "Dean Sacca (1999-2000)",
     "Dean Sacca’s first team opened 1999 with a 6–0 win over Methuen on sophomore quarterback Kyle Sucharewicz’s fourth-quarter run. George Lowe scored three times in a 30–14 win over Marblehead. Against Swampscott he scored on a five-yard run and a 65-yard pass from Sucharewicz. The Sachems reached 3–2 before finishing 3–8. Sacca’s 2000 team, which featured All-Star Ryan Gould, finished 2–8.",
     "John Nicolo (2001-2004)",
-    "John Nicolo returned as head coach in 2001. The Sachems went 2–9, but erased a 14–0 deficit at Salem to win 30–14. Kyle Sucharewicz threw three touchdown passes, Dan Landry returned an interception 55 yards for a score, and Saugus put up 24 points in the fourth quarter. On Thanksgiving, Sal Nicolo returned an interception 33 yards for a touchdown and recovered a fumble against Peabody. In 2002 the Sachems finished 1–10. In their 31–16 win over Marblehead, Sal’s 35-yard fumble return set up the first Saugus touchdown. Sal later played linebacker at Bridgewater State in 2003 and 2004.",
+    "John Nicolo returned as head coach in 2001. The Sachems went 2–9, but erased a 14–0 deficit at Salem to win 30–14. Kyle Sucharewicz threw three touchdown passes, Dan Landry returned an interception 55 yards for a score, and Saugus put up 24 points in the fourth quarter. On Thanksgiving, Sal Nicolo returned an interception 33 yards for a touchdown and recovered a fumble against Peabody. In 2002 the Sachems finished 1–10. In their 31–16 win over Marblehead, Sal’s 35-yard fumble return set up the first Saugus touchdown.",
     "The 2003 Sachems finished 3–8. Junior running back Mike Nicolo rushed for 1,462 yards and 11 touchdowns and set the then Saugus single-game rushing record with 306 yards against Salem, as documented in the gallery and alumni profile. Anthony “Beave” Barbanti’s senior profile records 75 tackles, 11 tackles for loss and three sacks, alongside his work on the offensive line. Mark Spadafora and Chris Benson also feature in the season entry.",
     "At Beverly the next week, Nicolo carried 37 times for 241 yards and all four Saugus touchdowns in a 29–14 comeback. Rob Gannon threw for one two-point conversion and ran in another.",
-    "The 2004 Sachems were plagued with injuries to their core players and the promising rebuild came to a stop as they finished the season 0-11. Nicolo missed part of the season and played most of the season with an injured knee and shoulder. Despite the injuries Nicolo was still named an All-Star along with teammate Brian Bianchi. Mike Nicolo would go on to play College Football for New England Division III power Curry College however injuries followed him throughout his college career. Nicolo was inducted into the Curry College Athletic Hall of Fame as a member of the 2007 Curry Football Team, which was ranked 19th Nationally and had won 4-consecutive New England Football Conference Championships.",
+    "The 2004 Sachems were plagued with injuries to their core players and the promising rebuild came to a stop as they finished the season 0-11. Nicolo missed part of the season and played most of the season with an injured knee and shoulder. Despite the injuries Nicolo was still named an All-Star along with teammate Brian Bianchi.",
     "The surviving senior-season reports document 429 rushing yards for Nicolo across six games and seven rushing touchdowns across the scoring summaries. The yardage is a partial tally. His longest documented scoring run was 61 yards against Revere in the opener.",
     "After the 2004 season, Coach Nicolo stepped down as Head Coach and took on the role of Athletic Director.",
     "2005–2016: (The Broderick Era)",
     "Mike Broderick (2005-2016)",
     "Mike Broderick took over in 2005 and brought stability back to the program. Coach Broderick was the first Sachems Head Coach to have not been under the Ginolfi Coaching Tree since the Paul Maguire days.",
-    "Coach Broderick’s first two seasons were rebuilding seasons for the Sachems. His 2005 team went 1-10, led by All Star Alex Klimarchuk. In 2006 the Sachems improved to 3-7. Although the record didn’t seem like much, this team was remembered for becoming the first Saugus team to defeat the Sachems Thanksgiving Day rival, the Peabody Tanners, for the first time in 18 seasons. That Sachems team was led by senior All Star, Rodney Lavoie, who went on to be a contestant on the TV Show Survivor in 2015, the second former Sachem to appear on the hit TV Show. Saugus also had a freshman QB by the name of Mike DiChiaria who had a breakout season. DiChiaria would transfer to the prep school BB&N to finish out his High School career, where DiChiaria made the top 10 in Massachusetts state history for career touchdown passes. He would go on to play college football at Cornell.",
+    "Coach Broderick’s first two seasons were rebuilding seasons for the Sachems. His 2005 team went 1-10, led by All Star Alex Klimarchuk. In 2006 the Sachems improved to 3-7. Although the record didn’t seem like much, this team was remembered for becoming the first Saugus team to defeat the Sachems Thanksgiving Day rival, the Peabody Tanners, for the first time in 18 seasons. That Sachems team was led by senior All Star, Rodney Lavoie. Saugus also had a freshman QB by the name of Mike DiChiaria who had a breakout season.",
     "Broderick’s option offense helped Saugus put together back-to-back 7–3 seasons. The 2007 team, the first winning side since 1997, averaged 280 rushing yards per game according to the Item. Captain Tyler Trainor made 108 tackles and returned an interception for a touchdown. Saugus won its last three on the road, closing with a 49–14 Thanksgiving win at Chelsea. In 2008, Mike Dean rushed for 1,242 yards on 130 carries and quarterback Brett Reid added 800 on 96. After a three-game skid, the Sachems beat Danvers, Marblehead and Chelsea by a combined 92–13.",
     "From 2009 through 2011, the Sachems fell back to below .500. Although these teams didn’t have as much success, they still had some All-Star players like Shamir Guillaume and AJ Guthro. Guillaume would go on to set the Sachems single season rushing yards record by rushing for 1,678 yards in 2010.",
     "The Sachems finished 6–5 in 2012 and 3–8 in 2013. Tom Trainor, C.J. Randolph, Nick Benoit and Ismael Minaya are listed for 2012. Justin Winn earned Lynn Item All-Scholastic honors as a junior in 2013, when his newspaper profile credited him with 1,103 rushing yards and 19 touchdowns.",
@@ -8988,7 +9121,7 @@
     "The Sachems under Coach Cummings have seen their ups and downs. The Sachems took a step back during the 2019 season when they went 3-8. The team was led by All Star Marvens Jean as well as Kyle Surette, Sal Franco, Christian Correa, and Javier Martinez.",
     "The 2020 Season was interrupted by the Covid-19 Pandemic, but Saugus was still able to play a 7 game schedule during the season, going 2-5.",
     "Saugus finished 0–11 in 2021 and 2–11 in 2022. Mike MacEacheran and Braden Faiella were among the players from those seasons.",
-    "The 2023 Sachems finished 5–6. Braden Faiella, Tommy DeSimmone and Dylan Clark are listed among the season’s leading players. The gallery’s senior Faiella profile reports 140 tackles and a career total of 482, and credits him with Item Defensive Player of the Year recognition. The coach’s suggestion that the career total might be a state record is not treated as a verified record. Faiella later continued his football career at Saint Anselm; the supplied workbook also spells his first name Brandon.",
+    "The 2023 Sachems finished 5–6. Braden Faiella, Tommy DeSimmone and Dylan Clark are listed among the season’s leading players. The gallery’s senior Faiella profile reports 140 tackles and a career total of 482, and credits him with Item Defensive Player of the Year recognition. The coach’s suggestion that the career total might be a state record is not treated as a verified record. The supplied workbook also spells his first name Brandon.",
     "The 2024 Sachems went 3-8 and were led by All Stars Koby Jette and Cody Munafo.",
     "Steve Cummings’s final team finished 2–9 in 2025, beating Lynn Vo-Tech and East Boston. Saugus shut out East Boston 34–0, then took a 20–0 lead five minutes into its Thanksgiving game at Peabody. A blocked punt recovered in the end zone helped build the lead. Peabody rallied to win 28–26.",
     "Greg Bluestein (2026–present)",
