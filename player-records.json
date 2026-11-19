@@ -17645,6 +17645,500 @@
           "note": "Confirmed minimum; incomplete game-level box scores and unidentified Thanksgiving touchdown."
         }
       }
+    },
+    {
+      "name": "Steve Fauci",
+      "category": "Passing",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 8,
+        "Conversion Passes": 1,
+        "Passing Yards": 99,
+        "Completions": 8
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Conversion Passes": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Mike Watts",
+      "category": "Receiving",
+      "year": 1982,
+      "schoolClass": "Sr.",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Receiving Yards": 28,
+        "Receptions": 2
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Tom Trainor",
+      "category": "Receiving",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Receiving Yards": 24,
+        "Receptions": 2
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Shawn Hartigan",
+      "category": "Receiving",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Receiving Yards": 28,
+        "Receptions": 2
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Tom Hood",
+      "category": "Receiving",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 15,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Dan Monico",
+      "category": "Receiving",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 4,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Kevin Pelley",
+      "category": "Rushing",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 4,
+        "Rushing Yards": 17,
+        "Carries": 4
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Bob Cinelli",
+      "category": "Rushing",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Rushing Yards": 5,
+        "Carries": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        },
+        "Carries": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Mike Watts",
+      "category": "Returns",
+      "year": 1982,
+      "schoolClass": "Sr.",
+      "values": {
+        "Punt Return Touchdowns": 1,
+        "Punt Return Yards": 42
+      },
+      "statSources": {
+        "Punt Return Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Punt Return Yards": {
+          "partial": true,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Documented scoring plays only."
+        }
+      }
+    },
+    {
+      "name": "Shawn Hartigan",
+      "category": "Kicking",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Mike Watts",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Tom Trainor",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Shawn Hartigan",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Extra Points": 1,
+        "Points": 13
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Extra Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Tom Hood",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Dan Monico",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Kevin Pelley",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Bob Cinelli",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Steve Fauci",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "Alan Grove",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 1,
+        "Points": 2
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
+    },
+    {
+      "name": "John Brown",
+      "category": "Scoring",
+      "year": 1982,
+      "schoolClass": "",
+      "values": {
+        "Two-Point Conversions": 2,
+        "Points": 4
+      },
+      "statSources": {
+        "Two-Point Conversions": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        },
+        "Points": {
+          "partial": false,
+          "clipping": "Ten contributed 1982 Saugus game scoring summaries",
+          "note": "Season total from all ten scoring summaries."
+        }
+      }
     }
   ],
   "hallOfFame": {
