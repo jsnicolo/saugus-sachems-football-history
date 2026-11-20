@@ -6736,6 +6736,35 @@
           "url": "documents/agganis-workbook-extract.json"
         }
       ]
+    },
+    {
+      "name": "Fred Eugene Quinlan",
+      "schoolClass": "1972",
+      "position": "Offensive line",
+      "bio": "Fred Eugene “Freddy” Quinlan played on the line for Saugus High. The 1970 Tontoquonian names him in the team photo for Paul Maguire’s 1969 Sachems, who finished 7–2. His senior profile in the 1972 yearbook singled him out as one of the school’s outstanding football players.\n\nQuinlan went on to play offensive guard at Plymouth State. The school’s football media guide credits him with NAIA All-American honors in 1974 and 1975. He also earned Associated Press Little All-America honorable mention in 1975.\n\nHis father, Fred Quinlan (Saugus High Class of 1950), was a standout running back and catcher who helped the Sachems win the 1949 Exchange Bowl. His son, Pat Quinlan (Saugus High Class of 2002), was a four-year starter on defense and a senior football captain at Saugus before becoming a defensive lineman and captain at Plymouth State.",
+      "source": "Saugus High yearbooks, Boston Globe coverage of the Quinlan family, Saugus season records, and Plymouth State Athletics.",
+      "sources": [
+        {
+          "label": "1970 Tontoquonian · 1969 football team photo, p. 120",
+          "url": "https://archive.org/stream/tontoquonian1970saug/tontoquonian1970saug_djvu.txt"
+        },
+        {
+          "label": "1972 Tontoquonian · Fred Eugene Quinlan senior profile",
+          "url": "https://archive.org/stream/tontoquonian1972saug/tontoquonian1972saug_djvu.txt"
+        },
+        {
+          "label": "Plymouth State · football media guide",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.plymouth.edu/documents/2023/11/28/2023_FB_Media_Guide.pdf"
+        },
+        {
+          "label": "Plymouth State · football All-Americans",
+          "url": "https://athletics.plymouth.edu/sports/2026/8/5/plymouth-state-football-all-americans.aspx"
+        },
+        {
+          "label": "Boston Globe · Patrick Quinlan and three generations of Saugus football",
+          "url": "https://www.bostonglobe.com/metro/regionals/north/2015/11/02/catching-with-patrick-quinlan-saugus-high-plymouth-state-football/bXHLEWgT8A7vvcLfYBinxM/story.html"
+        }
+      ]
     }
   ],
   "stats": [
