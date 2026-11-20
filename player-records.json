@@ -1,6 +1,36 @@
 {
   "honors": [
     {
+      "name": "Michael Garofano",
+      "position": "Right halfback",
+      "schoolClass": "",
+      "year": 1916,
+      "publisher": "Postseason All-Star game",
+      "award": "Brackett’s All-Stars · game participant",
+      "sourceLabel": "Dec. 10, 1916 newspaper report · Dame’s All-Stars beat Brackett’s at Lynn",
+      "sourceNote": "Dec. 9 game at Ocean Park in Lynn. The game account singled him out for his play on Brackett’s team."
+    },
+    {
+      "name": "Wilson",
+      "position": "Fullback",
+      "schoolClass": "",
+      "year": 1916,
+      "publisher": "Postseason All-Star game",
+      "award": "Brackett’s All-Stars · game participant",
+      "sourceLabel": "Dec. 10, 1916 newspaper report · Dame’s All-Stars beat Brackett’s at Lynn",
+      "sourceNote": "Dec. 9 game at Ocean Park in Lynn. Matches the surname and position in the Sept. 30 Saugus lineup."
+    },
+    {
+      "name": "Fox",
+      "position": "Right guard",
+      "schoolClass": "",
+      "year": 1916,
+      "publisher": "Postseason All-Star game",
+      "award": "Brackett’s All-Stars · game participant",
+      "sourceLabel": "Dec. 10, 1916 newspaper report · Dame’s All-Stars beat Brackett’s at Lynn",
+      "sourceNote": "Dec. 9 game at Ocean Park in Lynn. Matches the surname and guard position in the Oct. 12 Saugus lineup."
+    },
+    {
       "name": "Larry Furey",
       "position": "G",
       "schoolClass": "Sr",
