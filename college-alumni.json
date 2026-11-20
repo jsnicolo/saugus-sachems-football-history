@@ -795,9 +795,9 @@
       "gradYear": 2008,
       "college": "Bridgewater State University",
       "position": "LB (2008–2009), S (2010)",
-      "rosterYears": "2008–2010",
+      "rosterYears": "2008–2011",
       "professional": "",
-      "notes": "Saugus Class of 2008. Bridgewater State No. 46; linebacker in 2008 and 2009, safety in 2010. Recorded an assisted tackle against Plymouth State in 2010.",
+      "notes": "No. 46, linebacker in 2008 and 2009 and safety in 2010. Official Plymouth State box scores document tackles and appearances in 2010 and 2011.",
       "sources": [
         {
           "label": "Plymouth State official 2010 football box score vs. Bridgewater State",
@@ -805,6 +805,10 @@
         },
         {
           "label": "Bridgewater State 2008–2010 official rosters, supplied by contributor"
+        },
+        {
+          "label": "Plymouth State · 2011 Bridgewater State box score",
+          "url": "https://athletics.plymouth.edu/sports/football/stats/2011/bridgewater-state/boxscore/537"
         }
       ]
     },
@@ -832,13 +836,25 @@
       "gradYear": 2009,
       "college": "University of Massachusetts Dartmouth",
       "position": "DB",
-      "rosterYears": "2009",
+      "rosterYears": "2009–2010",
       "professional": "",
-      "notes": "Listed as a freshman defensive back on the 2009 roster; high school graduation year pending verification.",
+      "notes": "No. 31 defensive back on both rosters. Started at free safety against Curry in 2009. The MIT box score documents a 2010 appearance.",
       "sources": [
         {
           "label": "UMass Dartmouth 2009 football roster",
           "url": "https://corsairathletics.com/sports/football/roster/2009"
+        },
+        {
+          "label": "UMass Dartmouth · 2010 roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2010"
+        },
+        {
+          "label": "UMass Dartmouth · 2009 Curry box score",
+          "url": "https://corsairathletics.com/sports/football/stats/2009/curry/boxscore/1493"
+        },
+        {
+          "label": "UMass Dartmouth · 2010 MIT box score",
+          "url": "https://corsairathletics.com/sports/football/stats/2010/mit/boxscore/1498"
         }
       ]
     },
@@ -1071,6 +1087,25 @@
         {
           "label": "UNH official Bob Demers 12th Player Award recipients",
           "url": "https://unhwildcats.com/sports/2022/4/20/bob-demers-12th-player-award"
+        }
+      ]
+    },
+    {
+      "name": "Tommy DeSimone",
+      "gradYear": 2024,
+      "college": "Worcester State University",
+      "position": "LB",
+      "rosterYears": "2026",
+      "professional": "",
+      "notes": "No. 44 linebacker. Recorded five tackles and two sacks against Dean College on Oct. 24, 2026.",
+      "sources": [
+        {
+          "label": "Maritime College · Worcester State lineup",
+          "url": "https://maritimeathletics.com/sports/football/stats/2026/worcester-state/boxscore/8546"
+        },
+        {
+          "label": "Dean College · Worcester State box score",
+          "url": "https://deanbulldogs.com/sports/football/stats/2026/worcester-state-university/boxscore/3374"
         }
       ]
     }

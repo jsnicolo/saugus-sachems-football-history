@@ -6306,7 +6306,7 @@
       "name": "Tyler Trainor",
       "schoolClass": "2008",
       "position": "Linebacker / Running back",
-      "bio": "The 2007 captain anchored the defense on Saugus’s first winning team since 1997. He made 108 tackles, recovered seven fumbles and intercepted two passes, returning one for a touchdown. He also ran for five touchdowns as the Sachems finished 7–3. Trainor earned Lynn Item and Northeastern Conference All-Star honors, the Walter Boverini Defensive Player of the Year award and the Saugus Lions Club Heisman Trophy. He went on to play linebacker and safety at Bridgewater State.",
+      "bio": "The 2007 captain anchored the defense on Saugus’s first winning team since 1997. He made 108 tackles, recovered seven fumbles and intercepted two passes, returning one for a touchdown. He also ran for five touchdowns as the Sachems finished 7–3. Trainor earned Lynn Item and Northeastern Conference All-Star honors, the Walter Boverini Defensive Player of the Year award and the Saugus Lions Club Heisman Trophy. He went on to play linebacker and safety at Bridgewater State from 2008 through 2011. Plymouth State’s box scores document his game appearances in 2010 and 2011.",
       "source": "Lynn Item senior profile, Saugus season archive and college football records.",
       "sources": [
         {
@@ -6316,6 +6316,10 @@
         {
           "label": "Plymouth State · 2010 Bridgewater State box score",
           "url": "https://athletics.plymouth.edu/sports/football/stats/2010/bridgewater-state/boxscore/527"
+        },
+        {
+          "label": "Plymouth State · 2011 Bridgewater State box score",
+          "url": "https://athletics.plymouth.edu/sports/football/stats/2011/bridgewater-state/boxscore/537"
         }
       ]
     },
@@ -6323,7 +6327,7 @@
       "name": "Mike Dean",
       "schoolClass": "2009",
       "position": "Running back / Outside linebacker",
-      "bio": "Dean helped power consecutive 7–3 seasons under coach Mike Broderick and shared the captaincy with Bret Reid in 2008. The Lynn Item credited Dean with 1,242 rushing yards on 130 carries and 17 touchdowns as a senior. Its profile also reported two interception returns for touchdowns. He earned NEC recognition in 2007 and returned as an NEC Small All-Star in 2008, when he also earned Lynn Item and Eastern Massachusetts Division 3 All-Star honors. He was listed as a freshman defensive back at UMass Dartmouth in 2009.",
+      "bio": "Dean helped power consecutive 7–3 seasons under coach Mike Broderick and shared the captaincy with Bret Reid in 2008. The Lynn Item credited Dean with 1,242 rushing yards on 130 carries and 17 touchdowns as a senior. Its profile also reported two interception returns for touchdowns. He earned NEC recognition in 2007 and returned as an NEC Small All-Star in 2008, when he also earned Lynn Item and Eastern Massachusetts Division 3 All-Star honors. Dean played defensive back at UMass Dartmouth in 2009 and 2010. He started at free safety against Curry as a freshman.",
       "source": "Lynn Item profile, supplied All-Star lists, MaxPreps varsity statistics and UMass Dartmouth roster.",
       "sources": [
         {
@@ -6345,6 +6349,18 @@
         {
           "label": "UMass Dartmouth · 2009 football roster",
           "url": "https://corsairathletics.com/sports/football/roster/2009"
+        },
+        {
+          "label": "UMass Dartmouth · 2010 roster",
+          "url": "https://corsairathletics.com/sports/football/roster/2010"
+        },
+        {
+          "label": "UMass Dartmouth · 2009 Curry box score",
+          "url": "https://corsairathletics.com/sports/football/stats/2009/curry/boxscore/1493"
+        },
+        {
+          "label": "UMass Dartmouth · 2010 MIT box score",
+          "url": "https://corsairathletics.com/sports/football/stats/2010/mit/boxscore/1498"
         }
       ]
     },
@@ -6377,7 +6393,7 @@
       "name": "Tommy DeSimone",
       "schoolClass": "2024",
       "position": "Running back / Strong safety",
-      "bio": "A captain on the 2023 team, DeSimone rushed for 1,113 yards and 14 touchdowns as Saugus opened 3–0 and finished 5–6. He ran 28 times for 140 yards and three touchdowns in a 28–22 win over Northeast, earning a Boston Globe Player of the Week mention. He also scored Saugus’s touchdown on a 13-yard run against Peabody on Thanksgiving. DeSimone earned Lynn Item honors at running back and was named Northeastern Conference Offensive All-Conference.",
+      "bio": "A captain on the 2023 team, DeSimone rushed for 1,113 yards and 14 touchdowns as Saugus opened 3–0 and finished 5–6. He ran 28 times for 140 yards and three touchdowns in a 28–22 win over Northeast, earning a Boston Globe Player of the Week mention. He also scored Saugus’s touchdown on a 13-yard run against Peabody on Thanksgiving. DeSimone earned Lynn Item honors at running back and was named Northeastern Conference Offensive All-Conference. In 2026, he played linebacker for Worcester State and recorded five tackles and two sacks against Dean College.",
       "source": "Saugus Advocate season profile and conference awards, Boston Globe weekly honors, Lynn Item honors archive and MaxPreps roster.",
       "sources": [
         {
@@ -6391,6 +6407,14 @@
         {
           "label": "Saugus Advocate · NEC awards",
           "url": "https://advocatenews.net/saugus/news/the-old-sachem-sachem-sports-in-the-early-90s/"
+        },
+        {
+          "label": "Maritime College · Worcester State lineup",
+          "url": "https://maritimeathletics.com/sports/football/stats/2026/worcester-state/boxscore/8546"
+        },
+        {
+          "label": "Dean College · Worcester State box score",
+          "url": "https://deanbulldogs.com/sports/football/stats/2026/worcester-state-university/boxscore/3374"
         }
       ]
     }
