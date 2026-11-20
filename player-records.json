@@ -6694,6 +6694,48 @@
           "url": "https://www.boston.com/sports/untagged/2012/10/25/tommy-trainor-continues-family-legacy-at-linebacker-for-saugus-high/"
         }
       ]
+    },
+    {
+      "name": "Mark Spadafora",
+      "schoolClass": "2004",
+      "position": "G / DL",
+      "bio": "Mark Spadafora co-captained the 2003 Sachems and played on both lines. At right guard, he made the calls for the entire offensive line, adjusting blocking assignments when defenses shifted. His blocking helped pave the way for Mike Nicolo’s 306-yard rushing game against Salem. Spadafora earned Northeastern Conference football All-Star honors and was selected to play on both lines in the 2004 Harry Agganis All-Star Football Classic. He also received an Agganis Foundation scholarship.\n\nSpadafora graduated as Saugus High’s valedictorian. He played basketball and earned second-team All-NEC and Academic All-American honors as a lacrosse defenseman. At MIT, he played four seasons on the offensive line and captained the football team as a senior in 2007. He was also a four-year lacrosse starter and two-time captain. After graduating from MIT with a degree in mechanical engineering, he went on to coach the Engineers’ men’s lacrosse defense.",
+      "source": "Boston Globe profile, Saugus season and captains records, and MIT Athletics.",
+      "sources": [
+        {
+          "label": "Boston Globe · A beautiful mind, with brawn to spare",
+          "url": "photos/contributed-2691.webp"
+        },
+        {
+          "label": "Saugus football · 2003 season records",
+          "url": "#seasons"
+        },
+        {
+          "label": "MIT Athletics · football and lacrosse career",
+          "url": "https://mitathletics.com/staff-directory/mark-spadafora/92"
+        }
+      ]
+    },
+    {
+      "name": "Brian Bianchi",
+      "schoolClass": "2005",
+      "position": "OL / LB",
+      "bio": "Brian Bianchi was a three-year varsity starter who played linebacker and offensive line for the Sachems. As a junior, he helped anchor the 2003 defensive front. He shared the 2004 captaincy with Mike Nicolo and Rob Gannon and finished his senior season with 108 tackles, including eight for loss, four forced fumbles and three recoveries.\n\nBianchi earned 2004 Northeastern Conference and Lynn Item football All-Star honors at linebacker. After graduating in 2005, he was selected for the Harry Agganis All-Star Football Classic.",
+      "source": "Lynn Item All-Star profile, Saugus season and captains records, and the Agganis selection archive.",
+      "sources": [
+        {
+          "label": "Lynn Item · 2004 football All-Star profile",
+          "url": "photos/honors-IMG_3371.webp"
+        },
+        {
+          "label": "Saugus football · season records",
+          "url": "#seasons"
+        },
+        {
+          "label": "Harry Agganis Football Classic · selection archive",
+          "url": "documents/agganis-workbook-extract.json"
+        }
+      ]
     }
   ],
   "stats": [
