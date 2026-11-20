@@ -7282,6 +7282,52 @@
           "url": "sources/1975-honors-list.webp"
         }
       ]
+    },
+    {
+      "name": "Billy Robinson",
+      "schoolClass": "2001",
+      "position": "Receiver / kicker",
+      "bio": "Billy Robinson co-captained Dean Sacca’s 2000 Sachems with Ryan Gould and Adam Magnasco. The 2001 Tontoquonian names him to the Northeastern Conference All-Conference football team. Robinson caught a five-yard touchdown pass from Kyle Sucharewicz against Lynn English and kicked the extra point. He caught a 25-yard touchdown against Beverly and kicked an extra point that gave Saugus a third-quarter lead against Salem.\n\nRobinson also stood out in lacrosse and was part of the first Saugus High boys’ lacrosse team in spring 1999, when the school added the sport.",
+      "source": "Saugus football game summaries, 2001 Tontoquonian, Saugus Advocate lacrosse retrospective, and Sal Nicolo’s account of Robinson’s lacrosse career.",
+      "sources": [
+        {
+          "label": "2001 Tontoquonian · varsity football and All-Conference honors",
+          "url": "https://archive.org/details/tontoquonian2001saug"
+        },
+        {
+          "label": "Saugus football · 2000 season and game summaries",
+          "url": "#seasons"
+        },
+        {
+          "label": "Saugus Advocate · inaugural 1999 boys’ lacrosse roster",
+          "url": "https://advocatenews.net/saugus/news/the-old-sachem-saugus-sports-in-the-late-90s/"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Gould",
+      "schoolClass": "2001",
+      "position": "Offensive line / linebacker",
+      "bio": "Ryan Gould co-captained the 2000 Sachems with Adam Magnasco and Billy Robinson. A 5-foot-11, 190-pound senior, Gould played linebacker and offensive line. The Lynn Item’s All-Star profile highlighted his work and leadership on both sides of the ball. He earned Northeastern Conference and Lynn Item All-Star honors and was selected for the 2001 Harry Agganis All-Star Football Classic.\n\nAfter graduating, Gould played one season at Mount Ida College as an inside linebacker in 2001. He made 10 tackles, five solo and five assisted, against Utica on September 29.",
+      "source": "Lynn Item All-Star profile, 2001 Tontoquonian, Agganis selection records, Utica’s official box score, and Sal Nicolo’s confirmation of one college season.",
+      "sources": [
+        {
+          "label": "2001 Tontoquonian · varsity football and All-Conference honors",
+          "url": "https://archive.org/details/tontoquonian2001saug"
+        },
+        {
+          "label": "Lynn Item · Ryan Gould All-Star profile",
+          "url": "photos/honors-IMG_3362.webp"
+        },
+        {
+          "label": "Harry Agganis Football Classic · selection archive",
+          "url": "documents/agganis-workbook-extract.json"
+        },
+        {
+          "label": "Utica Athletics · Mount Ida game box score, Sept. 29, 2001",
+          "url": "https://www.utica.edu/ucpioneers/stats/football/mtida01.htm"
+        }
+      ]
     }
   ],
   "stats": [
