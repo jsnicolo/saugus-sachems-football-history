@@ -6417,6 +6417,82 @@
           "url": "https://deanbulldogs.com/sports/football/stats/2026/worcester-state-university/boxscore/3374"
         }
       ]
+    },
+    {
+      "name": "Patrick “Pat” Eaton",
+      "schoolClass": "2002",
+      "position": "Running back / Defensive back",
+      "bio": "Eaton captained the 2001 Sachems and contributed as a runner, receiver and defensive back. His senior Lynn Item profile credits him with 545 rushing yards and 30 catches for 505 yards, for 1,050 yards from scrimmage. The game accounts include a 48-yard touchdown catch against Lynn Classical and a 19-yard touchdown run against Marblehead. Eaton earned Lynn Item and Northeastern Conference football All-Star honors, and the season archive records his selection for the 2002 Harry Agganis All-Star Football Classic.",
+      "source": "Lynn Item senior profile, season box scores and Agganis archive.",
+      "sources": [
+        {
+          "label": "Lynn Item · 2001 All-Star profile",
+          "url": "photos/honors-IMG_3365.webp"
+        },
+        {
+          "label": "2002 Agganis selections · archive extract",
+          "url": "documents/agganis-workbook-extract.json"
+        }
+      ]
+    },
+    {
+      "name": "Pat Quinlan",
+      "schoolClass": "2002",
+      "position": "Defensive end / Linebacker",
+      "bio": "Quinlan started for four years on defense at Saugus and was a senior captain, according to the Boston Globe. He contributed on offense as well. In 2000, he scored both Saugus touchdowns in a 13–10 win at Swampscott, including the go-ahead 60-yard run. The archive lists him as a 2002 Harry Agganis football All-Star. His grandfather Fred was a Saugus running back and catcher, and his father, also named Fred, played on the line at Saugus and Plymouth State.\n\nQuinlan played at Plymouth State from 2002 through 2005, moving from linebacker to the defensive line and captaining the Panthers as a senior. In 2004, he received the Fred Madore Award and the Jason D. Holder Award as Homecoming MVP. The Globe reported 35 tackles, seven for loss, in his senior season. His two blocked extra points helped preserve a 21–19 win over Husson and earned him a spot on the D3football.com Team of the Week.",
+      "source": "Boston Globe feature, Saugus season archive and Plymouth State football records.",
+      "sources": [
+        {
+          "label": "Boston Globe · Patrick Quinlan and his football family",
+          "url": "https://www.bostonglobe.com/metro/regionals/north/2015/11/02/catching-with-patrick-quinlan-saugus-high-plymouth-state-football/bXHLEWgT8A7vvcLfYBinxM/story.html"
+        },
+        {
+          "label": "Plymouth State · 2005 football roster",
+          "url": "https://athletics.plymouth.edu/sports/football/roster/2005"
+        },
+        {
+          "label": "Plymouth State · football awards guide",
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.plymouth.edu/documents/2024/10/18/2024_FB_Media_Guide.pdf"
+        },
+        {
+          "label": "2002 Agganis selections · archive extract",
+          "url": "documents/agganis-workbook-extract.json"
+        }
+      ]
+    },
+    {
+      "name": "Fred Quinlan",
+      "schoolClass": "1950",
+      "position": "Running back",
+      "bio": "Quinlan broke a 66-yard touchdown run in a 14–6 win over Marblehead in 1947 and went on to become one of the leading scorers on John Janusas’s 1949 team. He scored 10 regular-season touchdowns for 60 points as Saugus shared North Shore honors with Gloucester. The Sachems finished 10–1 after beating Weymouth 7–6 in the Exchange Bowl. Quinlan earned Lynn Item All-Scholastic recognition as a utility player and Boston Globe All-Scholastic honorable mention as a back.\n\nQuinlan also caught for the Saugus baseball team. The Boston Globe identifies him as the grandfather of fellow Sachem football alumnus Pat Quinlan, Class of 2002. Saugus High inducted Fred into its Athletic Hall of Fame in 1995.",
+      "source": "Contemporary newspaper clippings, the Saugus season archive, Boston Globe family feature and school Hall of Fame list.",
+      "sources": [
+        {
+          "label": "Boston Globe · 1947 Marblehead game",
+          "url": "photos/1947-boston-globe-quinlan-marblehead.webp"
+        },
+        {
+          "label": "North Shore season recap · 1949 scoring",
+          "url": "photos/add-IMG_2726.webp"
+        },
+        {
+          "label": "Lynn Item · 1949 All-Scholastics",
+          "url": "photos/era-IMG_3334.webp"
+        },
+        {
+          "label": "Boston Globe · 1949 selections",
+          "url": "documents/1949-globe-saugus-selections.webp"
+        },
+        {
+          "label": "Boston Globe · Quinlan family feature",
+          "url": "https://www.bostonglobe.com/metro/regionals/north/2015/11/02/catching-with-patrick-quinlan-saugus-high-plymouth-state-football/bXHLEWgT8A7vvcLfYBinxM/story.html"
+        },
+        {
+          "label": "Saugus High · 1995 Hall of Fame class",
+          "url": "https://middlehigh.saugus.k12.ma.us/ourpages/auto/2025/1/17/53447519/SHS%20HOF.pdf?rnd=1737643905477"
+        }
+      ],
+      "hallOfFameYear": 1995
     }
   ],
   "stats": [
