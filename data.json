@@ -423,12 +423,12 @@
     },
     {
       "year": 1916,
-      "coach": "Charles T. Senay",
+      "coach": "Edward Collier",
       "record": "7 - 1",
       "league": "Greater Lynn League",
       "title": null,
-      "players": "John Flynn (Captain), Michael Garofano",
-      "captainsNote": "John Flynn’s 1916 captaincy is confirmed by a newspaper clipping supplied by Sal Nicolo.",
+      "players": "John Flynn (Captain), Michael Garofano, George Sprague, Penney, Wilson, Carlton, Smith",
+      "captainsNote": "The December 1915 election report names John Flynn as captain for 1916, and 1916 game summaries list Flynn at quarterback. The Sept. 20 practice report names John Ryan as captain and quarterback. The discrepancy remains open.",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 7,
@@ -443,9 +443,64 @@
         {
           "label": "School Football Notes · Saugus seeks a Thanksgiving opponent",
           "url": "documents/1916-thanksgiving-opponent-sought.webp"
+        },
+        {
+          "label": "Sept. 20 · Saugus High Begins Practice"
+        },
+        {
+          "label": "Sept. 22 dateline · Plea for Outfits for the Saugus High Eleven"
+        },
+        {
+          "label": "Sept. 30 dateline · Cambridge Latin second team report"
+        },
+        {
+          "label": "Oct. 13 · Brighton game report"
+        },
+        {
+          "label": "Nov. 5 · Winchester game report"
+        },
+        {
+          "label": "Nov. 11 dateline · Woburn scheduling and Independents report"
+        },
+        {
+          "label": "Dec. 1 · East Boston Thanksgiving game report"
         }
       ],
-      "seasonNote": "The season workbook lists Saugus at 7–1 in the Greater Lynn League under Charles T. Senay. The surviving sources do not establish the full game-by-game record. Quarterback John Flynn, Class of 1917, was elected captain for 1916. The Dec. 9 report announcing his election says an injury against Winchester kept him out of the last two games of the preceding season. Michael Garofano also appears in the season archive.\n\nAn undated report on a Dedham game credits Garofano with two touchdowns. The clipping index tentatively associates that report with 1916, but the archive also has a 1915 Dedham account in which Garofano scored twice. The undated report’s season and score are therefore left open. Another undated item names manager Carl O. Lundholm and describes a team with one loss. The reported challenge in that item has no documented outcome.\n\nA pre-Thanksgiving newspaper item says Saugus had no holiday game scheduled and was looking for a small high school to play at Saugus. It directs inquiries to Edward Collier, whom it calls coach, while the season workbook credits Senay. A Thanksgiving matchup or result has yet to turn up."
+      "seasonNote": "Edward Collier opened practice Sept. 19 with 30 candidates. A Sept. 22 report counted about 20 at practice, only six with proper equipment. Local residents asked the School Committee to help pay for uniforms and shoes. Charles Linehan and Rindge Technical quarterback Ralph Creelman assisted Collier. The contemporary reports identify Collier as coach, superseding the workbook attribution to Charles T. Senay.\n\nWilson and Michael Garofano scored in the 12–0 win over Cambridge Latin’s second team at Stackpole’s Field on Sept. 30. Saugus used the forward pass repeatedly in the 19–0 win against Brighton on Oct. 12. Garofano, George Sprague and Smith scored touchdowns, and Garofano kicked the extra point.\n\nWinchester won 14–6 at Stackpole’s Field on Nov. 4. Garofano scored for Saugus, and the last period was played in darkness. A scheduling mix-up prevented the Nov. 11 Woburn High game. The Saugus High School Independents played Dorchester Art School in a separate game that day.\n\nAfter an earlier notice said Saugus was still seeking a Thanksgiving opponent, the team beat East Boston High 39–7 on Nov. 30. Garofano scored three touchdowns and kicked three extra points. Penney, Flynn and Carlton each scored a touchdown. The undated Dedham clipping remains unassigned.",
+      "recordNote": "The workbook lists 7–1. Four game results are documented, including the win over Cambridge Latin’s second team.",
+      "scheduleNote": "Partial schedule. Saugus scored 76 points and allowed 21 across the four documented games.",
+      "games": [
+        {
+          "date": "1916-09-30",
+          "opponent": "Cambridge Latin second team",
+          "result": "W 12–0",
+          "status": "Reported"
+        },
+        {
+          "date": "1916-10-12",
+          "opponent": "Brighton High",
+          "result": "W 19–0",
+          "status": "Reported"
+        },
+        {
+          "date": "1916-11-04",
+          "opponent": "Winchester High",
+          "result": "L 6–14",
+          "status": "Reported"
+        },
+        {
+          "date": "1916-11-11",
+          "opponent": "Woburn High",
+          "result": "—",
+          "status": "Scheduled game not played"
+        },
+        {
+          "date": "1916-11-30",
+          "opponent": "East Boston High",
+          "result": "W 39–7",
+          "status": "Thanksgiving"
+        }
+      ]
     },
     {
       "year": 1917,
@@ -9038,10 +9093,10 @@
     "The surviving 1906 results give a partial 1–3–1 record. Captain John Thomas Brady appears at both left end and left halfback, while Charles Edward Parker appears at fullback and halfback. The Thanksgiving meeting with Stoneham ended 0–0.",
     "Arthur L. William (1914)",
     "Arthur L. William coached the returning 1914 team to a 2–7 record. John Fox and George Sprague were among its leading players, and Watertown was the Thanksgiving opponent.",
-    "Charles T. Senay (1915-1916)",
-    "Charles T. Senay guided Saugus High through two of the strongest early seasons preserved in the football archive. The surviving 1915 results include six wins, one by a reported forfeit, and an 18–0 loss at Winchester. The archive lists the 1916 squad at 7–1. George Sprague, John Flynn, and Mike Garofano are among the players named in the surviving season records. Both teams competed in the Greater Lynn League, although no championship has yet been verified for either year. Contemporary Saugus town reports also illustrate the school's growing commitment to athletics: the 1915 report praised the football program's progress during the preceding fall, while the 1916 report described improved school spirit and the creation of an Athletic Council. These reports provide historical context rather than independent confirmation of the 1915–1916 scores or a title.",
-    "Edward Collier (1917)",
-    "The season records list Edward Collier’s 1917 team at 0–5. No coach or season record is established for 1918 in this collection. The interruption’s cause has not been verified; the wartime and influenza context alone does not establish an explanation.",
+    "Charles T. Senay (1915)",
+    "Senay coached Saugus in 1915. Surviving results include six wins, one by reported forfeit, and an 18–0 loss at Winchester.",
+    "Edward Collier (1916–1917)",
+    "Contemporary newspaper accounts name Collier as Saugus coach in 1916. He opened practice in September as residents sought help equipping the team. The workbook lists 1916 at 7–1, including a documented 39–7 Thanksgiving win over East Boston. The season records list 1917 at 0–5.",
     "1920–1950: (The Golden Years):",
     "The period from 1920 through 1950 is widely regarded as the “Golden Era” of Saugus football. During that stretch, Saugus won state championships in 1941 and 1944 and Exchange Bowl championships in 1949 and 1950, and produced several other teams that were strong enough to be considered among the best in program history.",
     "Fred Beresford (1920–1922, 1928)",
