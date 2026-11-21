@@ -4725,7 +4725,7 @@
       "name": "LJ McKanas",
       "position": "RB",
       "schoolClass": "1997",
-      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2007.\n\nA senior captain and Boston Globe, Boston Herald and Lynn Item All-Scholastic, L.J. McKanas helped turn Saugus into a competitive program in the mid-1990s. His 1996 Item capsule names him NEC Offensive Player of the Year and credits him with 1,365 rushing yards, 424 receiving yards, two kickoff-return touchdowns and two Gold Helmet awards. The Globe credits him with more than 2,500 all-purpose yards and 20 total touchdowns. In the 41–34 win at Danvers, he caught a 44-yard touchdown from Ryan Leahy and ran for three more. On Thanksgiving at Peabody, he caught a 74-yard touchdown pass, ran for a 15-yard score and returned a kickoff 74 yards for a touchdown. He established school rushing and touchdown marks during his Saugus career. The Item later reported nearly 3,500 rushing yards for his high school career. In the 1995 breakthrough against Winthrop, he rushed for 178 yards and two touchdowns in the 25–0 win that ended Saugus’ 34-game losing streak. He was selected for both the 1997 Shriners and Agganis games. His two-point run put the North ahead 14–10 in its 29–17 Shriners victory. In the Agganis game he gained 52 yards on 11 carries as the East won 26–0.\n\nMcKanas earned 11 Saugus letters in football, track and baseball, captaining all three as a senior. At Northeastern, he redshirted in 1997, then set a rookie rushing mark with 832 yards. Despite injuries, he set a then-school record with 225 rushing yards on 47 carries in a 35–27 upset of Connecticut and ran for 172 yards and three touchdowns against James Madison. Other standout games included 223 rushing yards and three touchdowns against Saint Mary’s. As a senior he established school season marks of 342 carries, 1,756 rushing yards and 14 rushing touchdowns, with nine 100-yard games. Highlights included 242 yards against Massachusetts and 161 yards with two touchdowns in a 20–7 upset of Delaware. He averaged 159.6 rushing yards per game in 2001, second nationally in Division I and first in the Atlantic 10, and finished with 3,692 career rushing yards, then a Northeastern record. His honors included team MVP, All-New England, All-Conference, first-team Hanson All-America and the Harry Agganis/Harold Zimman Award as New England’s outstanding senior collegiate football player. Northeastern inducted him into its Hall of Fame in 2009.\n\nA Boston Sunday Globe article dated April 28, 2002 chronicled his pursuit of an NFL opportunity as an undrafted free agent; an NFL roster affiliation is not established by that article. In 2014, McKanas competed on CBS’s Survivor: Cagayan and finished ninth.",
+      "bio": "Saugus High School Athletic Hall of Fame inductee, Class of 2007.\n\nA senior captain and Boston Globe, Boston Herald and Lynn Item All-Scholastic, L.J. McKanas helped turn Saugus into a competitive program in the mid-1990s. His 1996 Item capsule names him NEC Offensive Player of the Year and credits him with 1,365 rushing yards, 424 receiving yards, two kickoff-return touchdowns and two Gold Helmet awards. The Globe credits him with more than 2,500 all-purpose yards and 20 total touchdowns. In the 41–34 win at Danvers, he caught a 44-yard touchdown from Ryan Leahy and ran for three more. On Thanksgiving at Peabody, he caught a 74-yard touchdown pass, ran for a 15-yard score and returned a kickoff 74 yards for a touchdown. He established school rushing and touchdown marks during his Saugus career. The Globe’s 1996 All-Scholastic profile credits him with 2,500 career rushing yards and 35 touchdowns. The Item’s 2001 All-Star dinner preview gives a higher retrospective rushing estimate of nearly 3,500. In the 1995 breakthrough against Winthrop, he rushed for 178 yards and two touchdowns in the 25–0 win that ended Saugus’ 34-game losing streak. He was selected for both the 1997 Shriners and Agganis games. His two-point run put the North ahead 14–10 in its 29–17 Shriners victory. In the Agganis game he gained 52 yards on 11 carries as the East won 26–0.\n\nMcKanas earned 11 Saugus letters in football, track and baseball, captaining all three as a senior. At Northeastern, he redshirted in 1997, then set a rookie rushing mark with 832 yards. Despite injuries, he set a then-school record with 225 rushing yards on 47 carries in a 35–27 upset of Connecticut and ran for 172 yards and three touchdowns against James Madison. Other standout games included 223 rushing yards and three touchdowns against Saint Mary’s. As a senior he established school season marks of 342 carries, 1,756 rushing yards and 14 rushing touchdowns, with nine 100-yard games. Highlights included 242 yards against Massachusetts and 161 yards with two touchdowns in a 20–7 upset of Delaware. He averaged 159.6 rushing yards per game in 2001, second nationally in Division I and first in the Atlantic 10, and finished with 3,692 career rushing yards, then a Northeastern record. His honors included team MVP, All-New England, All-Conference, first-team Hanson All-America and the Harry Agganis/Harold Zimman Award as New England’s outstanding senior collegiate football player. Northeastern inducted him into its Hall of Fame in 2009.\n\nA Boston Sunday Globe article dated April 28, 2002 chronicled his pursuit of an NFL opportunity as an undrafted free agent; an NFL roster affiliation is not established by that article. In 2014, McKanas competed on CBS’s Survivor: Cagayan and finished ninth.",
       "row": 20,
       "hallOfFameYear": 2007,
       "sources": [
@@ -8277,7 +8277,7 @@
       "name": "Cody Munafo",
       "schoolClass": "2025",
       "position": "Running back / linebacker",
-      "bio": "Munafo captained the 2024 Sachems and earned Item All-Star honors after leading Saugus with more than 700 rushing yards and nine touchdowns. On defense, the archive credits him with 100 tackles, four sacks, two forced fumbles and an interception.",
+      "bio": "Munafo captained the 2024 Sachems and earned Item All-Star honors after leading Saugus with more than 700 rushing yards and nine touchdowns. On defense, the Item credits him with more than 100 tackles, four sacks, two forced fumbles and an interception.",
       "source": "Daily Evening Item · 2024 football All-Stars; Saugus football statistics archive; Saugus Advocate · 2024 season coverage.",
       "sources": [
         {
@@ -9069,7 +9069,8 @@
       "row": 24,
       "statSources": {
         "Rushing Yards": {
-          "clipping": "IMG_4164.jpg",
+          "clipping": "Lynn Item · 2024 All-Star profile",
+          "sourceUrl": "photos/zip-IMG_4164.webp",
           "qualifier": "More than"
         }
       }
@@ -9873,7 +9874,8 @@
         "Tackles": 100,
         "Fumble Recoveries": 1,
         "Interceptions": null,
-        "Sacks": null
+        "Sacks": null,
+        "Fumble Recovery Touchdowns": 1
       },
       "row": 69,
       "statSources": {
@@ -9882,6 +9884,11 @@
           "qualifier": "More than"
         },
         "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1990 Saugus game summaries and newspaper profiles",
+          "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
+        },
+        "Fumble Recovery Touchdowns": {
           "partial": true,
           "clipping": "1990 Saugus game summaries and newspaper profiles",
           "note": "Subtotal of individually documented plays or game totals. Ten 1990 game summaries and accompanying reports."
@@ -10437,7 +10444,8 @@
           "clipping": "IMG_4164.jpg"
         },
         "Tackles": {
-          "clipping": "IMG_4164.jpg",
+          "clipping": "Lynn Item · 2024 All-Star profile",
+          "sourceUrl": "photos/zip-IMG_4164.webp",
           "qualifier": "More than"
         }
       }
@@ -24047,6 +24055,388 @@
           "note": "Two conversion kicks against Manchester."
         }
       }
+    },
+    {
+      "category": "Passing",
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "schoolClass": "",
+      "values": {
+        "Passing Yards": 40,
+        "Passing Touchdowns": 4,
+        "Completions": 7,
+        "Conversion Passes": 2
+      },
+      "statSources": {
+        "Passing Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Four scoring throws: one at Amesbury, two against Lynn Classical and one at Wakefield. Yardage covers the three with stated distances. The two conversion passes at Wakefield were worth one point each."
+        },
+        "Passing Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Four scoring throws: one at Amesbury, two against Lynn Classical and one at Wakefield. Yardage covers the three with stated distances. The two conversion passes at Wakefield were worth one point each."
+        },
+        "Completions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Four scoring throws: one at Amesbury, two against Lynn Classical and one at Wakefield. Yardage covers the three with stated distances. The two conversion passes at Wakefield were worth one point each."
+        },
+        "Conversion Passes": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Four scoring throws: one at Amesbury, two against Lynn Classical and one at Wakefield. Yardage covers the three with stated distances. The two conversion passes at Wakefield were worth one point each."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "schoolClass": "",
+      "values": {
+        "Rushing Yards": 31,
+        "Rushing Touchdowns": 5
+      },
+      "statSources": {
+        "Rushing Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Melrose · IMG_3882, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Scoring runs of 18, 8, 2 and 3 yards plus a second rushing touchdown against Lynn Classical with no distance given."
+        },
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Melrose · IMG_3882, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Scoring runs of 18, 8, 2 and 3 yards plus a second rushing touchdown against Lynn Classical with no distance given."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 5
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882",
+          "partial": true,
+          "note": "Gene Mack’s report credits him with five interceptions against Melrose."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Swampscott · IMG_3886",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1944,
+      "name": "Frank Pyzsko",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 10,
+        "Points": 61
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Melrose · IMG_3882, Newburyport · IMG_3884, Lynn Classical · IMG_3885, Swampscott · IMG_3886, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Six games document ten touchdowns and a point-after kick. Passing touchdowns are credited under Passing."
+        },
+        "Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Melrose · IMG_3882, Newburyport · IMG_3884, Lynn Classical · IMG_3885, Swampscott · IMG_3886, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Six games document ten touchdowns and a point-after kick. Passing touchdowns are credited under Passing."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1944,
+      "name": "Bob Kane",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Touchdowns": 1,
+        "Receiving Yards": 5
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Lynn Classical · IMG_3885",
+          "partial": true,
+          "sourceUrl": "photos/update-IMG_3885.webp"
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Lynn Classical · IMG_3885",
+          "partial": true,
+          "sourceUrl": "photos/update-IMG_3885.webp"
+        },
+        "Receiving Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Lynn Classical · IMG_3885",
+          "partial": true,
+          "sourceUrl": "photos/update-IMG_3885.webp"
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1944,
+      "name": "Bob Kane",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 3
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "The Wakefield touchdown was a three-yard run. The Melrose report describes Kane’s reverse runs and credits him with a touchdown, without a distance."
+        },
+        "Rushing Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "The Wakefield touchdown was a three-yard run. The Melrose report describes Kane’s reverse runs and credits him with a touchdown, without a distance."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1944,
+      "name": "Bob Kane",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return Yards": 17
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Kane returned the interception from the Wakefield 20 to the 3 and scored on a later rushing play."
+        },
+        "Interception Return Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Kane returned the interception from the Wakefield 20 to the 3 and scored on a later rushing play."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1944,
+      "name": "Bob Kane",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Swampscott · IMG_3886",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1944,
+      "name": "Bob Kane",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 43
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882, Newburyport · IMG_3884, Lynn Classical · IMG_3885, Swampscott · IMG_3886, Wakefield · IMG_3887",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882, Newburyport · IMG_3884, Lynn Classical · IMG_3885, Swampscott · IMG_3886, Wakefield · IMG_3887",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1944,
+      "name": "Art Spinney",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 6,
+        "Receiving Touchdowns": 3,
+        "Receiving Yards": 35
+      },
+      "statSources": {
+        "Receptions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three catches against Chelsea and a touchdown catch in each of the other three games. Yardage covers the two scoring catches with stated distances."
+        },
+        "Receiving Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three catches against Chelsea and a touchdown catch in each of the other three games. Yardage covers the two scoring catches with stated distances."
+        },
+        "Receiving Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879, Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three catches against Chelsea and a touchdown catch in each of the other three games. Yardage covers the two scoring catches with stated distances."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1944,
+      "name": "Art Spinney",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return Yards": 30,
+        "Blocked Punts": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true
+        },
+        "Interception Return Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true
+        },
+        "Blocked Punts": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Chelsea · IMG_3879",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1944,
+      "name": "Art Spinney",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 20,
+        "Conversions (type unspecified)": 2
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three touchdown catches and two one-point conversion catches."
+        },
+        "Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three touchdown catches and two one-point conversion catches."
+        },
+        "Conversions (type unspecified)": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Amesbury · 1945 Tontoquonian, Lynn Classical · IMG_3885, Wakefield · IMG_3887",
+          "partial": true,
+          "note": "Three touchdown catches and two one-point conversion catches."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1944,
+      "name": "Doug Waybright",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Rushing Yards": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true
+        },
+        "Rushing Yards": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Wakefield · IMG_3887",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1944,
+      "name": "Doug Waybright",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Newburyport · IMG_3884",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1944,
+      "name": "Doug Waybright",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 13
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Newburyport · IMG_3884, Wakefield · IMG_3887",
+          "partial": true
+        },
+        "Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Newburyport · IMG_3884, Wakefield · IMG_3887",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1944,
+      "name": "Jim Blundell",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882",
+          "partial": true
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1944,
+      "name": "Jim Blundell",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882",
+          "partial": true
+        }
+      }
     }
   ],
   "hallOfFame": {
@@ -25301,7 +25691,7 @@
           "label": "Saugus Advocate retrospective",
           "url": "https://advocatenews.net/saugus/sports/the-advocate-asks-23/",
           "qualifier": "More than",
-          "note": "The Advocate reports more than 4,000 yards. Available game accounts document part of that total."
+          "note": "The Advocate reports more than 4,000 yards. The Saugus High Hall of Fame induction profile in the contributed scrapbook also puts his career at 4,000 yards."
         }
       }
     },
@@ -25311,13 +25701,13 @@
       "values": {
         "Rushing Yards": {
           "value": 2550,
-          "label": "1976 Agganis All-Star Game preview · family scrapbook",
+          "label": "1976 Agganis All-Star Game preview · contributed clipping IMG_3138",
           "url": null,
           "note": "The contemporary 1975 Item profile supplies the senior-season figure of 1,205. A 1998 retrospective gives 1,500 for that season."
         },
         "Carries": {
           "value": 415,
-          "label": "1976 Agganis All-Star Game preview · family scrapbook",
+          "label": "1976 Agganis All-Star Game preview · contributed clipping IMG_3138",
           "url": null
         }
       }
@@ -25343,10 +25733,15 @@
       "lastYear": 1996,
       "values": {
         "Rushing Yards": {
-          "value": 3500,
-          "label": "Lynn Item · 2001 All-Star dinner preview",
-          "url": "photos/zip-IMG_3363.webp",
-          "qualifier": "Nearly"
+          "value": 2500,
+          "label": "Boston Globe · 1996 All-Scholastic profile",
+          "url": "photos/globe-1996-lj-mckanas.webp",
+          "note": "The Globe’s 1996 postseason profile gives 2,500. The Item’s 2001 All-Star dinner preview retrospectively reports nearly 3,500."
+        },
+        "Total Touchdowns": {
+          "value": 35,
+          "label": "Boston Globe · 1996 All-Scholastic profile",
+          "url": "photos/globe-1996-lj-mckanas.webp"
         }
       }
     },
