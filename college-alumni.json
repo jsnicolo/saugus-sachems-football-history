@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-17",
+  "updated": "2026-11-20",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -334,6 +334,25 @@
         {
           "label": "Holy Cross Hall of Fame",
           "url": "https://goholycross.com/honors/hall-of-fame/stephen-m-gannon/112"
+        }
+      ]
+    },
+    {
+      "name": "Gary Quinlan",
+      "gradYear": 1980,
+      "college": "College of the Holy Cross",
+      "position": "WR",
+      "rosterYears": "1980–1981",
+      "professional": "",
+      "notes": "Quinlan played football at Holy Cross in 1980 and 1981. Listed as a wide receiver in 1980, he caught two passes for 19 yards that season. In a 14–7 win over Columbia, he swept left for 18 yards to the Columbia 19, setting up Mark Covington’s touchdown on the next play. The Columbia play is documented in Neil Singelais’s Boston Globe report, “Holy Cross holds off Columbia.”",
+      "sources": [
+        {
+          "label": "Sports Reference · Holy Cross football, 1980 roster",
+          "url": "https://www.sports-reference.com/cfb/schools/holy-cross/1980-roster.html"
+        },
+        {
+          "label": "Sports Reference · Gary Quinlan, Holy Cross (1980–1981)",
+          "url": "https://www.sports-reference.com/cfb/players/q-index.html"
         }
       ]
     },
