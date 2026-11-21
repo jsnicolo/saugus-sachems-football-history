@@ -44,10 +44,10 @@ dialog .close{position:sticky;top:0;z-index:20;min-width:64px;min-height:48px;fo
 <p>Compare documented Saugus High football totals across seasons. Choose a statistic to see its leaderboard, then expand a player’s total for the season breakdown.</p>
 <div class="tools">
 <input id="careerSearch" type="search" aria-label="Search career statistics by player" placeholder="Find a player…">
-<select id="careerGroup" aria-label="Career statistics category"><option>Offense</option><option>Defense</option><option>Scoring</option></select>
+<select id="careerGroup" aria-label="Career statistics category"><option>Offense</option><option>Defense</option><option>Scoring</option><option>Returns</option></select>
 <select id="careerMetric" aria-label="Career statistic"></select>
 </div>
-<p class="muted">Totals are marked “partial” because the archive may have gaps in game or season coverage. Only seasons that report the selected statistic are shown. A “+” carries forward a source’s “more than” figure.</p>
+<p class="muted">Season sums are marked “partial” because some games or seasons may be missing. Where a source reports a career total, the expanded row shows that source alongside the available season figures.</p>
 <p class="muted" id="careerCount" aria-live="polite"></p>
 <div class="tablewrap"><table><thead><tr><th scope="col">Rank</th><th scope="col">Player</th><th scope="col" id="careerTotalHead">Documented total</th></tr></thead><tbody id="careerRows"><tr><td colspan="3">Loading career statistics…</td></tr></tbody></table></div>
 </section><section id="gallery"><div class="eyebrow">04 / From the collection</div><h2>Newspaper Clippings &amp; Photos</h2><p>Selected team photographs, newspaper illustrations, and player features. Open a clipping to read it at a larger size.</p><div class="tools"><input id="gallerySearch" aria-label="Search gallery" placeholder="Search a player, year, or story…"><select id="galleryCategory" aria-label="Filter image type"><option value="">All image types</option></select><select id="galleryEra" aria-label="Filter gallery decade"><option value="">All dates</option><option value="golden">Golden era · 1920–1950</option><option value="unknown">Date to confirm</option></select></div><div class="sources" style="margin-bottom:15px"><button class="button" id="goldenShortcut">Golden era · 1920–1950</button><button class="button" id="honorsShortcut">All-Star & All-Scholastic players</button><button class="button" id="allPhotosShortcut">All photos</button></div><p class="muted" id="galleryCount" aria-live="polite"></p><div class="grid" id="galleryGrid"></div><button class="button" id="galleryMore" style="margin-top:25px">Show more images ↓</button><p class="muted">Dates and player identifications include corrections supplied by Sal Nicolo. Original photo credits remain in the scans. Additional clippings are retained as reference material.</p></section><dialog id="photoDialog" style="max-width:1100px"><button class="close" onclick="this.closest('dialog').close()" aria-label="Close photo">Close ×</button><div id="photoBody"></div></dialog><section id="thanksgiving"><div class="eyebrow">The holiday rivalry</div><h2>Thanksgiving football</h2><p>Season-by-season opponents and results, with Saugus’s score first. A scheduled game is not proof it was played. Historical series lists include some games played outside Thanksgiving Day; those exceptions and conflicting scores are noted.</p><label for="thanksgivingSearch">Find a year or opponent</label><input id="thanksgivingSearch" type="search" placeholder="Year, opponent or score"><div class="tablewrap" style="--table-max-height:650px"><table><thead><tr><th>Season</th><th>Opponent</th><th>Saugus result</th><th>Evidence and notes</th></tr></thead><tbody id="thanksgivingRows"></tbody></table></div><p class="muted">1944’s Thanksgiving opponent was Wakefield; the Peabody game was postseason. The 1946 Peabody account says Saturday before Thanksgiving. Scores for 1941, 1950 and 1984 remain disputed.</p></section><section id="history"><div class="eyebrow">05 / The long view</div><h2>A brief history of Saugus football.</h2><div class="notice">Contributed research · The narrative below follows the supplied document, with coach spelling, Dean Sacca’s 1999–2000 tenure, and Exchange Bowl details corrected by Sal Nicolo. Names, dates, statistics, and time-sensitive statements remain subject to review.</div><div class="historylayout"><aside class="historynav" id="historynav"></aside><article class="historybody" id="historybody"></article></div><details><summary>Further reading for the Brief History</summary><ul><li><a href="https://advocatenews.net/saugus/sports/the-old-sachem-the-golden-age-of-saugus-football/" target="_blank" rel="noopener noreferrer">The Golden Age of Saugus Football · local retrospective</a></li><li><a href="https://advocatenews.net/saugus/sports/saugus-football-team-drops-thanksgiving-heartbreaker-to-peabody/" target="_blank" rel="noopener noreferrer">Thanksgiving 2025 at Peabody · Saugus Advocate</a></li><li><a href="https://advocatenews.net/saugus/sports/new-era-familiar-face-as-bluestein-takes-over-saugus-football/" target="_blank" rel="noopener noreferrer">Greg Bluestein’s first season · Saugus Advocate</a></li></ul></details></section>
@@ -406,10 +406,27 @@ function hallOfFameOptions() {
 const scoredTouchdownStats = {
   Rushing: ['Rushing Touchdowns'],
   Receiving: ['Receiving Touchdowns'],
-  Returns: ['Punt Return Touchdowns', 'Kickoff Return Touchdowns', 'Kick Return Touchdowns',
+  Returns: ['Punt Return Touchdowns', 'Kickoff Return Touchdowns',
     'Blocked Field Goal Return Touchdowns', 'Blocked Punt Return Touchdowns'],
-  Defensive: ['Interception Return TDs', 'Fumble Recovery Touchdowns', 'Defensive Touchdowns']
+  Defensive: ['Defensive Touchdowns']
 };
+function addDefensiveTouchdownTotals(stats) {
+  for (const row of stats) {
+    if (row.category !== 'Defensive') continue;
+    const returns = ['Interception Return TDs', 'Fumble Recovery Touchdowns']
+      .filter(key => Number.isFinite(row.values[key]));
+    const documented = returns.reduce((sum, key) => sum + row.values[key], 0);
+    if (documented > (row.values['Defensive Touchdowns'] ?? 0)) {
+      row.values['Defensive Touchdowns'] = documented;
+      row.statSources ??= {};
+      row.statSources['Defensive Touchdowns'] = {
+        partial: true,
+        note: returns.map(key => row.values[key] + ' ' + key.toLowerCase()).join(', '),
+        clipping: [...new Set(returns.map(key => row.statSources[key]?.clipping).filter(Boolean))].join(' · ')
+      };
+    }
+  }
+}
 function addScoringTouchdownTotals(stats) {
   const seasons = new Map();
   for (const row of stats) {
@@ -430,8 +447,6 @@ function addScoringTouchdownTotals(stats) {
       for (const key of keys) {
         const value = row.values[key];
         if (!Number.isFinite(value)) continue;
-        // Older records also call kickoff touchdowns "Kick Return Touchdowns".
-        if (key === 'Kick Return Touchdowns' && Number.isFinite(row.values['Kickoff Return Touchdowns'])) continue;
         documented += value;
         if (value > 0) sources.push({ key, value, ...row.statSources?.[key] });
       }
@@ -472,18 +487,28 @@ function statValue(row,key){
   const text=value.toLocaleString('en-US');
   if(!source)return text;
   const label=[source.qualifier==='More than'?'More than '+text:'',source.note,source.clipping].filter(Boolean).join(' · ');
-  return `<span title="${esc(label)}">${text}${source.qualifier==='More than'?'+':''}${source.partial?' (partial)':''}</span>`;
+  const valueLabel = text + (source.qualifier === 'More than' ? '+' : '') +
+    (source.partial ? ' (partial)' : '');
+  return source.sourceUrl
+    ? `<a title="${esc(label)}" href="${esc(source.sourceUrl)}">${valueLabel}</a>`
+    : `<span title="${esc(label)}">${valueLabel}</span>`;
 }
 function renderStats(){const cat=$('#statsCategory').value,q=$('#statsSearch').value.toLowerCase(),sort=$('#statsSort').value,all=playerRecords.stats.filter(r=>r.category===cat),keys=statsKeys(cat,all);const rows=all.filter(r=>[r.name,r.year,r.schoolClass].join(' ').toLowerCase().includes(q)).sort((a,b)=>sort==='year'?b.year-a.year||a.name.localeCompare(b.name):(b.values[sort]??-1)-(a.values[sort]??-1)||b.year-a.year);$('#statsCount').textContent=rows.length+' '+cat.toLowerCase()+' entries · '+playerRecords.stats.length+' across all categories';$('#statsHead').innerHTML='<tr>'+['Season','Player','Class',...keys].map(k=>`<th>${esc(k)}</th>`).join('')+'</tr>';$('#statsRows').innerHTML=rows.map(r=>`<tr><td>${r.year}</td><td>${esc(r.name)}</td><td>${esc(r.schoolClass)}</td>${keys.map(k=>`<td>${statValue(r,k)}</td>`).join('')}</tr>`).join('')||`<tr><td colspan="${keys.length+3}">No matching statistics.</td></tr>`}
 const careerMetrics = {
   Offense: {
     'Rushing Yards': ['Rushing'],
+    'Carries': ['Rushing'],
     'Rushing Touchdowns': ['Rushing', 'Scoring'],
     'Passing Yards': ['Passing'],
     'Passing Touchdowns': ['Passing'],
+    'Completions': ['Passing'],
+    'Passing Attempts': ['Passing'],
+    'Conversion Passes': ['Passing'],
     'Receptions': ['Receiving'],
     'Receiving Yards': ['Receiving'],
-    'Receiving Touchdowns': ['Receiving', 'Scoring']
+    'Receiving Touchdowns': ['Receiving', 'Scoring'],
+    'All-Purpose Yards': ['Offensive & All-Purpose Totals'],
+    'Total Offense Yards': ['Offensive & All-Purpose Totals']
   },
   Defense: {
     'Tackles': ['Defensive'],
@@ -492,7 +517,17 @@ const careerMetrics = {
     'Interceptions': ['Defensive'],
     'Forced Fumbles': ['Defensive'],
     'Fumble Recoveries': ['Defensive'],
-    'Safeties': ['Defensive']
+    'Safeties': ['Defensive'],
+    'Defensive Touchdowns': ['Defensive'],
+    'Interception Return TDs': ['Defensive'],
+    'Fumble Recovery Touchdowns': ['Defensive'],
+    'Interception Return Yards': ['Defensive'],
+    'Fumble Return Yards': ['Defensive'],
+    'Solo Tackles': ['Defensive'],
+    'First Hits': ['Defensive'],
+    'Blocked Punts': ['Defensive'],
+    'Blocked Extra Points': ['Defensive'],
+    'Blocked Kicks': ['Defensive']
   },
   Scoring: {
     'Total Touchdowns': ['Scoring'],
@@ -500,15 +535,22 @@ const careerMetrics = {
     'Field Goals': ['Kicking'],
     'Extra Points': ['Kicking', 'Scoring'],
     'Two-Point Conversions': ['Scoring']
-  }
+  },
+  Returns: Object.fromEntries([
+    'Combined Return Yards', 'Punt Return Yards', 'Punt Return Touchdowns',
+    'Kickoff Returns', 'Kickoff Return Yards', 'Kickoff Return Touchdowns',
+    'Blocked Field Goal Return Yards', 'Blocked Field Goal Return Touchdowns',
+    'Blocked Punt Return Touchdowns'
+  ].map(metric => [metric, ['Returns']]))
 };
 const careerNameAliases = new Map([
   ['Patrick Quinlan', 'Pat Quinlan'],
   ['T. Shidlow', 'Tom Shidlow'],
-  ['Frank Loconte', 'Frank LoConte']
+  ['Frank Loconte', 'Frank LoConte'],
+  ['Ted Fredericks', 'Ted Frederick']
 ]);
 
-function buildCareerPlayers(stats) {
+function buildCareerPlayers(stats, reportedTotals = []) {
   const players = new Map();
   for (const row of [...stats].sort((a, b) => a.year - b.year)) {
     const name = careerNameAliases.get(row.name) ?? row.name;
@@ -517,11 +559,16 @@ function buildCareerPlayers(stats) {
     let career = careers.at(-1);
     // A name can recur in different eras, as with Tom Trainor in 1982 and 2012.
     if (!career || row.year - career.firstYear > 3) {
-      career = { name, firstYear: row.year, seasons: new Map() };
+      career = { name, firstYear: row.year, seasons: new Map(), reportedTotals: {} };
       careers.push(career);
     }
     if (!career.seasons.has(row.year)) career.seasons.set(row.year, []);
     career.seasons.get(row.year).push(row);
+  }
+  for (const row of reportedTotals) {
+    const career = players.get(row.name)?.find(entry => row.lastYear - entry.firstYear >= 0 &&
+      row.lastYear - entry.firstYear <= 3);
+    if (career) Object.assign(career.reportedTotals, row.values);
   }
   return [...players.values()].flat();
 }
@@ -531,19 +578,25 @@ function careerLeaderboard(players, metric, categories) {
   for (const player of players) {
     const seasons = [];
     for (const rows of player.seasons.values()) {
-      // Keep one figure per season when the same stat appears under two categories.
-      const row = categories.map(category => rows.find(entry =>
-        entry.category === category && Number.isFinite(entry.values[metric])
-      )).find(Boolean);
-      if (row) seasons.push(row);
+      // Duplicate category entries can cover different portions of the same season.
+      const candidates = rows.filter(row => categories.includes(row.category) &&
+        Number.isFinite(row.values[metric]));
+      candidates.sort((a, b) =>
+        Number(Boolean(a.statSources?.[metric]?.partial)) - Number(Boolean(b.statSources?.[metric]?.partial)) ||
+        b.values[metric] - a.values[metric]);
+      if (candidates.length) seasons.push(candidates[0]);
     }
-    if (!seasons.length) continue;
-    const total = seasons.reduce((sum, row) => sum + row.values[metric], 0);
+    const reported = player.reportedTotals[metric];
+    if (!seasons.length && !reported) continue;
+    const seasonSum = seasons.reduce((sum, row) => sum + row.values[metric], 0);
     const moreThan = seasons.some(row => row.statSources?.[metric]?.qualifier === 'More than');
-    results.push({ name: player.name, seasons, total, moreThan });
+    const source = reported ?? null;
+    const total = source?.value ?? seasonSum;
+    results.push({ name: player.name, firstYear: player.firstYear, seasons, seasonSum, total,
+      qualifier: source?.qualifier ?? (!source && moreThan ? 'More than' : ''), source });
   }
   return results.sort((a, b) => b.total - a.total || a.name.localeCompare(b.name) ||
-    a.seasons[0].year - b.seasons[0].year);
+    a.firstYear - b.firstYear);
 }
 
 let careerPlayers;
@@ -565,7 +618,17 @@ function renderCareerStats() {
     if (row.total !== rows[index - 1]?.total) rank = index + 1;
     if (!row.name.toLowerCase().includes(query)) return;
     const seasons = row.seasons.map(season => `<li>${season.year} · ${statValue(season, metric)}</li>`).join('');
-    displayed.push(`<tr><td>${rank}</td><th scope="row">${esc(row.name)}</th><td><details><summary>${row.total.toLocaleString('en-US')}${row.moreThan ? '+' : ''} (partial)</summary><ul>${seasons}</ul></details></td></tr>`);
+    const number = row.total.toLocaleString('en-US');
+    const total = row.qualifier === 'Nearly' ? 'Nearly ' + number :
+      number + (row.qualifier === 'More than' ? '+' : '');
+    const source = row.source
+      ? `<p>Reported career total · ${row.source.url ? `<a href="${esc(row.source.url)}">${esc(row.source.label)}</a>` : esc(row.source.label)}</p>`
+      : '';
+    const breakdown = seasons
+      ? `<p>Archived season sum · ${row.seasonSum.toLocaleString('en-US')}</p><ul>${seasons}</ul>`
+      : '';
+    const note = row.source?.note ? `<p>${esc(row.source.note)}</p>` : '';
+    displayed.push(`<tr><td>${rank}</td><th scope="row">${esc(row.name)}</th><td><details><summary>${total}${row.source ? '' : ' (partial)'}</summary>${source}${note}${breakdown}</details></td></tr>`);
   });
   $('#careerTotalHead').textContent = metric;
   $('#careerCount').textContent = displayed.length + ' of ' + rows.length + ' career entries';
@@ -579,7 +642,7 @@ let collegeAlumniData=[];
 function renderCollegeAlumni(){const q=document.getElementById('collegeSearch').value.toLowerCase();const rows=collegeAlumniData.filter(r=>[r.name,r.gradYear,r.college,r.position,r.rosterYears,r.professional,r.notes].join(' ').toLowerCase().includes(q)).sort((a,b)=>(a.gradYear||9999)-(b.gradYear||9999)||a.name.localeCompare(b.name));document.getElementById('collegeCount').textContent=rows.length+' players shown · '+collegeAlumniData.length+' researched entries (more under review)';document.getElementById('collegeRows').innerHTML=rows.map(r=>'<tr><td>'+(r.gradYear||'<span class="muted">To verify</span>')+'</td><td><strong>'+esc(r.name)+'</strong></td><td>'+esc(r.college)+'</td><td>'+esc(r.position||'—')+'</td><td>'+esc(r.rosterYears||'—')+'</td><td>'+(r.professional?'<strong>'+esc(r.professional)+'</strong><br>':'')+'<span class="muted">'+esc(r.notes||'')+'</span></td><td>'+(r.sources||[]).map(s=>'<a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer">'+esc(s.label)+' ↗</a>').join('<br>')+'</td></tr>').join('')||'<tr><td colspan="7">No matching players.</td></tr>'}
 fetch('college-alumni.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Not found');return r.json()}).then(d=>{collegeAlumniData=d.entries||[];renderCollegeAlumni()}).catch(()=>{document.getElementById('collegeRows').innerHTML='<tr><td colspan="7">College alumni records could not load. Please refresh.</td></tr>'});
 document.getElementById('collegeSearch').addEventListener('input',renderCollegeAlumni);
-fetch('player-records.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{addScoringTouchdownTotals(d.stats);playerRecords=d;refreshSeasonHonors();renderHonors();renderAlumni();hallOfFameOptions();statsOptions();careerPlayers=buildCareerPlayers(d.stats);careerOptions()}).catch(()=>{$('#honorCount').textContent='Player records could not load. Please refresh.';$('#careerRows').textContent='';$('#careerCount').textContent='Career statistics could not load. Please refresh.';if(playerRecords===undefined){playerRecords=null;refreshSeasonHonors()}});
+fetch('player-records.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{addDefensiveTouchdownTotals(d.stats);addScoringTouchdownTotals(d.stats);playerRecords=d;refreshSeasonHonors();renderHonors();renderAlumni();hallOfFameOptions();statsOptions();careerPlayers=buildCareerPlayers(d.stats,d.reportedCareerTotals);careerOptions()}).catch(()=>{$('#honorCount').textContent='Player records could not load. Please refresh.';$('#careerRows').textContent='';$('#careerCount').textContent='Career statistics could not load. Please refresh.';if(playerRecords===undefined){playerRecords=null;refreshSeasonHonors()}});
 ['honorSearch','honorPublisher'].forEach(id=>$('#'+id).addEventListener('input',renderHonors));$('#alumniSearch').addEventListener('input',renderAlumni);['hofSearch','hofInduction','hofSort'].forEach(id=>$('#'+id).addEventListener('input',renderHallOfFame));$('#statsCategory').addEventListener('change',statsOptions);['statsSearch','statsSort'].forEach(id=>$('#'+id).addEventListener('input',renderStats));
 </script><dialog class="install-dialog" id="appInstallDialog" aria-labelledby="appInstallTitle"><button class="close" id="appGuideClose" aria-label="Close installation instructions">Close ×</button><img src="icons/sachems-headdress-192.png" alt=""><h2 id="appInstallTitle">Take the Sachems with you.</h2><p>Free to install. The same growing archive, in its own app window. An internet connection is needed to browse the collection.</p><button class="button" id="appInstallButton" hidden>Install Sachems</button><p id="appInstallStatus" class="app-status" role="status"></p><h3>iPhone or iPad · Safari</h3><ol><li>Open this website in <strong>Safari</strong>. If you’re viewing it inside another app, open the link in Safari first.</li><li>Tap <strong>Share</strong> (the square with an up arrow), then <strong>Add to Home Screen</strong>. You may need to scroll through the actions.</li><li>Leave <strong>Open as Web App</strong> on if shown, then tap <strong>Add</strong>.</li></ol><h3>Android · Chrome</h3><ol><li>Open this website in <strong>Chrome</strong>.</li><li>Tap <strong>Install Sachems</strong> above when available, or open the <strong>⋮ menu</strong> and choose <strong>Add to Home screen</strong> or <strong>Install app</strong>.</li><li>Confirm <strong>Install</strong> or <strong>Add</strong>.</li></ol><p class="app-status">On a computer, use Chrome or Edge’s install option in the address bar or browser menu. Future website updates also appear in the app.</p></dialog><dialog id="sourceDialog" aria-labelledby="sourceTitle">
 <div class="source-toolbar">
