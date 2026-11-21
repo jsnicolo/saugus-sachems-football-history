@@ -1054,13 +1054,17 @@
     },
     {
       "name": "Thomas F. Sheehan",
-      "gradYear": null,
+      "gradYear": 1947,
       "college": "Brown University",
       "position": "QB",
       "rosterYears": "1949",
       "professional": "",
-      "notes": "Played on Saugus’s 1944 championship team. A contemporary report places him in the Brown backfield at quarterback in 1949 and records his transfer to Boston College before entering the U.S. Army in 1950. He completed his degree at Boston College in 1956. His Saugus graduation year and a Boston College football roster spot are still to be verified.",
+      "notes": "Played on Saugus’s 1944 championship team. A contemporary report places him in the Brown backfield at quarterback in 1949 and records his transfer to Boston College before entering the U.S. Army in 1950. He completed his degree at Boston College in 1956. His Boston College football roster status remains unverified.",
       "sources": [
+        {
+          "label": "1947 Tontoquonian · Thomas F. Sheehan’s senior profile",
+          "url": "https://archive.org/details/tontoquonian1947saug"
+        },
         {
           "label": "1950 Army induction report · Brown quarterback and transfer",
           "url": "sources/1950-spinney-sheehan-draft-continuation.webp"
