@@ -696,7 +696,85 @@
       "players": "George Nicholson",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 14
+      "sourceRow": 14,
+      "recordNote": "The season workbook lists 3–4–1. Six documented regular-season results account for three wins, two losses and one tie. Two losses remain unverified. The Rockland game was reported as postseason.",
+      "seasonNote": "Fred Beresford coached the Warriors, with George Nicholson as captain. Franklin Pike scored in the second quarter at Malden on Sept. 28. Malden sent in its first team late in the fourth quarter and scored twice to win 14–6. Boston High School of Commerce won 32–0 at Brookline Field. Saugus recovered a fumble at the Commerce 15 in the second quarter but turned the ball over on downs.\n\nOn Oct. 14, Dedham led 7–6 at halftime at Stackpole Field after Pike scored for Saugus. Dedham withdrew after objecting to Saugus’s physical play, and referee Michael Garofano awarded Saugus a 1–0 forfeit win. Saugus and Melrose tied 0–0 at Messinger’s Meadows on Oct. 29, with both lines drawing praise for their defense.\n\nPike returned a punt 55 yards for the only touchdown in a 6–0 win over Methuen at Pelham Street Playstead on Nov. 11. A separate scoreboard records a 20–16 win over Manchester, Massachusetts. The clipped scoreboard gives no game date.\n\nSaugus beat Rockland 16–6 in postseason play at Little River Grounds in Lynn on Nov. 25. Edward “Googie” Amery caught a first-quarter touchdown pass and ran 32 yards after the catch. Pike scored on a 75-yard interception return in the third quarter, as identified by the Lynn Item. Kelley kicked both extra points. The Globe’s box score lists a safety without clearly explaining how it occurred. The published 16–6 final leaves two Saugus points beyond the two touchdowns and extra points.",
+      "scheduleNote": "Partial schedule. Boston Commerce and Manchester are listed after the dated games because their dates are unverified. The Thanksgiving opponent remains unverified.",
+      "games": [
+        {
+          "date": "1921-09-28",
+          "opponent": "Malden High",
+          "result": "L 6–14",
+          "status": "Away"
+        },
+        {
+          "date": "1921-10-14",
+          "opponent": "Dedham High",
+          "result": "W 1–0",
+          "status": "Forfeit · Dedham led 7–6 at halftime"
+        },
+        {
+          "date": "1921-10-29",
+          "opponent": "Melrose High",
+          "result": "T 0–0",
+          "status": "Away · Messinger’s Meadows"
+        },
+        {
+          "date": "1921-11-11",
+          "opponent": "Methuen High",
+          "result": "W 6–0",
+          "status": "Away · Pelham Street Playstead"
+        },
+        {
+          "date": "1921-11-25",
+          "opponent": "Rockland High",
+          "result": "W 16–6",
+          "status": "Postseason · Little River Grounds, Lynn"
+        },
+        {
+          "opponent": "Boston High School of Commerce",
+          "result": "L 0–32",
+          "status": "Away · Brookline Field"
+        },
+        {
+          "opponent": "Manchester High (Mass.)",
+          "result": "W 20–16",
+          "status": "Date unverified"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Saugus Sachems Football History workbook · Season Records, row 14"
+        },
+        {
+          "label": "Contributed newspaper report · Malden 14, Saugus 6 · Sept. 28 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Boston Commerce 32, Saugus 0 · date unverified"
+        },
+        {
+          "label": "Boston Globe · Dedham withdraws at halftime · Oct. 14 dateline",
+          "url": "photos/1921-boston-globe-dedham-forfeit.webp"
+        },
+        {
+          "label": "Contributed newspaper report · Melrose 0, Saugus 0 · Oct. 29 dateline"
+        },
+        {
+          "label": "Boston Globe · Saugus 6, Methuen 0 · Nov. 11 dateline",
+          "url": "photos/1921-boston-globe-methuen-punt-return.webp"
+        },
+        {
+          "label": "Contributed school and academy scoreboard · Saugus 20, Manchester 16 · date unverified"
+        },
+        {
+          "label": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "url": "photos/1921-boston-globe-rockland-postseason.webp"
+        },
+        {
+          "label": "Lynn Item · identifies Pike’s 75-yard interception return against Rockland",
+          "url": "photos/contributed-2728.webp"
+        }
+      ]
     },
     {
       "year": 1922,

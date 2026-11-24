@@ -8378,6 +8378,160 @@
   "stats": [
     {
       "category": "Scoring",
+      "year": 1921,
+      "name": "Franklin “Oozo” Pike",
+      "schoolClass": "Jr.",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Malden 14, Saugus 6 · Sept. 28 dateline / Boston Globe · Dedham withdraws at halftime · Oct. 14 dateline / Boston Globe · Saugus 6, Methuen 0 · Nov. 11 dateline / Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "One touchdown each against Malden, Dedham, Methuen and Rockland. Includes the Dedham touchdown scored on the field before the forfeit and the postseason touchdown against Rockland."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Malden 14, Saugus 6 · Sept. 28 dateline / Boston Globe · Dedham withdraws at halftime · Oct. 14 dateline / Boston Globe · Saugus 6, Methuen 0 · Nov. 11 dateline / Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "One touchdown each against Malden, Dedham, Methuen and Rockland. Includes the Dedham touchdown scored on the field before the forfeit and the postseason touchdown against Rockland."
+        }
+      }
+    },
+    {
+      "category": "Returns",
+      "year": 1921,
+      "name": "Franklin “Oozo” Pike",
+      "schoolClass": "Jr.",
+      "values": {
+        "Punt Return Yards": 55,
+        "Punt Return Touchdowns": 1
+      },
+      "statSources": {
+        "Punt Return Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · Saugus 6, Methuen 0 · Nov. 11 dateline",
+          "note": "Returned a punt 55 yards for the only score at Methuen."
+        },
+        "Punt Return Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe · Saugus 6, Methuen 0 · Nov. 11 dateline",
+          "note": "Returned a punt 55 yards for the only score at Methuen."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1921,
+      "name": "Franklin “Oozo” Pike",
+      "schoolClass": "Jr.",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 75,
+        "Defensive Touchdowns": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "The Lynn Item identifies Pike’s 75-yard postseason touchdown as an interception return."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "The Lynn Item identifies Pike’s 75-yard postseason touchdown as an interception return."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "The Lynn Item identifies Pike’s 75-yard postseason touchdown as an interception return."
+        },
+        "Defensive Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "The Lynn Item identifies Pike’s 75-yard postseason touchdown as an interception return."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1921,
+      "name": "Edward “Googie” Amery",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Caught a touchdown pass against Rockland in postseason play."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Caught a touchdown pass against Rockland in postseason play."
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1921,
+      "name": "Edward “Googie” Amery",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Touchdowns": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Caught a first-quarter touchdown pass against Rockland. The report describes 32 yards after the catch without establishing the full play distance."
+        },
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Caught a first-quarter touchdown pass against Rockland. The report describes 32 yards after the catch without establishing the full play distance."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1921,
+      "name": "Kelley",
+      "schoolClass": "",
+      "values": {
+        "Points": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Kicked two extra points in the Rockland postseason game."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1921,
+      "name": "Kelley",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Boston Globe and Lynn Item · Saugus 16, Rockland 6 · Nov. 25 postseason game",
+          "note": "Kicked two extra points in the Rockland postseason game."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
       "year": 1920,
       "name": "Hilbourne",
       "schoolClass": "",
