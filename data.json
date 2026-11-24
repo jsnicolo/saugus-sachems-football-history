@@ -1420,11 +1420,80 @@
       "record": "3 - 5 - 1",
       "league": "North Shore League",
       "title": null,
-      "players": "Ernie Castle, Laurie Templeman",
+      "players": "Ernie Castle (captain-elect in 1928), Quint (identified as captain in 1929 yearbook account), Laurie Templeman, Gates, Roveto, Gifford, Jim Muzzey, Martin, Ed Newbury",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 22,
-      "seasonNote": "Albion Rice returned as head coach. The yearbook account records victories over Manchester and Swampscott."
+      "seasonNote": "Albion Rice returned as head coach. The 1930 Tontoquonian records a 22–0 opening win over Manchester at Stackpole Field on September 28, with two Templeman touchdowns, one Gifford touchdown, two Templeman extra points and a Gates safety. Saugus then earned its first victory over Swampscott, 12–0, on two Templeman touchdowns, including a 25-yard run. Captain Quint injured his right knee against Milton; Quint and Gifford missed the Essex Aggies game. Against Rockport, Quint opened holes for Templeman's touchdown runs of 70, 40 and 35 yards; Muzzey added a touchdown. Templeman scored again against Chelsea, where Ed Newbury broke his right wrist. Saugus fought closely against Winchester despite injuries and tied Mission High 12–12 on Thanksgiving. The January 15, 1930 banquet featured letters presented by Coach Rice and speeches by Captain Quint and captain-elect Muzzey. Templeman had at least eight touchdowns in the supplied accounts. The previous yearbook named Castle as incoming captain, whereas this account identifies Quint as captain; the reason for the discrepancy is unconfirmed.",
+      "games": [
+        {
+          "date": "Sept. 28",
+          "opponent": "Manchester",
+          "result": "W 22–0",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Swampscott",
+          "result": "W 12–0",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Milton",
+          "result": "L 0–15",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Essex Aggies",
+          "result": "L 0–15",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "at Reading",
+          "result": "L 0–12",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Rockport",
+          "result": "W 27–6",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Chelsea",
+          "result": "L 6–24",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "—",
+          "status": "Referenced; result unverified"
+        },
+        {
+          "date": "—",
+          "opponent": "Winchester",
+          "result": "L 6–13",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "Nov. 28",
+          "opponent": "Mission High",
+          "result": "T 12–12",
+          "status": "Thanksgiving"
+        }
+      ],
+      "scheduleNote": "Nine scored games account for the existing 3–5–1 record. Danvers is referenced but its result and whether it was played are not established by the supplied pages (41 and 43); page 42 is missing. Record retained pending verification.",
+      "seasonSources": [
+        {
+          "label": "1930 Tontoquonian, pp. 41 and 43 · 1929 football review (contributor scans, source only)",
+          "url": "https://archive.org/details/tontoquonian1930saug"
+        }
+      ]
     },
     {
       "year": 1930,
