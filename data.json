@@ -566,7 +566,31 @@
       "players": "Mike Garofano (ended up enlisting for WWI before the season)",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 8
+      "sourceRow": 8,
+      "games": [
+        {
+          "date": "1917-11-09",
+          "opponent": "at Woburn High",
+          "result": "L 0–52",
+          "status": "Contemporary box score"
+        },
+        {
+          "date": "—",
+          "opponent": "at West Roxbury High",
+          "result": "L 0–36",
+          "status": "Contemporary box score; date unknown"
+        }
+      ],
+      "scheduleNote": "Two of the five losses in the season record have documented scores here. The West Roxbury clipping gives no calendar date.",
+      "seasonNote": "Saugus lost 52–0 at Woburn on Nov. 9. The report credited Saugus with one first down and listed Burwell and Day at quarterback. West Roxbury won 36–0 at Pearce Field in Roslindale. Lyons scored three touchdowns for West Roxbury, including one on an 85-yard end run. Day was listed at quarterback for Saugus, with Babon and Burwell at halfback and Atherton at fullback.",
+      "seasonSources": [
+        {
+          "label": "Woburn game report · Nov. 9 dateline · Woburn 52, Saugus 0"
+        },
+        {
+          "label": "West Roxbury Beats Saugus High, 36–0 · undated newspaper clipping"
+        }
+      ]
     },
     {
       "year": 1918,
