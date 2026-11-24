@@ -1168,9 +1168,70 @@
         {
           "label": "Newspaper clipping · Reginald Goss’s 1928 captaincy",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1928-reginald-goss-captain-scholarship.webp"
+        },
+        {
+          "label": "Contributed newspaper clipping · “Saugus Cards Nine Games on Grid This Fall” · 1928 preseason schedule",
+          "url": "research/pre-golden-era-clipping-index.md"
         }
       ],
-      "seasonNote": "Fred Beresford returned as coach for one season. The yearbook review highlights captain Reggie Goss, Gilman Cann, Carroll Freeman, Red Hunnewell, Stuart Kidder and Jim Foley. Kidder connected with Goss for a long pass in the Thanksgiving loss to Mission High."
+      "seasonNote": "Fred Beresford returned as coach for one season. The yearbook review highlights captain Reggie Goss, Gilman Cann, Carroll Freeman, Red Hunnewell, Stuart Kidder and Jim Foley. Kidder connected with Goss for a long pass in the Thanksgiving loss to Mission High.",
+      "games": [
+        {
+          "date": "Oct. 6",
+          "opponent": "at Swampscott",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Oct. 12",
+          "opponent": "at Methuen",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Oct. 20",
+          "opponent": "at Revere",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Oct. 27",
+          "opponent": "Reading",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Nov. 3",
+          "opponent": "Essex Aggies",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Nov. 10",
+          "opponent": "Gloucester",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Nov. 17",
+          "opponent": "at Danvers",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Nov. 24",
+          "opponent": "at Winchester",
+          "result": "—",
+          "status": "Announced preseason fixture"
+        },
+        {
+          "date": "Nov. 29",
+          "opponent": "Mission High (Roxbury)",
+          "result": "L 0–6",
+          "status": "Thanksgiving · reported result"
+        }
+      ],
+      "scheduleNote": "The undated preseason clipping names Fred Beresford and matches the 1928 schedule indexed as IMG_2889. It lists five road dates and four home dates at Stackpole’s Field. For Nov. 29, the preview lists Roxbury High, while the Thanksgiving game account identifies Mission High of Roxbury. The other eight entries are fixtures from the preseason announcement."
     },
     {
       "year": 1929,
