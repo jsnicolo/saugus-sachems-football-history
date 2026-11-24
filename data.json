@@ -1814,7 +1814,7 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 30,
-      "seasonNote": "In John “Jack” Leahy’s first season as head coach, Saugus won six of its first nine varsity games and beat Danvers 18–12 on Thanksgiving. The 1935 town report confirms seven wins in ten varsity games.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 108 points and allowed 91.",
+      "seasonNote": "In John “Jack” Leahy’s first season as head coach, Saugus won six of its first nine varsity games and beat Danvers 18–12 on Thanksgiving. The 1935 town report confirms seven wins in ten varsity games.\n\n\n\nThe 1936 yearbook (p. 44) calls this the best team since 1922 and reports five consecutive wins before Marblehead, followed by an 18–12 Thanksgiving victory. Its nine-game table omits Newburyport, explaining the apparent streak discrepancy with the ten-game newspaper schedule. The printed totals of 108–91 include only the nine listed games; adding Newburyport 14–8 gives 122–99 for ten games. Home games marked in the yearbook: Hudson, Concord, Stoneham, Amesbury, Marblehead and Danvers.",
       "seasonSources": [
         {
           "label": "Boston Globe · 1935 Thanksgiving preview and season records",
@@ -1823,6 +1823,9 @@
         {
           "label": "1935 Saugus town report · seven wins in ten varsity games",
           "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1935-part-17.htm"
+        },
+        {
+          "label": "1936 Tontoquonian · football review (contributor scans, source only)"
         }
       ],
       "games": [
@@ -1908,11 +1911,14 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 31,
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Thanksgiving tie score remains disputed (6–6 versus 0–0); a contemporary game report is needed.",
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Thanksgiving tie score remains disputed (6–6 versus 0–0); a contemporary game report is needed.\n\nThe 1937 yearbook (p. 40) gives Barnstable as an 18–7 away victory (newspaper preview says 18–0) and explicitly confirms a 6–6 Thanksgiving tie. Senior standouts were Will Norton, Scott Wladkowski, Lew Fiske, John Donnelly and Fran Oljey. The roster includes Gates, Caffarella, Oljey, McKay, Scire, Duffy, Muzzy, Parkinson, Brooks, Donnelly, Hanson, Wladkowski, Collamore, Fauci, Fiske, Krzywicki, Witozen, Popp, Demaso, Burns, Herald, Evans, Buccherie, Mueller and Norton; manager Wilkinson. Jimmy Fauci and Buzz Harvey were identified as next year's leaders. The yearbook omits Newburyport and does not establish a complete season record.",
       "seasonSources": [
         {
           "label": "Boston Globe · 1936 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "1937 Tontoquonian · football review (contributor scans, source only)"
         }
       ],
       "games": [
@@ -1975,11 +1981,11 @@
         {
           "date": "—",
           "opponent": "Danvers",
-          "result": "T 6–6 / 0–0",
-          "status": "Thanksgiving · score conflict"
+          "result": "T 6–6",
+          "status": "Thanksgiving · yearbook"
         }
       ],
-      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source. Thanksgiving score remains disputed."
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source. Thanksgiving score remains disputed. Yearbook confirms 6–6 and gives Barnstable 18–7; preview gives 18–0. Existing record retained pending missing game verification."
     },
     {
       "year": 1937,
@@ -2002,9 +2008,12 @@
         },
         {
           "label": "Contributed newspaper clipping · Northbridge plans to watch Buzz Harvey’s Saugus team"
+        },
+        {
+          "label": "1938 Tontoquonian · football review (contributor scans, source only)"
         }
       ],
-      "seasonNote": "Before the Marblehead game, a newspaper reported that Northbridge coach Smith planned an early practice so his players could travel to Saugus to watch Buzz Harvey’s first Sachems team. Harvey had coached Northbridge to a title the previous fall. Saugus beat Marblehead 13–6.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Marblehead 13–6; Barnstable 32–0; Gloucester 13–7; Amesbury 13–0; Woburn 13–0; Newburyport 0–7; St. John's (Danvers) 21–0; Swampscott 0–19; Plymouth 33–7. Thanksgiving opponent: Danvers (listed as Holton in the clipping). The preview does not give the Thanksgiving final score.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 144 points and allowed 52.",
+      "seasonNote": "Before the Marblehead game, a newspaper reported that Northbridge coach Smith planned an early practice so his players could travel to Saugus to watch Buzz Harvey’s first Sachems team. Harvey had coached Northbridge to a title the previous fall. Saugus beat Marblehead 13–6.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Marblehead 13–6; Barnstable 32–0; Gloucester 13–7; Amesbury 13–0; Woburn 13–0; Newburyport 0–7; St. John's (Danvers) 21–0; Swampscott 0–19; Plymouth 33–7. Thanksgiving opponent: Danvers (listed as Holton in the clipping). The preview does not give the Thanksgiving final score.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 144 points and allowed 52.\n\nThe 1938 yearbook (p. 52) confirms the 7–2–1 record, first-ever Marblehead victory, five opening wins, and 6–6 Thanksgiving tie. Harvey opened practice in mid-August. Jim Fauci captained the team; Earl Hanson was named 1938 captain. Senior roster members: Herald, Collamore, Fauci, Walter Dill, Krzywicki, Evans, McKay, Brooks, Mueller, Reiniger and Parrish. Other roster members: Bucherie, Hanson, Derderian, Burns, Woodrow Dill, Coffill, Duffy, Small, Pitman, Merrithew, Riley, Demaso, Harrington, Fairchild, Hooper and Popp. Manager Stewart.",
       "games": [
         {
           "date": "—",
@@ -2088,7 +2097,7 @@
       "awards": "Bob Burns - North Shore\nFrank DeMaso - North Shore",
       "nickname": "Sachems",
       "sourceRow": 33,
-      "seasonNote": "A contemporary “With the Schoolboys” report documents Saugus’s withdrawal from the Northeastern Conference effective June 30, 1938, approved by the athletic council and school committee. No official reason was stated.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Medford 0–13; Amesbury 0–12; Melrose 12–8; Marblehead 0–20; Woburn 26–0; Newburyport 26–0; Gloucester 8–20; Swampscott 8–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.",
+      "seasonNote": "A contemporary “With the Schoolboys” report documents Saugus’s withdrawal from the Northeastern Conference effective June 30, 1938, approved by the athletic council and school committee. No official reason was stated.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Medford 0–13; Amesbury 0–12; Melrose 12–8; Marblehead 0–20; Woburn 26–0; Newburyport 26–0; Gloucester 8–20; Swampscott 8–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.\n\nThe 1939 yearbook (pp. 83–86) records the September 16, 1938 dedication of Saugus Memorial Stadium at Stackpole Field, attended by over 5,000, with Governor Charles F. Hurley raising the flag and Congressman Lawrence J. Connery present. About 6,000 watched Class C Saugus upset previously unbeaten Class A Melrose 12–8: Bob Burns scored the stadium's first touchdown; sophomore Mike Harrington returned a kickoff 78 yards and scored on a 24-yard interception return. Burns scored twice against Woburn and three times on runs of at least 50 yards against Newburyport. Ray Mansfield recovered two fumbles against Woburn. Burns returned a kickoff 80 yards for a touchdown against Gloucester, and Earl Hanson kicked the extra point. Popp scored against Swampscott; Burns scored twice and ran in a conversion against Plymouth. Demaso scored the only touchdown against Danvers on Thanksgiving. The yearbook gives Gloucester as 9–26, differing from the newspaper preview's 8–20, and confirms Plymouth 13–7. Assistant coach Nicholas Morris; captain Earl Hanson; manager Stewart.",
       "seasonSources": [
         {
           "label": "Contemporary column · NEC withdrawal effective June 30, 1938",
@@ -2101,6 +2110,9 @@
         {
           "label": "Boston Globe · 1938 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "1939 Tontoquonian · football review (contributor scans, source only)"
         }
       ],
       "games": [
@@ -2149,7 +2161,7 @@
         {
           "date": "—",
           "opponent": "Gloucester",
-          "result": "L 8–20",
+          "result": "L 9–26",
           "status": "Played",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1938-globe-thanksgiving-preview.webp"
         },
@@ -2162,12 +2174,18 @@
         },
         {
           "date": "—",
+          "opponent": "Plymouth",
+          "result": "W 13–7",
+          "status": "Yearbook result"
+        },
+        {
+          "date": "—",
           "opponent": "Danvers",
           "result": "W 6–0",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source."
+      "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source. Yearbook preferred for Gloucester and Plymouth."
     },
     {
       "year": 1939,
@@ -2192,7 +2210,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Charles “Buzz” Harvey’s team won the North Shore championship and placed second in the state Class C standings, according to the town report. Co-captains Stan Green and Jim Duffy led a team that recovered from a 12–0 opening loss to Medford and went unbeaten over its final ten games. The yearbook results include seven shutouts, a 3–0 win over Salem and a 38–6 Thanksgiving win over Danvers.\n\nA preseason clipping described Harvey’s squad as small and identified Green at end and Duffy at guard. Tackle Pitman and halfback Harrington were among the returning veterans. Back Pratt and center Riley drew attention in practice after seeing reserve duty the previous fall.\n\nThe 21–0 win over Amesbury handed the previously unbeaten team its first loss and marked the first points it had allowed. The press called Saugus a dark-horse Class C contender ahead of the Wakefield game. Later reports placed the Sachems fourth after Needham’s first loss, third entering the Swampscott game after North Quincy fell to Norwood, and second after Saugus beat Swampscott 20–0. A 40–0 win over Marblehead pulled Saugus closer to first-place New Bedford Vocational.\n\nSaugus added a home game against Class A Salem before its Thanksgiving date with Danvers. Contemporary coverage laid out a path to first in Class C if Saugus won both games and New Bedford Vocational lost to New Bedford High. The Schoolboy Sidelights column singled out the newly booked Salem matchup as the leading game on a quiet Saturday schedule. Seating nearly derailed the game before the Saugus Park Department agreed to add about 2,000 seats, bringing estimated capacity to about 7,500. In his preview, Ernest Dalton identified Stackpole Field as the venue and pointed to the strength of Harvey and assistant Nick Morris’s line. Joseph Bucchiere kicked the decisive field goal in the 3–0 win, with Harrington holding.\n\nSaugus closed at home with a 38–6 Thanksgiving win over Danvers. The Sachems led 7–6 after the first quarter and scored the game’s final 31 points. Harrington scored two touchdowns, and Eddie Shipulski, Pratt, Allen and Stan Green scored one apiece. Bucchiere kicked two extra points. The win secured second place in Class C with a 6.44 rating behind undefeated New Bedford Vocational at 6.86. The final newspaper standings list Saugus with one loss and one tie in 11 games, corroborating the 9–1–1 record.\n\nAdditional sources include contributed newspaper clippings covering the preseason roster, Amesbury, weekly and final Class C standings, Salem previews, and the Danvers box score.\n\nSeason scoring totals (from the 11 listed games): Saugus scored 185 points and allowed 31.",
+      "seasonNote": "Charles “Buzz” Harvey’s team won the North Shore championship and placed second in the state Class C standings, according to the town report. Co-captains Stan Green and Jim Duffy led a team that recovered from a 12–0 opening loss to Medford and went unbeaten over its final ten games. The yearbook results include seven shutouts, a 3–0 win over Salem and a 38–6 Thanksgiving win over Danvers.\n\nA preseason clipping described Harvey’s squad as small and identified Green at end and Duffy at guard. Tackle Pitman and halfback Harrington were among the returning veterans. Back Pratt and center Riley drew attention in practice after seeing reserve duty the previous fall.\n\nThe 21–0 win over Amesbury handed the previously unbeaten team its first loss and marked the first points it had allowed. The press called Saugus a dark-horse Class C contender ahead of the Wakefield game. Later reports placed the Sachems fourth after Needham’s first loss, third entering the Swampscott game after North Quincy fell to Norwood, and second after Saugus beat Swampscott 20–0. A 40–0 win over Marblehead pulled Saugus closer to first-place New Bedford Vocational.\n\nSaugus added a home game against Class A Salem before its Thanksgiving date with Danvers. Contemporary coverage laid out a path to first in Class C if Saugus won both games and New Bedford Vocational lost to New Bedford High. The Schoolboy Sidelights column singled out the newly booked Salem matchup as the leading game on a quiet Saturday schedule. Seating nearly derailed the game before the Saugus Park Department agreed to add about 2,000 seats, bringing estimated capacity to about 7,500. In his preview, Ernest Dalton identified Stackpole Field as the venue and pointed to the strength of Harvey and assistant Nick Morris’s line. Joseph Bucchiere kicked the decisive field goal in the 3–0 win, with Harrington holding.\n\nSaugus closed at home with a 38–6 Thanksgiving win over Danvers. The Sachems led 7–6 after the first quarter and scored the game’s final 31 points. Harrington scored two touchdowns, and Eddie Shipulski, Pratt, Allen and Stan Green scored one apiece. Bucchiere kicked two extra points. The win secured second place in Class C with a 6.44 rating behind undefeated New Bedford Vocational at 6.86. The final newspaper standings list Saugus with one loss and one tie in 11 games, corroborating the 9–1–1 record.\n\nAdditional sources include contributed newspaper clippings covering the preseason roster, Amesbury, weekly and final Class C standings, Salem previews, and the Danvers box score.\n\nSeason scoring totals (from the 11 listed games): Saugus scored 185 points and allowed 31.\n\nThe 1940 yearbook (pp. 83, 84, 86) adds game-level detail: Harrington and Walkey scored against Cambridge Latin; Walkey tied Melrose late. Pratt, Walkey and Green scored against Amesbury, with Joe Buccherie converting all three. Pratt scored the only touchdown at Woburn; Vatcher excelled returning punts in Harrington's absence. Walkey and Harrington scored against Wakefield. Shipulski scored twice at Gloucester, Pratt and Mansfield once each. Walkey scored twice and Shipulski once against Swampscott. Harrington scored twice against Marblehead; Mansfield, Walkey, Vatcher and Shipulski added one each. The Salem game drew approximately 10,000 according to the yearbook, which calls Buccherie's winning kick the only field goal of his high school career. Co-captain Jim Duffy was absent from the team photo due to injury.",
       "seasonSources": [
         {
           "label": "1942 yearbook · Class History, p. 39",
@@ -2229,6 +2247,9 @@
         {
           "label": "Boston Globe · 1939 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1939-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "1940 Tontoquonian · football review (contributor scans, source only)"
         }
       ],
       "scheduleNote": "Scores are listed with Saugus first. The yearbook and a contributed Thanksgiving lineup and results clipping both give Wakefield as 13–7, while a separate Thanksgiving roundup lists 12–7. The lineup clipping lists Melrose as 6–0, while both the yearbook and Ernest Dalton’s Salem preview give a 6–6 tie. The yearbook gives Gloucester as 26–0, and newspaper previews list 6–0. The table uses the yearbook results. The Salem date is inferred from the yearbook’s account that the game filled the open November 25 slot before Thanksgiving.",
