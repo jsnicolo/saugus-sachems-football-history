@@ -1,6 +1,6 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-20",
+  "updated": "2026-11-24",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
@@ -1145,6 +1145,25 @@
         {
           "label": "Dean College · Worcester State box score",
           "url": "https://deanbulldogs.com/sports/football/stats/2026/worcester-state-university/boxscore/3374"
+        }
+      ]
+    },
+    {
+      "name": "George Bachellor",
+      "gradYear": null,
+      "college": "University of New Hampshire",
+      "position": "T",
+      "rosterYears": "1930 (freshman); 1931 (varsity camp)",
+      "professional": "",
+      "notes": "Provisional Saugus High affiliation; graduation year and high school football participation remain unverified (possibly Class of 1930). A contributor-supplied September 16, 1931 newspaper report identifies the 200-pound tackle from Saugus as a member of the previous year's freshman eleven and a returning varsity candidate. UNH class of 1934 as listed in the report. The university newspaper of January 26, 1934 also identifies George Bachellor as hockey captain-elect. Later football roster seasons remain unconfirmed.",
+      "sources": [
+        {
+          "label": "Contributor-supplied newspaper clipping, September 16, 1931, Palmer and Bachellor Report to Wildcat Squad (source only)",
+          "url": ""
+        },
+        {
+          "label": "The New Hampshire, January 26, 1934",
+          "url": "https://doczz.net/doc/264895/pdf"
         }
       ]
     }
