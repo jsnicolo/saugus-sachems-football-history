@@ -921,9 +921,19 @@
     "opponent": "Peabody",
     "result": "W 22–14",
     "status": "Historical table, visually checked",
-    "note": "1995 newspaper historical series table; individual game date not independently checked.",
+    "note": "On November 24, Marc Fauci ran for two touchdowns in Saugus’s 22–14 win. Bob Sacco’s contemporary illustration and the 1995 Item series table agree on the final score.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Saugus Advertiser · Bob Sacco’s illustration of the Nov. 24, 1988 Thanksgiving win",
+        "url": "documents/1988-sacco-saugus-peabody.webp"
+      }
+    ]
   },
   {
     "year": 1989,
