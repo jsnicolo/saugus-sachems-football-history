@@ -4533,13 +4533,61 @@
       "sourceRow": 68,
       "games": [
         {
-          "date": "—",
+          "date": null,
+          "opponent": "Boston College High",
+          "result": "L 0–28",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Beverly",
+          "result": "L 6–32",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn Classical",
+          "result": "L 8–18",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Marblehead",
+          "result": "L 0–18",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Lynn English",
+          "result": "L 6–20",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Swampscott",
+          "result": "L 0–20",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Winthrop",
+          "result": "L 0–24",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": null,
+          "opponent": "Salem",
+          "result": "L 8–46",
+          "status": "Played · Daily Evening Item scorecard"
+        },
+        {
+          "date": "1967-11-23",
           "opponent": "Peabody",
           "result": "L 8–26",
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The Daily Evening Item’s Thanksgiving preview lists the first eight results. The Thanksgiving result completes the nine-game schedule.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -4548,8 +4596,12 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Daily Evening Item · Nov. 22, 1967, p. A-6 · Thanksgiving preview, projected lineup and season scorecard"
         }
-      ]
+      ],
+      "seasonNote": "Paul Maguire’s Sachems entered Thanksgiving at 0–8. Their closest game was an 18–8 loss to Lynn Classical. The Daily Evening Item’s Nov. 22 preview put Peabody at 1–7 and noted that both teams relied heavily on underclassmen heading into the holiday game at Stackpole Field.\n\nSenior Richie Nicolo was expected to return at quarterback after missing time with an illness. Junior Wayne Bambury and sophomore Bob Osgood had filled in, and Bambury handled the kicking. The projected offensive line included sophomores Billy Babcock, Dick Conti and Billy Eichel. Joe Monteforte and Lou O’Neil were also listed up front, with Alan Smallman and Steve Pizzotti at the ends. The projected backfield paired halfbacks Jim Canole and John Richard with fullback Fred Paris. Peabody won the Thanksgiving game 26–8, leaving Saugus at 0–9."
     },
     {
       "year": 1968,
