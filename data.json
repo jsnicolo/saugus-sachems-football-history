@@ -1126,7 +1126,61 @@
       "players": "Forrest Rhodes, Jack Leahy, Wally Guatreau, and John H. Pike",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 19
+      "sourceRow": 19,
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Gloucester",
+          "result": "L 0–23",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem Trade",
+          "result": "W 28–0",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Winchester",
+          "result": "L 0–31",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Stoneham",
+          "result": "T 6–6",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Amesbury",
+          "result": "L 0–24",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "Saturday (exact date unknown)",
+          "opponent": "Hyannis",
+          "result": "W 12–0",
+          "status": "Contemporary game report and season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Danvers",
+          "result": "L 0–6",
+          "status": "Contemporary newspaper season scorecard"
+        }
+      ],
+      "seasonNote": "In Albion Rice’s first season as Saugus head coach, the Warriors went 2–4–1. They shut out Salem Trade 28–0 and Hyannis 12–0 and tied Stoneham 6–6.\n\nSaugus shut out former coach Bill Bangs’s Hyannis team 12–0 at Stackpole’s Field. Captain John Leahy threw a 40-yard touchdown pass to Nelson in the second quarter and ran for the other score in the third. The report says Saugus played all 48 minutes without a substitution, with two players appearing in their first game.",
+      "scheduleNote": "The newspaper scorecard lists all seven results. Exact game dates are unverified.",
+      "seasonSources": [
+        {
+          "label": "Contributed newspaper clipping · “Saugus High Team’s Record For Season” · seven-game scorecard"
+        },
+        {
+          "label": "Contributed newspaper clipping · “Saugus High Won From Bangs’ Hyannis Eleven”"
+        }
+      ]
     },
     {
       "year": 1927,
@@ -1149,20 +1203,9 @@
         },
         {
           "label": "Contributed newspaper clipping · “Grid Letters Are Awarded at Saugus High” · 1927 letter recipients and election of the 1928 captain"
-        },
-        {
-          "label": "Contributed newspaper clipping · “Saugus High Won From Bangs’ Hyannis Eleven”"
         }
       ],
-      "seasonNote": "Albion Rice’s Warriors won seven of eleven games. At a postseason school assembly, Rice awarded football letters and announced that junior Reginald “Reggie” Goss had been elected captain for 1928. Goss was a regular at end in 1927 and missed time only after suffering injuries late in the season. Wally Gautreau, Arthur Martin and Stuart Kidder also appear in the season records.\n\nThe newspaper listed 20 letter recipients: captain John Leahy, Eric Swenson, Chester Anderson, Fred Neale, Arthur Martin, Danton Sawyer, Arthur Bryer, Walter Gautreau, Arthur Wilkins, Reginald Goss, Gilman Cann, Benjamin Hamlin, Ernest Castle, Carroll Greeman, Herbert Walsh, Chester Sproul, William Hanlon, James Delaney, Albert Day and Laurence Templeton. Rice also announced that six players had received membership in the National Athletic Scholastic Association. The visible portion of the clipping does not name those six.\n\nSaugus shut out former coach Bill Bangs’s Hyannis team 12–0 at Stackpole’s Field. Captain John Leahy threw a 40-yard touchdown pass to Nelson in the second quarter and ran for the other score in the third. The report says Saugus played all 48 minutes without a substitution, with two players appearing in their first game.",
-      "games": [
-        {
-          "date": "Saturday (exact date unknown)",
-          "opponent": "Hyannis",
-          "result": "W 12–0",
-          "status": "Contemporary newspaper game report"
-        }
-      ]
+      "seasonNote": "Albion Rice’s Warriors won seven of eleven games. At a postseason school assembly, Rice awarded football letters and announced that junior Reginald “Reggie” Goss had been elected captain for 1928. Goss was a regular at end in 1927 and missed time only after suffering injuries late in the season. Wally Gautreau, Arthur Martin and Stuart Kidder also appear in the season records.\n\nThe newspaper listed 20 letter recipients: captain John Leahy, Eric Swenson, Chester Anderson, Fred Neale, Arthur Martin, Danton Sawyer, Arthur Bryer, Walter Gautreau, Arthur Wilkins, Reginald Goss, Gilman Cann, Benjamin Hamlin, Ernest Castle, Carroll Greeman, Herbert Walsh, Chester Sproul, William Hanlon, James Delaney, Albert Day and Laurence Templeton. Rice also announced that six players had received membership in the National Athletic Scholastic Association. The visible portion of the clipping does not name those six."
     },
     {
       "year": 1928,
