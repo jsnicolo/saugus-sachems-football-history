@@ -1469,10 +1469,10 @@
           "status": "Yearbook result"
         },
         {
-          "date": "—",
+          "date": "Nov. 16",
           "opponent": "Danvers",
           "result": "—",
-          "status": "Referenced; result unverified"
+          "status": "Home game scheduled; result unverified"
         },
         {
           "date": "—",
@@ -1487,11 +1487,14 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "Nine scored games account for the existing 3–5–1 record. Danvers is referenced but its result and whether it was played are not established by the supplied pages (41 and 43); page 42 is missing. Record retained pending verification.",
+      "scheduleNote": "Nine scored games account for the existing 3–5–1 record. A contemporary newspaper schedule dated November 16, 1929 lists Danvers at Saugus; whether the game was played and its result remain unverified. Record retained pending verification.",
       "seasonSources": [
         {
           "label": "1930 Tontoquonian, pp. 41 and 43 · 1929 football review (contributor scans, source only)",
           "url": "https://archive.org/details/tontoquonian1930saug"
+        },
+        {
+          "label": "November 16, 1929 · School and Academy Football Games Today (contributor newspaper scan, source only)"
         }
       ]
     },
