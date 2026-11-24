@@ -1435,6 +1435,12 @@
       "games": [
         {
           "date": "—",
+          "opponent": "Manchester High School",
+          "result": "W 30–0",
+          "status": "Season opener"
+        },
+        {
+          "date": "—",
           "opponent": "Mission High (Roxbury)",
           "result": "W 19–6",
           "status": "Thanksgiving"
@@ -1449,9 +1455,13 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2740.webp"
+        },
+        {
+          "label": "1931 Tontoquonian · 1930 football season review (contributor-provided scan)",
+          "url": "https://archive.org/details/tontoquonian1931saug"
         }
       ],
-      "seasonNote": "The yearbook pages highlight captain Jim Muzzy, whose surname also appears as Muzzey, and Laurence “Laurie” Templeman."
+      "seasonNote": "The yearbook pages highlight captain Jim Muzzy, whose surname also appears as Muzzey, and Laurence “Laurie” Templeman. The 1931 yearbook's review of the 1930 season described the squad as the best since the undefeated 1922 team. Saugus opened with a 30–0 win over Manchester High. Coach Rice praised Jimmie Glinski's line play, Albie Day at center, Harry Raddin at offensive end, Stewart Quint's improvement at tackle, Foster's field leadership and Gordon Baker's blocking. Eddie Newbury played against Danvers despite a badly injured wrist. Templeman was the leading scoring threat, followed by Muzzy, who excelled in blocking, tackling and passing. Nine seniors received sweaters at the annual football banquet; undergraduates received letters."
     },
     {
       "year": 1931,
