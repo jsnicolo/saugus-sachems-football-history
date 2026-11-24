@@ -1155,7 +1155,7 @@
       "position": "T",
       "rosterYears": "1930 (freshman); 1931 (varsity camp)",
       "professional": "",
-      "notes": "Provisional Saugus High affiliation; graduation year and high school football participation remain unverified (possibly Class of 1930). A contributor-supplied September 16, 1931 newspaper report identifies the 200-pound tackle from Saugus as a member of the previous year's freshman eleven and a returning varsity candidate. UNH class of 1934 as listed in the report. The university newspaper of January 26, 1934 also identifies George Bachellor as hockey captain-elect. Later football roster seasons remain unconfirmed.",
+      "notes": "Provisional Saugus High affiliation; graduation year and high school football participation remain unverified (possibly Class of 1930). A contributor-supplied September 16, 1931 newspaper report identifies the 200-pound tackle from Saugus as a member of the previous year's freshman eleven and a returning varsity candidate. UNH class of 1934 as listed in the report. The university newspaper of January 26, 1934 also identifies George Bachellor as hockey captain-elect. Later football roster seasons remain unconfirmed. A second contributor-supplied Boston Globe clipping, “Wildcat Hockey Squad Is Fast,” datelined December 5 (year not visible), identifies Bachellor as a returning varsity hockey letterman and football player. It lists his hometown as Concord, N.H., unlike the 1931 football report identifying Saugus, Mass.; high school affiliation remains provisional.",
       "sources": [
         {
           "label": "Contributor-supplied newspaper clipping, September 16, 1931, Palmer and Bachellor Report to Wildcat Squad (source only)",
@@ -1164,6 +1164,10 @@
         {
           "label": "The New Hampshire, January 26, 1934",
           "url": "https://doczz.net/doc/264895/pdf"
+        },
+        {
+          "label": "Boston Globe · Wildcat Hockey Squad Is Fast, December 5 (year unconfirmed; contributor clipping, source only)",
+          "url": ""
         }
       ]
     }
