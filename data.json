@@ -604,7 +604,88 @@
       "players": "Tim Bannon, George Nicholson, and Willis",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 13
+      "sourceRow": 13,
+      "recordNote": "The season workbook lists a 5–6–1 record. The available reports document three regular-season wins and three losses, plus a postseason loss at Whitman. The workbook’s treatment of the Whitman game is unverified.",
+      "seasonNote": "Fred Beresford coached the Warriors, with right halfback Tim Bannon as captain. The Lynn Item’s preseason coverage described a team practicing daily at Stackpole Field, with Willis at quarterback and Burnham returning as a punter. Watertown won the Sept. 24 opener 48–0 at Town Field. The game report singled out Willis, Upham and fullback Hilbourne for their play.\n\nSaugus shut out Danvers 32–0 at Stackpole Field on Oct. 2. Quarterback Symmes scored twice, and George Nicholson, Bannon and Hilbourne each scored a touchdown. Hilbourne kicked both extra points. In the 15–6 loss at Revere’s Curtis Park on Oct. 9, Upham scored Saugus’s only touchdown. The headline, opening paragraph and box score name Revere, although the account twice calls the opponent Chelsea. The box score credits a safety to Saugus end Bradford, but the scoring summary requires those two points to account for Revere’s 15. The individual safety credit is unresolved.\n\nHilbourne scored both touchdowns on runs through the line in the 13–0 home win over Belmont on Oct. 16, and Burnham kicked the extra point. Wakefield won 40–0 on Oct. 23. Saugus shut out Manchester 26–0 at Stackpole Field on Nov. 11. Bannon scored twice, Hilbourne and Bradford each scored once, and Bradford kicked two extra points.\n\nWhitman won 40–0 before a large crowd at Whitman Park on Nov. 27. The newspaper identified it as a postseason game. After the season, Saugus elected left halfback George Nicholson captain for 1921.",
+      "scheduleNote": "Partial schedule. Saugus scored 77 points and allowed 103 in the six documented regular-season games. Whitman is listed separately as postseason. The Thanksgiving opponent and result remain unverified.",
+      "games": [
+        {
+          "date": "1920-09-24",
+          "opponent": "Watertown High",
+          "result": "L 0–48",
+          "status": "Away · Town Field"
+        },
+        {
+          "date": "1920-10-02",
+          "opponent": "Danvers High",
+          "result": "W 32–0",
+          "status": "Home · Stackpole Field"
+        },
+        {
+          "date": "1920-10-09",
+          "opponent": "Revere High",
+          "result": "L 6–15",
+          "status": "Away · Curtis Park"
+        },
+        {
+          "date": "1920-10-16",
+          "opponent": "Belmont High",
+          "result": "W 13–0",
+          "status": "Home"
+        },
+        {
+          "date": "1920-10-23",
+          "opponent": "Wakefield High",
+          "result": "L 0–40",
+          "status": "Away"
+        },
+        {
+          "date": "1920-11-11",
+          "opponent": "Manchester High",
+          "result": "W 26–0",
+          "status": "Home · Stackpole Field"
+        },
+        {
+          "date": "1920-11-27",
+          "opponent": "Whitman High",
+          "result": "L 0–40",
+          "status": "Postseason · Whitman Park"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Saugus Sachems Football History workbook · Season Records, row 13"
+        },
+        {
+          "label": "Lynn Item · Tim Bannon and the 1920 season opener",
+          "url": "photos/contributed-2743.webp"
+        },
+        {
+          "label": "Lynn Item · George Nicholson elected captain for 1921",
+          "url": "photos/contributed-2727.webp"
+        },
+        {
+          "label": "Contributed newspaper report · Watertown 48, Saugus 0 · Sept. 24 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Revere 15, Saugus 6 · Oct. 9 dateline"
+        },
+        {
+          "label": "Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Wakefield 40, Saugus 0 · Oct. 23 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · Whitman 40, Saugus 0 · Nov. 27 dateline"
+        }
+      ]
     },
     {
       "year": 1921,
@@ -9162,6 +9243,7 @@
     "1920–1950: (The Golden Years):",
     "The period from 1920 through 1950 is widely regarded as the “Golden Era” of Saugus football. During that stretch, Saugus won state championships in 1941 and 1944 and Exchange Bowl championships in 1949 and 1950, and produced several other teams that were strong enough to be considered among the best in program history.",
     "Fred Beresford (1920–1922, 1928)",
+    "Tim Bannon captained Beresford’s 1920 team, which the season register lists at 5–6–1. Saugus shut out Danvers, Belmont and Manchester in the documented regular-season games. Bannon scored twice against Manchester, and fullback Hilbourne scored in all three wins.",
     "Fred Beresford’s 1922 Warriors finished 9–0–2 behind captain Edward “Googie” Amery and fullback Franklin “Ooze” Pike. Saugus beat Danvers 24–6 on Thanksgiving and closed with a 20–9 win over Woburn. The archive lists the team as Greater Lynn League champions. The 1942 yearbook retrospectively describes a Class C title, while Beresford said during the 1922 season that he was claiming no title at that point.",
     "About 30 candidates turned out in 1922. The Daily Evening Item put the team’s average weight at 142 pounds and described a shifting offense built around Pike’s running, passing and drop-kicking. With about a minute left in a scoreless game against Wellesley, Amery broke a 95-yard run and Pike finished the drive for a 6–0 win.",
     "William Bangs (1923–1925)",

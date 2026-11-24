@@ -8378,6 +8378,218 @@
   "stats": [
     {
       "category": "Scoring",
+      "year": 1920,
+      "name": "Hilbourne",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 26
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline / Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline / Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "One touchdown and two extra points against Danvers, two touchdowns against Belmont and one touchdown against Manchester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline / Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline / Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "One touchdown and two extra points against Danvers, two touchdowns against Belmont and one touchdown against Manchester."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1920,
+      "name": "Hilbourne",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 2
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline",
+          "note": "Scored both Saugus touchdowns on runs through the line against Belmont."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1920,
+      "name": "Hilbourne",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline",
+          "note": "Kicked two extra points against Danvers."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "Tim Bannon",
+      "schoolClass": "Sr.",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline / Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "One touchdown against Danvers and two against Manchester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline / Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "One touchdown against Danvers and two against Manchester."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "Symmes",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline",
+          "note": "Scored two touchdowns against Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline",
+          "note": "Scored two touchdowns against Danvers."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "George Nicholson",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline",
+          "note": "Scored a touchdown against Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 32, Danvers 0 · Oct. 2 dateline",
+          "note": "Scored a touchdown against Danvers."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "Upham",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Revere 15, Saugus 6 · Oct. 9 dateline",
+          "note": "Scored Saugus’s only touchdown against Revere."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Revere 15, Saugus 6 · Oct. 9 dateline",
+          "note": "Scored Saugus’s only touchdown against Revere."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "Bradford",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 8
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "Scored one touchdown and kicked two extra points against Manchester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "Scored one touchdown and kicked two extra points against Manchester."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1920,
+      "name": "Bradford",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · Saugus 26, Manchester 0 · Nov. 11 dateline",
+          "note": "Kicked two extra points against Manchester."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1920,
+      "name": "Burnham",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline",
+          "note": "Kicked the extra point against Belmont."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1920,
+      "name": "Burnham",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Boston Globe clipping · Saugus 13, Belmont 0 · Oct. 16 dateline",
+          "note": "Kicked one extra point against Belmont."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
       "year": 1919,
       "name": "Bradbury",
       "schoolClass": "",
