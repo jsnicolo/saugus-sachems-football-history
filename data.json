@@ -536,7 +536,64 @@
       "players": "Malcolm MacVicar",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 10
+      "sourceRow": 10,
+      "recordNote": "The season workbook lists a 3–6–3 finish. Five newspaper game reports document one win, two losses and two ties.",
+      "seasonNote": "Laurence F. Davis coached the Warriors, and Malcolm MacVicar is listed as captain. Revere won 34–0 at Stackpole Field on Oct. 11. Revere’s Townsend returned the opening kickoff 80 yards for a touchdown and scored twice, while Barrett scored three times. Woburn won 51–0 at Library Field on Oct. 25, with Walsh returning an interception 25 yards for a touchdown.\n\nSaugus scored 34 points in the first period of its 56–6 home win over Manning High of Ipswich on Nov. 11. Right end Bradbury scored three touchdowns, including a 65-yard interception return, and kicked two extra points. Fullback E. Allen scored twice, kicked two extra points and added a field goal. Willis, Bannon and Upham each scored a touchdown, and Burnham kicked an extra point.\n\nOn Nov. 18, Bradbury scored on a 40-yard end run on the opening play and kicked the extra point in a 7–7 home tie with Watertown. At Pearce Field in Roslindale, Saugus held West Roxbury to a 0–0 tie, taking over on downs after West Roxbury reached the Saugus five-yard line.",
+      "scheduleNote": "Partial schedule. Saugus scored 63 points and allowed 98 across these five games. The West Roxbury clipping gives no calendar date, so the game appears after the dated results.",
+      "games": [
+        {
+          "date": "1919-10-11",
+          "opponent": "Revere High",
+          "result": "L 0–34",
+          "status": "Home · Stackpole Field"
+        },
+        {
+          "date": "1919-10-25",
+          "opponent": "Woburn High",
+          "result": "L 0–51",
+          "status": "Away · Library Field"
+        },
+        {
+          "date": "1919-11-11",
+          "opponent": "Manning High (Ipswich)",
+          "result": "W 56–6",
+          "status": "Home"
+        },
+        {
+          "date": "1919-11-18",
+          "opponent": "Watertown High",
+          "result": "T 7–7",
+          "status": "Home"
+        },
+        {
+          "opponent": "West Roxbury High",
+          "result": "T 0–0",
+          "status": "Away · Pearce Field, Roslindale"
+        }
+      ],
+      "seasonSources": [
+        {
+          "label": "Saugus Sachems Football History workbook · Season Records, row 10"
+        },
+        {
+          "label": "Saugus football archive · captains directory"
+        },
+        {
+          "label": "Contributed newspaper report · “West Roxbury in Tie” · date unverified"
+        },
+        {
+          "label": "Contributed newspaper report · “Revere High Victory at Saugus, by 34 to 0” · Oct. 11 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · “Woburn 51, Saugus 0” · Oct. 25 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline"
+        },
+        {
+          "label": "Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline"
+        }
+      ]
     },
     {
       "year": 1920,
@@ -9100,6 +9157,8 @@
     "Senay coached Saugus in 1915. Surviving results include six wins, one by reported forfeit, and an 18–0 loss at Winchester.",
     "Edward Collier (1916–1917)",
     "Contemporary newspaper accounts name Collier as Saugus coach in 1916. He opened practice in September as residents sought help equipping the team. The workbook lists 1916 at 7–1, including a documented 39–7 Thanksgiving win over East Boston. The season records list 1917 at 0–5.",
+    "Laurence F. Davis (1919)",
+    "The season register lists Davis’s Warriors at 3–6–3. In a 56–6 win over Manning High of Ipswich, Saugus scored 34 points in the first quarter and Bradbury returned an interception 65 yards for a touchdown.",
     "1920–1950: (The Golden Years):",
     "The period from 1920 through 1950 is widely regarded as the “Golden Era” of Saugus football. During that stretch, Saugus won state championships in 1941 and 1944 and Exchange Bowl championships in 1949 and 1950, and produced several other teams that were strong enough to be considered among the best in program history.",
     "Fred Beresford (1920–1922, 1928)",

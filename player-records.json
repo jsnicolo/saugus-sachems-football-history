@@ -8378,6 +8378,242 @@
   "stats": [
     {
       "category": "Scoring",
+      "year": 1919,
+      "name": "Bradbury",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 27
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline / Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline",
+          "note": "Three touchdowns and two extra points against Manning, plus one touchdown and one extra point against Watertown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline / Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline",
+          "note": "Three touchdowns and two extra points against Manning, plus one touchdown and one extra point against Watertown."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1919,
+      "name": "Bradbury",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 3
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline / Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline",
+          "note": "Two extra points against Manning and one against Watertown."
+        }
+      }
+    },
+    {
+      "category": "Defensive",
+      "year": 1919,
+      "name": "Bradbury",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 65,
+        "Defensive Touchdowns": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Returned an interception 65 yards for a touchdown against Manning."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Returned an interception 65 yards for a touchdown against Manning."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Returned an interception 65 yards for a touchdown against Manning."
+        },
+        "Defensive Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Returned an interception 65 yards for a touchdown against Manning."
+        }
+      }
+    },
+    {
+      "category": "Rushing",
+      "year": 1919,
+      "name": "Bradbury",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1,
+        "Rushing Yards": 40
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline",
+          "note": "Scored on a 40-yard end run on the opening play against Watertown."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline",
+          "note": "Scored on a 40-yard end run on the opening play against Watertown."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1919,
+      "name": "E. Allen",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 17
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Two touchdowns, two extra points and one field goal against Manning."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Two touchdowns, two extra points and one field goal against Manning."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1919,
+      "name": "E. Allen",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 2,
+        "Field Goals": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Kicked two extra points and one field goal against Manning."
+        },
+        "Field Goals": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Kicked two extra points and one field goal against Manning."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1919,
+      "name": "Willis",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1919,
+      "name": "Tim Bannon",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1919,
+      "name": "Upham",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Scored a touchdown against Manning."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
+      "year": 1919,
+      "name": "Burnham",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Kicked one extra point against Manning."
+        }
+      }
+    },
+    {
+      "category": "Kicking",
+      "year": 1919,
+      "name": "Burnham",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "Contributed newspaper report · “Saugus H. S. 56, Manning 6” · Nov. 11 dateline",
+          "note": "Kicked one extra point against Manning."
+        }
+      }
+    },
+    {
+      "category": "Scoring",
       "year": 1922,
       "name": "Franklin “Oozo” Pike",
       "schoolClass": "Sr.",
