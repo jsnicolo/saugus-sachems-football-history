@@ -658,9 +658,9 @@
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 10,
-      "recordNote": "The season workbook lists a 3–6–3 finish. Five newspaper game reports document one win, two losses and two ties.",
-      "seasonNote": "Laurence F. Davis coached the Warriors, and Malcolm MacVicar is listed as captain. Revere won 34–0 at Stackpole Field on Oct. 11. Revere’s Townsend returned the opening kickoff 80 yards for a touchdown and scored twice, while Barrett scored three times. Woburn won 51–0 at Library Field on Oct. 25, with Walsh returning an interception 25 yards for a touchdown.\n\nSaugus scored 34 points in the first period of its 56–6 home win over Manning High of Ipswich on Nov. 11. Right end Bradbury scored three touchdowns, including a 65-yard interception return, and kicked two extra points. Fullback E. Allen scored twice, kicked two extra points and added a field goal. Willis, Bannon and Upham each scored a touchdown, and Burnham kicked an extra point.\n\nOn Nov. 18, Bradbury scored on a 40-yard end run on the opening play and kicked the extra point in a 7–7 home tie with Watertown. At Pearce Field in Roslindale, Saugus held West Roxbury to a 0–0 tie, taking over on downs after West Roxbury reached the Saugus five-yard line.",
-      "scheduleNote": "Partial schedule. Saugus scored 63 points and allowed 98 across these five games. The West Roxbury clipping gives no calendar date, so the game appears after the dated results.",
+      "recordNote": "The workbook and Essex Aggies game report give a 3–6–3 finish. Six documented games account for one win, two losses and all three ties.",
+      "seasonNote": "Laurence F. Davis coached the Warriors, and Malcolm MacVicar is listed as captain. Revere won 34–0 at Stackpole Field on Oct. 11. Revere’s Townsend returned the opening kickoff 80 yards for a touchdown and scored twice, while Barrett scored three times. Woburn won 51–0 at Library Field on Oct. 25, with Walsh returning an interception 25 yards for a touchdown.\n\nSaugus scored 34 points in the first period of its 56–6 home win over Manning High of Ipswich on Nov. 11. Right end Bradbury scored three touchdowns, including a 65-yard interception return, and kicked two extra points. Fullback E. Allen scored twice, kicked two extra points and added a field goal. Willis, Bannon and Upham each scored a touchdown, and Burnham kicked an extra point.\n\nOn Nov. 18, Bradbury scored on a 40-yard end run on the opening play and kicked the extra point in a 7–7 home tie with Watertown. At Pearce Field in Roslindale, Saugus held West Roxbury to a 0–0 tie, taking over on downs after West Roxbury reached the Saugus five-yard line.\n\nIn the season finale at Stackpole Field, Saugus rallied from 12–0 down to tie Essex Aggies 12–12. Capt. E. Allen scored on a short run after halftime, and Bradbury scored the other Saugus touchdown. The game report calls E. Allen captain for the finale. The contributed season captain list names Malcolm MacVicar.",
+      "scheduleNote": "Partial schedule. The six documented games account for 75 Saugus points and 110 allowed. The West Roxbury and Essex Aggies clippings do not show exact dates.",
       "games": [
         {
           "date": "1919-10-11",
@@ -690,6 +690,11 @@
           "opponent": "West Roxbury High",
           "result": "T 0–0",
           "status": "Away · Pearce Field, Roslindale"
+        },
+        {
+          "opponent": "Essex Aggies",
+          "result": "T 12–12",
+          "status": "Season finale at Stackpole Field · date unverified"
         }
       ],
       "seasonSources": [
@@ -713,6 +718,9 @@
         },
         {
           "label": "Contributed newspaper report · “Saugus H. S. 7, Watertown 7” · Nov. 18 dateline"
+        },
+        {
+          "label": "Contributed newspaper clipping · “Saugus Ties Aggies, 12–12” · identifies Capt. E. Allen"
         }
       ]
     },
@@ -727,7 +735,7 @@
       "nickname": "Warriors",
       "sourceRow": 13,
       "recordNote": "The season workbook lists a 5–6–1 record. The available reports document three regular-season wins and three losses, plus a postseason loss at Whitman. The workbook’s treatment of the Whitman game is unverified.",
-      "seasonNote": "Fred Beresford coached the Warriors, with right halfback Tim Bannon as captain. The Lynn Item’s preseason coverage described a team practicing daily at Stackpole Field, with Willis at quarterback and Burnham returning as a punter. Watertown won the Sept. 24 opener 48–0 at Town Field. The game report singled out Willis, Upham and fullback Hilbourne for their play.\n\nSaugus shut out Danvers 32–0 at Stackpole Field on Oct. 2. Quarterback Symmes scored twice, and George Nicholson, Bannon and Hilbourne each scored a touchdown. Hilbourne kicked both extra points. In the 15–6 loss at Revere’s Curtis Park on Oct. 9, Upham scored Saugus’s only touchdown. The headline, opening paragraph and box score name Revere, although the account twice calls the opponent Chelsea. The box score credits a safety to Saugus end Bradford, but the scoring summary requires those two points to account for Revere’s 15. The individual safety credit is unresolved.\n\nHilbourne scored both touchdowns on runs through the line in the 13–0 home win over Belmont on Oct. 16, and Burnham kicked the extra point. Wakefield won 40–0 on Oct. 23. Saugus shut out Manchester 26–0 at Stackpole Field on Nov. 11. Bannon scored twice, Hilbourne and Bradford each scored once, and Bradford kicked two extra points.\n\nWhitman won 40–0 before a large crowd at Whitman Park on Nov. 27. The newspaper identified it as a postseason game. After the season, Saugus elected left halfback George Nicholson captain for 1921.",
+      "seasonNote": "Fred Beresford coached the Warriors, with right halfback Tim Bannon as captain. The Lynn Item’s preseason coverage described a team practicing daily at Stackpole Field, with Willis at quarterback and Burnham returning as a punter. Watertown won the Sept. 24 opener 48–0 at Town Field. The game report singled out Willis, Upham and fullback Hilbourne for their play.\n\nSaugus shut out Danvers 32–0 at Stackpole Field on Oct. 2. Quarterback Symmes scored twice, and George Nicholson, Bannon and Hilbourne each scored a touchdown. Hilbourne kicked both extra points. In the 15–6 loss at Revere’s Curtis Park on Oct. 9, Upham scored Saugus’s only touchdown. The headline, opening paragraph and box score name Revere, although the account twice calls the opponent Chelsea. The box score credits a safety to Saugus end Bradford, but the scoring summary requires those two points to account for Revere’s 15. The individual safety credit is unresolved.\n\nHilbourne scored both touchdowns on runs through the line in the 13–0 home win over Belmont on Oct. 16, and Burnham kicked the extra point. Wakefield won 40–0 on Oct. 23. Saugus shut out Manchester 26–0 at Stackpole Field on Nov. 11. Bannon scored twice, Hilbourne and Bradford each scored once, and Bradford kicked two extra points.\n\nWhitman won 40–0 before a large crowd at Whitman Park on Nov. 27. The newspaper identified it as a postseason game. After the season, Saugus elected left halfback George Nicholson captain for 1921.\n\nA preseason report said alumni offered to help Beresford and that the staff hoped to bring back 180-pound fullback Lowell to join Allen and Willis in the backfield. It projected March at center, Stacey at guard, Fox at tackle, and Bradford, Hilbourne and Goodrich at end. A separate column credited Saugus with 15 first downs against St. John’s Prep despite being held scoreless.",
       "scheduleNote": "Partial schedule. Saugus scored 77 points and allowed 103 in the six documented regular-season games. Whitman is listed separately as postseason. The Thanksgiving opponent and result remain unverified.",
       "games": [
         {
@@ -771,6 +779,11 @@
           "opponent": "Whitman High",
           "result": "L 0–40",
           "status": "Postseason · Whitman Park"
+        },
+        {
+          "opponent": "St. John’s Prep",
+          "result": "Saugus 0 · opponent score unverified",
+          "status": "Contemporary column · date and final score unverified"
         }
       ],
       "seasonSources": [
@@ -805,6 +818,9 @@
         },
         {
           "label": "Contributed newspaper report · Whitman 40, Saugus 0 · Nov. 27 dateline"
+        },
+        {
+          "label": "Contributed newspaper clippings · “Saugus High Has Football Stars” and “Saugus High” · preseason outlook and St. John’s Prep"
         }
       ]
     },
@@ -819,7 +835,7 @@
       "nickname": "Warriors",
       "sourceRow": 14,
       "recordNote": "The season workbook lists 3–4–1. Six documented regular-season results account for three wins, two losses and one tie. Two losses remain unverified. The Rockland game was reported as postseason.",
-      "seasonNote": "Fred Beresford coached the Warriors, with George Nicholson as captain. Franklin Pike scored in the second quarter at Malden on Sept. 28. Malden sent in its first team late in the fourth quarter and scored twice to win 14–6. Boston High School of Commerce won 32–0 at Brookline Field. Saugus recovered a fumble at the Commerce 15 in the second quarter but turned the ball over on downs.\n\nOn Oct. 14, Dedham led 7–6 at halftime at Stackpole Field after Pike scored for Saugus. Dedham withdrew after objecting to Saugus’s physical play, and referee Michael Garofano awarded Saugus a 1–0 forfeit win. Saugus and Melrose tied 0–0 at Messinger’s Meadows on Oct. 29, with both lines drawing praise for their defense.\n\nPike returned a punt 55 yards for the only touchdown in a 6–0 win over Methuen at Pelham Street Playstead on Nov. 11. A separate scoreboard records a 20–16 win over Manchester, Massachusetts. The clipped scoreboard gives no game date.\n\nSaugus beat Rockland 16–6 in postseason play at Little River Grounds in Lynn on Nov. 25. Edward “Googie” Amery caught a first-quarter touchdown pass and ran 32 yards after the catch. Pike scored on a 75-yard interception return in the third quarter, as identified by the Lynn Item. Kelley kicked both extra points. The Globe’s box score lists a safety without clearly explaining how it occurred. The published 16–6 final leaves two Saugus points beyond the two touchdowns and extra points.\n\nThe newspaper’s 1921 football letter list named Amery, Roy Andrews, Henry Bradford, Harold Calderwood, Harold Davis, Charles Emerson, Edwin Holmes, Raymond Kelley, Joseph Maddocks, George Herald, Forest Kenerson, George Nicholson, Franklin Pike, Raymond Saxon, Ernest Littlefield, and John Poole. The clipping identifies Amery as captain-elect for the following season and prints his first name as Edwin. Other season sources identify the 1922 captain as Edward “Googie” Amery. The clipping also repeats the surname Davis on the football list.",
+      "seasonNote": "Fred Beresford coached the Warriors, with George Nicholson as captain. Franklin Pike scored in the second quarter at Malden on Sept. 28. Malden sent in its first team late in the fourth quarter and scored twice to win 14–6. Boston High School of Commerce won 32–0 at Brookline Field. Saugus recovered a fumble at the Commerce 15 in the second quarter but turned the ball over on downs.\n\nOn Oct. 14, Dedham led 7–6 at halftime at Stackpole Field after Pike scored for Saugus. Dedham withdrew after objecting to Saugus’s physical play, and referee Michael Garofano awarded Saugus a 1–0 forfeit win. Saugus and Melrose tied 0–0 at Messinger’s Meadows on Oct. 29, with both lines drawing praise for their defense.\n\nPike returned a punt 55 yards for the only touchdown in a 6–0 win over Methuen at Pelham Street Playstead on Nov. 11. A separate scoreboard records a 20–16 win over Manchester, Massachusetts. The clipped scoreboard gives no game date.\n\nSaugus beat Rockland 16–6 in postseason play at Little River Grounds in Lynn on Nov. 25. Edward “Googie” Amery caught a first-quarter touchdown pass and ran 32 yards after the catch. Pike scored on a 75-yard interception return in the third quarter, as identified by the Lynn Item. Kelley kicked both extra points. A second account says a high snap by Rockland’s McQuaid led to the safety and credits Saugus guard Joseph Maddocks with helping force it. The account also praises center Raymond Saxon and says Rockland’s only touchdown came when McClure ran back a fumble.\n\nThe newspaper’s 1921 football letter list named Amery, Roy Andrews, Henry Bradford, Harold Calderwood, Harold Davis, Charles Emerson, Edwin Holmes, Raymond Kelley, Joseph Maddocks, George Herald, Forest Kenerson, George Nicholson, Franklin Pike, Raymond Saxon, Ernest Littlefield, and John Poole. The clipping identifies Amery as captain-elect for the following season and prints his first name as Edwin. Other season sources identify the 1922 captain as Edward “Googie” Amery. The clipping also repeats the surname Davis on the football list.\n\nThe local Dedham account identifies the game as Saugus’s home opener. It describes Pike running more than half the field for his touchdown and singles out right end Holmes and tackle Kelley on defense.",
       "scheduleNote": "Partial schedule. Boston Commerce and Manchester are listed after the dated games because their dates are unverified. The Thanksgiving opponent remains unverified.",
       "games": [
         {
@@ -897,6 +913,9 @@
         },
         {
           "label": "Contributed newspaper clipping · 1921 football letter recipients and captain-elect"
+        },
+        {
+          "label": "Contributed newspaper reports · Dedham withdrawal and Pike’s 75-yard return against Rockland"
         }
       ]
     },
@@ -1092,10 +1111,27 @@
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 17,
-      "seasonNote": "A year-end newspaper review reported that William Bangs drew a large turnout for football, although several veterans were ruled ineligible for academic or state-board reasons. The Warriors finished 3–5–2 in the season archive. The review described both ties as scoreless.\n\nThe newly organized Saugus Citizens’ Athletic Alliance worked with Bangs and school officials to equip the players and organize cheering sections. On the eve of the first home game, students and residents marched by torchlight to Stackpole’s Field, where several hundred people gathered for speeches and cheers around a bonfire. The Class of 1917 donated $150 for team blankets bearing the school emblem.",
+      "seasonNote": "A year-end newspaper review reported that William Bangs drew a large turnout for football, although several veterans were ruled ineligible for academic or state-board reasons. The Warriors finished 3–5–2 in the season archive. The review described both ties as scoreless.\n\nThe newly organized Saugus Citizens’ Athletic Alliance worked with Bangs and school officials to equip the players and organize cheering sections. On the eve of the first home game, students and residents marched by torchlight to Stackpole’s Field, where several hundred people gathered for speeches and cheers around a bonfire. The Class of 1917 donated $150 for team blankets bearing the school emblem.\n\nThe Thanksgiving preview scheduled Manchester-by-the-Sea at Stackpole Field at 10 a.m. It named former Saugus coach Fred Beresford as referee and Mike Davis as umpire. Bangs expected to rely on speed against a heavier Manchester team. The preview also announced a Dec. 6 home postseason game against Essex Aggies.",
       "seasonSources": [
         {
           "label": "Contributed year-end newspaper review · “Saugus Looking Over Year 1924”"
+        },
+        {
+          "label": "Contributed newspaper clipping · “The Way Saugus and Manchester Are to Line Up” · Thanksgiving preview"
+        }
+      ],
+      "games": [
+        {
+          "date": "Nov. 27",
+          "opponent": "Manchester-by-the-Sea",
+          "result": "—",
+          "status": "Thanksgiving preview · home at Stackpole Field"
+        },
+        {
+          "date": "Dec. 6",
+          "opponent": "Essex Aggies",
+          "result": "—",
+          "status": "Announced postseason game · result unverified"
         }
       ]
     },
@@ -1113,9 +1149,87 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2745.webp"
+        },
+        {
+          "label": "Contributed newspaper clippings · “Saugus Split Even on Season’s Gridiron Games” and “Saugus High Meets Alumni”"
         }
       ],
-      "seasonNote": "William Bangs’s final team finished 6–6. Captain Ernest Belliveau led a squad that included Homer McNutt, Wally Gautreau, Danton Sawyer and Edward “Googie” Amery."
+      "seasonNote": "William Bangs’s final team finished 6–6. Captain Ernest Belliveau led a squad that included Homer McNutt, Wally Gautreau, Danton Sawyer and Edward “Googie” Amery.\n\nThe year-end scorecard records five opening losses followed by six wins in the last seven games, including a 26–0 postseason win over the alumni at Stackpole Field. The alumni preview projected a Willis brother at quarterback for each side, naming Fred Willis for the alumni. Late in the season, Bangs dismissed talk of a Lynn Classical game because the squad had disbanded and returned its equipment.",
+      "games": [
+        {
+          "date": "—",
+          "opponent": "Somerville",
+          "result": "L 2–32",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Winchester",
+          "result": "L 0–12",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Lynn English",
+          "result": "L 7–19",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Maynard",
+          "result": "L 0–31",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Concord",
+          "result": "L 0–7",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Essex Aggies",
+          "result": "W 18–0",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Beverly Trade",
+          "result": "W 23–3",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Methuen",
+          "result": "L 7–12",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Stoneham",
+          "result": "W 7–6",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "North Andover",
+          "result": "W 49–0",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Salem Trade",
+          "result": "W 54–0",
+          "status": "Contemporary newspaper season scorecard"
+        },
+        {
+          "date": "—",
+          "opponent": "Saugus High alumni",
+          "result": "W 26–0",
+          "status": "Postseason · Stackpole Field · counted in newspaper’s 6–6 tally"
+        }
+      ],
+      "scheduleNote": "The scorecard counts the alumni game in its 6–6 record. The listed scores add up to 193 Saugus points and 122 allowed. The article prints a 199–122 total."
     },
     {
       "year": 1926,
@@ -5031,9 +5145,12 @@
         },
         {
           "label": "Contributed newspaper clipping · McAn Trophy Winners, 1950–1980"
+        },
+        {
+          "label": "Contributed newspaper photo feature · “Saugus Sachems Everywhere When Grid Season Gets Underway” · Maguire, Nelson and Heaney"
         }
       ],
-      "seasonNote": "Dan Heaney won the 1970 Thom McAn Trophy."
+      "seasonNote": "Dan Heaney won the 1970 Thom McAn Trophy.\n\nA newspaper photo feature showed coach Paul Maguire with co-captains Steve Nelson and Dan Heaney ahead of the Lynn Classical game. The caption placed Saugus at 0–2 in the Northeastern Conference and listed Stackpole Field as the site of the upcoming game. The feature also pictured the squad, coaching staff, cheerleaders, baton and flag squads, Sachemettes and marching band."
     },
     {
       "year": 1971,
