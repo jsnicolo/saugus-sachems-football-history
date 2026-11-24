@@ -3391,13 +3391,12 @@
       "name": "James William “Jim” Canole",
       "position": "End",
       "schoolClass": "Saugus Class of 1969",
-      "year": null,
-      "yearLabel": "Year to confirm",
+      "year": 1968,
       "publisher": "Boston Globe",
       "award": "All-Scholastic honorable mention",
-      "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/globe-jim-canole-honorable-mention-undated.webp",
-      "sourceLabel": "Boston Globe · honorable mentions, ends · undated source-only screenshot",
-      "sourceNote": "Listed as Canole, Saugus, under ends. His full name is confirmed by the 1969 Tontoquonian senior biography, which records football in years 2, 3 and 4 and co-captaincy. The screenshot has no visible publication date; the exact season remains to be confirmed, so this entry is not assigned to a season’s notes yet. This is a separate honor from his documented 1968 Item selection. Source-only image, excluded from the gallery.",
+      "sourceUrl": "documents/1968-boston-globe-jim-canole-honorable-mention.webp",
+      "sourceLabel": "Boston Globe · 1968 All-Scholastic honorable mention, ends",
+      "sourceNote": "The Boston Globe’s 1968 All-Scholastic teams clipping lists Canole of Saugus under honorable mention at end. The 1969 Tontoquonian confirms his full name and co-captaincy.",
       "sources": [
         {
           "label": "1969 Tontoquonian · James William Canole senior biography",
