@@ -1085,10 +1085,16 @@
       "record": "3 - 5 - 2",
       "league": "North Shore League",
       "title": null,
-      "players": "Ernest Belliveau, Googie Amery",
+      "players": "Ernest Bellevue, Googie Amery",
       "awards": null,
       "nickname": "Warriors",
-      "sourceRow": 17
+      "sourceRow": 17,
+      "seasonNote": "A year-end newspaper review reported that William Bangs drew a large turnout for football, although several veterans were ruled ineligible for academic or state-board reasons. The Warriors finished 3–5–2 in the season archive. The review described both ties as scoreless.\n\nThe newly organized Saugus Citizens’ Athletic Alliance worked with Bangs and school officials to equip the players and organize cheering sections. On the eve of the first home game, students and residents marched by torchlight to Stackpole’s Field, where several hundred people gathered for speeches and cheers around a bonfire. The Class of 1917 donated $150 for team blankets bearing the school emblem.",
+      "seasonSources": [
+        {
+          "label": "Contributed year-end newspaper review · “Saugus Looking Over Year 1924”"
+        }
+      ]
     },
     {
       "year": 1925,
