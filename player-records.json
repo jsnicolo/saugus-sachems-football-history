@@ -14396,7 +14396,7 @@
       "name": "Edward “Eddie” Shipulski",
       "schoolClass": "Sr.",
       "values": {
-        "Total Touchdowns": 7,
+        "Total Touchdowns": 8,
         "Points": 84
       },
       "statSources": {
@@ -14408,8 +14408,8 @@
         },
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "1942 Tontoquonian Football Folio and “Saugus Swamps Revere, 26 to 0” (November 3 game report)",
-          "note": "Two touchdowns each against Chelsea and Revere and one each against Gloucester, Amesbury and Swampscott. The count covers individually identified touchdowns."
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Chelsea 2, Woburn, Gloucester, Amesbury, Melrose, Revere, Swampscott."
         }
       }
     },
@@ -25824,6 +25824,728 @@
           "partial": true,
           "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
           "note": "Five documented conversions and Salem field goal."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 42
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket, Melrose, Revere (3), Marblehead, Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket, Melrose, Revere (3), Marblehead, Danvers."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 1,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers to Moorehouse."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers to Moorehouse."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 2,
+        "Rushing Yards": 9
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Marblehead short plunge and Danvers nine-yard TD."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Marblehead short plunge and Danvers nine-yard TD."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Edward “Eddie” Shipulski",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket and Woburn."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket and Woburn."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Edward “Eddie” Shipulski",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 2,
+        "Passing Yards": 63,
+        "Completions": 2
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD to Wilson."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD to Wilson."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD to Wilson."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Edward Wladkowski",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Porter",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Melrose."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Melrose."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "James Wilson",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 16
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere and Swampscott."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Two TDs and four PATs."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "James Wilson",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 2,
+        "Receiving Yards": 63,
+        "Receptions": 2
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere 63-yard TD and Swampscott TD."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "James Wilson",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Bob Connell",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 4,
+        "Field Goals": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket 2, Melrose 1, Woburn 1, Marblehead FG."
+        },
+        "Field Goals": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Pawtucket 2, Melrose 1, Woburn 1, Marblehead FG."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Bob Connell",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Points": 7
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Four PATs and one FG."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Francis Moorehouse",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers."
+        }
+      }
+    },
+    {
+      "year": 1940,
+      "name": "Francis Moorehouse",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1941 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Danvers."
+        }
+      }
+    },
+    {
+      "year": 1941,
+      "name": "Jack Stuart",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "45-yard blocked kick return against Amesbury."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "45-yard blocked kick return against Amesbury."
+        }
+      }
+    },
+    {
+      "year": 1941,
+      "name": "Jack Stuart",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Defensive Touchdowns": 1
+      },
+      "statSources": {
+        "Defensive Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Blocked kick recovered and returned 45 yards against Amesbury."
+        }
+      }
+    },
+    {
+      "year": 1941,
+      "name": "Claude Collette",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Marblehead."
+        }
+      }
+    },
+    {
+      "year": 1941,
+      "name": "Claude Collette",
+      "category": "Punting",
+      "schoolClass": "",
+      "values": {
+        "Longest Punt": 78
+      },
+      "statSources": {
+        "Longest Punt": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Gloucester."
+        }
+      }
+    },
+    {
+      "year": 1941,
+      "name": "Bob Connell",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1942 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Woburn."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Russell Babcock",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 4,
+        "Points": 24
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Chelsea, Revere, Woburn, Wakefield."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Chelsea, Revere, Woburn, Wakefield."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Russell Babcock",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 3
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Chelsea, Revere, Woburn."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Russell Babcock",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Wakefield."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Wakefield."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Jim MacDougall",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Leominster and Gloucester."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Leominster and Gloucester."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Jim MacDougall",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Swampscott."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Waybright",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Beverly fumble recovery and Woburn reception."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Beverly fumble recovery and Woburn reception."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Waybright",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 1,
+        "Defensive Touchdowns": 1
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Beverly end zone recovery."
+        },
+        "Defensive Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Beverly end zone recovery."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Waybright",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Woburn."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Woburn."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Ed Godett",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Gloucester and Woburn."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Gloucester and Woburn."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Ed Godett",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 2,
+        "Completions": 2
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury to Huff and Wakefield to Babcock."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury to Huff and Wakefield to Babcock."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Ed Godett",
+      "category": "Punting",
+      "schoolClass": "",
+      "values": {
+        "Longest Punt": 65
+      },
+      "statSources": {
+        "Longest Punt": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Chelsea."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Huff",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury reception and Swampscott rush."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury reception and Swampscott rush."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Huff",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Amesbury."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Huff",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Swampscott."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Bob Connell",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 10
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Revere rushing TD."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "One TD and four PATs."
+        }
+      }
+    },
+    {
+      "year": 1942,
+      "name": "Bob Connell",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 4
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1943 Tontoquonian, Football Folio (contributed scans)",
+          "note": "Gloucester 2, Revere 1, Wakefield 1."
         }
       }
     }
