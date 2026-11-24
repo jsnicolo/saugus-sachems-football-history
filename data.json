@@ -6928,6 +6928,12 @@
         },
         {
           "date": "—",
+          "opponent": "Danvers",
+          "result": "L 0–10",
+          "status": "Daily Evening Item · Thanksgiving preview scorecard"
+        },
+        {
+          "date": "—",
           "opponent": "at Salem",
           "result": "L 24–60",
           "status": "Newspaper box score"
@@ -6939,7 +6945,7 @@
           "status": "Newspaper box score"
         },
         {
-          "date": "—",
+          "date": "1999-11-12",
           "opponent": "at Gloucester",
           "result": "L 0–35",
           "status": "Newspaper box score"
@@ -6951,7 +6957,7 @@
           "status": "Thanksgiving"
         }
       ],
-      "scheduleNote": "The contributed newspaper box scores cover 10 of 11 games. One loss remains undocumented in this game log. The Winthrop box lists three Saugus touchdowns against a 24-point team total. The Salem headline and scoring plays establish the 60–24 result despite transposed team labels in the quarter-by-quarter table.",
+      "scheduleNote": "The contributed box scores cover ten games. The Daily Evening Item’s Thanksgiving preview supplies the 10–0 Danvers loss and dates the Gloucester game to Nov. 12, completing the 11-game results list. The Winthrop box lists three Saugus touchdowns against a 24-point team total. The Salem headline and scoring plays establish the 60–24 result despite transposed team labels in the quarter-by-quarter table.",
       "seasonSources": [
         {
           "label": "Historical Thanksgiving table · lists a conflicting 0–36 score",
@@ -6980,10 +6986,13 @@
         {
           "label": "Daily Evening Item · Sept. 13, 1999, p. 16 · Jim Bianchine’s Methuen game report (scrapbook IMG_3645.jpg and IMG_3740.jpg)",
           "url": "photos/item-1999-kyle-sucharewicz-methuen.webp"
+        },
+        {
+          "label": "Daily Evening Item · Joyce Erekson, “Saugus is looking to halt a 5-game losing streak” · 1999 Thanksgiving preview and scorecard"
         }
       ],
       "captainsNote": "George Lowe captain designation supplied by Sal Nicolo. Brian Mirasolo captain designation confirmed by supplied newspaper clipping; 1999 season identified by Sal Nicolo.",
-      "seasonNote": "Dean Sacca’s first Saugus team opened with a 6–0 win over Methuen on sophomore quarterback Kyle Sucharewicz’s fourth-quarter touchdown run. He completed seven of 17 passes for 68 yards. The scoring summary lists the touchdown at 14 yards. The Item game story describes it as a two-yard dive. The win came at Stackpole Field on Founder’s Day. Ryan Gould intercepted a pass at midfield and returned it to the Methuen 39 to set up the winning drive. Pat Quinlan ran 13 times for 70 yards, George Lowe gained 50 yards on nine carries, and Adam Magnasco broke a 16-yard run on the drive. The Item put Sucharewicz’s go-ahead score at 6:18 remaining and reported that Lowe’s late interception helped seal the shutout. Saugus outgained Methuen 203–90 despite four turnovers and 12 penalties.\n\nThe Sachems lost 25–24 to Winthrop, then beat Marblehead 30–14 behind three George Lowe touchdowns. After a 27–20 loss at Lynn English, Saugus beat Swampscott 20–12. Lowe scored on a 5-yard run and a 65-yard pass from Sucharewicz, who also hit Mike Navarro for a 10-yard touchdown. Saugus was 3–2 after that win and 3–3 after a loss at Lynn Classical.\n\nLowe returned a kickoff 85 yards for a touchdown at Salem. Sucharewicz threw touchdown passes to Mark Pizzotti and Navarro, and the box credits T. Shidlow with a 15-yard scoring run. Lowe scored the lone Saugus touchdown at Beverly. The Sachems closed with shutout losses at Gloucester and at home to Peabody on Thanksgiving and finished 3–8. Lowe’s senior profile credits him with 604 rushing yards, 27 catches for 148 yards, 72 tackles and four interceptions."
+      "seasonNote": "Dean Sacca’s first Saugus team opened with a 6–0 win over Methuen on sophomore quarterback Kyle Sucharewicz’s fourth-quarter touchdown run. He completed seven of 17 passes for 68 yards. The scoring summary lists the touchdown at 14 yards. The Item game story describes it as a two-yard dive. The win came at Stackpole Field on Founder’s Day. Ryan Gould intercepted a pass at midfield and returned it to the Methuen 39 to set up the winning drive. Pat Quinlan ran 13 times for 70 yards, George Lowe gained 50 yards on nine carries, and Adam Magnasco broke a 16-yard run on the drive. The Item put Sucharewicz’s go-ahead score at 6:18 remaining and reported that Lowe’s late interception helped seal the shutout. Saugus outgained Methuen 203–90 despite four turnovers and 12 penalties.\n\nThe Sachems lost 25–24 to Winthrop, then beat Marblehead 30–14 behind three George Lowe touchdowns. After a 27–20 loss at Lynn English, Saugus beat Swampscott 20–12. Lowe scored on a 5-yard run and a 65-yard pass from Sucharewicz, who also hit Mike Navarro for a 10-yard touchdown. Saugus was 3–2 after that win and 3–3 after a loss at Lynn Classical. A 10–0 loss to Danvers followed.\n\nLowe returned a kickoff 85 yards for a touchdown at Salem. Sucharewicz threw touchdown passes to Mark Pizzotti and Navarro, and the box credits T. Shidlow with a 15-yard scoring run. Lowe scored the lone Saugus touchdown at Beverly. The Sachems closed with shutout losses at Gloucester and at home to Peabody on Thanksgiving and finished 3–8. Lowe’s senior profile credits him with 604 rushing yards, 27 catches for 148 yards, 72 tackles and four interceptions. The Thanksgiving preview agrees on his catches, tackles and interceptions, gives him 248 receiving yards, and credits him with two fumble recoveries and 12 total touchdowns entering the holiday game.\n\nIn Joyce Erekson’s Daily Evening Item Thanksgiving preview, Adam Magnasco led Saugus with 112 tackles and had returned against Gloucester after missing three games. Mike Lush caught four touchdown passes and Mike Navarro caught three through ten games. Sucharewicz had thrown 12 touchdown passes and run for three. The preview also reported that Pat Eaton’s injury against Beverly ended his season and that Mark Pizzotti was expected back for Thanksgiving after missing three games."
     },
     {
       "year": 2000,
