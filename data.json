@@ -2726,7 +2726,7 @@
       "record": "5 -4 - 1",
       "league": "Independent ",
       "title": null,
-      "players": "Doug Waybright (Captain), James MacDougal (Captain), Art Spinney",
+      "players": "Doug Waybright (Captain), James MacDougall (Captain), Art Spinney",
       "awards": "James MacDougal — Essex County All-Star (End)\nDoug Waybright — Essex County All-Star (Back)",
       "nickname": "Sachems",
       "sourceRow": 40,
@@ -2756,9 +2756,13 @@
         },
         {
           "label": "Ernest Dalton · Saugus at Beverly preview and the coaching change"
+        },
+        {
+          "label": "1944 Tontoquonian · Football Folio, pp. 71, 74–75 (contributed scans)",
+          "url": "https://archive.org/details/tontoquonian1944saug"
         }
       ],
-      "seasonNote": "Dave Lucey’s first Saugus team opened with three shutout wins and finished 5–4–1. Co-captain Doug Waybright scored three touchdowns in a 32–7 win over Newburyport after the Sachems led 20–0 at halftime. Saugus edged Marblehead 7–6 and played Wakefield to a scoreless Thanksgiving tie.\n\nOn September 18 at Woburn, right halfback Pysko helped lead Saugus to a 20–0 win. Kane, Pysko and O’Neil scored touchdowns, and quarterback Sharp kicked two extra points. Ernest Dalton’s Beverly preview noted that Henry Toczylowski had still been running Saugus spring drills in May before taking over at Beverly. Dave Lucey, who had coached Waltham St. Mary’s and backed up Toczylowski at Boston College, faced his predecessor with Saugus already 2–0.\n\nWaybright (back) and fellow co-captain James MacDougal (end) made the Essex County All-Star roster for the December game scheduled at Manning Bowl. The Globe reported that the selections reflected voting by 225 first-string players.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 86 points and allowed 54.",
+      "seasonNote": "Dave Lucey’s first Saugus team opened with three shutout wins and finished 5–4–1. Co-captain Doug Waybright scored three touchdowns in a 32–7 win over Newburyport after the Sachems led 20–0 at halftime. Saugus edged Marblehead 7–6 and played Wakefield to a scoreless Thanksgiving tie.\n\nOn September 18 at Woburn, right halfback Pysko helped lead Saugus to a 20–0 win. Kane, Pysko and O’Neil scored touchdowns, and quarterback Sharp kicked two extra points. Ernest Dalton’s Beverly preview noted that Henry Toczylowski had still been running Saugus spring drills in May before taking over at Beverly. Dave Lucey, who had coached Waltham St. Mary’s and backed up Toczylowski at Boston College, faced his predecessor with Saugus already 2–0.\n\nWaybright (back) and fellow co-captain James MacDougal (end) made the Essex County All-Star roster for the December game scheduled at Manning Bowl. The Globe reported that the selections reflected voting by 225 first-string players.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 86 points and allowed 54.\n\nThe 1944 Tontoquonian Football Folio identifies assistants Leo Reardon and Belden Bly. Against Chelsea, Leon Cook scored on a quarterback sneak and Dan Sharp converted; ends James MacDougall and Art Spinney excelled in punt coverage. Against Woburn, the yearbook credits Bob Kane with a three-yard touchdown, Frank Pyzsko with a 65-yard scoring run and a touchdown pass to Spinney; the contemporary report instead names O’Neil as the third scorer. Sharp converted twice. Against Beverly before approximately 6,000 spectators, MacDougall recorded a safety, Cook and Sharp intercepted passes, Sharp caught a touchdown pass from Pyzsko, and Pyzsko ran for another score. Bob Thurell contributed on the line and as a punter.\n\nAmesbury handed Saugus its first defeat on October 9. Against Newburyport, Waybright ran for two touchdowns and returned an interception 67 yards for a third; L. Vient returned another interception more than 40 yards for a score, J. Blundell scored on a long reception, and Sharp kicked two extra points. Kane scored from four yards against Marblehead, Sharp supplied the winning conversion and Waybright intercepted a pass. Waybright’s 65-yard punt return against Wakefield was nullified and is not counted in statistics. The November 13 Marblehead game and November 25 Thanksgiving tie closed the season.",
       "games": [
         {
           "date": "—",
@@ -2782,7 +2786,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
         },
         {
-          "date": "—",
+          "date": "1943-10-09",
           "opponent": "Amesbury",
           "result": "L 0–6",
           "status": "Played",
@@ -2817,7 +2821,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
         },
         {
-          "date": "—",
+          "date": "1943-11-13",
           "opponent": "Marblehead",
           "result": "W 7–6",
           "status": "Played",
@@ -2839,8 +2843,8 @@
       "record": "10 - 0",
       "league": "Independent ",
       "title": "Class B State Champions",
-      "players": "Art Spinney (Captain), Dick Allen, Don Reiniger, Doug Waybright, Bob Kane, Frank Pyzsko",
-      "awards": "Art Spinney - Suburban, Boston Globe (1944 season and All Time team), Class B, North Shore.\nDick Allen - Class B, Suburban, North Shore\nFrank Pyzsko - Class B, Suburban, Boston Globe, Boston Chronicle, North Shore\nBob Kane - Suburban, North Shore \nDon Reiniger - North Shore\nThurrell - North Shore\n",
+      "players": "Art Spinney (Captain), Dick Allen, Don Reiniger, Bruce Waybright, Bob Kane, Frank Pyzsko, John Quinlan, Bob Thurell",
+      "awards": "Art Spinney - Suburban, Boston Globe (1944 season and All Time team), Class B, North Shore.\nDick Allen - Class B, Suburban, North Shore\nFrank Pyzsko - Class B, Suburban, Boston Globe, Boston Chronicle, North Shore\nBob Kane - Suburban, North Shore \nDon Reiniger - North Shore\nThurrell - North Shore\nJohn Quinlan — North Shore All-Star game selection\nBruce Waybright — North Shore All-Star game selection",
       "nickname": "Sachems",
       "sourceRow": 41,
       "championshipCategory": "Historical state class",
@@ -2864,7 +2868,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season, scoring 207 points and allowing 19. Captain Art Spinney led a team that posted eight shutouts. The yearbook team photo also identifies Leo Reardon and Beldon Bly as coaches. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.",
+      "seasonNote": "Dave Lucey’s Class B state champions went 10–0 in the regular season, scoring 207 points and allowing 19. Captain Art Spinney led a team that posted eight shutouts. The yearbook team photo also identifies Leo Reardon and Beldon Bly as coaches. Saugus held its first five opponents scoreless until Newburyport returned a fumble 65 yards in a 31–6 Sachems win shortened by faulty lights. A 24–13 win over Lynn Classical drew a reported 14,000 at Manning Bowl. A 26–0 Thanksgiving win at Wakefield clinched the class title. Saugus later played Class A champion Peabody and lost 19–7 in a separate postseason game. The newspaper retrospective “Grid Champions Down the Years” lists Saugus and Chelsea together under Class B for 1944 and lists Peabody under Class A.\n\nThe yearbook credits Frank Pyzsko and Art Spinney with the decisive touchdown pass in the 6–0 Amesbury victory. The 13–0 win over Melrose avenged the previous season’s 19–0 defeat. Other season highlights included Al Mason’s 88-yard run at Marblehead, Charlie Sampson’s 80-yard kickoff return against Beverly, Bob Kane’s running and tackling against Melrose, Bob Thurell’s punting, George Miles’s blocking, George Winter’s disruption of a reverse against Newburyport, John Quinlan’s tackling, Dick Allen’s punt coverage, Bruce Waybright’s blocking, Don Reiniger’s linebacker play and Red Dukeshire’s return from a severe leg injury. Pyzsko’s 90-yard run against Peabody belongs to the separate postseason game.\n\nEight Sachems were selected for the North Shore All-Star game: Arthur Spinney (captain), Dick Allen, Don Reiniger, John Quinlan, Bob Thurell, Bruce Waybright, Frank Pyzsko and Bob Kane, who could not play because of an ankle injury. The yearbook describes Spinney as a unanimous All-Scholastic end.",
       "seasonSources": [
         {
           "label": "1945 yearbook · Class B championship",
