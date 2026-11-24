@@ -322,22 +322,25 @@
         {
           "label": "The Boston Globe · Nov. 25, 1914 · Thanksgiving Day Sports",
           "url": "documents/1914-needham-thanksgiving-schedule.webp"
+        },
+        {
+          "label": "Daily Evening Item · Oct. 29, 1914 · Ipswich box score, squad photo and torchlight parade"
         }
       ],
-      "seasonNote": "A contemporary newspaper column titled School Football Notes reported that Saugus High fielded a team in 1914 for the first time in several years. The report helps explain the gap in the surviving season records and announced an opening game at Swampscott High. On Oct. 21, Saugus lost 41–0 to Marblehead at Seaside Park. Marblehead halfback Cole scored four touchdowns. The Saugus lineup lists J. Flynn at center, C. Flynn at quarterback, Garofano at right halfback and Fox at fullback. On Nov. 9, Williams scored Saugus’s touchdown against Watertown. Saugus led 6–3 late in the fourth quarter when the referee blew the play dead during a long run by Watertown’s Kinchla, ruling that a player had moved before the snap. Watertown disputed the call and declined to continue. At Needham on Thanksgiving morning, Saugus lost 38–6. Michael Garofano scored Saugus’s touchdown, and the report describes both teams making frequent use of the forward pass.",
+      "seasonNote": "A contemporary newspaper column titled School Football Notes reported that Saugus High fielded a team in 1914 for the first time in several years. The report helps explain the gap in the surviving season records and announced an opening game at Swampscott High. On Oct. 21, Saugus lost 41–0 to Marblehead at Seaside Park. Marblehead halfback Cole scored four touchdowns. The Saugus lineup lists J. Flynn at center, C. Flynn at quarterback, Garofano at right halfback and Fox at fullback. On Nov. 9, Williams scored Saugus’s touchdown against Watertown. Saugus led 6–3 late in the fourth quarter when the referee blew the play dead during a long run by Watertown’s Kinchla, ruling that a player had moved before the snap. Watertown disputed the call and declined to continue. At Needham on Thanksgiving morning, Saugus lost 38–6. Michael Garofano scored Saugus’s touchdown, and the report describes both teams making frequent use of the forward pass.\n\nOn Oct. 28, Saugus beat Ipswich Manning High 14–0, with both touchdowns coming in the final period. George Sprague and Gordon Williams scored and Philip Hull kicked both extra points. The Oct. 29 Daily Evening Item called it Saugus High’s first win in six years and reported a torchlight parade. The team photo caption identifies Lupton Reddish as manager and says Carl Lundholm broke his collarbone against Marblehead. The Watertown report records that Watertown argued its player had been moving toward his own goal line, which it said was legal.",
       "scheduleNote": "Partial game log. The Watertown score reflects the last reported score when play stopped. The official disposition remains unverified.",
       "games": [
-        {
-          "date": "—",
-          "opponent": "Ipswich Manning High",
-          "result": "W 14–0",
-          "status": "Newspaper result"
-        },
         {
           "date": "Oct. 21",
           "opponent": "at Marblehead",
           "result": "L 0–41",
           "status": "Newspaper result"
+        },
+        {
+          "date": "Oct. 28",
+          "opponent": "Ipswich Manning High",
+          "result": "W 14–0",
+          "status": "Daily Evening Item · reported Oct. 29"
         },
         {
           "date": "Nov. 9",
@@ -404,13 +407,19 @@
           "date": "—",
           "opponent": "Ipswich Manning High",
           "result": "W 20–13",
-          "status": "Confirmed by Manning’s Nov. 26 season recap"
+          "status": "Contemporary box score and Manning’s Nov. 26 recap"
         },
         {
           "date": "—",
           "opponent": "Ipswich Manning High",
           "result": "W 24–0",
           "status": "Confirmed by Manning’s Nov. 26 season recap"
+        },
+        {
+          "date": "Saturday (date unverified)",
+          "opponent": "Saugus High alumni",
+          "result": "W 13–6",
+          "status": "Reported postseason school-versus-alumni game"
         }
       ],
       "scheduleNote": "Partial schedule. The dates of the two Manning High games are unknown. The Needham Thanksgiving preview gives no final score.",
@@ -446,10 +455,22 @@
         },
         {
           "label": "Contributed newspaper columns · Revere forfeit and proposed rematch, Greater Lynn challenge to Swampscott"
+        },
+        {
+          "label": "Daily Evening Item · Sept. 27, 1915, p. 6 · Revere forfeit"
+        },
+        {
+          "label": "Saugus 20, Ipswich 13 · contributed box score"
+        },
+        {
+          "label": "Saugus High Defeats Alumni Eleven, 13–6 · contributed game report"
+        },
+        {
+          "label": "Saugus High Football Team’s Framed Picture · contributed postseason retrospective"
         }
       ],
-      "recordNote": "The documented record is 6–1, counting the reported Revere forfeit as a Saugus win. Saugus won five of the six completed games with known results and lost the Nov. 6 rematch at Winchester. The Thanksgiving result at Needham remains unknown, so the season record is partial.",
-      "seasonNote": "On March 20, team manager Carl Lundholm announced a preseason schedule. It listed home dates against Revere (Sept. 25), Ipswich (Oct. 9), Winchester (Oct. 12), Swampscott (Oct. 18), the alumni (Oct. 22) and Dedham (Nov. 1), and trips to Lexington (Oct. 1), Winchester (Nov. 6) and Ipswich (Nov. 13). Thanksgiving (Nov. 25) was listed as an open home date in March. A Thanksgiving morning preview later listed Saugus at Needham. The March dates for Ipswich are tentative, and a contemporary box score documents the Dedham game on Oct. 20.\n\nCaptain Michael Garofano scored against Winchester on Oct. 12 and twice in the muddy win over Dedham. Smith also scored against Winchester, and Howe kicked the extra point. The box score lists Lundholm at right end. Fullback Fox and quarterback John Flynn scored in the 12–10 win over East Boston. The report singled out Flynn’s runs around the ends. The fourth quarter began after dusk, and East Boston had the ball at the Saugus 5-yard line when time ran out. Flynn also drew praise in the 18–0 loss at Winchester’s Manchester Field. A Dec. 9 report says an injury against Winchester kept him out of the last two games and confirms that he was elected captain for 1916.\n\nRevere scored a touchdown and kicked the extra point before a fight involving players and spectators stopped the Sept. 25 opener in the first quarter. Revere declined to continue. Later coverage reported a 1–0 forfeit in Saugus’s favor. A neutral-site rematch was discussed for Nov. 27, and Saugus challenged Swampscott to a Dec. 2 game for Greater Lynn honors. Swampscott planned to end its season on Thanksgiving. Neither proposed matchup has a documented result.\n\nThe six completed games with known scores account for 83 Saugus points and 54 allowed."
+      "recordNote": "The documented record is 6–1, counting the reported Revere forfeit as a Saugus win. Saugus won five of the six completed games with known results and lost the Nov. 6 rematch at Winchester. The Thanksgiving result at Needham remains unknown, so the season record is partial. A postseason newspaper retrospective reported a 7–1 finish. The 13–6 school-versus-alumni game is listed separately because the retrospective does not itemize its seven wins.",
+      "seasonNote": "On March 20, team manager Carl Lundholm announced a preseason schedule. It listed home dates against Revere (Sept. 25), Ipswich (Oct. 9), Winchester (Oct. 12), Swampscott (Oct. 18), the alumni (Oct. 22) and Dedham (Nov. 1), and trips to Lexington (Oct. 1), Winchester (Nov. 6) and Ipswich (Nov. 13). Thanksgiving (Nov. 25) was listed as an open home date in March. A Thanksgiving morning preview later listed Saugus at Needham. The March dates for Ipswich are tentative, and a contemporary box score documents the Dedham game on Oct. 20.\n\nCaptain Michael Garofano scored against Winchester on Oct. 12 and twice in the muddy win over Dedham. Smith also scored against Winchester, and Howe kicked the extra point. The box score lists Lundholm at right end. Fullback Fox and quarterback John Flynn scored in the 12–10 win over East Boston. The report singled out Flynn’s runs around the ends. The fourth quarter began after dusk, and East Boston had the ball at the Saugus 5-yard line when time ran out. Flynn also drew praise in the 18–0 loss at Winchester’s Manchester Field. A Dec. 9 report says an injury against Winchester kept him out of the last two games and confirms that he was elected captain for 1916.\n\nRevere scored a touchdown and kicked the extra point before a fight involving players and spectators stopped the Sept. 25 opener in the first quarter. Revere declined to continue. Later coverage reported a 1–0 forfeit in Saugus’s favor. A neutral-site rematch was discussed for Nov. 27, and Saugus challenged Swampscott to a Dec. 2 game for Greater Lynn honors. Swampscott planned to end its season on Thanksgiving. Neither proposed matchup has a documented result.\n\nThe six completed games with known scores account for 83 Saugus points and 54 allowed.\n\nThe Sept. 27 Daily Evening Item reported that officials awarded Saugus the Revere game 1–0 after Revere refused to continue. In the 20–13 win over Ipswich, Reddish, Garofano and Smith scored and Hull kicked two extra points. In the 13–6 game against the alumni at Stackpole’s Field, Garofano and Allen scored for the high school and Hull kicked an extra point. The alumni borrowed two high school substitutes to fill out their lineup. A postseason report said the school planned to hang an enlarged, framed team photo in its assembly hall and identified Flynn as the next captain."
     },
     {
       "year": 1916,
@@ -1031,9 +1052,20 @@
         {
           "label": "Newspaper clipping · team captain",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "Contributed two-part newspaper report · Amery, Thornton Academy and the 1923 roster setbacks"
         }
       ],
-      "seasonNote": "William Bangs took over as head coach. Captain Lester Pool and Edward “Googie” Amery were among his players."
+      "seasonNote": "William Bangs took over as head coach. Captain Lester Pool and Edward “Googie” Amery were among his players.\n\nA contemporary article reports that Edward “Googie” Amery played in the loss to Thornton Academy after working through an ankle injury from spring baseball and regaining academic eligibility. The paper reported that he was then diagnosed with diphtheria and expected him to miss the rest of the season. It also reported an eligibility issue because he had already played four years, including junior-high football before Saugus joined the state association. The article’s prediction about his future eligibility reflects what was reported at the time.\n\nBangs also lost veteran lineman Earl “Soup” Campbell to a broken collarbone in the first scrimmage. Willis “Horse” Dean, a candidate to succeed Franklin Pike in the backfield, broke his nose and later dislocated his shoulder. The report also named Downes and Popp among the players ruled academically ineligible.",
+      "games": [
+        {
+          "date": "Saturday (date unverified)",
+          "opponent": "Thornton Academy (Saco, Maine)",
+          "result": "Loss · score unavailable",
+          "status": "Contemporary report"
+        }
+      ]
     },
     {
       "year": 1924,
