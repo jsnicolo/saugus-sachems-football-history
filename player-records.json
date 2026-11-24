@@ -9150,19 +9150,19 @@
       "name": "John “Iron Mike” Harrington",
       "schoolClass": "So.",
       "values": {
-        "Total Touchdowns": 2,
-        "Points": 12
+        "Total Touchdowns": 6,
+        "Points": 36
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "Two touchdowns against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Cambridge Latin 1, Wakefield 1, Marblehead 2, Danvers 2."
         },
         "Points": {
           "partial": true,
-          "clipping": "1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "Two touchdowns against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Cambridge Latin 1, Wakefield 1, Marblehead 2, Danvers 2."
         }
       }
     },
@@ -9172,19 +9172,19 @@
       "name": "Edward “Eddie” Shipulski",
       "schoolClass": "So.",
       "values": {
-        "Total Touchdowns": 3,
-        "Points": 18
+        "Total Touchdowns": 5,
+        "Points": 30
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "1940 Tontoquonian and 1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "Two touchdowns against Gloucester and one against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Gloucester 2, Swampscott 1, Marblehead 1, Danvers 1 per newspaper."
         },
         "Points": {
           "partial": true,
-          "clipping": "1940 Tontoquonian and 1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "Two touchdowns against Gloucester and one against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Gloucester 2, Swampscott 1, Marblehead 1, Danvers 1 per newspaper."
         }
       }
     },
@@ -9216,19 +9216,19 @@
       "name": "Pratt",
       "schoolClass": "",
       "values": {
-        "Total Touchdowns": 1,
-        "Points": 6
+        "Total Touchdowns": 4,
+        "Points": 24
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
-          "clipping": "1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "One touchdown against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Amesbury, Woburn, Gloucester and Danvers (newspaper)."
         },
         "Points": {
           "partial": true,
-          "clipping": "1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "One touchdown against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Amesbury, Woburn, Gloucester and Danvers (newspaper)."
         }
       }
     },
@@ -9260,19 +9260,19 @@
       "name": "Joseph Bucchiere",
       "schoolClass": "Sr.",
       "values": {
-        "Extra Points": 2,
+        "Extra Points": 5,
         "Field Goals": 1
       },
       "statSources": {
         "Extra Points": {
           "partial": true,
-          "clipping": "1939 Thanksgiving newspaper box score, Saugus 38–6 Danvers",
-          "note": "Two extra points against Danvers."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Three Amesbury and two Danvers conversions; Salem field goal."
         },
         "Field Goals": {
           "partial": true,
-          "clipping": "1940 Tontoquonian, Salem game account",
-          "note": "Decisive field goal in the 3–0 win over Salem."
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Three Amesbury and two Danvers conversions; Salem field goal."
         }
       }
     },
@@ -25380,6 +25380,450 @@
           "partial": true,
           "clipping": "1929 Tontoquonian · 1928 football review (contributor scans)",
           "note": "Thanksgiving reception from Kidder gained over 60 yards; 61 is the minimum integer, not an exact distance."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Bob Burns",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 9,
+        "Points": 55
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose 1, Woburn 2, Newburyport 3, Gloucester kickoff return 1, Plymouth 2 and rushing conversion."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose 1, Woburn 2, Newburyport 3, Gloucester kickoff return 1, Plymouth 2 and rushing conversion."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Bob Burns",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 5,
+        "Rushing Yards": 150
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Three Newburyport runs from midfield or farther; two Plymouth short rushing touchdowns."
+        },
+        "Rushing Yards": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Three Newburyport runs from midfield or farther; two Plymouth short rushing touchdowns."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Bob Burns",
+      "category": "Returns",
+      "schoolClass": "",
+      "values": {
+        "Kickoff Return Yards": 80,
+        "Kickoff Return Touchdowns": 1
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Gloucester kickoff return."
+        },
+        "Kickoff Return Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Gloucester kickoff return."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose interception return."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose interception return."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Returns",
+      "schoolClass": "",
+      "values": {
+        "Kickoff Return Yards": 78
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Interceptions": 1,
+        "Interception Return TDs": 1,
+        "Interception Return Yards": 24,
+        "Defensive Touchdowns": 1
+      },
+      "statSources": {
+        "Interceptions": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose game-winning interception return."
+        },
+        "Interception Return TDs": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose game-winning interception return."
+        },
+        "Interception Return Yards": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose game-winning interception return."
+        },
+        "Defensive Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Melrose game-winning interception return."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Ray Mansfield",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Fumble Recoveries": 2
+      },
+      "statSources": {
+        "Fumble Recoveries": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Woburn."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Earl Hanson",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Gloucester."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Earl Hanson",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 0,
+        "Points": 1
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Gloucester conversion."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Gloucester conversion."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Popp",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 3,
+        "Points": 18
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Woburn, Newburyport receiving TD, Swampscott rushing TD."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Woburn, Newburyport receiving TD, Swampscott rushing TD."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Popp",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Newburyport."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Newburyport."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Popp",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Swampscott."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Demaso",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Woburn and Danvers."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Woburn and Danvers."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Demaso",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 1,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Newburyport pass to Popp."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Newburyport pass to Popp."
+        }
+      }
+    },
+    {
+      "year": 1938,
+      "name": "Hooper",
+      "category": "Returns",
+      "schoolClass": "",
+      "values": {
+        "Kickoff Return Yards": 15
+      },
+      "statSources": {
+        "Kickoff Return Yards": {
+          "partial": true,
+          "clipping": "1939 Tontoquonian football review; contributed scans",
+          "note": "Newburyport."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "John “Iron Mike” Harrington",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Passing Touchdowns": 1,
+        "Completions": 1
+      },
+      "statSources": {
+        "Passing Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Danvers pass to Allen."
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Danvers pass to Allen."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "Fred Walkey",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 7,
+        "Points": 42
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Cambridge Latin, Melrose, Amesbury, Wakefield, Swampscott twice, Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Cambridge Latin, Melrose, Amesbury, Wakefield, Swampscott twice, Marblehead."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "Ray Mansfield",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 2,
+        "Points": 12
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Gloucester and Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Gloucester and Marblehead."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "Sandy Vatcher",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Marblehead."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Marblehead."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "Allen",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receiving Touchdowns": 1,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Danvers pass from Harrington."
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Danvers pass from Harrington."
+        }
+      }
+    },
+    {
+      "year": 1939,
+      "name": "Joseph Bucchiere",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 0,
+        "Points": 8
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Five documented conversions and Salem field goal."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1940 Tontoquonian football review; contributed scans; Thanksgiving newspaper box score where applicable",
+          "note": "Five documented conversions and Salem field goal."
         }
       }
     }
