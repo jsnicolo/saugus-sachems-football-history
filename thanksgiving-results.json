@@ -318,9 +318,15 @@
     "opponent": "Wakefield",
     "result": "W 26–0",
     "status": "Source supported",
-    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory.",
+    "note": "Yearbook account explicitly describes Thanksgiving/Turkey Day game; text checked via source OCR inventory. Walsh’s retrospective describes the separate postseason loss to Peabody; it does not describe the Wakefield Thanksgiving game.",
     "sourceFile": "IMG_2766.jpg",
-    "sourceUrl": ""
+    "sourceUrl": "",
+    "sources": [
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1945,
@@ -376,6 +382,10 @@
       {
         "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
         "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
       }
     ]
   },
@@ -395,16 +405,36 @@
     "status": "Contemporary game report",
     "note": "Nov. 24 at Stackpole Field before a reported 7,500. Richie Nicolo threw two touchdown passes to Charlie Woodell, and Sardi Nicolo ran for two scores. The 1950 Tontoquonian and the 1995 Daily Evening Item series table also record the 26–6 win.",
     "sourceFile": "Nov. 24 game report · Nicolo Brothers Pace Saugus to Ninth Win",
-    "sourceUrl": "sources/1949-peabody.webp"
+    "sourceUrl": "sources/1949-peabody.webp",
+    "sources": [
+      {
+        "label": "Nov. 24 game report · Nicolo Brothers Pace Saugus to Ninth Win",
+        "url": "sources/1949-peabody.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1950,
     "opponent": "Peabody",
     "result": "W 47–14",
     "status": "Contemporary newspaper box score",
-    "note": "The Boston Globe game report accounts for both Peabody touchdowns and two made extra points. The Daily Evening Item’s 1995 historical table also gives 47–14. The 1951 yearbook gives 47–12 in the narrative and 47–0 in its schedule table.",
+    "note": "The Boston Globe game report accounts for both Peabody touchdowns and two made extra points. The Daily Evening Item’s 1995 historical table also gives 47–14. The 1951 yearbook gives 47–12 in the narrative and 47–0 in its schedule table. Bob Walsh’s 1978 cartoon prints 47–13.",
     "sourceFile": "Boston Globe · Nov. 23 Thanksgiving game report and box score",
-    "sourceUrl": "sources/1950-peabody.webp"
+    "sourceUrl": "sources/1950-peabody.webp",
+    "sources": [
+      {
+        "label": "Boston Globe · Nov. 23 Thanksgiving game report and box score",
+        "url": "sources/1950-peabody.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1951,
@@ -431,7 +461,17 @@
     "status": "Contemporary game report",
     "note": "Nov. 26 at Leo Buckley Stadium. Saugus clinched the North Shore League title.",
     "sourceFile": "Contemporary Thanksgiving game report · Saugus Scores 33–6 Triumph",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp",
+    "sources": [
+      {
+        "label": "Contemporary Thanksgiving game report · Saugus Scores 33–6 Triumph",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1953-peabody-thanksgiving.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1954,
@@ -486,7 +526,17 @@
     "note": "Saugus won before about 8,500 fans at Stackpole Field and ended Peabody’s Class A title bid. Dave Mathews threw a touchdown pass to Frank Bucchiere and ran for two points. Dick Burt added a one-yard touchdown in the fourth quarter.",
     "sourceFile": "Boston Globe · Nov. 26 game report",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp",
-    "date": "1959-11-26"
+    "date": "1959-11-26",
+    "sources": [
+      {
+        "label": "Boston Globe · Nov. 26 game report",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1959-boston-globe-saugus-peabody-thanksgiving.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1960,
@@ -540,7 +590,17 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1966,
@@ -549,7 +609,17 @@
     "status": "Contemporary game report and score roundup",
     "note": "On Nov. 24 at Leo Buckley Stadium, Mike Kimball scored on runs of one and 45 yards. Jim Paolini returned the second-half kickoff 80 yards for a touchdown. Saugus finished 7–2.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1967,
@@ -567,7 +637,17 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1969,
@@ -576,7 +656,17 @@
     "status": "Confirmed by contemporary game report",
     "note": "Nov. 27, 1969 at Stackpole Field. Peter Gammons’s Boston Globe game report confirms the 30–6 score, a reported crowd of 10,500 and Peabody’s Class A title. Bob Osgood scored Saugus’s touchdown on a five-yard scramble.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1970,
@@ -585,7 +675,17 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1971,
@@ -603,7 +703,17 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1973,
@@ -612,7 +722,17 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1974,
@@ -621,16 +741,40 @@
     "status": "Contemporary newspaper scoring summary",
     "note": "Saugus led 20–7 at halftime after a Steve Desloges rushing touchdown, Mike Burt’s touchdown passes to Jim Wiswall and Frank Scuzzarella, and John Nicolo’s two-point run. Peabody scored twice in the fourth quarter and won 21–20 on Peter Kitsakos’ two-point run.",
     "sourceFile": "Contemporary newspaper scoring summary · IMG_3833.jpeg",
-    "sourceUrl": "sources/1974-peabody-scoring.webp"
+    "sourceUrl": "sources/1974-peabody-scoring.webp",
+    "sources": [
+      {
+        "label": "Contemporary newspaper scoring summary · IMG_3833.jpeg",
+        "url": "sources/1974-peabody-scoring.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1975,
     "opponent": "Peabody",
     "result": "W 6–0",
     "status": "Contemporary newspaper game recap",
-    "note": "John Nicolo returned a blocked second-quarter field goal 80 yards for the only touchdown of Saugus’ 6–0 Thanksgiving win on Nov. 27, 1975. The contemporary recap credits Doug Mackie with the block. The archive’s earlier caption credited Steve Gannon. Saugus finished 9–1 and shared the NEC title with Salem.",
+    "note": "John Nicolo’s second-quarter return of a blocked field goal gave Saugus a 6–0 win on November 27. Bill Abramson’s Item game report credits Steve Gannon with the block and gives the return as 82 yards. Another contemporary recap credits Doug Mackie and gives 80 yards, while Bob Walsh’s later retrospective gives 85. Saugus finished 9–1 and shared the NEC title with Salem.",
     "sourceFile": "Contemporary newspaper game recap · IMG_3817.jpeg",
-    "sourceUrl": "sources/1975-peabody-roundup.webp"
+    "sourceUrl": "sources/1975-peabody-roundup.webp",
+    "sources": [
+      {
+        "label": "Contemporary newspaper game recap · IMG_3817.jpeg",
+        "url": "sources/1975-peabody-roundup.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      },
+      {
+        "label": "Daily Evening Item · Nov. 28, 1975 · Bill Abramson’s 6–0 Thanksgiving game report",
+        "url": "photos/1975-item-saugus-wins-on-blocked-kick.webp"
+      }
+    ]
   },
   {
     "year": 1976,
@@ -639,14 +783,24 @@
     "status": "Historical table, visually checked",
     "note": "1995 newspaper historical series table; individual game date not independently checked.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
+    "sources": [
+      {
+        "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
+        "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      }
+    ]
   },
   {
     "year": 1977,
     "opponent": "Peabody",
     "result": "W 12–10",
     "status": "Contemporary game report",
-    "note": "November 24, 1977. George Nicolo threw the winning 28-yard touchdown pass to Frank Serino in the fourth quarter. The victory reversed the previous Thanksgiving’s 62–6 loss and closed Saugus’s 9–1 championship season. Also confirmed by the Boston Evening Globe roundup (Nov. 25, 1977, p. 44) and the 1978 Tontoquonian (p. 165).",
+    "note": "November 24, 1977. George Nicolo threw the winning 28-yard touchdown pass to Frank Serino in the fourth quarter. The victory reversed the previous Thanksgiving’s 62–6 loss and closed Saugus’s 9–1 championship season. Also confirmed by the Boston Evening Globe roundup (Nov. 25, 1977, p. 44) and the 1978 Tontoquonian (p. 165). Ted Grant’s photo caption gives 28 yards; Tom Dalton’s game report gives 27.",
     "sourceFile": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp",
     "sources": [
@@ -657,6 +811,18 @@
       {
         "label": "Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
         "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_4048.webp"
+      },
+      {
+        "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
+        "url": "photos/gallery-2849.webp"
+      },
+      {
+        "label": "Ted Grant · 1977 Thanksgiving column and Frank Serino’s winning catch",
+        "url": "photos/1977-item-saugus-best-uninvited-team.webp"
+      },
+      {
+        "label": "Tom Dalton · 1977 Thanksgiving game report · Saugus 12, Peabody 10",
+        "url": "photos/1977-item-sachems-win-peabody.webp"
       }
     ]
   },

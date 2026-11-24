@@ -3774,10 +3774,11 @@
     "file": "photos/gallery-2849.webp",
     "thumb": "photos/thumb-gallery-2849.webp",
     "title": "Down through those Saugus–Peabody years",
-    "caption": "An illustrated retrospective recalls memorable games, upsets and players in the Thanksgiving rivalry.",
-    "year": 1975,
+    "caption": "Bob Walsh’s pre-Thanksgiving illustration looks back at the Saugus–Peabody rivalry through 1977, with memorable games, players and upsets.",
+    "year": 1978,
     "original": "IMG_2849(2).jpeg",
-    "category": "Illustrations"
+    "category": "Illustrations",
+    "dateSource": "The retrospective previews the 1978 Thanksgiving game."
   },
   {
     "file": "photos/1975-doug-mackie-parade-all-america.webp",
@@ -6640,10 +6641,40 @@
     "file": "photos/2002-thanksgiving-preview-palumbo-nicolo.webp",
     "thumb": "photos/thumb-2002-thanksgiving-preview-palumbo-nicolo.webp",
     "title": "2002 Thanksgiving preview · Max Palumbo and Sal Nicolo",
-    "caption": "Senior linebackers Max Palumbo (66) and Sal Nicolo (33) tackle a Marblehead running back in Saugus’s win. Staff photo by Robert Branch. Restored from the original newspaper clipping.",
+    "caption": "Senior linebackers Max Palumbo (66) and Sal Nicolo (33) tackle a Beverly running back. The original newspaper caption misidentifies the opponent. Staff photo by Robert Branch. Restored from the original clipping.",
     "year": 2002,
     "original": "0F1C5229-8A74-4A4E-BA1C-54F4E553CCD4.jpeg",
     "category": "Clippings",
     "dateSource": "2002 is printed in the Thanksgiving preview."
+  },
+  {
+    "file": "photos/1975-item-saugus-wins-on-blocked-kick.webp",
+    "thumb": "photos/thumb-1975-item-saugus-wins-on-blocked-kick.webp",
+    "title": "Saugus wins on blocked kick, 6–0",
+    "caption": "Bill Abramson reports on the Thanksgiving Mud Bowl win over Peabody and John Nicolo’s decisive return after Steve Gannon blocked a field goal.",
+    "year": 1975,
+    "original": "6D874CA6-2725-4EF4-B616-F818A9401CD7.jpeg",
+    "category": "Clippings",
+    "dateSource": "Daily Evening Item, Nov. 28, 1975, printed on the page."
+  },
+  {
+    "file": "photos/1977-item-saugus-best-uninvited-team.webp",
+    "thumb": "photos/thumb-1977-item-saugus-best-uninvited-team.webp",
+    "title": "Was Saugus the best ‘uninvited’ team?",
+    "caption": "Ted Grant reflects on Saugus finishing just outside the Division II Super Bowl. The photo shows Frank Serino catching George Nicolo’s game-winning pass against Peabody.",
+    "year": 1977,
+    "original": "5B6BDC7E-3C27-4EC2-BD57-2EDCF462CACF.jpeg",
+    "category": "Clippings",
+    "dateSource": "The article describes the 12–10 Thanksgiving game and 1977 Division II finalists."
+  },
+  {
+    "file": "photos/1977-item-sachems-win-peabody.webp",
+    "thumb": "photos/thumb-1977-item-sachems-win-peabody.webp",
+    "title": "Sachems win · Saugus 12, Peabody 10",
+    "caption": "Tom Dalton recounts the Thanksgiving win at Stackpole Field, including Frank Serino’s winning catch and his late fourth-down stop.",
+    "year": 1977,
+    "original": "329AA939-4030-4C39-AFF7-EB73B5B30032.jpeg",
+    "category": "Clippings",
+    "dateSource": "The game and score match Thanksgiving 1977."
   }
 ]
