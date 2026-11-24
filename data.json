@@ -1333,7 +1333,7 @@
       "record": "0 - 9",
       "league": "North Shore League",
       "title": null,
-      "players": "Reginald “Reggie” Goss (Captain), Gilman Cann, John Leahy, Carroll Freeman, Red Hunnewell, Stuart Kidder, Jim Foley",
+      "players": "Reginald “Reggie” Goss (Captain), Gilman Cann, Carroll Freeman, Red Hunnewell, Stuart Kidder, Jim Foley, Ernie Castle, Laurie Templeman, Bill MacKay, Eddie Newbury, Jim Muzzey, Mike Gifford, Roveto, Walsh",
       "awards": null,
       "nickname": "Warriors",
       "sourceRow": 21,
@@ -1349,9 +1349,13 @@
         {
           "label": "Contributed newspaper clipping · “Saugus Cards Nine Games on Grid This Fall” · 1928 preseason schedule",
           "url": "research/pre-golden-era-clipping-index.md"
+        },
+        {
+          "label": "1929 Tontoquonian · 1928 football season review, two pages (contributor scans, source only)",
+          "url": "https://archive.org/details/tontoquonian1929saug"
         }
       ],
-      "seasonNote": "Fred Beresford returned as coach for one season. The yearbook review highlights captain Reggie Goss, Gilman Cann, Carroll Freeman, Red Hunnewell, Stuart Kidder and Jim Foley. Kidder connected with Goss for a long pass in the Thanksgiving loss to Mission High.",
+      "seasonNote": "Fred Beresford returned as coach for one season. Forty-five candidates reported, but only two varsity veterans remained: captain Reginald Goss and Gilman Cann. The young squad's oldest player was 17, and speedy Laurie Templeman was only 15. Goss began at quarterback before moving to left end and handled the punting; Cann was praised for his tackling at right end. Carroll Freeman earned the left tackle position and Red Hunnewell played guard. Stuart Kidder won the fullback job and led the team in yardage. Jim Foley, who had only one arm, was praised for his passing, tackling and determination. On Thanksgiving at muddy Stackpole Field, Saugus drove from its own 20 to Mission's 20 in seven downs before losing a fumble. Mission scored through the air and won 6–0. Kidder's long completion to Goss gained more than 60 yards; the yearbook praised Kidder, Kelley and Foley in the backfield and Freeman, Hunnewell and Goss on the line. The game drew the largest crowd of the season. The yearbook lists the first-string lineup as LE Goss, LT Freeman, LG Castle, C MacKay, RG Hunnewell, RT Newbury, RE Muzzey, QB Roveto and Foley, RHB Gifford, LHB Walsh, FB Kidder. Ernie Castle was identified as the next captain.",
       "games": [
         {
           "date": "Oct. 6",
