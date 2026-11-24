@@ -1916,9 +1916,12 @@
         {
           "label": "Boston Globe · 1937 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1937-globe-thanksgiving-preview.webp"
+        },
+        {
+          "label": "Contributed newspaper clipping · Northbridge plans to watch Buzz Harvey’s Saugus team"
         }
       ],
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Marblehead 13–6; Barnstable 32–0; Gloucester 13–7; Amesbury 13–0; Woburn 13–0; Newburyport 0–7; St. John's (Danvers) 21–0; Swampscott 0–19; Plymouth 33–7. Thanksgiving opponent: Danvers (listed as Holton in the clipping). The preview does not give the Thanksgiving final score.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 144 points and allowed 52.",
+      "seasonNote": "Before the Marblehead game, a newspaper reported that Northbridge coach Smith planned an early practice so his players could travel to Saugus to watch Buzz Harvey’s first Sachems team. Harvey had coached Northbridge to a title the previous fall. Saugus beat Marblehead 13–6.\n\nBoston Globe Thanksgiving preview: season-to-date results (Saugus score first): Marblehead 13–6; Barnstable 32–0; Gloucester 13–7; Amesbury 13–0; Woburn 13–0; Newburyport 0–7; St. John's (Danvers) 21–0; Swampscott 0–19; Plymouth 33–7. Thanksgiving opponent: Danvers (listed as Holton in the clipping). The preview does not give the Thanksgiving final score.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 144 points and allowed 52.",
       "games": [
         {
           "date": "—",
@@ -2516,18 +2519,25 @@
         {
           "label": "Ernest Dalton · Class B promotion and first 1942 ratings",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-saugus-class-b-promotion.webp"
+        },
+        {
+          "label": "Contributed newspaper schedule · September results and announced fall dates"
+        },
+        {
+          "label": "Town of Saugus 1942 annual report · team results and Class B promotion",
+          "url": "https://ldsgenealogy.com/MA/books/Town-annual-report-of-Saugus-1942-part-12.htm"
         }
       ],
       "games": [
         {
-          "date": "—",
+          "date": "1942-09-12",
           "opponent": "Chelsea",
           "result": "W 7–0",
           "status": "Played",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-09-19",
           "opponent": "Leominster",
           "result": "L 6–19",
           "status": "Played",
@@ -2541,31 +2551,31 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-10-03",
           "opponent": "Gloucester",
           "result": "W 20–0",
-          "status": "Played",
+          "status": "Played · date from announced schedule",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-09-26",
           "opponent": "Beverly",
           "result": "W 20–6",
-          "status": "Played",
+          "status": "Played · date from announced schedule",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-10-10",
           "opponent": "Amesbury",
           "result": "W 6–0",
-          "status": "Played",
+          "status": "Played · date from announced schedule",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-10-17",
           "opponent": "Melrose",
           "result": "L 0–6",
-          "status": "Played",
+          "status": "Played · date from announced schedule",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
@@ -2583,10 +2593,10 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1942-11-14",
           "opponent": "Marblehead",
           "result": "L 0–13",
-          "status": "Played",
+          "status": "Played · date from announced schedule",
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-globe-thanksgiving-preview.webp"
         },
         {
@@ -2597,8 +2607,8 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1942-boston-globe-wakefield-win.webp"
         }
       ],
-      "seasonNote": "Co-captains Doo Pendlebury and Lennie Flaherty led Toczylowski’s second Saugus team to 7–3–1. The Sachems shut out five opponents and edged Revere 13–12. At Wakefield’s Walton Field on Thanksgiving, Ed Godett found Russ Babcock for a third-quarter touchdown and Bob Connell kicked the extra point. That was the only scoring in the 7–0 win, played before about 2,000 fans.\n\nAfter winning the 1941 Class C title, Saugus moved up to Class B. Ernest Dalton cited its five-year 36–10–5 record, including 19–3–3 against Class B opponents. Saugus placed fifth of 18 schools in the first 1942 Class B ratings.\n\nSeason scoring totals (from the 11 listed games): Saugus scored 105 points and allowed 62.",
-      "scheduleNote": "The ten pre-Thanksgiving results are transcribed from the Boston Globe preview in printed order; individual dates are not shown. The separately documented Thanksgiving win completes the 7–3–1 record."
+      "seasonNote": "Co-captains Doo Pendlebury and Lennie Flaherty led Toczylowski’s second Saugus team to 7–3–1. The Sachems shut out five opponents and edged Revere 13–12. At Wakefield’s Walton Field on Thanksgiving, Ed Godett found Russ Babcock for a third-quarter touchdown and Bob Connell kicked the extra point. That was the only scoring in the 7–0 win, played before about 2,000 fans.\n\nAfter winning the 1941 Class C title, Saugus moved up to Class B. Ernest Dalton cited its five-year 36–10–5 record, including 19–3–3 against Class B opponents. Saugus placed fifth of 18 schools in the first 1942 Class B ratings. The town’s annual report confirms the midseason promotion, the 7–3–1 finish and that Toczylowski and Reardon handled football. It singled out the 13–12 Revere win as the season’s outstanding game.\n\nSeason scoring totals (from the 11 listed games): Saugus scored 105 points and allowed 62.",
+      "scheduleNote": "The early schedule reports completed games on September 12 (Chelsea) and September 19 (Leominster). It announced Beverly for September 26, at Gloucester October 3, at Amesbury October 10, Melrose October 17, Woburn November 3, and at Marblehead November 14, with October 24 and November 21 open at the time of publication. The Woburn date remains provisional because the Thanksgiving preview lists that result earlier in its sequence. The early schedule gives Leominster’s winning score as 18, while the Thanksgiving preview gives 19. The game table uses the Thanksgiving preview’s score, and both sources record six points for Saugus. The November 26 Wakefield result is independently documented."
     },
     {
       "year": 1943,
@@ -2630,9 +2640,15 @@
         {
           "label": "Tontoquonian yearbook · 1943 co-captains",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/zip-IMG_1247.webp"
+        },
+        {
+          "label": "Contributed September 18 Woburn game report and box score"
+        },
+        {
+          "label": "Ernest Dalton · Saugus at Beverly preview and the coaching change"
         }
       ],
-      "seasonNote": "Dave Lucey’s first Saugus team opened with three shutout wins and finished 5–4–1. Co-captain Doug Waybright scored three touchdowns in a 32–7 win over Newburyport after the Sachems led 20–0 at halftime. Saugus edged Marblehead 7–6 and played Wakefield to a scoreless Thanksgiving tie.\n\nWaybright (back) and fellow co-captain James MacDougal (end) made the Essex County All-Star roster for the December game scheduled at Manning Bowl. The Globe reported that the selections reflected voting by 225 first-string players.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 86 points and allowed 54.",
+      "seasonNote": "Dave Lucey’s first Saugus team opened with three shutout wins and finished 5–4–1. Co-captain Doug Waybright scored three touchdowns in a 32–7 win over Newburyport after the Sachems led 20–0 at halftime. Saugus edged Marblehead 7–6 and played Wakefield to a scoreless Thanksgiving tie.\n\nOn September 18 at Woburn, right halfback Pysko helped lead Saugus to a 20–0 win. Kane, Pysko and O’Neil scored touchdowns, and quarterback Sharp kicked two extra points. Ernest Dalton’s Beverly preview noted that Henry Toczylowski had still been running Saugus spring drills in May before taking over at Beverly. Dave Lucey, who had coached Waltham St. Mary’s and backed up Toczylowski at Boston College, faced his predecessor with Saugus already 2–0.\n\nWaybright (back) and fellow co-captain James MacDougal (end) made the Essex County All-Star roster for the December game scheduled at Manning Bowl. The Globe reported that the selections reflected voting by 225 first-string players.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 86 points and allowed 54.",
       "games": [
         {
           "date": "—",
@@ -2642,7 +2658,7 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2590.webp"
         },
         {
-          "date": "—",
+          "date": "1943-09-18",
           "opponent": "Woburn",
           "result": "W 20–0",
           "status": "Played",
@@ -3551,7 +3567,7 @@
         }
       ],
       "championshipStatus": "supported",
-      "seasonNote": "John Janusas’s Sachems finished 8–2 and repeated as Exchange Bowl champions. They were 7–2 before the bowl and won their final seven games played. The North Shore season included one forfeit loss and one rain cancellation. Using contemporary game reports for Salem and Thanksgiving, Saugus scored 269 points and allowed 75, including the bowl and the 0–6 Beverly forfeit. Co-captains Leo Kane and Ted Frederick led a lineup that featured quarterback Richie Nicolo, halfback Jim Driscoll and end Charlie Woodell.\n\nSeptember 16 · Brookline, W 25–6. With Nicolo recovering from an appendectomy, Driscoll shifted to quarterback. Art Jolly finished the opening 48-yard drive. Driscoll threw two touchdowns to Woodell and completed a 17-yard pass to DeRosa before Frederick scored from the six. Dick Rumson recovered a fumble to set up Woodell’s second touchdown. Kane kicked the final extra point.\n\nSeptember 23 · Beverly, L 0–6 by forfeit. Beverly led 6–0 at Manning Bowl when Janusas disputed a completed pass with about three minutes left in the second quarter. Officials penalized Saugus, Janusas withdrew his team, and fighting involving players and spectators stopped play. The referee awarded the game to Beverly, and the District One headmasters’ committee later upheld the decision.\n\nSeptember 30 · Lynn Classical, L 6–7. Frederick scored after a 68-yard Saugus drive. An offside penalty erased Kane’s successful conversion, and Classical stopped the retry. A Saugus fumble near its own goal set up Classical’s touchdown and Joe Cottagio’s deciding extra point.\n\nOctober 7 · Marblehead, W 14–6. Nicolo completed seven of eight passes. Woodell caught touchdown passes of 48 and 7 yards and added a 54-yard reception to set up the second score. Kane converted twice. Ed McIntire intercepted a pass after an early Saugus fumble, and Driscoll helped stop a Marblehead drive near the goal line.\n\nOctober 14 · Chelsea, W 41–6. The yearbook credits Nicolo with touchdown runs of 21 and 11 yards and a scoring pass to Woodell. Tony Serino scored on runs of 30 and 3 yards, and Kane returned a blocked kick 33 yards for a touchdown.\n\nOctober 20 · Lynn English, W 39–0. Driscoll scored from 60, 44 and 22 yards. Center Jim Marano returned an interception 27 yards for a touchdown, Charlie Murphy recovered a fumble that set up Nicolo’s one-yard score, and Kane blocked and returned a kick 10 yards for a touchdown.\n\nOctober 28 · Revere, W 26–12. Saugus answered an early 12–6 deficit with two touchdown runs by Driscoll, a Nicolo sneak, and two successful conversions. Serino scored the opening touchdown. Saugus had 14 first downs and held Revere without one, with Revere losing two net yards in the second half. Nicolo and Woodell connected twice for reported gains of 17 and 31 yards.\n\nNovember 4 · Swampscott, canceled. Rain washed out the game, and it was never made up.\n\nNovember 11 · Salem, W 41–6. Woodell scored four times, with the yearbook identifying three of those scores as Nicolo passes. Driscoll and Jolly scored the other Saugus touchdowns and Kane kicked five extra points. The Globe’s game report and the yearbook narrative agree on 41–6. The yearbook’s schedule table prints 46–7.\n\nNovember 23 · Peabody, W 47–14 at Stackpole Field. Saugus scored 27 first-quarter points and led 41–0 at halftime. Woodell scored twice. Driscoll, Jolly, Nicolo, Jack White and Charles Horman scored once each, and Kane made five of seven placements. The Globe’s same-day game account identifies both Peabody touchdowns and both extra points. The yearbook narrative gives 47–12 and its schedule table prints 47–0.\n\nDecember 2 · Brockton, W 30–12 in the Exchange Bowl. Nicolo’s 23-yard completion to Woodell set up his own five-yard touchdown. After Brockton took a 12–7 lead, Nicolo found Woodell for a 38-yard score and then returned an interception 60 yards for a touchdown. His 21-yard pass to Frederick finished the scoring for Saugus, and Kane converted after all four touchdowns. Charlie Murphy and Kane helped hold Brockton to 36 rushing yards. Saugus added a late safety when Brockton recovered its blocked punt in its own end zone.\n\nHonors and statistics. Nicolo and Driscoll made the Lynn Item All-Scholastic team. Both received Boston Globe honorable mention, along with Woodell, Kane and Murphy. Nicolo was named Exchange Bowl MVP and sat out the following day’s North Shore–Suburban All-Star game with a knee injury. Woodell led Saugus with 12 touchdowns, and Driscoll and Nicolo scored seven each. The scoring accounts identify all 40 Saugus touchdowns. Individual yardage, defensive plays and some conversion attributions are available only in part.",
+      "seasonNote": "John Janusas’s Sachems finished 8–2 and repeated as Exchange Bowl champions. They were 7–2 before the bowl and won their final seven games played. The North Shore season included one forfeit loss and one rain cancellation. Using contemporary game reports for Salem and Thanksgiving, Saugus scored 269 points and allowed 75, including the bowl and the 0–6 Beverly forfeit. Co-captains Leo Kane and Ted Frederick led a lineup that featured quarterback Richie Nicolo, halfback Jim Driscoll and end Charlie Woodell.\n\nSeptember 16 · Brookline, W 25–6. With Nicolo recovering from an appendectomy, Driscoll shifted to quarterback. Art Jolly finished the opening 48-yard drive. Driscoll threw two touchdowns to Woodell and completed a 17-yard pass to DeRosa before Frederick scored from the six. Dick Rumson recovered a fumble to set up Woodell’s second touchdown. Kane kicked the final extra point. In Gene Mack Jr.’s follow-up, Janusas praised Driscoll’s work at quarterback and noted that all-scholastic end Ted Frederick volunteered to play halfback with Jack White injured. Janusas expected Nicolo to return for the Lynn Classical game after Beverly.\n\nSeptember 23 · Beverly, L 0–6 by forfeit. Beverly led 6–0 at Manning Bowl when Janusas disputed a completed pass with about three minutes left in the second quarter. Officials penalized Saugus, Janusas withdrew his team, and fighting involving players and spectators stopped play. The referee awarded the game to Beverly, and the District One headmasters’ committee later upheld the decision.\n\nSeptember 30 · Lynn Classical, L 6–7. Frederick scored after a 68-yard Saugus drive. An offside penalty erased Kane’s successful conversion, and Classical stopped the retry. A Saugus fumble near its own goal set up Classical’s touchdown and Joe Cottagio’s deciding extra point.\n\nOctober 7 · Marblehead, W 14–6. Nicolo completed seven of eight passes. Woodell caught touchdown passes of 48 and 7 yards and added a 54-yard reception to set up the second score. Kane converted twice. Ed McIntire intercepted a pass after an early Saugus fumble, and Driscoll helped stop a Marblehead drive near the goal line.\n\nOctober 14 · Chelsea, W 41–6. The yearbook credits Nicolo with touchdown runs of 21 and 11 yards and a scoring pass to Woodell. Tony Serino scored on runs of 30 and 3 yards, and Kane returned a blocked kick 33 yards for a touchdown.\n\nOctober 20 · Lynn English, W 39–0. Driscoll scored from 60, 44 and 22 yards. Center Jim Marano returned an interception 27 yards for a touchdown, Charlie Murphy recovered a fumble that set up Nicolo’s one-yard score, and Kane blocked and returned a kick 10 yards for a touchdown.\n\nOctober 28 · Revere, W 26–12. Saugus answered an early 12–6 deficit with two touchdown runs by Driscoll, a Nicolo sneak, and two successful conversions. Serino scored the opening touchdown. Saugus had 14 first downs and held Revere without one, with Revere losing two net yards in the second half. Nicolo and Woodell connected twice for reported gains of 17 and 31 yards.\n\nNovember 4 · Swampscott, canceled. Rain washed out the game, and it was never made up.\n\nNovember 11 · Salem, W 41–6. Woodell scored four times, with the yearbook identifying three of those scores as Nicolo passes. Driscoll and Jolly scored the other Saugus touchdowns and Kane kicked five extra points. The Globe’s game report and the yearbook narrative agree on 41–6. The yearbook’s schedule table prints 46–7.\n\nNovember 23 · Peabody, W 47–14 at Stackpole Field. Saugus scored 27 first-quarter points and led 41–0 at halftime. Woodell scored twice. Driscoll, Jolly, Nicolo, Jack White and Charles Horman scored once each, and Kane made five of seven placements. The Globe’s same-day game account identifies both Peabody touchdowns and both extra points. The yearbook narrative gives 47–12 and its schedule table prints 47–0.\n\nDecember 2 · Brockton, W 30–12 in the Exchange Bowl. Nicolo’s 23-yard completion to Woodell set up his own five-yard touchdown. After Brockton took a 12–7 lead, Nicolo found Woodell for a 38-yard score and then returned an interception 60 yards for a touchdown. His 21-yard pass to Frederick finished the scoring for Saugus, and Kane converted after all four touchdowns. Charlie Murphy and Kane helped hold Brockton to 36 rushing yards. Saugus added a late safety when Brockton recovered its blocked punt in its own end zone.\n\nHonors and statistics. Nicolo and Driscoll made the Lynn Item All-Scholastic team. Both received Boston Globe honorable mention, along with Woodell, Kane and Murphy. Nicolo was named Exchange Bowl MVP and sat out the following day’s North Shore–Suburban All-Star game with a knee injury. Woodell led Saugus with 12 touchdowns, and Driscoll and Nicolo scored seven each. The scoring accounts identify all 40 Saugus touchdowns. Individual yardage, defensive plays and some conversion attributions are available only in part.",
       "seasonSources": [
         {
           "label": "Thanksgiving collection · IMG_8924.JPG",
@@ -3652,6 +3668,9 @@
         {
           "label": "Daily Evening Item · Exchange Bowl and MVP trophy",
           "url": "photos/nicolo-IMG_2529.webp"
+        },
+        {
+          "label": "Gene Mack Jr. · Brookline opener follow-up and Richie Nicolo’s expected return"
         }
       ],
       "games": [
@@ -3870,8 +3889,12 @@
         {
           "label": "Contributed Saugus High football captains list",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-1238.webp"
+        },
+        {
+          "label": "Francis Rosa · Janusas’s case for junior-high football before the Revere opener"
         }
-      ]
+      ],
+      "seasonNote": "Before the opener at Revere, John Janusas told Francis Rosa that Saugus needed junior-high football to stay competitive in Class A. His survey of 27 Eastern Massachusetts schools found that only six fielded just varsity and junior varsity teams. He said Saugus had no junior-high program and reported 33 players in uniform. Rosa credited Saugus with 33 wins, 15 losses and three ties from Janusas’s arrival in 1947 through the start of the 1952 season, including the two Exchange Bowl wins."
     },
     {
       "year": 1953,
