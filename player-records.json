@@ -24699,21 +24699,19 @@
       "name": "Laurence “Laurie” Templeman",
       "schoolClass": "",
       "values": {
-        "Rushing Yards": 174,
-        "Rushing Touchdowns": 4
+        "Rushing Yards": 170,
+        "Rushing Touchdowns": 5
       },
       "statSources": {
         "Rushing Yards": {
-          "clipping": "Tontoquonian · 1929 football season review",
           "partial": true,
-          "sourceUrl": "photos/yearbook-1929-2770.webp",
-          "note": "Three touchdown runs against Rockport (70, 44 and 35 yards) and a 25-yard touchdown run against Swampscott."
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport runs of 70, 40 and 35 yards; Swampscott two rushing touchdowns, one of 25 yards. Earlier transcription of 44 corrected to 40 from supplied page."
         },
         "Rushing Touchdowns": {
-          "clipping": "Tontoquonian · 1929 football season review",
           "partial": true,
-          "sourceUrl": "photos/yearbook-1929-2770.webp",
-          "note": "Three touchdown runs against Rockport (70, 44 and 35 yards) and a 25-yard touchdown run against Swampscott."
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport runs of 70, 40 and 35 yards; Swampscott two rushing touchdowns, one of 25 yards. Earlier transcription of 44 corrected to 40 from supplied page."
         }
       }
     },
@@ -24723,21 +24721,19 @@
       "name": "Laurence “Laurie” Templeman",
       "schoolClass": "",
       "values": {
-        "Total Touchdowns": 7,
-        "Points": 44
+        "Total Touchdowns": 8,
+        "Points": 50
       },
       "statSources": {
         "Total Touchdowns": {
-          "clipping": "Tontoquonian · 1929 football season review",
           "partial": true,
-          "sourceUrl": "photos/yearbook-1929-2770.webp",
-          "note": "Three touchdowns against Rockport, two against Swampscott and two against Manchester, plus two conversion kicks."
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Two TDs each against Manchester and Swampscott, three against Rockport, one against Chelsea; two extra points against Manchester."
         },
         "Points": {
-          "clipping": "Tontoquonian · 1929 football season review",
           "partial": true,
-          "sourceUrl": "photos/yearbook-1929-2770.webp",
-          "note": "Three touchdowns against Rockport, two against Swampscott and two against Manchester, plus two conversion kicks."
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Two TDs each against Manchester and Swampscott, three against Rockport, one against Chelsea; two extra points against Manchester."
         }
       }
     },
@@ -24751,9 +24747,8 @@
       },
       "statSources": {
         "Extra Points": {
-          "clipping": "Tontoquonian · 1929 football season review",
           "partial": true,
-          "sourceUrl": "photos/yearbook-1929-2770.webp",
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
           "note": "Two conversion kicks against Manchester."
         }
       }
@@ -25137,6 +25132,254 @@
         "Points": {
           "clipping": "Contributed 1944 newspaper game reports and Tontoquonian season recaps · Melrose · IMG_3882",
           "partial": true
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Mike Gifford",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Manchester touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Manchester touchdown."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "James “Jim” Muzzy",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Total Touchdowns": 1,
+        "Points": 6
+      },
+      "statSources": {
+        "Total Touchdowns": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport touchdown."
+        },
+        "Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport touchdown."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "James “Jim” Muzzy",
+      "category": "Rushing",
+      "schoolClass": "",
+      "values": {
+        "Rushing Touchdowns": 1
+      },
+      "statSources": {
+        "Rushing Touchdowns": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport rushing touchdown."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Gates",
+      "category": "Defensive",
+      "schoolClass": "",
+      "values": {
+        "Safeties": 1
+      },
+      "statSources": {
+        "Safeties": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Manchester safety; first name not confirmed."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Gates",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Points": 2
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Manchester safety."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Martin",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport conversion kick; first name not confirmed."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Martin",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport conversion kick."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Roveto",
+      "category": "Kicking",
+      "schoolClass": "",
+      "values": {
+        "Extra Points": 1
+      },
+      "statSources": {
+        "Extra Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport conversion kick; first name not confirmed."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Roveto",
+      "category": "Scoring",
+      "schoolClass": "",
+      "values": {
+        "Points": 1
+      },
+      "statSources": {
+        "Points": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Rockport conversion kick."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Roveto",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Completions": 2
+      },
+      "statSources": {
+        "Completions": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Two completed passes against Swampscott, to Gates and Quint."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Gates",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Reception against Swampscott."
+        }
+      }
+    },
+    {
+      "year": 1929,
+      "name": "Quint",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "1930 Tontoquonian · 1929 football review (contributor scans)",
+          "note": "Reception against Swampscott."
+        }
+      }
+    },
+    {
+      "year": 1928,
+      "name": "Stuart Kidder",
+      "category": "Passing",
+      "schoolClass": "",
+      "values": {
+        "Completions": 1,
+        "Passing Yards": 61
+      },
+      "statSources": {
+        "Completions": {
+          "partial": true,
+          "clipping": "1929 Tontoquonian · 1928 football review (contributor scans)",
+          "note": "Thanksgiving completion to Goss gained over 60 yards; 61 is the minimum integer, not an exact distance."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "1929 Tontoquonian · 1928 football review (contributor scans)",
+          "note": "Thanksgiving completion to Goss gained over 60 yards; 61 is the minimum integer, not an exact distance."
+        }
+      }
+    },
+    {
+      "year": 1928,
+      "name": "Reginald “Reggie” Goss",
+      "category": "Receiving",
+      "schoolClass": "",
+      "values": {
+        "Receptions": 1,
+        "Receiving Yards": 61
+      },
+      "statSources": {
+        "Receptions": {
+          "partial": true,
+          "clipping": "1929 Tontoquonian · 1928 football review (contributor scans)",
+          "note": "Thanksgiving reception from Kidder gained over 60 yards; 61 is the minimum integer, not an exact distance."
+        },
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "1929 Tontoquonian · 1928 football review (contributor scans)",
+          "note": "Thanksgiving reception from Kidder gained over 60 yards; 61 is the minimum integer, not an exact distance."
         }
       }
     }
