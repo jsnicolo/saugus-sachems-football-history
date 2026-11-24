@@ -404,6 +404,9 @@
       "scheduleNote": "Partial schedule. The dates of the two Manning High games are unknown. The Needham Thanksgiving preview gives no final score.",
       "seasonSources": [
         {
+          "label": "Saugus High Football Games · March 20, 1915 dateline · preseason schedule"
+        },
+        {
           "label": "Early newspaper clipping · IMG_2871",
           "url": "https://github.com/jsnicolo/saugus-sachems-football-history/blob/main/research/pre-golden-era-clipping-index.md"
         },
@@ -412,14 +415,29 @@
           "url": "photos/1915-saugus-revere-game-called-off.webp"
         },
         {
-          "label": "Contributed newspaper reports · Winchester (Oct. 12 and Nov. 6), Dedham (Oct. 20), East Boston (Oct. 29), Manning High season recap (Nov. 26), Flynn captaincy (Dec. 9)"
+          "label": "Newspaper sports digest · p. 14 listing for the Revere–Saugus game"
+        },
+        {
+          "label": "Oct. 12 Winchester box score · Saugus 13, Winchester 6"
+        },
+        {
+          "label": "Oct. 20 Dedham box score · Saugus 14, Dedham 7"
+        },
+        {
+          "label": "Oct. 29 East Boston box score · Saugus 12, East Boston 10"
+        },
+        {
+          "label": "Flynn Chosen Captain at Saugus · Dec. 9 dateline"
+        },
+        {
+          "label": "Contributed newspaper reports · Winchester (Nov. 6) and Manning High season recap (Nov. 26)"
         },
         {
           "label": "Contributed newspaper columns · Revere forfeit and proposed rematch, Greater Lynn challenge to Swampscott"
         }
       ],
       "recordNote": "The documented results include five wins and one loss in completed games, plus a reported forfeit win over Revere. The earlier workbook listed 6–0. The full season record remains open.",
-      "seasonNote": "Captain Michael Garofano scored against Winchester on Oct. 12 and twice in the muddy win over Dedham. Smith also scored against Winchester, and Howe kicked the extra point. Fullback Fox and quarterback John Flynn scored in the 12–10 win over East Boston. The fourth quarter began after dusk, and East Boston had the ball at the Saugus 5-yard line when time ran out. Flynn also drew praise in the 18–0 loss at Winchester’s Manchester Field. A Dec. 9 report says an injury against Winchester kept him out of the last two games and confirms that he was elected captain for 1916.\n\nRevere scored a touchdown and kicked the extra point before a fight involving players and spectators stopped the Sept. 25 opener in the first quarter. Revere declined to continue. Later coverage reported a 1–0 forfeit in Saugus’s favor. A neutral-site rematch was discussed for Nov. 27, and Saugus challenged Swampscott to a Dec. 2 game for Greater Lynn honors. Swampscott planned to end its season on Thanksgiving. Neither proposed matchup has a documented result.\n\nThe six completed games with known scores account for 83 Saugus points and 54 allowed."
+      "seasonNote": "On March 20, team manager Carl Lundholm announced a preseason schedule. It listed home dates against Revere (Sept. 25), Ipswich (Oct. 9), Winchester (Oct. 12), Swampscott (Oct. 18), the alumni (Oct. 22) and Dedham (Nov. 1), and trips to Lexington (Oct. 1), Winchester (Nov. 6) and Ipswich (Nov. 13). Thanksgiving (Nov. 25) was listed as an open home date in March. A Thanksgiving morning preview later listed Saugus at Needham. The March dates for Ipswich are tentative, and a contemporary box score documents the Dedham game on Oct. 20.\n\nCaptain Michael Garofano scored against Winchester on Oct. 12 and twice in the muddy win over Dedham. Smith also scored against Winchester, and Howe kicked the extra point. The box score lists Lundholm at right end. Fullback Fox and quarterback John Flynn scored in the 12–10 win over East Boston. The report singled out Flynn’s runs around the ends. The fourth quarter began after dusk, and East Boston had the ball at the Saugus 5-yard line when time ran out. Flynn also drew praise in the 18–0 loss at Winchester’s Manchester Field. A Dec. 9 report says an injury against Winchester kept him out of the last two games and confirms that he was elected captain for 1916.\n\nRevere scored a touchdown and kicked the extra point before a fight involving players and spectators stopped the Sept. 25 opener in the first quarter. Revere declined to continue. Later coverage reported a 1–0 forfeit in Saugus’s favor. A neutral-site rematch was discussed for Nov. 27, and Saugus challenged Swampscott to a Dec. 2 game for Greater Lynn honors. Swampscott planned to end its season on Thanksgiving. Neither proposed matchup has a documented result.\n\nThe six completed games with known scores account for 83 Saugus points and 54 allowed."
     },
     {
       "year": 1916,
