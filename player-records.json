@@ -17189,78 +17189,28 @@
     {
       "category": "Rushing",
       "year": 2001,
-      "name": "Kevin Quinlan",
-      "schoolClass": "",
-      "values": {
-        "Rushing Yards": 1,
-        "Carries": 1,
-        "Rushing Touchdowns": 1
-      },
-      "statSources": {
-        "Rushing Yards": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "1-yard touchdown run against Lynn Classical."
-        },
-        "Carries": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "1-yard touchdown run against Lynn Classical."
-        },
-        "Rushing Touchdowns": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "1-yard touchdown run against Lynn Classical."
-        }
-      }
-    },
-    {
-      "category": "Scoring",
-      "year": 2001,
-      "name": "Kevin Quinlan",
-      "schoolClass": "",
-      "values": {
-        "Total Touchdowns": 1,
-        "Points": 6
-      },
-      "statSources": {
-        "Total Touchdowns": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "1-yard touchdown run against Lynn Classical."
-        },
-        "Points": {
-          "partial": true,
-          "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "1-yard touchdown run against Lynn Classical."
-        }
-      }
-    },
-    {
-      "category": "Rushing",
-      "year": 2001,
       "name": "Pat Quinlan",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": 5,
-        "Carries": 1,
-        "Rushing Touchdowns": 1
+        "Rushing Yards": 6,
+        "Carries": 2,
+        "Rushing Touchdowns": 2
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "5-yard touchdown run against Marblehead."
+          "note": "Touchdown runs of 1 yard against Lynn Classical and 5 yards against Marblehead."
         },
         "Carries": {
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "5-yard touchdown run against Marblehead."
+          "note": "Touchdown runs of 1 yard against Lynn Classical and 5 yards against Marblehead."
         },
         "Rushing Touchdowns": {
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "5-yard touchdown run against Marblehead."
+          "note": "Touchdown runs of 1 yard against Lynn Classical and 5 yards against Marblehead."
         }
       }
     },
@@ -17270,19 +17220,19 @@
       "name": "Pat Quinlan",
       "schoolClass": "Sr.",
       "values": {
-        "Total Touchdowns": 1,
-        "Points": 6
+        "Total Touchdowns": 2,
+        "Points": 12
       },
       "statSources": {
         "Total Touchdowns": {
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "5-yard touchdown run against Marblehead."
+          "note": "Touchdown runs of 1 yard against Lynn Classical and 5 yards against Marblehead."
         },
         "Points": {
           "partial": true,
           "clipping": "Contributed 2001 Saugus varsity football newspaper box scores",
-          "note": "5-yard touchdown run against Marblehead."
+          "note": "Touchdown runs of 1 yard against Lynn Classical and 5 yards against Marblehead."
         }
       }
     },
