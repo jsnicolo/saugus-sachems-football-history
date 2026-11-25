@@ -27264,14 +27264,14 @@
       "name": "George Laskey",
       "schoolClass": "Jr.",
       "values": {
-        "Rushing Yards": 70,
+        "Rushing Yards": 64,
         "Rushing Touchdowns": 3
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
           "clipping": "1946 newspaper game reports",
-          "note": "21 against Swampscott, three against Marblehead and 46 on three described Peabody gains (11, 20 and 15). The Peabody touchdown distance is excluded.",
+          "note": "21 against Swampscott, three against Marblehead and 40 net yards on documented Peabody plays (11, seven, minus two, 20 and the four-yard touchdown). Other gains with uncertain distances are excluded.",
           "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
         },
         "Rushing Touchdowns": {
@@ -27319,14 +27319,14 @@
       "name": "Thomas F. “Tommy” Sheehan",
       "schoolClass": "Sr.",
       "values": {
-        "Rushing Yards": 44,
+        "Rushing Yards": 60,
         "Rushing Touchdowns": 3
       },
       "statSources": {
         "Rushing Yards": {
           "partial": true,
           "clipping": "1946 newspaper game reports",
-          "note": "Two two-yard sneaks against Chelsea and a 40-yard touchdown against Swampscott. Other rushing gains are excluded."
+          "note": "Four yards on two Chelsea sneaks, 40 on the Swampscott touchdown and 16 on three described Peabody gains (14, one and one)."
         },
         "Rushing Touchdowns": {
           "partial": true,
@@ -27357,13 +27357,27 @@
       "name": "Thomas F. “Tommy” Sheehan",
       "schoolClass": "Sr.",
       "values": {
-        "Conversion Passes": 1
+        "Conversion Passes": 1,
+        "Passing Yards": 8,
+        "Completions": 1
       },
       "statSources": {
         "Conversion Passes": {
           "partial": true,
           "clipping": "1946 newspaper game reports",
           "note": "Extra-point pass to Ed Ayers against Lynn Classical."
+        },
+        "Passing Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · Peabody game report",
+          "note": "Eight-yard completion from Sheehan to Ayers against Peabody.",
+          "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
+        },
+        "Completions": {
+          "partial": true,
+          "clipping": "Boston Globe · Peabody game report",
+          "note": "Eight-yard completion from Sheehan to Ayers against Peabody.",
+          "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
         }
       }
     },
@@ -27507,6 +27521,30 @@
           "partial": true,
           "clipping": "1946 newspaper game reports",
           "note": "Intercepted a pass at the Saugus two against Peabody.",
+          "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
+        }
+      }
+    },
+    {
+      "category": "Receiving",
+      "year": 1946,
+      "name": "Ed Ayers",
+      "schoolClass": "",
+      "values": {
+        "Receiving Yards": 8,
+        "Receptions": 1
+      },
+      "statSources": {
+        "Receiving Yards": {
+          "partial": true,
+          "clipping": "Boston Globe · Peabody game report",
+          "note": "Eight-yard completion from Sheehan to Ayers against Peabody.",
+          "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
+        },
+        "Receptions": {
+          "partial": true,
+          "clipping": "Boston Globe · Peabody game report",
+          "note": "Eight-yard completion from Sheehan to Ayers against Peabody.",
           "sourceUrl": "photos/1946-saugus-peabody-upset.jpeg"
         }
       }
