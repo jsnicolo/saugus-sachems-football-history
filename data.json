@@ -3144,13 +3144,67 @@
       "sourceRow": 43,
       "games": [
         {
+          "date": "1946-09-21",
+          "opponent": "Malden",
+          "result": "L 0–21",
+          "status": "Saturday · Malden High Stadium"
+        },
+        {
+          "date": "1946-09-28",
+          "opponent": "Beverly",
+          "result": "L 0–19",
+          "status": "Saturday · Manning Bowl, Lynn"
+        },
+        {
+          "date": "1946-10-05",
+          "opponent": "Chelsea",
+          "result": "W 18–0",
+          "status": "Saturday night · Memorial Stadium, Chelsea"
+        },
+        {
+          "date": "1946-10-12",
+          "opponent": "Amesbury",
+          "result": "T 6–6",
+          "status": "Saturday · date inferred from schedule"
+        },
+        {
+          "date": "1946-10-21",
+          "opponent": "Revere",
+          "result": "T 6–6",
+          "status": "Monday night · Manning Bowl, Lynn"
+        },
+        {
+          "date": "1946-10-25",
+          "opponent": "Lynn English",
+          "result": "L 0–14",
+          "status": "Friday night · Lynn · date inferred from schedule"
+        },
+        {
+          "date": "1946-11-01",
+          "opponent": "Lynn Classical",
+          "result": "L 7–34",
+          "status": "Friday night · Manning Bowl, Lynn"
+        },
+        {
+          "date": "1946-11-09",
+          "opponent": "Swampscott",
+          "result": "W 13–0",
+          "status": "Saturday · Manning Bowl, Lynn"
+        },
+        {
+          "date": "1946-11-16",
+          "opponent": "Marblehead",
+          "result": "W 8–0",
+          "status": "Saturday · Salem"
+        },
+        {
           "date": "1946-11-23",
           "opponent": "Peabody",
           "result": "W 7–0",
-          "status": "Holiday rivalry · Saturday before Thanksgiving"
+          "status": "Holiday rivalry · Saturday before Thanksgiving · Manning Bowl, Lynn"
         }
       ],
-      "scheduleNote": "Partial schedule. Additional results are being documented.",
+      "scheduleNote": "The ten documented results account for the 4–4–2 record. Most games were on Saturdays. The Globe’s Tuesday, Oct. 22 edition dates the Revere tie to Monday night, Oct. 21. Lynn English and Lynn Classical were Friday-night games. Peabody was played on Saturday, Nov. 23, five days before Thanksgiving. The Amesbury and Lynn English clippings confirm their scores, and their exact dates are inferred from the schedule.",
       "seasonSources": [
         {
           "label": "Thanksgiving result · Daily Evening Item, Nov. 21, 1995, p. 21; IMG_4048.jpg",
@@ -3171,9 +3225,24 @@
         {
           "label": "Daily Evening Item · Bob Walsh’s 1978 Saugus–Peabody rivalry retrospective",
           "url": "photos/gallery-2849.webp"
+        },
+        {
+          "label": "Boston Sunday Globe, Sept. 22, 1946 · Frank Gallagher’s Malden game report"
+        },
+        {
+          "label": "Contributed game clippings · Beverly, Chelsea and the Amesbury scoreboard"
+        },
+        {
+          "label": "Boston Daily Globe, Oct. 22, 1946 · Revere tie at Manning Bowl"
+        },
+        {
+          "label": "Contributed game clippings · Lynn English box score and Nov. 1 Lynn Classical report"
+        },
+        {
+          "label": "Contributed game clippings · Nov. 9 Swampscott and Nov. 16 Marblehead"
         }
       ],
-      "seasonNote": "Dave Lucey coached the 1946 Sachems. In the Nov. 23 meeting with Peabody at Manning Bowl, Saugus earned its first victory over the Tanners, 7–0. Gene Decereau’s second fumble recovery set up the winning 52-yard drive. George Laskey ran for the touchdown and the extra point, while Earl Dudman intercepted a pass at the Saugus two earlier in the game. On Dec. 8, Laskey played for the North Shore All-Stars in their 14–7 win over the Suburban All-Stars before a reported 21,000 at Manning Bowl.\n\nBob Walsh’s rivalry retrospective recalls Saugus–Peabody spring games at Manning Bowl in 1945 and 1946, with each school winning one."
+      "seasonNote": "Dave Lucey’s Sachems finished 4–4–2 under co-captains Andy Forti and Cushie Harris. At Malden High Stadium on Sept. 21, Saugus opened with three straight first downs before a fumble ended the drive. Malden won 21–0 before more than 9,000. On Sept. 28, Beverly won 19–0 at Manning Bowl despite Ernie Anganis’s 33-yard punt return and Tom Sheehan’s punt that went out at the Beverly three.\n\nThe Sachems earned their first win at Chelsea’s Memorial Stadium on Oct. 5. Drives of 67, 56 and 45 yards produced an 18–0 shutout. Anganis opened the scoring from four yards out, and Sheehan scored twice on two-yard quarterback sneaks. A newspaper scoreboard records a 6–6 tie with Amesbury.\n\nOn Oct. 21, before a reported 10,000 at Manning Bowl, Eugene “Gene” Decereau intercepted a Rocco Cerrone pass and returned it 20 yards for Saugus’s only touchdown in a 6–6 tie with Revere. The Sachems stopped Revere on downs at the Saugus four late in the game. Lynn English won 14–0 behind two Ruddock touchdowns. Against unbeaten Lynn Classical on Nov. 1, Saugus tied the score at 7–7 after a 60-yard drive capped by a George Laskey touchdown and a Sheehan conversion pass to Ed Ayers. Classical went on to win 34–7.\n\nAt Manning Bowl on Nov. 9, Saugus turned two Swampscott fumbles into first-quarter touchdowns and won 13–0. Sheehan scored on a 40-yard run, then Laskey ran 21 yards for a touchdown and carried in the extra point. On Nov. 16 in Salem, Laskey capped a 40-yard drive with a three-yard touchdown run and Saugus added a safety after a blocked kick to beat Marblehead 8–0.\n\nOn Nov. 23, Saugus earned its first win over Peabody, 7–0 at Manning Bowl. Decereau’s second fumble recovery set up the winning 52-yard drive. Laskey opened the drive with a 20-yard run, finished it with the fourth-quarter touchdown and ran in the extra point. Earl Dudman intercepted a pass at the Saugus two in the first half. The Sachems closed the season with three consecutive shutout wins.\n\nOn Dec. 8, Laskey played for the North Shore All-Stars in their 14–7 win over the Suburban All-Stars before a reported 21,000 at Manning Bowl. Bob Walsh’s rivalry retrospective also recalls Saugus–Peabody spring games at Manning Bowl in 1945 and 1946, with each school winning one."
     },
     {
       "year": 1947,
