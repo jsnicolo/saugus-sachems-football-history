@@ -27553,7 +27553,7 @@
   "hallOfFame": {
     "source": "SHS HOF.pdf",
     "sourceUrl": "documents/shs-hall-of-fame-roster.pdf",
-    "sourceCoverage": "1987–2024 roster, plus the existing 2026 alumni record",
+    "sourceCoverage": "1987–2024 school roster and the 2026 class announcement",
     "members": [
       {
         "name": "Arthur “Art” Spinney",
@@ -27947,7 +27947,7 @@
       },
       {
         "name": "John “Jack” Leahy",
-        "footballEvidence": "1926 Jack Leahy; 1927 Jack Leahy; 1928 John Leahy; 1953 John Leahy",
+        "footballEvidence": "1926 and 1927 football captain; Class of 1928.",
         "footballSourceYear": null,
         "nameAsListed": "John Leahy",
         "graduationYear": 1928,
@@ -27993,8 +27993,9 @@
         "graduationYear": 1970,
         "inductionYear": 1993,
         "sourcePage": 7,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": ""
+        "footballEvidence": "1970 Tontoquonian senior biography lists Football 2.",
+        "note": "Michael Thomas O’Hearn’s senior biography in the 1970 Tontoquonian lists football in his sophomore year. The yearbook also documents his hockey and baseball participation.",
+        "footballSourceUrl": "https://archive.org/details/tontoquonian1970saug"
       },
       {
         "name": "Tom Carr",
@@ -28093,8 +28094,9 @@
         "graduationYear": 1938,
         "inductionYear": 1995,
         "sourcePage": 9,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The football list gives the Class of 1938. The school roster records his 1995 induction as a coach."
+        "footballEvidence": "1938 Tontoquonian senior biography and 1937 football roster.",
+        "note": "The 1938 Tontoquonian lists George “Bud” McKay’s football participation and names McKay on the 1937 senior squad. The school inducted him in 1995 as a coach.",
+        "footballSourceUrl": "https://archive.org/details/tontoquonian1938saug"
       },
       {
         "name": "Ed Falasca",
@@ -28397,6 +28399,16 @@
         "note": ""
       },
       {
+        "name": "Kevin Ward",
+        "nameAsListed": "Kevin Ward",
+        "role": "Coach",
+        "graduationYear": null,
+        "inductionYear": 2001,
+        "sourcePage": 15,
+        "footballEvidence": "Saugus head football coach, 1984–1990, as documented in the season archive and coaching biography.",
+        "note": "The school lists Ward as a coach in its 2001 induction class."
+      },
+      {
         "name": "Leo Kane",
         "footballEvidence": "1950 Leo Kane",
         "footballSourceYear": null,
@@ -28564,7 +28576,8 @@
         "graduationYear": 1982,
         "inductionYear": 2005,
         "sourcePage": 19,
-        "note": "The 1982 Tontoquonian senior biography lists Football 3, 4 (junior and senior years). The same yearbook identifies Quinlan as a hockey co-captain. The football entry documents his participation at Saugus High."
+        "note": "The 1982 Tontoquonian senior biography lists Football 3, 4 (junior and senior years). The same yearbook identifies Quinlan as a hockey co-captain. The football entry documents his participation at Saugus High.",
+        "footballSourceUrl": "https://archive.org/details/tontoquonian1982saug"
       },
       {
         "name": "James Driscoll",
@@ -28692,105 +28705,13 @@
         "graduationYear": 2005,
         "inductionYear": 2026,
         "sourcePage": null,
-        "sourceUrl": "#alumni",
-        "sourceLabel": "Alumni record",
-        "note": "The existing alumni record identifies the 2026 induction. This later class is outside the supplied 1987–2024 roster.",
+        "sourceUrl": "https://advocatenews.net/saugus/sports/sachem-sports-legends/",
+        "sourceLabel": "Advocate News · 2026 induction class",
+        "note": "The November 2026 school announcement published by Advocate News identifies Mike Nicolo and documents his Saugus football honors.",
         "footballEvidence": "2003 Item All-Star clipping; existing football alumni profile."
-      },
-      {
-        "name": "Albion “Bennie” Rice",
-        "nameAsListed": "Bennie Rice",
-        "role": "Coach",
-        "graduationYear": null,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The contributed football list uses Bennie Rice. The Bates yearbook identifies Albion Ramsdell Rice by that nickname."
-      },
-      {
-        "name": "Charles “Buzz” Harvey",
-        "nameAsListed": "Buzz Harvey",
-        "role": "Coach",
-        "graduationYear": null,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": ""
-      },
-      {
-        "name": "Frank Foster",
-        "nameAsListed": "Frank Foster",
-        "role": "Player",
-        "graduationYear": null,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": ""
-      },
-      {
-        "name": "Fred Beresford",
-        "nameAsListed": "Fred Beresford",
-        "role": "Coach",
-        "graduationYear": null,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": ""
-      },
-      {
-        "name": "Henry Wladkowski",
-        "nameAsListed": "Henry Wladkowski",
-        "role": "Player",
-        "graduationYear": 1927,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The contributed football list gives the Class of 1927. A football captain with the same name graduated in 1937. The records have not been linked."
-      },
-      {
-        "name": "Reginald “Reggie” Goss",
-        "nameAsListed": "Reginald “Reggie” Goss",
-        "role": "Player",
-        "graduationYear": 1929,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The football list gives the Class of 1929. The 1927 lettermen clipping identifies Goss as a regular and the 1928 captain-elect."
-      },
-      {
-        "name": "Robert “Bob” Burns",
-        "nameAsListed": "Robert “Bob” Burns",
-        "role": "Player",
-        "graduationYear": 1941,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The contributed football list identifies Bob Burns as Class of 1941. The school PDF lists Robert Burns, Class of 1966, in the 1988 induction class. The match remains unresolved."
-      },
-      {
-        "name": "Rod Quint",
-        "nameAsListed": "Rod Quint",
-        "role": "Player",
-        "graduationYear": null,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": ""
-      },
-      {
-        "name": "William “Randy” Popp Jr.",
-        "nameAsListed": "Randy Popp",
-        "role": "Player",
-        "graduationYear": 1948,
-        "inductionYear": null,
-        "sourcePage": null,
-        "footballEvidence": "Contributed Saugus football Hall of Fame list",
-        "note": "The football list names Randy Popp. His obituary identifies him as William “Randy” Popp Jr. and gives his Saugus High graduation year as 1948.",
-        "sourceUrl": "https://localheadlinenews.com/lynnfield-villager-obituary-william-popp-jr-87/",
-        "sourceLabel": "Obituary · graduation year"
       }
     ],
-    "note": "Football players, coaches and staff identified by the school roster, the contributed football list and other archive records. Individual notes explain source discrepancies."
+    "note": "School inductees with a documented Saugus football role and a verified induction year."
   },
   "reportedCareerTotals": [
     {
