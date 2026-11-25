@@ -239,12 +239,14 @@
   {
     "year": 1936,
     "opponent": "Danvers",
-    "result": "T 6–6 / 0–0",
-    "status": "Score conflict",
-    "note": "Later historical table IMG_3294 lists 6–6. The contemporary 1938 withdrawal column recalls 6–6 and 0–0 in the preceding two years; the 1937 yearbook confirms 6–6 for 1937, suggesting 0–0 for 1936. Contemporary 1936 game report needed. Boston Globe 1936 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
-    "sourceFile": "IMG_3294.jpg; 1938 With the Schoolboys column",
-    "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/review-withdrawal.webp",
-    "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
+    "result": "T 6–6",
+    "status": "Contemporary yearbook · later account differs",
+    "note": "The 1937 Tontoquonian’s review of the fall 1936 football season gives a 6–6 tie, and the later historical score table agrees. A 1938 newspaper column recalling earlier meetings suggests a 0–0 score. The season archive follows the yearbook.",
+    "sources": [
+      {"label": "1937 Tontoquonian · fall 1936 football review, p. 40", "url": "https://archive.org/details/tontoquonian1937saug"},
+      {"label": "1938 newspaper retrospective", "url": "photos/review-withdrawal.webp"},
+      {"label": "Boston Globe · 1936 Thanksgiving preview", "url": "photos/1936-globe-thanksgiving-preview.webp"}
+    ]
   },
   {
     "year": 1937,
@@ -289,8 +291,8 @@
   {
     "year": 1941,
     "opponent": "Wakefield",
-    "result": "W 12–6 / 13–6",
-    "status": "Score conflict",
+    "result": "W 12–6",
+    "status": "Contemporary yearbook · later table differs",
     "note": "Contemporary yearbook IMG_2748 gives 12–6, explicitly describes twelve Saugus points; later table IMG_3294 gives 13–6. Prefer yearbook provisionally.",
     "sourceFile": "IMG_2748.jpg; IMG_3294.jpg",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_2748.webp"
@@ -1267,5 +1269,18 @@
     "note": "CNHI, Nov. 28, 2025 game report.",
     "sourceFile": "https://www.cnhi.com/rss_feed/peabody-comes-from-20-points-down-to-top-saugus-for-11th-straight-holiday-win/",
     "sourceUrl": "https://www.cnhi.com/rss_feed/peabody-comes-from-20-points-down-to-top-saugus-for-11th-straight-holiday-win/"
+  },
+  {
+    "year": 2026,
+    "opponent": "Peabody",
+    "result": "Scheduled",
+    "status": "Thanksgiving · Nov. 26, 10 a.m.",
+    "note": "Saugus enters the holiday game after a 24–20 road win over O’Bryant. The Thanksgiving result will be added once the game is played.",
+    "sources": [
+      {
+        "label": "Saugus Advocate · 2026 Thanksgiving preview",
+        "url": "https://advocatenews.net/saugus/sports/2026-thanksgiving-football-preview-saugus-seeks-to-end-peabodys-holiday-streak-give-seniors-a-memorable-finish/"
+      }
+    ]
   }
 ]

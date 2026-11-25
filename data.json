@@ -1937,14 +1937,15 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 31,
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The Thanksgiving tie score remains disputed (6–6 versus 0–0); a contemporary game report is needed.\n\nThe 1937 yearbook (p. 40) gives Barnstable as an 18–7 away victory (newspaper preview says 18–0) and explicitly confirms a 6–6 Thanksgiving tie. Senior standouts were Will Norton, Scott Wladkowski, Lew Fiske, John Donnelly and Fran Oljey. The roster includes Gates, Caffarella, Oljey, McKay, Scire, Duffy, Muzzy, Parkinson, Brooks, Donnelly, Hanson, Wladkowski, Collamore, Fauci, Fiske, Krzywicki, Witozen, Popp, Demaso, Burns, Herald, Evans, Buccherie, Mueller and Norton; manager Wilkinson. Jimmy Fauci and Buzz Harvey were identified as next year's leaders. The yearbook omits Newburyport and does not establish a complete season record.",
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The 1937 yearbook’s account of the fall 1936 season gives a 6–6 tie with Danvers. A later newspaper retrospective suggests 0–0, so the schedule follows the contemporary yearbook.\n\nThe 1937 yearbook (p. 40) gives Barnstable as an 18–7 away victory (newspaper preview says 18–0). Senior standouts were Will Norton, Scott Wladkowski, Lew Fiske, John Donnelly and Fran Oljey. The roster includes Gates, Caffarella, Oljey, McKay, Scire, Duffy, Muzzy, Parkinson, Brooks, Donnelly, Hanson, Wladkowski, Collamore, Fauci, Fiske, Krzywicki, Witozen, Popp, Demaso, Burns, Herald, Evans, Buccherie, Mueller and Norton; manager Wilkinson. Jimmy Fauci and Buzz Harvey were identified as next year's leaders. The yearbook omits Newburyport and does not establish a complete season record.",
       "seasonSources": [
         {
           "label": "Boston Globe · 1936 Thanksgiving preview and season records",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1936-globe-thanksgiving-preview.webp"
         },
         {
-          "label": "1937 Tontoquonian · football review (contributor scans, source only)"
+          "label": "1937 Tontoquonian · fall 1936 football review, p. 40",
+          "url": "https://archive.org/details/tontoquonian1937saug"
         }
       ],
       "games": [
@@ -10055,7 +10056,7 @@
       "nickname": "Sachems",
       "recordAsOf": "2026-11-13",
       "recordNote": "1–9 through November 13: eight on-field games (one win, seven losses) plus two forfeit losses. Gloucester (October 23) and Swampscott (October 30) were forfeited and not played; score aggregators may display 0–14 for each. Thanksgiving is pending.",
-      "seasonNote": "Saugus forfeited October 23 against Gloucester and October 30 against Swampscott because of roster availability and safety concerns. The Sachems returned November 6 at Arlington Catholic (30–6 loss according to MaxPreps; a November 12 Saugus Advocate report instead gives 30–8). On November 13, Saugus earned its first win of 2026, 24–20 at O’Bryant in a consolation-round matchup. Thanksgiving against Peabody remains scheduled for November 26 at 10 a.m. The team did not qualify for the MIAA state tournament. Through November 13, the eight games played account for 56 points scored and 263 allowed using the MaxPreps Arlington Catholic score. MaxPreps lists 291 points allowed with the two 14–0 forfeit scores included.",
+      "seasonNote": "The Sachems earned their first win of 2026 on November 13, beating O’Bryant 24–20 on the road. They had returned to the field the previous week against Arlington Catholic after two forfeits prompted by roster availability and safety concerns. MaxPreps lists the Arlington Catholic result as 30–6, while the November 12 Saugus Advocate report gives 30–8. Thanksgiving against Peabody remains scheduled for November 26 at 10 a.m. The team did not qualify for the MIAA state tournament. Through November 13, the eight games played account for 56 points scored and 263 allowed using the MaxPreps Arlington Catholic score. MaxPreps lists 291 points allowed with the two 14–0 forfeit scores included.",
       "games": [
         {
           "date": "2026-09-10",
@@ -10189,7 +10190,7 @@
     "Charles T. Senay (1915)",
     "Senay coached Saugus in 1915. Surviving results include six wins, one by reported forfeit, and an 18–0 loss at Winchester.",
     "Edward Collier (1916–1917)",
-    "Contemporary newspaper accounts name Collier as Saugus coach in 1916. He opened practice in September as residents sought help equipping the team. The workbook lists 1916 at 7–1, including a documented 39–7 Thanksgiving win over East Boston. The season records list 1917 at 0–5.",
+    "Contemporary newspaper accounts name Collier as Saugus coach in 1916. He opened practice in September as residents sought help equipping the team. The documented results include a 39–7 Thanksgiving win over East Boston. Five known scores account for a 3–2 partial record. The earlier workbook reports 7–1. The season records list 1917 at 0–5.",
     "Laurence F. Davis (1919)",
     "The season register lists Davis’s Warriors at 3–6–3. In a 56–6 win over Manning High of Ipswich, Saugus scored 34 points in the first quarter and Bradbury returned an interception 65 yards for a touchdown.",
     "1920–1950: (The Golden Years):",
