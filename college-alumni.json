@@ -200,11 +200,11 @@
     {
       "name": "Salvatore “Sardi” Nicolo",
       "gradYear": 1950,
-      "college": "Louisiana State University",
+      "college": "Wake Forest College; Louisiana State University",
       "position": "HB",
-      "rosterYears": "1952–1954",
+      "rosterYears": "1950 (Wake Forest freshman); 1952–1954 (LSU letterwinner records)",
       "professional": "",
-      "notes": "LSU’s official all-time letterwinners list identifies him as Sal Nicolo of Saugus, Massachusetts. Nicolo’s 94-yard touchdown run against Rice on October 4, 1952, stood as a share of LSU’s longest rush and longest offensive play from scrimmage until Derrius Guice’s 96-yard touchdown in 2016.",
+      "notes": "After graduating from Saugus in 1950, Nicolo spent his freshman year at Wake Forest before transferring to LSU, according to contributor-supplied historical information. LSU’s official all-time letterwinners list identifies him as Sal Nicolo of Saugus, Massachusetts. Nicolo’s 94-yard touchdown run against Rice on October 4, 1952, stood as a share of LSU’s longest rush and longest offensive play from scrimmage until Derrius Guice’s 96-yard touchdown in 2016.",
       "sources": [
         {
           "label": "LSU all-time letterwinners",
@@ -221,6 +221,9 @@
         {
           "label": "LSU official postgame notes · November 12, 2016 · Guice breaks the shared record",
           "url": "https://static.lsusports.net/pdf9/5080231.pdf"
+        },
+        {
+          "label": "Contributor-supplied historical clipping identifying Wake Forest freshman year (November 25, 2026; independent roster verification pending)"
         }
       ]
     },
