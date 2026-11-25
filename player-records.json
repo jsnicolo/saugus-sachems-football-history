@@ -3705,11 +3705,11 @@
       ]
     },
     {
-      "name": "Dick Macdonald",
+      "name": "Richard “Dick” MacDonald",
       "position": "Tackle",
-      "schoolClass": "",
+      "schoolClass": "1942",
       "era": "1941",
-      "bio": "Dick Macdonald was a returning starter at tackle and co-captained Saugus with halfback John “Iron Mike” Harrington in 1941. The Sachems finished unbeaten under Henry Toczylowski and won the Class C state championship. Their ten documented games included six shutouts, among them a 13–0 win over previously unbeaten Melrose and a 26–0 win over Revere. The Boston Globe gave Macdonald All-Scholastic honorable mention at tackle. Eddie Koschei picked him alongside Doug Mackie at tackle on his retrospective Saugus team.",
+      "bio": "Dick MacDonald was a returning starter at tackle and co-captained Saugus with halfback John “Iron Mike” Harrington in 1941. The Sachems finished unbeaten under Henry Toczylowski and won the Class C state championship. Their ten documented games included six shutouts, among them a 13–0 win over previously unbeaten Melrose and a 26–0 win over Revere. The Boston Globe gave MacDonald All-Scholastic honorable mention at tackle. Eddie Koschei picked him alongside Doug Mackie at tackle on his retrospective Saugus team.\n\nThe 1942 Tontoquonian lists him as a senior with four years of football. Saugus High inducted him into its Athletic Hall of Fame in 1989.",
       "source": "Bob Walsh, “Koschei ranks Saugus greats,” The Item (contributed clipping). 1941 Saugus season notes and Globe All-Scholastic list.",
       "sources": [
         {
@@ -3719,16 +3719,17 @@
         {
           "label": "1941 season archive",
           "url": "#seasons"
+        },
+        {
+          "label": "1942 Tontoquonian · 1941 football roster",
+          "url": "photos/contributed-2586.webp"
+        },
+        {
+          "label": "Saugus High Athletic Hall of Fame roster",
+          "url": "documents/shs-hall-of-fame-roster.pdf"
         }
-      ]
-    },
-    {
-      "name": "Gene Decareau",
-      "position": "Guard",
-      "schoolClass": "",
-      "era": "1940",
-      "bio": "Eddie Koschei chose Gene Decareau and Lenny Flaherty at guard on his retrospective Saugus football team. Bob Walsh’s Item article lists Decareau with the 1940 season. The clipping establishes the position and retrospective selection. His graduation year and individual game details for that season remain unverified.",
-      "source": "Bob Walsh, “Koschei ranks Saugus greats,” The Item (contributed clipping)."
+      ],
+      "hallOfFameYear": 1989
     },
     {
       "name": "George Flaherty",
@@ -3755,10 +3756,20 @@
     {
       "name": "Henry “Scott” Wladkowski",
       "position": "Running back",
-      "schoolClass": "",
-      "era": "1938",
-      "bio": "Bob Walsh’s Item retrospective identifies Henry “Scott” Wladkowski as a Saugus running back in 1938. Eddie Koschei singled him out as one of the program’s unsung players. The clipping establishes his role and Koschei’s assessment. His graduation year and individual game details remain unverified.",
-      "source": "Bob Walsh, “Koschei ranks Saugus greats,” The Item (contributed clipping)."
+      "schoolClass": "1937",
+      "era": "1936",
+      "bio": "Henry Joseph “Scott” Wladkowski was a running back and senior captain for Saugus in 1936. The 1937 Tontoquonian’s football review lists Scott among the senior standouts, and Henry’s obituary confirms he graduated in 1937 and captained the team as a senior.\n\nEddie Koschei singled him out as one of the program’s unsung players in Bob Walsh’s Item retrospective, which gives his season as 1938.",
+      "source": "1937 Tontoquonian · football review (p. 40); Conte Funeral Homes obituary; Bob Walsh, “Koschei ranks Saugus greats,” The Item.",
+      "sources": [
+        {
+          "label": "1936 season archive · 1937 Tontoquonian football review",
+          "url": "#seasons"
+        },
+        {
+          "label": "Conte Funeral Homes · Henry Joseph Wladkowski obituary",
+          "url": "https://www.cgfuneralhomegeorgetown.com/files/ctg/Conte-ArchiveObits.html"
+        }
+      ]
     },
     {
       "name": "Jack “Jackie” Warren",
