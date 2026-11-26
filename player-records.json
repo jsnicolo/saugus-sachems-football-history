@@ -2224,12 +2224,24 @@
       "name": "Mark Spadafora",
       "year": 2004,
       "position": "OL/DL",
-      "schoolClass": "Class of 2004",
+      "schoolClass": "Senior · Class of 2004",
       "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceLabel": "Boston Globe · A beautiful mind, with brawn to spare",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/contributed-2691.webp",
       "sourceNote": "Summer 2004 Agganis football selection following the fall 2003 season; the Globe feature describes his selection as an offensive and defensive lineman and his graduation that spring."
+    },
+    {
+      "name": "Mark Spadafora",
+      "year": 2004,
+      "seasonYear": 2003,
+      "position": "OL",
+      "schoolClass": "Senior · Class of 2004",
+      "publisher": "Northeastern Conference",
+      "award": "All-Star",
+      "sourceLabel": "Newspaper clipping · Northeastern Conference All-Stars",
+      "sourceUrl": "documents/2003-nec-all-stars-positions.webp",
+      "sourceNote": "Selected as a senior for the fall 2003 season (Class of 2004)."
     },
     {
       "name": "Anthony Barbanti",
@@ -2496,12 +2508,24 @@
       "name": "Chris Benson",
       "year": 2004,
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Senior · Class of 2004",
       "publisher": "Harry Agganis All-Star game",
       "award": "Harry Agganis football All-Star",
       "sourceLabel": "Saugus Sachems Football History(1).xlsx · Season Records · 2003 season",
       "sourceNote": "Agganis selection listed with the fall 2003 season in the supplied records; displayed under the following summer game year (2004).",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/agganis-workbook-extract.json"
+    },
+    {
+      "name": "Chris Benson",
+      "year": 2004,
+      "seasonYear": 2003,
+      "position": "LB",
+      "schoolClass": "Senior · Class of 2004",
+      "publisher": "Northeastern Conference",
+      "award": "All-Star",
+      "sourceLabel": "Newspaper clipping · Northeastern Conference All-Stars",
+      "sourceUrl": "documents/2003-nec-all-stars-positions.webp",
+      "sourceNote": "Selected as a senior for the fall 2003 season (Class of 2004)."
     },
     {
       "name": "Mike Nicolo",
@@ -3683,7 +3707,7 @@
       "name": "Chris Benson",
       "schoolClass": "2004",
       "position": "WR / LB",
-      "bio": "Chris Benson played wide receiver and linebacker for Saugus and was a senior co-captain of the 2003 Sachems alongside Anthony “Beave” Barbanti and Mark Spadafora.\n\nAs a junior in 2002, Benson caught a 46-yard touchdown pass from Chris Finn in a 31–16 win over Marblehead. The Thanksgiving feature “They’re brothers in arms” credited him with two touchdown catches entering the holiday game. The feature lists him as No. 89 and profiles him alongside his younger brother Brian, a freshman quarterback and defensive back. The available box scores document at least four catches for 90 yards: two for 27 against Beverly, a 17-yard fourth-down catch against Gloucester and the 46-yard score at Marblehead. Against Gloucester, his fumble recovery set up the drive on which he made that fourth-down catch before Sal Nicolo scored. On Thanksgiving at Peabody, Finn found Benson for a two-point conversion after Tom Shidlow’s late touchdown.\n\nAs a senior in 2003, Benson caught a four-yard touchdown pass from Mike Howard in a 22–14 loss to Lynn Classical. The contributed season workbook records his selection for the 2004 Harry Agganis All-Star Football Classic after his senior season.",
+      "bio": "Chris Benson played wide receiver and linebacker for Saugus and was a senior co-captain of the 2003 Sachems alongside Anthony “Beave” Barbanti and Mark Spadafora.\n\nAs a junior in 2002, Benson caught a 46-yard touchdown pass from Chris Finn in a 31–16 win over Marblehead. The Thanksgiving feature “They’re brothers in arms” credited him with two touchdown catches entering the holiday game. The feature lists him as No. 89 and profiles him alongside his younger brother Brian, a freshman quarterback and defensive back. The available box scores document at least four catches for 90 yards: two for 27 against Beverly, a 17-yard fourth-down catch against Gloucester and the 46-yard score at Marblehead. Against Gloucester, his fumble recovery set up the drive on which he made that fourth-down catch before Sal Nicolo scored. On Thanksgiving at Peabody, Finn found Benson for a two-point conversion after Tom Shidlow’s late touchdown.\n\nAs a senior in 2003, Benson caught a four-yard touchdown pass from Mike Howard in a 22–14 loss to Lynn Classical. He earned Northeastern Conference All-Star honors that season. The contributed season workbook records his selection for the 2004 Harry Agganis All-Star Football Classic after his senior season.",
       "source": "Contemporary newspaper previews and game reports, and the contributed season workbook.",
       "sources": [
         {
@@ -3701,6 +3725,14 @@
         {
           "label": "Contributed season workbook · 2003 season honors and 2004 Agganis selection",
           "url": "documents/agganis-workbook-extract.json"
+        },
+        {
+          "label": "Newspaper clipping · Northeastern Conference All-Stars",
+          "url": "documents/2003-nec-all-stars-positions.webp"
+        },
+        {
+          "label": "Newspaper clipping · NEC selections by school",
+          "url": "documents/2003-nec-all-stars-spadafora-benson.webp"
         }
       ]
     },
@@ -7088,6 +7120,14 @@
         {
           "label": "MIT Athletics · football and lacrosse career",
           "url": "https://mitathletics.com/staff-directory/mark-spadafora/92"
+        },
+        {
+          "label": "Newspaper clipping · Northeastern Conference All-Stars",
+          "url": "documents/2003-nec-all-stars-positions.webp"
+        },
+        {
+          "label": "Newspaper clipping · NEC selections by school",
+          "url": "documents/2003-nec-all-stars-spadafora-benson.webp"
         }
       ]
     },
