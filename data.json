@@ -1937,7 +1937,7 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 31,
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The 1937 yearbook’s account of the fall 1936 season gives a 6–6 tie with Danvers. A later newspaper retrospective suggests 0–0, so the schedule follows the contemporary yearbook.\n\nThe 1937 yearbook (p. 40) gives Barnstable as an 18–7 away victory (newspaper preview says 18–0). Senior standouts were Will Norton, Scott Wladkowski, Lew Fiske, John Donnelly and Fran Oljey. The roster includes Gates, Caffarella, Oljey, McKay, Scire, Duffy, Muzzy, Parkinson, Brooks, Donnelly, Hanson, Wladkowski, Collamore, Fauci, Fiske, Krzywicki, Witozen, Popp, Demaso, Burns, Herald, Evans, Buccherie, Mueller and Norton; manager Wilkinson. Jimmy Fauci and Buzz Harvey were identified as next year's leaders. The yearbook omits Newburyport and does not establish a complete season record.",
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Agawam 13–20; Barnstable 18–0; Gloucester 0–6; St. John's 2–20; Amesbury 20–0; Swampscott 0–14; Newburyport 0–7; Marblehead 6–19. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score. The 1937 yearbook’s account of the fall 1936 season gives a 6–6 tie with Danvers. A later newspaper retrospective suggests 0–0, so the schedule follows the contemporary yearbook.\n\nThe 1937 yearbook (p. 40) gives Barnstable as an 18–7 away victory (newspaper preview says 18–0). Senior standouts were Will Norton, Scott Wladkowski, Lew Fiske, John Donnelly and Fran Oljey. The roster includes Gates, Caffarella, Oljey, McKay, Scire, Duffy, Muzzy, Parkinson, Brooks, Donnelly, Hanson, Wladkowski, Collamore, Fauci, Fiske, Krzywicki, Witozen, Popp, Demaso, Burns, Herald, Evans, Buccherie, Mueller and Norton; manager Wilkinson. Jimmy Fauci and Buzz Harvey were identified as next year's leaders. The yearbook omits Newburyport and does not establish a complete season record.\n\nIn its November 25 preview, the Daily Evening Item called the annual Saugus–Danvers Thanksgiving matchup a tossup and published photographs and probable lineups for both teams. Saugus had the better result against Amesbury, winning 20–0 while Danvers tied 13–13. Swampscott shut out both teams. The game was scheduled for 10 a.m. at the Danvers High athletic field.",
       "seasonSources": [
         {
           "label": "Boston Globe · 1936 Thanksgiving preview and season records",
@@ -1946,6 +1946,10 @@
         {
           "label": "1937 Tontoquonian · fall 1936 football review, p. 40",
           "url": "https://archive.org/details/tontoquonian1937saug"
+        },
+        {
+          "label": "Daily Evening Item · November 25, 1936 Thanksgiving preview, p. 19",
+          "url": "photos/contributed-2749.webp"
         }
       ],
       "games": [
