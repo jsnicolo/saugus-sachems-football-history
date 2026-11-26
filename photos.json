@@ -7,7 +7,33 @@
     "year": 1950,
     "category": "Clippings",
     "dateSource": "Boston Daily Globe, September 26, 1950, pp. 1 and 39.",
-    "dateLabel": "September 26, 1950"
+    "dateLabel": "September 26, 1950",
+    "images": [
+      {
+        "file": "sources/1950-spinney-sheehan-induction-photo.jpeg",
+        "thumb": "sources/1950-spinney-sheehan-induction-photo.jpeg",
+        "title": "Swaps football for induction papers",
+        "caption": "Boston Daily Globe staff photographer Charles McCormick shows Art Spinney (left) and Tom Sheehan with Master Sgt. Charles Tayyon at the Army base.",
+        "year": 1950,
+        "dateLabel": "September 26, 1950"
+      },
+      {
+        "file": "sources/1950-spinney-sheehan-draft.webp",
+        "thumb": "sources/1950-spinney-sheehan-draft.webp",
+        "title": "Army induction report",
+        "caption": "The front-page report in the Boston Daily Globe.",
+        "year": 1950,
+        "dateLabel": "September 26, 1950"
+      },
+      {
+        "file": "sources/1950-spinney-sheehan-draft-continuation.webp",
+        "thumb": "sources/1950-spinney-sheehan-draft-continuation.webp",
+        "title": "Army induction report, continued",
+        "caption": "The report continues on page 39 of the Boston Daily Globe.",
+        "year": 1950,
+        "dateLabel": "September 26, 1950"
+      }
+    ]
   },
   {
     "file": "photos/contributed-2572.webp",
