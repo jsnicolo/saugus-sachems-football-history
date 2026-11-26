@@ -232,13 +232,17 @@
       "gradYear": 1950,
       "college": "University of Connecticut",
       "position": "",
-      "rosterYears": "1951 (contemporary report)",
+      "rosterYears": "1951 (Globe report), 1952 (varsity letter)",
       "professional": "",
-      "notes": "A December 1951 Boston Globe feature on his younger brother Charlie identifies Dan as playing football at the University of Connecticut. His full college seasons and position at UConn remain unverified.",
+      "notes": "A December 1951 Boston Globe feature on his younger brother Charlie identified Dan as playing football at the University of Connecticut. UConn’s official football record book lists Daniel Murphy of Saugus as a varsity letterwinner in 1952. His position at UConn and individual game appearances remain unverified.",
       "sources": [
         {
           "label": "1951 Globe · four blocked kicks, two touchdowns and brother Dan",
           "url": "photos/1951-charlie-murphy-5.webp"
+        },
+        {
+          "label": "UConn Football History & Record Book · 1952 varsity letterwinner",
+          "url": "https://uconnhuskies.com/documents/download/2026/9/5/2026_UConn_Football_History___Record_Book.pdf"
         }
       ]
     },
