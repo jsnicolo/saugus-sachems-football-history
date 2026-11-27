@@ -81,8 +81,46 @@ dialog .close{position:sticky;top:0;z-index:20;min-width:64px;min-height:48px;fo
 .season-badge-ball::before,.season-badge-ball::after{content:"";position:absolute;inset:50% auto auto 50%;transform:translate(-50%,-50%)}
 .season-badge-ball::before{width:1rem;height:2px;background:#fff}
 .season-badge-ball::after{width:.68rem;height:.35rem;background:repeating-linear-gradient(90deg,#fff 0 2px,transparent 2px 4px)}
+
+/* Keep section links available while scrolling the archive. */
+html{scroll-padding-top:var(--archive-nav-height, 96px)}
+.archive-nav{
+  position:sticky;
+  top:0;
+  z-index:10;
+  justify-content:center;
+  gap:0 18px;
+  padding:4px 5%;
+  background:#fff;
+  border-bottom:1px solid var(--line);
+}
+.archive-nav a{
+  display:flex;
+  align-items:center;
+  min-height:44px;
+  white-space:nowrap;
+}
+.archive-nav a:hover,.archive-nav a:focus-visible{color:var(--red);text-decoration:underline}
+@media screen and (max-width:760px){
+  html{scroll-padding-top:var(--archive-nav-height, 58px)}
+  .archive-nav{
+    justify-content:flex-start;
+    flex-wrap:nowrap;
+    overflow-x:auto;
+    gap:18px;
+  }
+  .archive-nav a{flex:none}
+}
 </style><!-- 2003-2004 season-data publication refresh: 2026-11-18 -->
-</head><body><header><a class="brand" href="#"><img class="brand-emblem" src="logos/sachems-headdress-red-white.webp" alt="">SAUGUS FOOTBALL ARCHIVE</a><nav aria-label="Main navigation"><a href="#memorable">Memorable Games</a><a href="#seasons">Seasons</a><a href="#thanksgiving">Thanksgiving</a><a href="#championships">Championships</a><a href="#captains">Captains</a><a href="#honors">Honors</a><a href="#alumni">Alumni</a><a href="#college-alumni">College & Beyond</a><a href="#hall-of-fame">Hall of Fame</a><a href="#head-coaches">Head Coaches</a><a href="#player-stats">Player Stats</a><a href="#gallery">Newspaper Clippings &amp; Photos</a><a href="#history">The history</a><a href="#sources">Sources</a></nav></header><main><div class="hero"><div><div class="eyebrow">Saugus, Massachusetts · Independent historical archive</div><h1>A small town.<br>A lasting <em>legacy.</em></h1><p class="lede">The teams, the players, and the stories behind more than a century of Saugus High School football.</p><a class="button" href="#seasons">Explore the seasons ↗</a></div><figure class="hero-art"><img src="logos/sachems-homepage.webp" alt="Saugus Sachems artwork in red and white" width="709" height="709" fetchpriority="high"><figcaption><strong id="archiveYears">Since 1901</strong><p>Generations of Sachem pride. Every era has a story.</p></figcaption></figure></div><div class="app-promo" id="install"><img src="icons/sachems-headdress-192.png" alt="Sachems app icon"><div class="app-copy"><strong>Sachems history. On your home screen.</strong><p>Install the free app for quick access to the archive, photos, and records.</p></div><button class="button" id="appGuideButton" aria-haspopup="dialog">Get the free app ↗</button></div><div class="stats"><div class="stat"><strong id="count">—</strong><span>season entries in the collection</span></div><div class="stat"><strong>1914</strong><span>start of the regular season chronology</span></div><div class="stat"><strong>Red & white</strong><span>a community tradition</span></div></div>
+</head><body><header><a class="brand" href="#"><img class="brand-emblem" src="logos/sachems-headdress-red-white.webp" alt="">SAUGUS FOOTBALL ARCHIVE</a></header><nav class="archive-nav" aria-label="Main navigation"><a href="#memorable">Memorable Games</a><a href="#seasons">Seasons</a><a href="#thanksgiving">Thanksgiving</a><a href="#championships">Championships</a><a href="#captains">Captains</a><a href="#honors">Honors</a><a href="#alumni">Alumni</a><a href="#college-alumni">College & Beyond</a><a href="#hall-of-fame">Hall of Fame</a><a href="#head-coaches">Head Coaches</a><a href="#player-stats">Player Stats</a><a href="#gallery">Newspaper Clippings &amp; Photos</a><a href="#history">The history</a><a href="#sources">Sources</a></nav>
+<script>
+  const archiveNav = document.querySelector('.archive-nav');
+  const updateArchiveNavOffset = () => {
+    document.documentElement.style.setProperty('--archive-nav-height', archiveNav.offsetHeight + 'px');
+  };
+  updateArchiveNavOffset();
+  new ResizeObserver(updateArchiveNavOffset).observe(archiveNav);
+</script><main><div class="hero"><div><div class="eyebrow">Saugus, Massachusetts · Independent historical archive</div><h1>A small town.<br>A lasting <em>legacy.</em></h1><p class="lede">The teams, the players, and the stories behind more than a century of Saugus High School football.</p><a class="button" href="#seasons">Explore the seasons ↗</a></div><figure class="hero-art"><img src="logos/sachems-homepage.webp" alt="Saugus Sachems artwork in red and white" width="709" height="709" fetchpriority="high"><figcaption><strong id="archiveYears">Since 1901</strong><p>Generations of Sachem pride. Every era has a story.</p></figcaption></figure></div><div class="app-promo" id="install"><img src="icons/sachems-headdress-192.png" alt="Sachems app icon"><div class="app-copy"><strong>Sachems history. On your home screen.</strong><p>Install the free app for quick access to the archive, photos, and records.</p></div><button class="button" id="appGuideButton" aria-haspopup="dialog">Get the free app ↗</button></div><div class="stats"><div class="stat"><strong id="count">—</strong><span>season entries in the collection</span></div><div class="stat"><strong>1914</strong><span>start of the regular season chronology</span></div><div class="stat"><strong>Red & white</strong><span>a community tradition</span></div></div>
 <section id="memorable">
 <h2>Memorable Games</h2>
 <p>Bowl games, Thanksgiving wins, and record-setting performances from Saugus football history.</p>
