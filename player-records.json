@@ -2190,7 +2190,22 @@
       "schoolClass": "Sr",
       "year": 1975,
       "publisher": "Boston Herald",
-      "row": 209
+      "row": 209,
+      "publication": "Herald American / Herald Advertiser",
+      "award": "All-Scholastic",
+      "sourceUrl": "photos/contributed-IMG_2476.webp",
+      "sourceLabel": "Herald American / Herald Advertiser · 1975 All-Scholastic football team"
+    },
+    {
+      "name": "Doug Mackie",
+      "position": "OL",
+      "schoolClass": "Sr",
+      "year": 1975,
+      "publisher": "Boston Herald",
+      "publication": "Herald American / Herald Advertiser",
+      "award": "All-Scholastic",
+      "sourceUrl": "photos/contributed-IMG_2476.webp",
+      "sourceLabel": "Herald American / Herald Advertiser · 1975 All-Scholastic football team"
     },
     {
       "year": 1995,
@@ -4514,7 +4529,7 @@
           "url": "photos/contributed-2688.webp"
         },
         {
-          "label": "John Nicolo & Doug Mackie — All-Scholastic",
+          "label": "Herald American / Herald Advertiser · 1975 All-Scholastic football team",
           "url": "photos/contributed-IMG_2476.webp"
         },
         {
@@ -4644,7 +4659,7 @@
           "url": "photos/zip-IMG_7767.webp"
         },
         {
-          "label": "John Nicolo & Doug Mackie — All-Scholastic",
+          "label": "Herald American / Herald Advertiser · 1975 All-Scholastic football team",
           "url": "photos/contributed-IMG_2476.webp"
         },
         {
