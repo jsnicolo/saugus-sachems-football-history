@@ -5,6 +5,24 @@
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
     {
+      "name": "Frank B. Ryder",
+      "gradYear": null,
+      "college": "Brown University",
+      "position": "",
+      "rosterYears": "1934 (freshman)",
+      "professional": "",
+      "footballAccolades": [
+        "Brown freshman football insignia (1934)"
+      ],
+      "notes": "A December 5 newspaper report on Brown’s football and soccer awards lists Frank B. Ryder of Saugus, Massachusetts, among the freshman football insignia recipients. Saugus High affiliation is provisional pending confirmation of his high school football participation and graduation year.",
+      "sources": [
+        {
+          "label": "Newspaper clipping · Brown Awards Letters in Football and Soccer",
+          "url": "documents/1934-brown-freshman-football-awards.webp"
+        }
+      ]
+    },
+    {
       "name": "Robert “Bazooka” Burns",
       "gradYear": 1939,
       "college": "Boston College",
