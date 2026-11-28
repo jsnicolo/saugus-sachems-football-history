@@ -3719,6 +3719,32 @@
   ],
   "alumni": [
     {
+      "name": "Robert “Bazooka” Burns",
+      "schoolClass": "1939",
+      "position": "Fullback",
+      "era": "1935–1938",
+      "bio": "Bob “Bazooka” Burns played football all four years at Saugus High. As a senior under Buzz Harvey in 1938, he scored the first touchdown at the new Saugus Memorial Stadium at Stackpole Field in a 12–8 upset of previously unbeaten Melrose. He scored twice in a 26–0 win over Woburn, ran for three touchdowns of at least 50 yards in a 26–0 win over Newburyport, and returned a kickoff 80 yards for a touchdown against Gloucester. The Boston Globe gave him All-Scholastic honorable mention as a back.\n\nA contemporary newspaper report identifies Burns as Boston College’s freshman fullback and says he was expected to help the Eagles in 1941. Boston College’s 1946 roster lists Robert D. Burns of Saugus as a junior back and gives Seton Hall as his last school. The name, hometown and position make him a likely match. His varsity game appearances and the intervening seasons remain unverified.",
+      "source": "1939 Saugus High yearbook, Boston Globe All-Scholastic list, contemporary newspaper coverage, and Boston College Athletics.",
+      "sources": [
+        {
+          "label": "1939 Tontoquonian · senior biography and 1938 football review",
+          "url": "https://archive.org/details/tontoquonian1939saug"
+        },
+        {
+          "label": "Boston Globe · 1938 All-Scholastic honorable mentions",
+          "url": "documents/1938-globe-honorable-mentions.webp"
+        },
+        {
+          "label": "Newspaper clipping · Harvey May Quit Saugus, Is Report",
+          "url": "documents/bob-bazooka-burns-boston-college-freshman.webp"
+        },
+        {
+          "label": "Boston College Athletics · 1946 football roster",
+          "url": "https://bceagles.com/sports/football/roster/1946"
+        }
+      ]
+    },
+    {
       "name": "Chris Benson",
       "schoolClass": "2004",
       "position": "WR / LB",

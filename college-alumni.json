@@ -1,9 +1,32 @@
 {
   "title": "Sachems Who Played in College & Beyond",
-  "updated": "2026-11-26",
+  "updated": "2026-11-28",
   "status": "Research in progress; additions require verified college or professional football roster evidence. Saugus, Massachusetts, not Saugus, California.",
   "eligibility": "A documented college or professional roster spot qualifies even without game appearances; redshirts, reserves, and practice squads count. Being drafted or invited to a tryout does not alone establish a professional roster spot.",
   "entries": [
+    {
+      "name": "Robert “Bazooka” Burns",
+      "gradYear": 1939,
+      "college": "Boston College",
+      "position": "FB",
+      "rosterYears": "1940 (freshman, inferred); 1946 (likely roster match)",
+      "professional": "",
+      "notes": "A contemporary newspaper report identifies Burns as Boston College’s freshman fullback and says he was expected to help the Eagles in 1941. The reference to 1941 points to the 1940 freshman season. Boston College’s 1946 roster lists Robert D. Burns of Saugus as a junior back and gives Seton Hall as his last school. The name, hometown and position make him a likely match. His varsity game appearances and the intervening seasons remain unverified.",
+      "sources": [
+        {
+          "label": "Newspaper clipping · Harvey May Quit Saugus, Is Report",
+          "url": "documents/bob-bazooka-burns-boston-college-freshman.webp"
+        },
+        {
+          "label": "Boston College Athletics · 1946 football roster",
+          "url": "https://bceagles.com/sports/football/roster/1946"
+        },
+        {
+          "label": "1939 Tontoquonian · senior biography and 1938 football review",
+          "url": "https://archive.org/details/tontoquonian1939saug"
+        }
+      ]
+    },
     {
       "name": "John “Jack” Leahy",
       "gradYear": 1928,
