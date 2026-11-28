@@ -1,6 +1,15 @@
 {
   "honors": [
     {
+      "year": 1935,
+      "name": "Gerard Brazis",
+      "position": "End",
+      "publisher": "All-Eastern State High School Eleven",
+      "award": "All-Eastern State High School Eleven voting · 6 votes",
+      "sourceLabel": "1935 newspaper clipping · All-Eastern State High School Eleven",
+      "sourceNote": "Listed under “Others Who Received Votes” at end."
+    },
+    {
       "name": "Michael Garofano",
       "position": "Right halfback",
       "schoolClass": "",
@@ -3718,6 +3727,14 @@
     }
   ],
   "alumni": [
+    {
+      "name": "Gerard Brazis",
+      "position": "End",
+      "era": "1935",
+      "sortYear": 1935,
+      "bio": "Gerard Brazis played end for Jack Leahy’s 1935 Saugus High team, which finished 7–3 and beat Danvers 18–12 on Thanksgiving. Brazis received six votes in the All-Eastern State High School Eleven balloting and was listed among the other ends who received votes.",
+      "source": "1935 Saugus season archive and contributed All-Eastern State High School Eleven newspaper clipping."
+    },
     {
       "name": "Robert “Bazooka” Burns",
       "schoolClass": "1939",

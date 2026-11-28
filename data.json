@@ -1840,7 +1840,7 @@
       "awards": null,
       "nickname": "Sachems",
       "sourceRow": 30,
-      "seasonNote": "In John “Jack” Leahy’s first season as head coach, Saugus won six of its first nine varsity games and beat Danvers 18–12 on Thanksgiving. The 1935 town report confirms seven wins in ten varsity games.\n\n\n\nThe 1936 yearbook (p. 44) calls this the best team since 1922 and reports five consecutive wins before Marblehead, followed by an 18–12 Thanksgiving victory. Its nine-game table omits Newburyport, explaining the apparent streak discrepancy with the ten-game newspaper schedule. The printed totals of 108–91 include only the nine listed games; adding Newburyport 14–8 gives 122–99 for ten games. Home games marked in the yearbook: Hudson, Concord, Stoneham, Amesbury, Marblehead and Danvers.",
+      "seasonNote": "In John “Jack” Leahy’s first season as head coach, Saugus won six of its first nine varsity games and beat Danvers 18–12 on Thanksgiving. The 1935 town report confirms seven wins in ten varsity games.\n\n\n\nThe 1936 yearbook (p. 44) calls this the best team since 1922 and reports five consecutive wins before Marblehead, followed by an 18–12 Thanksgiving victory. Its nine-game table omits Newburyport, explaining the apparent streak discrepancy with the ten-game newspaper schedule. The printed totals of 108–91 include only the nine listed games; adding Newburyport 14–8 gives 122–99 for ten games. Home games marked in the yearbook: Hudson, Concord, Stoneham, Amesbury, Marblehead and Danvers.\n\nSaugus end Gerard Brazis received six votes in the 1935 All-Eastern State High School Eleven balloting and appeared in the published list of other players who received votes.",
       "seasonSources": [
         {
           "label": "Boston Globe · 1935 Thanksgiving preview and season records",
@@ -1852,6 +1852,9 @@
         },
         {
           "label": "1936 Tontoquonian · football review (contributor scans, source only)"
+        },
+        {
+          "label": "1935 newspaper clipping · All-Eastern State High School Eleven (contributed scan)"
         }
       ],
       "games": [
