@@ -1083,9 +1083,9 @@
       "gradYear": 2005,
       "college": "Hamilton College",
       "position": "DB / safety",
-      "rosterYears": "2008–2009 (football appearances verified)",
+      "rosterYears": "2006 (yearbook roster); 2008–2009 (game appearances verified)",
       "professional": "",
-      "notes": "Hamilton’s No. 25 recorded three solo tackles against Wesleyan and two against Bates in 2008. A 2009 NESCAC report credits him with an interception returned 11 yards through the first two games of his senior football season. Hamilton’s 2007 yearbook also lists him on the men’s hockey roster.",
+      "notes": "Hamilton’s No. 25 recorded three solo tackles against Wesleyan and two against Bates in 2008. A 2009 NESCAC report credits him with an interception returned 11 yards through the first two games of his senior football season. Hamilton’s 2007 yearbook also lists him on the men’s hockey roster. Hamilton’s 2007 yearbook lists Gannon on the fall 2006 football roster, confirming his freshman roster membership. The 2007 season remains to be independently verified.",
       "sources": [
         {
           "label": "Wesleyan Athletics · 2008 Hamilton box score",
@@ -1101,6 +1101,10 @@
         },
         {
           "label": "The Hamiltonian · 2007 hockey roster",
+          "url": "https://students.hamilton.edu/yearbook/archive/Class-of-2007.pdf"
+        },
+        {
+          "label": "Hamiltonian 2007 yearbook · fall 2006 football roster",
           "url": "https://students.hamilton.edu/yearbook/archive/Class-of-2007.pdf"
         }
       ]
