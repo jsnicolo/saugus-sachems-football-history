@@ -1712,16 +1712,17 @@
           "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
         },
         {
-          "date": "—",
+          "date": "1933-11-30",
           "opponent": "Danvers",
           "result": "T 0–0",
-          "status": "Thanksgiving"
+          "status": "Thanksgiving",
+          "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
         }
       ],
       "scheduleNote": "Season-to-date results transcribed from the Boston Globe preview; dates are not printed. Thanksgiving result comes from the existing separately cited source.",
       "seasonSources": [
         {
-          "label": "Thanksgiving result · IMG_3294.jpg",
+          "label": "Retrospective Thanksgiving newspaper results table · 0–0 tie with Danvers",
           "url": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp"
         },
         {
@@ -1733,7 +1734,7 @@
           "url": "documents/1933-globe-red-doherty.webp"
         }
       ],
-      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Winchester 0–6; Lynn English 0–12; Gloucester 6–0; Angel Guardian 6–19; Newburyport 13–13; Amesbury 6–25; Swampscott 2–6; Marblehead 2–33; St. John's 31–0. Thanksgiving opponent: Danvers. The preview does not give the Thanksgiving final score.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 66 points and allowed 114.",
+      "seasonNote": "Boston Globe Thanksgiving preview: season-to-date results (Saugus score first): Winchester 0–6; Lynn English 0–12; Gloucester 6–0; Angel Guardian 6–19; Newburyport 13–13; Amesbury 6–25; Swampscott 2–6; Marblehead 2–33; St. John's 31–0. Saugus closed the season at home against Danvers on Thanksgiving, November 30. A retrospective newspaper results table records a 0–0 tie, leaving Saugus at 2–6–2. The Boston Globe’s Thanksgiving preview confirms the matchup and home site.\n\nSeason scoring totals (from the 10 listed games): Saugus scored 66 points and allowed 114.",
       "captainSource": "Contributor-supplied 1933 clipping, “Capt Doherty Star in Defeat,” identifies Capt. “Red” Doherty at right guard. Source-only image: 2389D0BE-E98B-4B2C-BD4F-DC3ED1B7B569.png; supplied November 7, 2026."
     },
     {
@@ -10115,15 +10116,15 @@
     {
       "year": 2026,
       "coach": "Greg Bluestein",
-      "record": "1 - 9",
+      "record": "1 - 10",
       "league": "Northeastern Conference - South",
       "title": null,
       "players": "Paxton Ferraro (Captain), Pharoah Brandenburg (Captain)",
       "awards": "2026 postseason All-Star / All-Scholastic selections not yet announced as of Nov. 2, 2026.",
       "nickname": "Sachems",
-      "recordAsOf": "2026-11-13",
-      "recordNote": "1–9 through November 13: eight on-field games (one win, seven losses) plus two forfeit losses. Gloucester (October 23) and Swampscott (October 30) were forfeited and not played; score aggregators may display 0–14 for each. Thanksgiving is pending.",
-      "seasonNote": "The Sachems earned their first win of 2026 on November 13, beating O’Bryant 24–20 on the road. They had returned to the field the previous week against Arlington Catholic after two forfeits prompted by roster availability and safety concerns. MaxPreps lists the Arlington Catholic result as 30–6, while the November 12 Saugus Advocate report gives 30–8. Thanksgiving against Peabody remains scheduled for November 26 at 10 a.m. The team did not qualify for the MIAA state tournament. Through November 13, the eight games played account for 56 points scored and 263 allowed using the MaxPreps Arlington Catholic score. MaxPreps lists 291 points allowed with the two 14–0 forfeit scores included.",
+      "recordAsOf": "2026-11-26",
+      "recordNote": "Final record: 1–10 overall and 0–4 in league play. Saugus went 1–8 in nine games played, with two additional losses by forfeit against Gloucester (October 23) and Swampscott (October 30). Score sites may display each forfeit as 0–14.",
+      "seasonNote": "The Sachems earned their only win on November 13, beating O’Bryant 24–20 on the road. They had returned to the field the previous week against Arlington Catholic after two forfeits prompted by roster availability and safety concerns. MaxPreps lists Arlington Catholic’s win as 30–6, while the November 12 Saugus Advocate report gives 30–8. Saugus did not qualify for the MIAA state tournament.\n\nSaugus lost its Thanksgiving finale 35–8 to Peabody at the Christie Serino Jr. Athletic Sports Complex on November 26. Peabody led 28–0 at halftime. Paxton Ferraro ran for 103 yards and scored on a 59-yard run, then ran in the two-point conversion. Saugus finished 1–10. Using the MaxPreps score for Arlington Catholic, Saugus scored 64 points and allowed 298 in nine games played. Counting the two 14–0 forfeit scores brings the points allowed to 326.",
       "games": [
         {
           "date": "2026-09-10",
@@ -10188,8 +10189,9 @@
         {
           "date": "2026-11-26",
           "opponent": "Peabody (Thanksgiving)",
-          "result": "Scheduled for 10:00 a.m.; result pending",
-          "status": "Scheduled"
+          "result": "L 8–35",
+          "status": "Thanksgiving",
+          "sourceUrl": "https://bostonnorthnews.com/2026/11/thanksgiving-football-2026-swampscott-ends-13-year-marblehead-streak-lynn-english-beats-classical-peabody-routs-saugus-melrose-lynnfield/"
         }
       ],
       "seasonSources": [
@@ -10240,6 +10242,14 @@
         {
           "label": "Saugus Advocate · November 12, 2026 Arlington Catholic report and forfeits (conflicting 30–8 score)",
           "url": "https://advocatenews.net/saugus/sports/shs-sachems-sports-roundup-sachems-return-to-gridiron-with-spirited-effort-girls-soccer-reflects-on-season-of-growth/"
+        },
+        {
+          "label": "Boston North News · Nov. 27 Thanksgiving game recap",
+          "url": "https://bostonnorthnews.com/2026/11/thanksgiving-football-2026-swampscott-ends-13-year-marblehead-streak-lynn-english-beats-classical-peabody-routs-saugus-melrose-lynnfield/"
+        },
+        {
+          "label": "MaxPreps · final 2026 schedule and season record",
+          "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
         }
       ]
     }

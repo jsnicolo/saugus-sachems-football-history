@@ -211,7 +211,7 @@
     "opponent": "Danvers",
     "result": "T 0–0",
     "status": "Historical table, visually checked",
-    "note": "Pre-Peabody Thanksgiving table; publication date cropped. Retrospective source; contemporary confirmation welcome. Boston Globe 1933 preview independently confirms the Thanksgiving matchup; it does not report the final score.",
+    "note": "Saugus and Danvers played to a 0–0 tie in the season finale at Saugus on November 30, according to the retrospective Thanksgiving results table. The Boston Globe’s contemporary preview confirms the date and venue.",
     "sourceFile": "IMG_3294.jpg",
     "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/thanksgiving-IMG_3294.webp",
     "previewSourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/photos/1933-globe-thanksgiving-preview.webp"
@@ -1273,14 +1273,23 @@
   {
     "year": 2026,
     "opponent": "Peabody",
-    "result": "Scheduled",
-    "status": "Thanksgiving · Nov. 26, 10 a.m.",
-    "note": "Saugus enters the holiday game after a 24–20 road win over O’Bryant. The Thanksgiving result will be added once the game is played.",
+    "result": "L 8–35",
+    "status": "Published result",
+    "note": "November 26 at Saugus. Paxton Ferraro scored on a 59-yard run and added the two-point conversion. Saugus finished 1–10.",
     "sources": [
       {
-        "label": "Saugus Advocate · 2026 Thanksgiving preview",
-        "url": "https://advocatenews.net/saugus/sports/2026-thanksgiving-football-preview-saugus-seeks-to-end-peabodys-holiday-streak-give-seniors-a-memorable-finish/"
+        "label": "Boston North News · Nov. 27 Thanksgiving game recap",
+        "url": "https://bostonnorthnews.com/2026/11/thanksgiving-football-2026-swampscott-ends-13-year-marblehead-streak-lynn-english-beats-classical-peabody-routs-saugus-melrose-lynnfield/"
+      },
+      {
+        "label": "MaxPreps · final 2026 schedule and season record",
+        "url": "https://www.maxpreps.com/ma/saugus/saugus-sachems/football/schedule/"
+      },
+      {
+        "label": "Boston Globe · Thanksgiving final score",
+        "url": "https://www.bostonglobe.com/sports/high-schools/scoreboard/"
       }
-    ]
+    ],
+    "sourceUrl": "https://bostonnorthnews.com/2026/11/thanksgiving-football-2026-swampscott-ends-13-year-marblehead-streak-lynn-english-beats-classical-peabody-routs-saugus-melrose-lynnfield/"
   }
 ]
