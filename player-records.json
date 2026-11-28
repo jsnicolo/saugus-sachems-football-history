@@ -1,6 +1,39 @@
 {
   "honors": [
     {
+      "name": "Raphael Zammit",
+      "year": 1999,
+      "seasonYear": 1998,
+      "publisher": "Shriners",
+      "award": "Shriners football All-Star",
+      "position": "",
+      "schoolClass": "Class of 1999",
+      "sourceLabel": "2004 Shriners Football Classic program · p. 106",
+      "sourceNote": "2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing. The program lists him as Ralph Zammit."
+    },
+    {
+      "name": "Dan Schena",
+      "year": 1991,
+      "seasonYear": 1990,
+      "publisher": "Shriners",
+      "award": "Shriners football All-Star",
+      "position": "",
+      "schoolClass": "Class of 1991",
+      "sourceLabel": "2004 Shriners Football Classic program · p. 106",
+      "sourceNote": "2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing."
+    },
+    {
+      "name": "Steve Peach",
+      "year": 1981,
+      "seasonYear": 1980,
+      "publisher": "Shriners",
+      "award": "Shriners football All-Star · North squad",
+      "position": "QB",
+      "schoolClass": "Class of 1981",
+      "sourceLabel": "2004 Shriners Football Classic program · pp. 95, 106",
+      "sourceNote": "2004 Shriners Football Classic program · pp. 95, 106 confirms the Saugus roster listing. Steve Peach scored on a one-yard run for the North in the 1981 Shriners Football Classic at Boston College. The South won 21–16."
+    },
+    {
       "year": 1933,
       "name": "Vincent Pendleton",
       "position": "Back",
@@ -136,10 +169,11 @@
       "schoolClass": "Class of 1990",
       "year": 1990,
       "publisher": "Shriners",
-      "award": "Shriners football All-Star · North squad",
+      "award": "Shriners football All-Star · North squad · Outstanding Defensive Player",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1990-shriners-roster-marc-fauci.webp",
       "sourceLabel": "1990 Shriners roster · Marc Fauci, Saugus",
-      "sourceNote": "Named on the North roster for the 12th annual Shriners All-Star Football Classic, scheduled for June 15 at Boston University’s Nickerson Field. Game year and Saugus Class of 1990 supplied by Sal Nicolo."
+      "sourceNote": "Named on the North roster for the 12th annual Shriners All-Star Football Classic, scheduled for June 15 at Boston University’s Nickerson Field. Game year and Saugus Class of 1990 supplied by Sal Nicolo. 2004 Shriners Football Classic program · pp. 96, 106 confirms the Saugus roster listing. Marc Fauci earned the North’s Outstanding Defensive Player award in its 27–21 overtime win in the 1990 Shriners Football Classic at Boston University.",
+      "seasonYear": 1989
     },
     {
       "name": "Darren McCullough",
@@ -177,13 +211,14 @@
     {
       "name": "Darren McCullough",
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Class of 1987",
       "year": 1987,
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1987-boston-globe-shriners-mccullough-additional-roster.webp",
       "sourceLabel": "Boston Globe · 1987 Shriners North roster · No. 45",
-      "sourceNote": "The North roster lists No. 45 Darren McCullough of Saugus. The contributed screenshot identifies the Boston Globe archive; game year 1987 supplied by Sal Nicolo. Exact publication date is not visible. Earlier supporting roster: https://jsnicolo.github.io/saugus-sachems-football-history/documents/1987-shriners-north-south-rosters-mccullough.webp"
+      "sourceNote": "The North roster lists No. 45 Darren McCullough of Saugus. The contributed screenshot identifies the Boston Globe archive; game year 1987 supplied by Sal Nicolo. Exact publication date is not visible. Earlier supporting roster: https://jsnicolo.github.io/saugus-sachems-football-history/documents/1987-shriners-north-south-rosters-mccullough.webp 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 1986
     },
     {
       "name": "James MacDougal",
@@ -2291,12 +2326,13 @@
       "name": "Anthony Barbanti",
       "year": 2004,
       "position": "OL/DL",
-      "schoolClass": "",
+      "schoolClass": "Class of 2004",
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceLabel": "2004 Shriners All-Star rosters · North squad · June 18 game",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/2004-shriners-north-roster-anthony-barbanti.webp",
-      "sourceNote": "The North roster names Anthony Barbanti of Saugus for the Shriners All-Star game scheduled for Friday, June 18, at Bentley at 7 p.m. Game year 2004 supplied with the clipping; publication and exact publication date are not visible. OL/DL position retained from the existing season archive and contributor confirmation; positions are not listed in this roster."
+      "sourceNote": "The North roster names Anthony Barbanti of Saugus for the Shriners All-Star game scheduled for Friday, June 18, at Bentley at 7 p.m. Game year 2004 supplied with the clipping; publication and exact publication date are not visible. OL/DL position retained from the existing season archive and contributor confirmation; positions are not listed in this roster. 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 2003
     },
     {
       "name": "Steve Gannon",
@@ -2680,7 +2716,8 @@
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1994-shriners-north-roster-joseph-attubato.webp",
       "sourceLabel": "1994 Shriners rosters · North, No. 79",
-      "sourceNote": "The North roster lists No. 79 Joseph Attubato of Saugus for the Shriners All-Star game at Boston University at 7:30 p.m. Game year 1994 supplied with the clipping; publication and exact date are not visible. Also known as Joe Attubato. Position and graduation class retained from existing supporting evidence. Earlier Lynn Item source confirms his Shriners participation: https://jsnicolo.github.io/saugus-sachems-football-history/documents/1994-item-attubato-agganis-captain.webp"
+      "sourceNote": "The North roster lists No. 79 Joseph Attubato of Saugus for the Shriners All-Star game at Boston University at 7:30 p.m. Game year 1994 supplied with the clipping; publication and exact date are not visible. Also known as Joe Attubato. Position and graduation class retained from existing supporting evidence. Earlier Lynn Item source confirms his Shriners participation: https://jsnicolo.github.io/saugus-sachems-football-history/documents/1994-item-attubato-agganis-captain.webp 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 1993
     },
     {
       "name": "Dick Barrows",
@@ -2796,45 +2833,49 @@
       "name": "Eric Taylor",
       "year": 1980,
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Class of 1980",
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1980-shriners-north-roster-eric-taylor.webp",
       "sourceLabel": "1980 Shriners Football Classic roster · North, No. 65",
-      "sourceNote": "The North roster lists No. 65 Eric Taylor of Saugus for the Shriners Football Classic, scheduled for Saturday at 7 p.m. at Boston College. Game year 1980 supplied with the clipping; publication and exact date are not visible. Jersey number does not establish position."
+      "sourceNote": "The North roster lists No. 65 Eric Taylor of Saugus for the Shriners Football Classic, scheduled for Saturday at 7 p.m. at Boston College. Game year 1980 supplied with the clipping; publication and exact date are not visible. Jersey number does not establish position. 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 1979
     },
     {
-      "name": "Mark Strange",
+      "name": "Mark Strangie",
       "year": 1983,
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Class of 1983",
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1983-shriners-north-roster-mark-strange.webp",
       "sourceLabel": "1983 Shriners roster · “The North Shrine Roster” · No. 70",
-      "sourceNote": "The North roster lists No. 70 Mark Strange of Saugus. Game year 1983 supplied with the clipping; publication and exact date are not visible. Position is not specified in the roster."
+      "sourceNote": "The North roster lists No. 70 Mark Strange of Saugus. Game year 1983 supplied with the clipping; publication and exact date are not visible. Position is not specified in the roster. 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 1982
     },
     {
       "name": "Larry Furey",
       "year": 1988,
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Class of 1988",
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1988-shriners-north-roster-larry-furey.webp",
       "sourceLabel": "1988 Shriners’ rosters · North, No. 72",
-      "sourceNote": "The North roster lists No. 72 Larry Furey of Saugus. Game year 1988 supplied with the clipping; publication and exact date are not visible. Position is not specified in the roster."
+      "sourceNote": "The North roster lists No. 72 Larry Furey of Saugus. Game year 1988 supplied with the clipping; publication and exact date are not visible. Position is not specified in the roster. 2004 Shriners Football Classic program · p. 106 confirms the Saugus roster listing.",
+      "seasonYear": 1987
     },
     {
       "name": "L.J. McKanas",
       "year": 1997,
       "position": "",
-      "schoolClass": "",
+      "schoolClass": "Class of 1997",
       "publisher": "Shriners",
       "award": "Shriners football All-Star · North squad",
       "sourceUrl": "https://jsnicolo.github.io/saugus-sachems-football-history/documents/1997-06-15-boston-globe-shriners-lj-mckanas.webp",
       "sourceLabel": "The Boston Sunday Globe · June 15, 1997 · Tom Wilcox · “Walker excels for North”",
-      "sourceNote": "The report of the 19th annual Shriners Football Classic at Boston University’s Nickerson Field identifies L.J. McKanas of Saugus as scoring a two-point conversion run to give the North a 14–10 lead. North won 29–17. The game was played June 14, 1997, described as yesterday in the June 15 report."
+      "sourceNote": "The report of the 19th annual Shriners Football Classic at Boston University’s Nickerson Field identifies L.J. McKanas of Saugus as scoring a two-point conversion run to give the North a 14–10 lead. North won 29–17. The game was played June 14, 1997, described as yesterday in the June 15 report. 2004 Shriners Football Classic program · pp. 97, 106 confirms the Saugus roster listing. L.J. McKanas ran in a two-point conversion in the North’s 29–17 win in the 1997 Shriners Football Classic at Boston University.",
+      "seasonYear": 1996
     },
     {
       "name": "Earl Dudman",
@@ -4821,7 +4862,7 @@
       "name": "Steve Peach",
       "position": "Quarterback / Safety / Kicker / Punter",
       "schoolClass": "1981",
-      "bio": "Steve Peach was Saugus’ versatile quarterback, safety and kicking specialist and the first player to earn three Item football All-Star selections, in 1978, 1979 and 1980. Later Item team announcements identify him as the original three-time selection. His 1981 senior biography also records captaincies in football and baseball and three years of basketball.\n\nThe newspaper capsules trace his development. As a sophomore in 1978, he passed for 1,050 yards and 11 touchdowns, ran for three scores and intercepted four passes. In 1979 he completed 108 of 206 passes for 1,489 yards and 14 touchdowns, added four rushing touchdowns, kicked a 48-yard field goal and averaged 39 yards per punt. On defense, he led the Sachems with six interceptions and three fumble recoveries. His 1980 senior capsule credits him with 1,200 passing yards, eight touchdown passes and eight touchdowns scored, plus a 38-yard punting average.\n\nHis best games displayed that versatility. In the 46–14 win over Lynn English in 1978, he completed all five passes for 241 yards and four touchdowns and kicked four extra points. In the 25–24 upset of previously unbeaten Lynn Classical in 1979, Peach completed 14 of 27 passes for 245 yards and two touchdowns, ran for two scores and kicked the extra point that supplied the winning margin. With 11 seconds remaining, he then broke up Classical’s two-point conversion pass to preserve the victory. On Thanksgiving in 1979, he threw for 201 yards, including a 31-yard touchdown to Gary Quinlan, in a 35–14 loss to Peabody. On Thanksgiving in 1980, he completed five of nine passes for 100 yards and two touchdowns and returned an interception 40 yards for a score as Saugus defeated Peabody, 40–6.\n\nPeach was selected for the North squad in the 1981 Shriners Football Classic, whose Boston Globe preview noted his Syracuse scholarship. He subsequently played at Syracuse before transferring to Boston College. BC’s official record book lists him at quarterback/punter in 1984 and 1985, and a hometown retrospective recalls his role as Doug Flutie’s backup and the Eagles’ Cotton Bowl punter. He passed for 372 yards and a touchdown at Syracuse in 1982 and punted 118 times for 4,269 yards at Boston College across the 1984 and 1985 seasons.\n\nFurther Globe reporting of the 1978 Lynn English game identifies Peach’s four first-quarter touchdown passes as covering 55, 83, 42 and nine yards. He completed all five attempts for 241 yards and kicked four extra points as Saugus scored 40 points in the opening quarter. On Thanksgiving against Peabody, Peach threw his 11th touchdown pass of the season to John Rouleau, kicked a 30-yard field goal and converted three extra points in the 30–14 victory.\n\nEddie Koschei gave Peach honorable mention at quarterback in Bob Walsh’s Item retrospective. The article lists 1979, and the archive also documents his 1980 season.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 1991.",
+      "bio": "Steve Peach was Saugus’ versatile quarterback, safety and kicking specialist and the first player to earn three Item football All-Star selections, in 1978, 1979 and 1980. Later Item team announcements identify him as the original three-time selection. His 1981 senior biography also records captaincies in football and baseball and three years of basketball.\n\nThe newspaper capsules trace his development. As a sophomore in 1978, he passed for 1,050 yards and 11 touchdowns, ran for three scores and intercepted four passes. In 1979 he completed 108 of 206 passes for 1,489 yards and 14 touchdowns, added four rushing touchdowns, kicked a 48-yard field goal and averaged 39 yards per punt. On defense, he led the Sachems with six interceptions and three fumble recoveries. His 1980 senior capsule credits him with 1,200 passing yards, eight touchdown passes and eight touchdowns scored, plus a 38-yard punting average.\n\nHis best games displayed that versatility. In the 46–14 win over Lynn English in 1978, he completed all five passes for 241 yards and four touchdowns and kicked four extra points. In the 25–24 upset of previously unbeaten Lynn Classical in 1979, Peach completed 14 of 27 passes for 245 yards and two touchdowns, ran for two scores and kicked the extra point that supplied the winning margin. With 11 seconds remaining, he then broke up Classical’s two-point conversion pass to preserve the victory. On Thanksgiving in 1979, he threw for 201 yards, including a 31-yard touchdown to Gary Quinlan, in a 35–14 loss to Peabody. On Thanksgiving in 1980, he completed five of nine passes for 100 yards and two touchdowns and returned an interception 40 yards for a score as Saugus defeated Peabody, 40–6.\n\nPeach was selected for the North squad in the 1981 Shriners Football Classic, whose Boston Globe preview noted his Syracuse scholarship. He subsequently played at Syracuse before transferring to Boston College. BC’s official record book lists him at quarterback/punter in 1984 and 1985, and a hometown retrospective recalls his role as Doug Flutie’s backup and the Eagles’ Cotton Bowl punter. He passed for 372 yards and a touchdown at Syracuse in 1982 and punted 118 times for 4,269 yards at Boston College across the 1984 and 1985 seasons.\n\nFurther Globe reporting of the 1978 Lynn English game identifies Peach’s four first-quarter touchdown passes as covering 55, 83, 42 and nine yards. He completed all five attempts for 241 yards and kicked four extra points as Saugus scored 40 points in the opening quarter. On Thanksgiving against Peabody, Peach threw his 11th touchdown pass of the season to John Rouleau, kicked a 30-yard field goal and converted three extra points in the 30–14 victory.\n\nEddie Koschei gave Peach honorable mention at quarterback in Bob Walsh’s Item retrospective. The article lists 1979, and the archive also documents his 1980 season.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 1991.\n\nSteve Peach scored on a one-yard run for the North in the 1981 Shriners Football Classic at Boston College. The South won 21–16.",
       "row": 16,
       "hallOfFameYear": 1991,
       "sources": [
@@ -4894,7 +4935,7 @@
           "url": "photos/contributed-1251.webp"
         }
       ],
-      "source": "Contemporary contributed newspaper clippings and season history; official college and professional records where cited."
+      "source": "Contemporary contributed newspaper clippings and season history; official college and professional records where cited. 2004 Shriners Football Classic program · pp. 95, 106."
     },
     {
       "name": "Darren McCullough",
@@ -4939,7 +4980,7 @@
       "name": "Marc Fauci",
       "position": "QB/LB",
       "schoolClass": "1990",
-      "bio": "Marc Fauci was a two-time Lynn Item All-Scholastic and a Boston Globe All-Scholastic as a senior, when he also won the NEC football Most Valuable Player award.\n\nAs a junior in 1988, Fauci scored on two four-yard quarterback keepers in Saugus’s 22–14 Thanksgiving win over Peabody. Bob Sacco’s Saugus Advertiser illustration credits him with eight completions in 15 attempts for 150 yards.\n\nAs a sophomore in 1987, Fauci threw 12 touchdown passes, ran for four scores and earned Northeastern Conference All-Star honors at defensive back. His passing helped Saugus take a 21–14 lead in the 21–20 Thanksgiving win over Peabody. The Sachems finished 7–3.\n\nHis senior Item capsule provides a detailed measure of that impact: 440 career tackles and 19 interceptions, with the team tackle lead in three consecutive seasons. In 1989 he averaged 14 tackles per game, recovered four fumbles and contributed 757 rushing yards and 743 passing yards on offense. The capsule also credits him with four career Gold Helmet awards, honor-roll standing and three terms as class president.\n\nFauci was also chosen for the 1990 Shriners Football Classic and the 1990 Agganis All-Star game. In the Agganis game, he earned East MVP honors as the East rallied for a 21–20 victory.\n\nAt Boston University he began at strong safety, becoming a freshman starter and earning Yankee Conference Rookie of the Week after an 11-tackle, one-interception, two-pass-breakup performance against Rhode Island. He led the team in tackles as a junior with 90 and was selected as a team tri-captain, then moved to middle linebacker for his senior season. He served as a college captain in both his junior and senior seasons. He helped lead the Terriers to a 12–1 finish in 1993, including an 11–0 regular season—the program’s first unbeaten and untied regular season. A first-team All-Yankee Conference and second-team All-ECAC selection in 1993, as well as a second-team All-America selection by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press, Fauci played linebacker and was credited by his Hall of Fame biography with top-five career totals in primary, assisted and total tackles. He entered the Boston University Athletic Hall of Fame in 2010.\n\nEddie Koschei gave Fauci honorable mention at quarterback in Bob Walsh’s Item retrospective. The article lists 1988, and the archive also documents his 1989 senior season and conference MVP award.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 2000.",
+      "bio": "Marc Fauci was a two-time Lynn Item All-Scholastic and a Boston Globe All-Scholastic as a senior, when he also won the NEC football Most Valuable Player award.\n\nAs a junior in 1988, Fauci scored on two four-yard quarterback keepers in Saugus’s 22–14 Thanksgiving win over Peabody. Bob Sacco’s Saugus Advertiser illustration credits him with eight completions in 15 attempts for 150 yards.\n\nAs a sophomore in 1987, Fauci threw 12 touchdown passes, ran for four scores and earned Northeastern Conference All-Star honors at defensive back. His passing helped Saugus take a 21–14 lead in the 21–20 Thanksgiving win over Peabody. The Sachems finished 7–3.\n\nHis senior Item capsule provides a detailed measure of that impact: 440 career tackles and 19 interceptions, with the team tackle lead in three consecutive seasons. In 1989 he averaged 14 tackles per game, recovered four fumbles and contributed 757 rushing yards and 743 passing yards on offense. The capsule also credits him with four career Gold Helmet awards, honor-roll standing and three terms as class president.\n\nFauci was also chosen for the 1990 Shriners Football Classic and the 1990 Agganis All-Star game. In the Agganis game, he earned East MVP honors as the East rallied for a 21–20 victory.\n\nAt Boston University he began at strong safety, becoming a freshman starter and earning Yankee Conference Rookie of the Week after an 11-tackle, one-interception, two-pass-breakup performance against Rhode Island. He led the team in tackles as a junior with 90 and was selected as a team tri-captain, then moved to middle linebacker for his senior season. He served as a college captain in both his junior and senior seasons. He helped lead the Terriers to a 12–1 finish in 1993, including an 11–0 regular season—the program’s first unbeaten and untied regular season. A first-team All-Yankee Conference and second-team All-ECAC selection in 1993, as well as a second-team All-America selection by The Sports Network and National Weekly Football Gazette and a third-team All-America selection by the Associated Press, Fauci played linebacker and was credited by his Hall of Fame biography with top-five career totals in primary, assisted and total tackles. He entered the Boston University Athletic Hall of Fame in 2010.\n\nEddie Koschei gave Fauci honorable mention at quarterback in Bob Walsh’s Item retrospective. The article lists 1988, and the archive also documents his 1989 senior season and conference MVP award.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 2000.\n\nMarc Fauci earned the North’s Outstanding Defensive Player award in its 27–21 overtime win in the 1990 Shriners Football Classic at Boston University.",
       "row": 18,
       "hallOfFameYear": 2000,
       "sources": [
@@ -4980,13 +5021,13 @@
           "url": "photos/thanksgiving-IMG_4048.webp"
         }
       ],
-      "source": "Contemporary contributed newspaper clippings and season history; official college and professional records where cited."
+      "source": "Contemporary contributed newspaper clippings and season history; official college and professional records where cited. 2004 Shriners Football Classic program · pp. 96, 106."
     },
     {
       "name": "Dan Schena",
       "position": "Offensive / Defensive Line",
       "schoolClass": "1991",
-      "bio": "Dan Schena was a senior tri-captain and standout on both lines for Saugus’ 8–2 team in 1990. Alongside fellow captains Ryan Magnasco and Chris Mikulski, he helped lead the final Sachems team coached by Kevin Ward. Saugus outscored opponents 284–128 and placed seven seniors on the Northeastern Conference All-Star team. Schena scored on an end-zone fumble recovery in the 20–0 win over Salem and earned Division 3 All-Star honors on the defensive line.\n\nSchena’s own 1990 Lynn Item All-Star capsule describes a 6-foot-3, 240-pound lineman with unusual speed: he was the team’s third-fastest player. He made more than 100 tackles, earned NEC All-Star recognition and anchored a defense whose strength began up front. Ward’s assessment placed him among the program’s outstanding linemen since Doug Mackie.\n\nThe yearbook remembers the team’s closeness with its coaches as well as its victories, placing Schena within a senior class celebrated for both achievement and shared memories. He continued his football career at Northeastern University, whose official all-time lettermen list records varsity letters in each season from 1992 through 1995. Those four college seasons extend a football career that began with distinction on both sides of the line at Saugus.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 2001.",
+      "bio": "Dan Schena was a senior tri-captain and standout on both lines for Saugus’ 8–2 team in 1990. Alongside fellow captains Ryan Magnasco and Chris Mikulski, he helped lead the final Sachems team coached by Kevin Ward. Saugus outscored opponents 284–128 and placed seven seniors on the Northeastern Conference All-Star team. Schena scored on an end-zone fumble recovery in the 20–0 win over Salem and earned Division 3 All-Star honors on the defensive line.\n\nSchena’s own 1990 Lynn Item All-Star capsule describes a 6-foot-3, 240-pound lineman with unusual speed: he was the team’s third-fastest player. He made more than 100 tackles, earned NEC All-Star recognition and anchored a defense whose strength began up front. Ward’s assessment placed him among the program’s outstanding linemen since Doug Mackie.\n\nThe yearbook remembers the team’s closeness with its coaches as well as its victories, placing Schena within a senior class celebrated for both achievement and shared memories. He continued his football career at Northeastern University, whose official all-time lettermen list records varsity letters in each season from 1992 through 1995. Those four college seasons extend a football career that began with distinction on both sides of the line at Saugus.\n\nSaugus High School Athletic Hall of Fame inductee, Class of 2001.\n\nDan Schena represented Saugus in the 1991 Shriners Football Classic.",
       "row": "User contribution",
       "hallOfFameYear": 2001,
       "sources": [
@@ -5010,7 +5051,8 @@
           "label": "Northeastern University · football lettermen, 1992–1995",
           "url": "https://nuhuskies.com/sports/2013/7/18/GEN_0718133622.aspx"
         }
-      ]
+      ],
+      "source": "Saugus football archive. 2004 Shriners Football Classic program · p. 106."
     },
     {
       "name": "Mike Mabee",
@@ -6350,8 +6392,8 @@
       "name": "Raphael Zammit",
       "position": "RB / DB",
       "schoolClass": "1999",
-      "source": "Newspaper clippings and college records. Contributed 1997 newspaper scoring summaries.",
-      "bio": "As a junior in 1997, Zammit scored on a 75-yard kickoff return against Danvers and a 65-yard catch against Swampscott. The available scoring summaries document nine touchdowns that fall, including five catches, three runs and the kickoff return.\n\nSenior captain Raphael Zammit earned Boston Globe All-Scholastic honors at tailback and strong safety in 1998, along with Lynn Item and Northeastern Conference All-Star honors. He rushed for 1,481 yards and 21 rushing touchdowns, a school record at the time. He scored 25 total touchdowns and led Division 3 with 154 points. He closed the season with three rushing touchdowns and a 25-yard touchdown catch in a 39–32 Thanksgiving loss at Peabody. Justin Winn broke the rushing touchdown record with 22 in 2014. The Item reports 2,452 all-purpose yards and the Globe reports 2,453. On defense, he had 52 tackles, eight sacks and three interceptions, returning one for a touchdown. The Globe credited him with 2,891 rushing yards, 4,653 all-purpose yards and 41 touchdowns over his Saugus career. He was named South MVP in the 1999 Agganis All-Star game.\n\nAt Curry College from 2000 through 2003, Zammit rushed for 4,353 career yards and 44 touchdowns. He earned second-team all-conference honors in 2000 and 2001, then first-team honors and conference Offensive Player of the Year in 2002 and 2003. As a junior in 2002, he was named a third-team running back on the Hewlett Packard Division III All-America team. Curry’s records also list third-team All-America honors in 2003. He rushed for 1,479 yards in 2002 and 1,587 in 2003.",
+      "source": "Newspaper clippings and college records. Contributed 1997 newspaper scoring summaries. 2004 Shriners Football Classic program · p. 106.",
+      "bio": "As a junior in 1997, Zammit scored on a 75-yard kickoff return against Danvers and a 65-yard catch against Swampscott. The available scoring summaries document nine touchdowns that fall, including five catches, three runs and the kickoff return.\n\nSenior captain Raphael Zammit earned Boston Globe All-Scholastic honors at tailback and strong safety in 1998, along with Lynn Item and Northeastern Conference All-Star honors. He rushed for 1,481 yards and 21 rushing touchdowns, a school record at the time. He scored 25 total touchdowns and led Division 3 with 154 points. He closed the season with three rushing touchdowns and a 25-yard touchdown catch in a 39–32 Thanksgiving loss at Peabody. Justin Winn broke the rushing touchdown record with 22 in 2014. The Item reports 2,452 all-purpose yards and the Globe reports 2,453. On defense, he had 52 tackles, eight sacks and three interceptions, returning one for a touchdown. The Globe credited him with 2,891 rushing yards, 4,653 all-purpose yards and 41 touchdowns over his Saugus career. He was named South MVP in the 1999 Agganis All-Star game.\n\nAt Curry College from 2000 through 2003, Zammit rushed for 4,353 career yards and 44 touchdowns. He earned second-team all-conference honors in 2000 and 2001, then first-team honors and conference Offensive Player of the Year in 2002 and 2003. As a junior in 2002, he was named a third-team running back on the Hewlett Packard Division III All-America team. Curry’s records also list third-team All-America honors in 2003. He rushed for 1,479 yards in 2002 and 1,587 in 2003.\n\nRaphael Zammit represented Saugus in the 1999 Shriners Football Classic.",
       "sources": [
         {
           "label": "Daily Evening Item · 1998 senior profile",
