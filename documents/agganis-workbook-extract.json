@@ -1,7 +1,7 @@
 {
   "source": "Saugus Sachems Football History(1).xlsx",
   "sheet": "Season Records",
-  "note": "Fall season rows. Summer All-Star game selections are displayed under the following calendar year in Honors. Original contributor spellings are preserved in this source extract.",
+  "note": "Fall season rows. Summer All-Star game selections are displayed under the following calendar year in Honors. Original contributor spellings are preserved in this source extract. The 2003 season row incorporates a contributor correction to its awards list.",
   "rows": [
     {
       "row": 93,
@@ -107,7 +107,7 @@
         "C111": "3 - 8",
         "D111": "Northeastern Conference",
         "F111": "Mark Spadafora, Anthony \"Beave\" Barbanti, Chris Benson, Mike Nicolo",
-        "G111": "Mike Nicolo - NEC, Lynn Item \nAnthony Barbanti - NEC, Lynn Item, Shriners, Agganis \nChris Benson - Agganis\nMark Spadafora - NEC and Agganis",
+        "G111": "Mike Nicolo - NEC, Lynn Item \nAnthony Barbanti - NEC, Lynn Item, Shriners, Agganis \nMark Spadafora - NEC and Agganis",
         "H111": "Sachems"
       }
     },
