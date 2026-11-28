@@ -1,6 +1,16 @@
 {
   "honors": [
     {
+      "year": 1933,
+      "name": "Vincent Pendleton",
+      "position": "Back",
+      "publisher": "Boston Globe",
+      "award": "Consensus All-Scholastic balloting · 1 vote",
+      "sourceLabel": "Boston Globe · 1933 consensus ballot clipping",
+      "sourceUrl": "documents/1933-globe-consensus-ballot.webp",
+      "sourceNote": "Listed as Pendleton of Saugus in the backs vote totals."
+    },
+    {
       "year": 1935,
       "name": "Gerard Brazis",
       "position": "End",
@@ -3727,6 +3737,20 @@
     }
   ],
   "alumni": [
+    {
+      "name": "Vincent Pendleton",
+      "position": "Back",
+      "era": "1933",
+      "sortYear": 1933,
+      "bio": "Vincent Pendleton played in the backfield for Albion Rice’s 1933 Saugus High team. He received one vote among the backs in the Boston Globe’s consensus All-Scholastic balloting that season.",
+      "source": "1933 Saugus season archive and Boston Globe consensus ballot.",
+      "sources": [
+        {
+          "label": "Boston Globe · 1933 consensus ballot clipping",
+          "url": "documents/1933-globe-consensus-ballot.webp"
+        }
+      ]
+    },
     {
       "name": "Gerard Brazis",
       "position": "End",
